@@ -3,4 +3,38190 @@ title: 'Tulokset'
 path: 'tulokset'
 ---
 
-Tän sisällön siirtäminen vanhalta nettisivulta on työmaa, khyl se silti pian
+**Vuodet**
+
+[2025](#2025) [2024](#2024) [2023](#2023) [2022](#2022) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016) [2015](#2015) [2014](#2014) [2013](#2013) [2012](#2012) [2011](#2011) [2010](#2010) [2009](#2009) [2008](#2008) [2007](#2007) [2006](#2006) [2005](#2005) [2004](#2004) [2003](#2003) [2002](#2002) [2001](#2001) [2000](#2000) [1999](#1999) [1998](#1998) [1997](#1997) [1996](#1996) [1995](#1995) [1994](#1994) [1993](#1993)
+
+---
+
+<a id="2025"></a>
+## Vuoden 2025 tuloksia
+
+<a id="tampereen-turnaus-2025"></a>
+### Tampereen turnaus 2025
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>Sonneborn-Berger</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dao Hiep </td>
+<td class="grey_bkg"></td>
+<td>1,0</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>0,5</td>
+<td>1,0</td>
+<td></td>
+<td>4,5</td>
+<td>0,0</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Duong Gia Duy (Harry) </td>
+<td>0,0</td>
+<td class="grey_bkg"></td>
+<td>1,0</td>
+<td></td>
+<td>1,0</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>4,0</td>
+<td>0,0</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jukka Tuovinen</td>
+<td>0,0</td>
+<td>0,0</td>
+<td class="grey_bkg"></td>
+<td></td>
+<td>1,0</td>
+<td></td>
+<td>1,0</td>
+<td>2,5</td>
+<td>0,0</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jiang Ming (Brian) </td>
+<td>0,0</td>
+<td></td>
+<td></td>
+<td class="grey_bkg"></td>
+<td>0,0</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>2,5</td>
+<td>0,0</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Olavi Stenman</td>
+<td>0,5</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>1,0</td>
+<td class="grey_bkg"></td>
+<td></td>
+<td></td>
+<td>2,0</td>
+<td>0,0</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0,0</td>
+<td>0,0</td>
+<td></td>
+<td>0,0</td>
+<td></td>
+<td class="grey_bkg"></td>
+<td>1,0</td>
+<td>1,5</td>
+<td>0,0</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Luca Ferranti </td>
+<td></td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td></td>
+<td>0,0</td>
+<td class="grey_bkg"></td>
+<td>0,5</td>
+<td>0,0</td>
+<td>0,00</td>
+</tr>
+</tbody>
+</table>
+
+<p> Ristiinviittaus-taulukko </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<thead>
+<tr>
+<th>Numero</th>
+<th>Id</th>
+<th>#</th>
+<th>Sija</th>
+<th>Nimi</th>
+<th>Pisteet</th>
+<th>Rating</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>6</td>
+<td>1</td>
+<td>1</td>
+<td>Dao Hiep</td>
+<td>4.5</td>
+<td>0</td>
+<td>+W2</td>
+<td>+B6</td>
+<td>+B3</td>
+<td>+W4</td>
+<td>=W5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>Duong Gia Duy</td>
+<td>4</td>
+<td>1692</td>
+<td>-B1</td>
+<td>+W7</td>
+<td>+B5</td>
+<td>+W3</td>
+<td>+W6</td>
+</tr>
+<tr>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>Jukka Tuovinen</td>
+<td>2.5</td>
+<td>1552</td>
+<td>+W7</td>
+<td>+B5</td>
+<td>-W1</td>
+<td>-B2</td>
+<td>=</td>
+</tr>
+<tr>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+<td>Jiang Ming</td>
+<td>2.5</td>
+<td>1916</td>
+<td>-W5</td>
+<td>=</td>
+<td>+B6</td>
+<td>-B1</td>
+<td>+W7</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>Olavi Stenman</td>
+<td>2</td>
+<td>1643</td>
+<td>+B4</td>
+<td>-W3</td>
+<td>-W2</td>
+<td>=</td>
+<td>=B1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>8</td>
+<td>6</td>
+<td>6</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>1.5</td>
+<td>0</td>
+<td>=</td>
+<td>-W1</td>
+<td>-W4</td>
+<td>+B7</td>
+<td>-B2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>Luca Ferranti</td>
+<td>0.5</td>
+<td>0</td>
+<td>-B3</td>
+<td>-B2</td>
+<td>=</td>
+<td>-W6</td>
+<td>-B4</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="SM-kisat_2025"></a>
+### Tuloksia SM-kisoista 5.-6.7.2025:
+
+<p> Peliaika on 45 minuuttia per pelaaja ja 10 sekuntia per siirto.</p>
+
+<p> Kisapaikka: Hiomotie 10, Helsinki (Shakkiareena) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td> 
+<td>Nimi</td> 
+<td>1</td> 
+<td>2</td> 
+<td>3</td> 
+<td>4</td> 
+<td>5</td> 
+<td>6</td> 
+<td>7</td> 
+<td>8</td> 
+<td>9</td> 
+<td>10</td> 
+<td>Pisteet</td> 
+<td>Buchholz</td> 
+<td>Sonneborn‑Berger</td> 
+</tr>
+<tr>
+<td>1</td> 
+<td>Jiang Ming</td> 
+<td class="grey_bkg">&nbsp;</td> 
+<td>1,0</td> 
+<td>1,0</td> 
+<td>1,0</td> 
+<td>0,0</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>4,0</td> 
+<td>15,0</td> 
+<td>12,00</td> 
+</tr>
+<tr>
+<td>2</td> 
+<td>Jouni R&auml;m&ouml;</td> 
+<td>0,0</td> 
+<td class="grey_bkg">&nbsp;</td> 
+<td>1,0</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>1,0</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>4,0</td> 
+<td>13,5</td> 
+<td>9,50</td> 
+</tr>
+<tr>
+<td>3</td> 
+<td>Mikko T&ouml;rnqvist</td> 
+<td>0,0</td> 
+<td>0,0</td> 
+<td class="grey_bkg">&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>1,0</td> 
+<td>1,0</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>3,0</td> 
+<td>15,0</td> 
+<td>7,00</td> 
+</tr>
+<tr>
+<td>4</td> 
+<td>Olavi Stenman</td> 
+<td>0,0</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td class="grey_bkg">&nbsp;</td> 
+<td>1,0</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>3,0</td> 
+<td>14,5</td> 
+<td>6,50</td> 
+</tr>
+<tr>
+<td>5</td> 
+<td>Gia Duy Duong</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>0,0</td> 
+<td class="grey_bkg">&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>1,0</td> 
+<td>3,0</td> 
+<td>12,0</td> 
+<td>6,00</td> 
+</tr>
+<tr>
+<td>6</td> 
+<td>Petri Haikola</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td class="grey_bkg">&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>1,0</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>2,0</td> 
+<td>13,0</td> 
+<td>3,00</td> 
+</tr>
+<tr>
+<td>7</td> 
+<td>Jukka Tuovinen</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td class="grey_bkg">0.5</td> 
+<td>0,5</td> 
+<td>&nbsp;</td> 
+<td>1,0</td> 
+<td>2,0</td> 
+<td>11,0</td> 
+<td>2,25</td> 
+</tr>
+<tr>
+<td>8</td> 
+<td>Iiro Kumpulainen</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>0,0</td> 
+<td>0,5</td> 
+<td class="grey_bkg">&nbsp;</td> 
+<td>1,0</td> 
+<td>&nbsp;</td> 
+<td>1,5</td> 
+<td>12,5</td> 
+<td>2,50</td> 
+</tr>
+<tr>
+<td>9</td> 
+<td>Tran Minh Duc</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td class="grey_bkg">0,5</td> 
+<td>0,5</td> 
+<td>1,0</td> 
+<td>8,5</td> 
+<td>1,00</td> 
+</tr>
+<tr>
+<td>10</td> 
+<td>Sami Muhonen</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td>0,0</td> 
+<td>&nbsp;</td> 
+<td>0,5</td> 
+<td class="grey_bkg">&nbsp;</td> 
+<td>0,5</td> 
+<td>7,5</td> 
+<td>1,25</td> 
+</tr>
+</tbody>
+</table>
+
+<p>Tulokset kierroksittain:</p>
+
+<p>1. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr><td>Olavi Stenman</td><td>-</td><td>Jiang Ming</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Mikko T&ouml;rnqvist</td><td>-</td><td>Jukka Tuovinen</td><td>1</td><td>-</td><td>0</td></tr>
+<tr><td>Tran Minh Duc</td><td>-</td><td>Petri Haikola</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Jouni R&auml;m&ouml;</td><td>-</td><td>Iiro Kumpulainen</td><td>1</td><td>-</td><td>0</td></tr>
+<tr><td>Sami Muhonen</td><td>-</td><td>Gia Duy Duong</td><td>0</td><td>-</td><td>1</td></tr>
+</tbody>
+</table>
+
+<p>2. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr><td>Jiang Ming</td><td>-</td><td>Jouni R&auml;m&ouml;</td><td>1</td><td>-</td><td>0</td></tr>
+<tr><td>Petri Haikola</td><td>-</td><td>Mikko T&ouml;rnqvist</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Gia Duy Duong</td><td>-</td><td>Olavi Stenman</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Jukka Tuovinen</td><td>-</td><td>Sami Muhonen</td><td>1</td><td>-</td><td>0</td></tr>
+<tr><td>Iiro Kumpulainen</td><td>-</td><td>Tran Minh Duc</td><td>1</td><td>-</td><td>0</td></tr>
+</tbody>
+</table>
+
+<p>3. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr><td>Mikko T&ouml;rnqvist</td><td>-</td><td>Jiang Ming</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Olavi Stenman</td><td>-</td><td>Petri Haikola</td><td>1</td><td>-</td><td>0</td></tr>
+<tr><td>Jouni R&auml;m&ouml;</td><td>-</td><td>Jukka Tuovinen</td><td>1</td><td>-</td><td>0</td></tr>
+<tr><td>Iiro Kumpulainen</td><td>-</td><td>Gia Duy Duong</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Tran Minh Duc</td><td>-</td><td>Sami Muhonen</td><td>&frac12;</td><td>-</td><td>&frac12;</td></tr>
+</tbody>
+</table>
+
+<p>4. kierros</p>
+
+<p>Sami Muhonen oli flunssassa, eik&auml; pelannut 2. pelip&auml;iv&auml;n&auml;. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr><td>Jiang Ming</td><td>-</td><td>Gia Duy Duong</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Jouni R&auml;m&ouml;</td><td>-</td><td>Mikko T&ouml;rnqvist</td><td>1</td><td>-</td><td>0</td></tr>
+<tr><td>Tran Minh Duc</td><td>-</td><td>Olavi Stenman</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Petri Haikola</td><td>-</td><td>Iiro Kumpulainen</td><td>1</td><td>-</td><td>0</td></tr>
+</tbody>
+</table>
+
+<p>5. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr><td>Olavi Stenman</td><td>-</td><td>Jouni R&auml;m&ouml;</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Petri Haikola</td><td>-</td><td>Jiang Ming</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Gia Duy Duong</td><td>-</td><td>Mikko T&ouml;rnqvist</td><td>0</td><td>-</td><td>1</td></tr>
+<tr><td>Jukka Tuovinen</td><td>-</td><td>Iiro Kumpulainen</td><td>&frac12;</td><td>-</td><td>&frac12;</td></tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista: </p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jiang Ming</td>
+<td>114-4</td>
+<td>4 /5</td>
+<td>139</td>
+<td>4</td>
+<td>109</td>
+<td>112-5</td>
+<td>1916</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>140-97</td>
+<td>4 /5</td>
+<td>147</td>
+<td>3</td>
+<td>117</td>
+<td>137-98</td>
+<td>1741</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>127-82</td>
+<td>3 /5</td>
+<td>138</td>
+<td>3</td>
+<td>128</td>
+<td>127-83</td>
+<td>1811</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Olavi Stenman</td>
+<td>154-93</td>
+<td>3 /5</td>
+<td>146</td>
+<td>2</td>
+<td>136</td>
+<td>151-94</td>
+<td>1643</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Gia Duy Duong</td>
+<td>145-2</td>
+<td>3 /5</td>
+<td>153</td>
+<td>3</td>
+<td>143</td>
+<td>144-3</td>
+<td>1692</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Petri Haikola</td>
+<td>129-33</td>
+<td>2 /5</td>
+<td>150</td>
+<td>3&frac12;</td>
+<td>160</td>
+<td>133-34</td>
+<td>1769</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Jukka Tuovinen</td>
+<td>163-62</td>
+<td>1&frac12;/4</td>
+<td>159</td>
+<td>2</td>
+<td>171</td>
+<td>164-63</td>
+<td>1552</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Iiro Kumpulainen</td>
+<td>----</td>
+<td>1&frac12;/5</td>
+<td>157</td>
+<td></td>
+<td>177</td>
+<td>177-1</td>
+<td>1461</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Tran Minh Duc</td>
+<td>----</td>
+<td>&frac12;/4</td>
+<td>172</td>
+<td></td>
+<td>210</td>
+<td>210-1</td>
+<td>1230</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Sami Muhonen</td>
+<td>191-2</td>
+<td>&frac12;/3</td>
+<td>173</td>
+<td>1</td>
+<td>206</td>
+<td>193-3</td>
+<td>1349</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+<p>Kuvia kisoista</p>
+
+---
+
+<a id="2024"></a>
+## Vuoden 2024 tuloksia
+
+<a id="Joulu-2024"></a>
+### Tuloksia jouluturnauksesta 8.12.2024
+
+<p> Peliaika on 30 minuuttia per pelaaja.</p>
+
+<p> Kisapaikka: Sunny Bay -ravintola, Helsinki</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<thead>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Do Minh</td>
+<td class="grey_bkg">&times;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Petri Haikola</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&times;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,5</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&times;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,5</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Evie Kho</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&times;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1,5</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Jukka Tuovinen</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&times;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>5,5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&times;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1,0</td>
+<td>5,5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Guycuong Li</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&times;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Sami Muhonen</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&times;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Dao Hiep</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&times;</td>
+<td>0,0</td>
+</tr>
+</tbody>
+</table>
+
+<p> Dao Hiep oli ilmoittautunut kisoihin, mutta ei saapunut paikalle. 1. kierroksella on kuitenkin kirjattu Olavi Stenmanille
+  luovutusvoitto h&auml;nt&auml; vastaan. Sami Muhonen aloitti kisan 2. kierrokselta.
+</p>
+
+---
+
+<a id="2024_Chengdu_Tandem"></a>
+### 2024 Chengdun tandem-kisan (“一带一路”锦江·四川航空熊猫之路杯2024年第七届成都全球象棋双人赛) tulokset:
+
+<p> Tapahtuman ajankohta: 28. marraskuuta - 1. joulukuuta 2024 </p>
+
+<p> Paikka: Chengdu, Kiina </p>
+
+<p> Kyseess&auml; on kansainv&auml;linen tandem-turnaus, jossa pelataan pareittain. Ensin pelasi punaisen puolen 1. pelaaja, sitten mustan 1. pelaaja, 
+  sitten punaisen 2. pelaaja ja lopuksi mustan 2. pelaaja. N&auml;m&auml; nelj&auml; henkil&ouml;&auml; pelasivat siis saman pelilaudan &auml;&auml;ress&auml;. </p>
+
+<p> Sijoitukset pareittain: </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>1. pelaaja</td>
+<td>2. pelaaja</td>
+<td>Maa</td>
+<td>Pisteet</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Liu Huan (刘欢)</td>
+<td>Nguyen Minh Nhat Quang (阮明日光)</td>
+<td>Kiina / Vietnam</td>
+<td>11</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nguyen Hoang Yen (阮黄燕)</td>
+<td>Meng Fanrui (孟繁睿)</td>
+<td>Vietnam / Kiina</td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Dang Guolei (党国蕾)</td>
+<td>Wong Hok Him (黄学谦)</td>
+<td>Kiina / Hongkong</td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Lam Ka Yan (林嘉欣)</td>
+<td>Liu Baihong (刘柏宏)</td>
+<td>Hongkong / Kiina</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tang Dan (唐丹)</td>
+<td>Joep Nabuurs</td>
+<td>Kiina / Saksa</td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Wang Wenjun (王文君)</td>
+<td>Yuki Sasaki (佐佐木雄希)</td>
+<td>Kiina / Malesia</td>
+<td>8</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Liang Yanting (梁妍婷)</td>
+<td>Kam Kin Hei (甘建希)</td>
+<td>Kiina / Macao</td>
+<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Chen Lichun (陈丽淳)</td>
+<td>Kayrel Nielhan Bin (嘉涵)</td>
+<td>Kiina / It&auml;-Malesia</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Li Qin (李沁)</td>
+<td>Liu An-Sheng (刘安生)</td>
+<td>Kiina / Taiwan</td>
+<td>8</td>
+<td>9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Lin Yu-Hsuan (林祐萱)</td>
+<td>Yang Shizhe (杨世哲)</td>
+<td>Taiwan / Kiina</td>
+<td>8</td>
+<td>10</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Wang Linna (王琳娜)</td>
+<td>T&ouml;rnqvist Mikko (邓明高)</td>
+<td>Kiina / Suomi</td>
+<td>7</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Li Kevin (李凯雯)</td>
+<td>Mo Zijian (莫梓健)</td>
+<td>Macao / Kiina</td>
+<td>6</td>
+<td>12</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Zhang Guofeng (张国凤)</td>
+<td>Myint Sein (蒋庆民)</td>
+<td>Kiina / Myanmar</td>
+<td>5</td>
+<td>13</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Yu Siyuan (玉思源)</td>
+<td>Rendi Nur Alam (奴阿兰)</td>
+<td>Kiina / Indonesia</td>
+<td>4</td>
+<td>14</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Chen Xinglin (陈幸琳)</td>
+<td>Adithya Prasad (爱迪牙巴莎)</td>
+<td>Kiina / Singapore</td>
+<td>3</td>
+<td>15</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Lang Qiqi (郎祺琪)</td>
+<td>Trombettoni Andrea (特隆贝托尼)</td>
+<td>Kiina / Italia</td>
+<td>1</td>
+<td>16</td>
+</tr>
+</tbody>
+</table>
+
+<p> Kierroskohtaiset pelit: <br/>
+ K1V = kierroksen 1 vastustaja, K1P = yhteenlasketut pisteet kierroksen 1 j&auml;lkeen </p>
+
+<table border="1" cellpadding="3" cellspacing="2" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 5%; font-weight: bold;">#</td>
+<td style="width: 15%;">Pelaajat</td>
+<td style="width: 5%; font-weight: bold;">K1V</td>
+<td style="width: 5%;">K1P</td>
+<td style="width: 5%; font-weight: bold;">K2V</td>
+<td style="width: 5%;">K2P</td>
+<td style="width: 5%; font-weight: bold;">K3V</td>
+<td style="width: 5%;">K3P</td>
+<td style="width: 5%; font-weight: bold;">K4V</td>
+<td style="width: 5%;">K4P</td>
+<td style="width: 5%; font-weight: bold;">K5V</td>
+<td style="width: 5%;">K5P</td>
+<td style="width: 5%; font-weight: bold;">K6V</td>
+<td style="width: 5%;">K6P</td>
+<td style="width: 5%; font-weight: bold;">K7V</td>
+<td style="width: 5%;">K7P</td>
+<td style="width: 8%;">Yht.</td>
+<td style="width: 8%;">Sij.</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">5</td>
+<td>Liu Huan (刘欢) / Nguyen Minh Nhat Quang (阮明日光)</td>
+<td style="font-weight: bold;">6</td>
+<td>2</td>
+<td style="font-weight: bold;">9</td>
+<td>3</td>
+<td style="font-weight: bold;">15</td>
+<td>4</td>
+<td style="font-weight: bold;">14</td>
+<td>6</td>
+<td style="font-weight: bold;">13</td>
+<td>7</td>
+<td style="font-weight: bold;">3</td>
+<td>9</td>
+<td style="font-weight: bold;">13</td>
+<td>11</td>
+<td>11</td>
+<td>1</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">13</td>
+<td>Nguyen Hoang Yen (阮黄燕) / Meng Fanrui (孟繁睿)</td>
+<td style="font-weight: bold;">14</td>
+<td>2</td>
+<td style="font-weight: bold;">15</td>
+<td>3</td>
+<td style="font-weight: bold;">3</td>
+<td>4</td>
+<td style="font-weight: bold;">7</td>
+<td>6</td>
+<td style="font-weight: bold;">5</td>
+<td>7</td>
+<td style="font-weight: bold;">9</td>
+<td>8</td>
+<td style="font-weight: bold;">5</td>
+<td>8</td>
+<td>8</td>
+<td>2</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">9</td>
+<td>Dang Guolei (党国蕾) / Wong Hok Him (黄学谦)</td>
+<td style="font-weight: bold;">10</td>
+<td>2</td>
+<td style="font-weight: bold;">5</td>
+<td>3</td>
+<td style="font-weight: bold;">12</td>
+<td>5</td>
+<td style="font-weight: bold;">15</td>
+<td>6</td>
+<td style="font-weight: bold;">3</td>
+<td>7</td>
+<td style="font-weight: bold;">13</td>
+<td>8</td>
+<td style="font-weight: bold;">2</td>
+<td>9</td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">7</td>
+<td>Lam Ka Yan (林嘉欣) / Liu Baihong (刘柏宏)</td>
+<td style="font-weight: bold;">8</td>
+<td>2</td>
+<td style="font-weight: bold;">12</td>
+<td>2</td>
+<td style="font-weight: bold;">4</td>
+<td>4</td>
+<td style="font-weight: bold;">13</td>
+<td>4</td>
+<td style="font-weight: bold;">6</td>
+<td>6</td>
+<td style="font-weight: bold;">15</td>
+<td>8</td>
+<td style="font-weight: bold;">1</td>
+<td>9</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1</td>
+<td>Tang Dan (唐丹) / Joep Nabuurs</td>
+<td style="font-weight: bold;">2</td>
+<td>1</td>
+<td style="font-weight: bold;">3</td>
+<td>1</td>
+<td style="font-weight: bold;">10</td>
+<td>3</td>
+<td style="font-weight: bold;">8</td>
+<td>4</td>
+<td style="font-weight: bold;">4</td>
+<td>6</td>
+<td style="font-weight: bold;">12</td>
+<td>8</td>
+<td style="font-weight: bold;">7</td>
+<td>9</td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">3</td>
+<td>Wang Wenjun (王文君) / Yuki Sasaki (佐佐木雄希)</td>
+<td style="font-weight: bold;">4</td>
+<td>1</td>
+<td style="font-weight: bold;">1</td>
+<td>3</td>
+<td style="font-weight: bold;">13</td>
+<td>4</td>
+<td style="font-weight: bold;">12</td>
+<td>6</td>
+<td style="font-weight: bold;">9</td>
+<td>7</td>
+<td style="font-weight: bold;">5</td>
+<td>7</td>
+<td style="font-weight: bold;">15</td>
+<td>8</td>
+<td>11</td>
+<td>6</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">15</td>
+<td>Liang Yanting (梁妍婷) / Kam Kin Hei (甘建希)</td>
+<td style="font-weight: bold;">16</td>
+<td>2</td>
+<td style="font-weight: bold;">13</td>
+<td>3</td>
+<td style="font-weight: bold;">5</td>
+<td>4</td>
+<td style="font-weight: bold;">9</td>
+<td>5</td>
+<td style="font-weight: bold;">2</td>
+<td>7</td>
+<td style="font-weight: bold;">7</td>
+<td>7</td>
+<td style="font-weight: bold;">3</td>
+<td>8</td>
+<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">2</td>
+<td>Chen Lichun (陈丽淳) / Kayrel Nielhan Bin (嘉涵)</td>
+<td>1</td>
+<td>1</td>
+<td style="font-weight: bold;">4</td>
+<td>2</td>
+<td style="font-weight: bold;">8</td>
+<td>3</td>
+<td style="font-weight: bold;">11</td>
+<td>5</td>
+<td style="font-weight: bold;">15</td>
+<td>5</td>
+<td style="font-weight: bold;">14</td>
+<td>7</td>
+<td style="font-weight: bold;">9</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">12</td>
+<td>Li Qin (李沁) / Liu An-Sheng (刘安生)</td>
+<td style="font-weight: bold;">11</td>
+<td>2</td>
+<td style="font-weight: bold;">7</td>
+<td>4</td>
+<td style="font-weight: bold;">9</td>
+<td>4</td>
+<td style="font-weight: bold;">3</td>
+<td>4</td>
+<td style="font-weight: bold;">8</td>
+<td>6</td>
+<td style="font-weight: bold;">1</td>
+<td>6</td>
+<td style="font-weight: bold;">16</td>
+<td>8</td>
+<td>7</td>
+<td>9</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">4</td>
+<td>Lin Yu-Hsuan (林祐萱) / Yang Shizhe (杨世哲)</td>
+<td style="font-weight: bold;">3</td>
+<td>1</td>
+<td style="font-weight: bold;">2</td>
+<td>2</td>
+<td style="font-weight: bold;">7</td>
+<td>2</td>
+<td style="font-weight: bold;">10</td>
+<td>4</td>
+<td style="font-weight: bold;">1</td>
+<td>4</td>
+<td style="font-weight: bold;">6</td>
+<td>6</td>
+<td style="font-weight: bold;">8</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">14</td>
+<td>Wang Linna (王琳娜) / T&ouml;rnqvist Mikko (邓明高)</td>
+<td style="font-weight: bold;">13</td>
+<td>0</td>
+<td style="font-weight: bold;">16</td>
+<td>1</td>
+<td style="font-weight: bold;">6</td>
+<td>3</td>
+<td style="font-weight: bold;">5</td>
+<td>3</td>
+<td style="font-weight: bold;">11</td>
+<td>5</td>
+<td style="font-weight: bold;">2</td>
+<td>5</td>
+<td style="font-weight: bold;">10</td>
+<td>7</td>
+<td>7</td>
+<td>11</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">8</td>
+<td>Li Kevin (李凯雯) / Mo Zijian (莫梓健)</td>
+<td style="font-weight: bold;">7</td>
+<td>0</td>
+<td style="font-weight: bold;">11</td>
+<td>2</td>
+<td style="font-weight: bold;">2</td>
+<td>3</td>
+<td style="font-weight: bold;">1</td>
+<td>4</td>
+<td style="font-weight: bold;">12</td>
+<td>4</td>
+<td style="font-weight: bold;">16</td>
+<td>6</td>
+<td>4</td>
+<td>6</td>
+<td>6</td>
+<td>12</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">6</td>
+<td>Yu Siyuan (玉思源) / Rendi Nur Alam (奴阿兰)</td>
+<td style="font-weight: bold;">5</td>
+<td>0</td>
+<td style="font-weight: bold;">10</td>
+<td>1</td>
+<td style="font-weight: bold;">14</td>
+<td>1</td>
+<td style="font-weight: bold;">16</td>
+<td>3</td>
+<td style="font-weight: bold;">7</td>
+<td>3</td>
+<td style="font-weight: bold;">11</td>
+<td>4</td>
+<td style="font-weight: bold;">12</td>
+<td>14</td>
+<td>7</td>
+<td>15</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">10</td>
+<td>Chen Xinglin (陈幸琳) / Adithya Prasad (爱迪牙巴莎)</td>
+<td style="font-weight: bold;">9</td>
+<td>0</td>
+<td style="font-weight: bold;">6</td>
+<td>1</td>
+<td style="font-weight: bold;">1</td>
+<td>1</td>
+<td style="font-weight: bold;">4</td>
+<td>1</td>
+<td style="font-weight: bold;">16</td>
+<td>3</td>
+<td style="font-weight: bold;">11</td>
+<td>3</td>
+<td style="font-weight: bold;">14</td>
+<td>15</td>
+<td>6</td>
+<td>16</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">16</td>
+<td>Lang Qiqi (郎祺琪) / Trombettoni Andrea (特隆贝托尼)</td>
+<td style="font-weight: bold;">15</td>
+<td>0</td>
+<td style="font-weight: bold;">14</td>
+<td>1</td>
+<td style="font-weight: bold;">11</td>
+<td>1</td>
+<td style="font-weight: bold;">6</td>
+<td>1</td>
+<td style="font-weight: bold;">8</td>
+<td>1</td>
+<td style="font-weight: bold;">10</td>
+<td>1</td>
+<td style="font-weight: bold;">12</td>
+<td>16</td>
+<td>4</td>
+<td>17</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="SM-kisat_2024"></a>
+### Tuloksia SM-kisoista 21.-22.9.2024:
+
+<p> Peliaika on 45 minuuttia per pelaaja ja 15 sekuntia per siirto.</p>
+
+<p> Kisapaikka: Hiomotie 10, Helsinki (Shakkiareena) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>Sonneborn-Berger</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Karsten Hoffarth</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,5</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4,0</td>
+<td>14,00</td>
+<td>11,25</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Michael N&auml;gler</td>
+<td>0,5</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,5</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,5</td>
+<td>16,00</td>
+<td>10,75</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jiang Ming</td>
+<td>0,0</td>
+<td>0,5</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>3,5</td>
+<td>13,50</td>
+<td>7,75</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>0,5</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,5</td>
+<td>12,50</td>
+<td>8,00</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Petri Haikola</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>3,0</td>
+<td>13,50</td>
+<td>6,00</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Fabian Fichter</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>13,00</td>
+<td>7,25</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Uwe Frischmuth</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>0,0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>11,00</td>
+<td>5,00</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Gia Duy Duong</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>3,0</td>
+<td>8,00</td>
+<td>2,75</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,0</td>
+<td>15,50</td>
+<td>5,00</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Quycuong Li</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,0</td>
+<td>15,00</td>
+<td>4,75</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Olavi Stenman</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>2,0</td>
+<td>11,00</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Inga N&auml;gler</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>1,5</td>
+<td>10,00</td>
+<td>1,50</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Jukka Tuovinen</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>11,50</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Arto Vaara</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>0,0</td>
+<td>0,0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,0</td>
+<td>10,50</td>
+<td>0,00</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista: </p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Karsten Hoffarth</td>
+<td>111-132</td>
+<td>4 /5</td>
+<td>133</td>
+<td>3&frac12;</td>
+<td>103</td>
+<td>110-133</td>
+<td>1930</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Michael N&auml;gler</td>
+<td>122-171</td>
+<td>3&frac12;/5</td>
+<td>130</td>
+<td>3</td>
+<td>110</td>
+<td>120-172</td>
+<td>1860</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jiang Ming</td>
+<td>114-3</td>
+<td>3&frac12;/5</td>
+<td>133</td>
+<td>3&frac12;</td>
+<td>113</td>
+<td>114-4</td>
+<td>1902</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>127-81</td>
+<td>3&frac12;/5</td>
+<td>144</td>
+<td>3&frac12;</td>
+<td>124</td>
+<td>127-82</td>
+<td>1811</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Petri Haikola</td>
+<td>130-32</td>
+<td>3 /5</td>
+<td>133</td>
+<td>2&frac12;</td>
+<td>123</td>
+<td>129-33</td>
+<td>1797</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Fabian Fichter</td>
+<td>141-8</td>
+<td>3 /5</td>
+<td>142</td>
+<td>2&frac12;</td>
+<td>132</td>
+<td>139-9</td>
+<td>1727</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Uwe Frischmuth</td>
+<td>128-102</td>
+<td>3 /5</td>
+<td>150</td>
+<td>3&frac12;</td>
+<td>140</td>
+<td>130-103</td>
+<td>1790</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Gia Duy Duong</td>
+<td>142-1</td>
+<td>3 /5</td>
+<td>162</td>
+<td>3&frac12;</td>
+<td>152</td>
+<td>145-2</td>
+<td>1685</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>139-96</td>
+<td>2 /5</td>
+<td>136</td>
+<td>2&frac12;</td>
+<td>146</td>
+<td>140-97</td>
+<td>1720</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Quycuong Li</td>
+<td>162-16</td>
+<td>2 /5</td>
+<td>141</td>
+<td>1&frac12;</td>
+<td>151</td>
+<td>160-17</td>
+<td>1580</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Olavi Stenman</td>
+<td>155-92</td>
+<td>2 /5</td>
+<td>141</td>
+<td>2</td>
+<td>151</td>
+<td>154-93</td>
+<td>1622</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Inga N&auml;gler</td>
+<td>196-9</td>
+<td>1&frac12;/5</td>
+<td>154</td>
+<td>&frac12;</td>
+<td>174</td>
+<td>192-10</td>
+<td>1356</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Jukka Tuovinen</td>
+<td>161-61</td>
+<td>1 /5</td>
+<td>142</td>
+<td>1&frac12;</td>
+<td>172</td>
+<td>163-62</td>
+<td>1559</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Arto Vaara</td>
+<td>169-55</td>
+<td>0 /5</td>
+<td>157</td>
+<td>2</td>
+<td>207</td>
+<td>174-56</td>
+<td>1482</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+<p>Kuvia kisoista</p>
+
+---
+
+<a id="2023"></a>
+## Vuoden 2023 tuloksia
+
+<a id="Joulu-2023"></a>
+### Tuloksia jouluturnauksesta 2.12.2023
+
+<p> Peliaika on 30 minuuttia per pelaaja.</p>
+
+<p> Kisapaikka: Sunny Bay -ravintola, Helsinki</p>
+
+<table border="1" cellpadding="3" cellspacing="2" width="80%">
+<thead>
+<tr><th>#</th>
+<th>Nimi</th>
+<th style="text-align: center;" width="5%">1</th>
+<th style="text-align: center;" width="5%">2</th>
+<th style="text-align: center;" width="5%">3</th>
+<th style="text-align: center;" width="5%">4</th>
+<th style="text-align: center;" width="5%">5</th>
+<th style="text-align: center;" width="5%">6</th>
+<th>Pisteet</th>
+<th>Buchholz</th>
+<th>Sonneborn-Berger</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Tornqvist, Mikko</td>
+<td class="silver_bkg" style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td>3.0</td>
+<td>3.0</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Duong, Gia Duy</td>
+<td style="text-align: center;">0</td>
+<td class="silver_bkg" style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td>2.0</td>
+<td>5.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman, Olavi</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">0</td>
+<td class="silver_bkg" style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td>2.0</td>
+<td>4.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Vaara, Arto</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">0</td>
+<td class="silver_bkg" style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td>1.0</td>
+<td>6.0</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tuovinen, Jukka</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td class="silver_bkg" style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td>1.0</td>
+<td>3.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Rossi, Jorma</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">0</td>
+<td class="silver_bkg" style="text-align: center;">&nbsp;</td>
+<td>0.0</td>
+<td>6.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Tampere-2023"></a>
+### Tuloksia Tampereen avoimista 19.8.2023:
+
+<p> Peliaika on 30 minuuttia per pelaaja.</p>
+
+<p> Kisapaikka: yksityisasunto, Tampere.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<thead>
+<tr><th>#</th>
+<th>Nimi</th>
+<th align="center" width="5%">1</th>
+<th align="center" width="5%">2</th>
+<th align="center" width="5%">3</th>
+<th align="center" width="5%">4</th>
+<th align="center" width="5%">5</th>
+<th align="center" width="5%">6</th>
+<th align="center" width="5%">7</th>
+<th>Pisteet</th>
+<th>Buchholz</th>
+<th>Sonneborn-Berger</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Petri Haikola</td>
+<td class="silver_bkg" style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1/2</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td>3,50</td>
+<td>11,00</td>
+<td>9,50</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi Stenman</td>
+<td style="text-align: center;">0</td>
+<td class="silver_bkg">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td>3,00</td>
+<td>10,00</td>
+<td>6,50</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td style="text-align: center;">1/2</td>
+<td style="text-align: center;">&nbsp;</td>
+<td class="silver_bkg" style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td>2,50</td>
+<td>10,00</td>
+<td>5,75</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Li Quy Cuong</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">1</td>
+<td class="silver_bkg" style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td>2,00</td>
+<td>10,50</td>
+<td>3,50</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td class="silver_bkg" style="text-align: center;">1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">2,00</td>
+<td>9,00</td>
+<td>2,00</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Duong Gia Duy (Harry)</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td class="silver_bkg" style="text-align: center;">1</td>
+<td style="text-align: center;">1</td>
+<td>2,00</td>
+<td>8,50</td>
+<td>2,00</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Jukka Tuovinen</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">0</td>
+<td style="text-align: center;">0</td>
+<td class="silver_bkg" style="text-align: center;">1</td>
+<td>1,00</td>
+<td>8,00</td>
+<td>1,00</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="SM-kisat_2022"></a>
+### Tuloksia SM-kisoista 15.-16.7.2023:
+
+<p> Peliaika on 45 minuuttia per pelaaja ja 15 sekuntia per siirto.</p>
+
+<p> Kisapaikka: Helsinki,Shakkiareena (Hiomotie 10, Helsinki).</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>Sonneborn-Berger</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jiang, Ming (Brian)</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4,0</td>
+<td>15,00</td>
+<td>12,00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>4,0</td>
+<td>12,50</td>
+<td>8,50</td>
+</tr>
+<tr>
+<td>3</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>14,50</td>
+<td>6,50</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Haikola, Petri</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>14,00</td>
+<td>9,00</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Duong, Gia Duy (Harry)</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>12,50</td>
+<td>5,50</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Stenman, Olavi</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,0</td>
+<td>15,00</td>
+<td>5,00</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Li, Quycuong</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2,0</td>
+<td>12,50</td>
+<td>2,50</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Tuovinen, Jukka</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2,0</td>
+<td>8,50</td>
+<td>0,50</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Riskula, Tero</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">1</td>
+<td>1/2</td>
+<td>1,5</td>
+<td>10,50</td>
+<td>0,25</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Li, Visa</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>1/2</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,5</td>
+<td>5,50</td>
+<td>0,75</td>
+</tr>
+</tbody>
+</table>
+
+<p>Li, Visa ei pelannut koko turnausta. <br/>
+    Tuovinen, Jukka &amp; Riskula, Tero : vapaakierrokset
+  </p>
+
+<p> Lasketut INGO-luokitukset: </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<thead>
+<tr>
+<th>Nimi</th>
+<th>F-vanha</th>
+<th>Pisteet</th>
+<th>Taso</th>
+<th>Odotus</th>
+<th>H</th>
+<th>F-uusi</th>
+<th>(*ELO)</th>
+<th>kerroin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Jiang Ming (Brian)</td>
+<td>117-2</td>
+<td>4/5</td>
+<td>139</td>
+<td>3&frac34;</td>
+<td>109</td>
+<td>114-3</td>
+<td>(1902)</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>R&ouml; Jouni</td>
+<td>142-95</td>
+<td>4/5</td>
+<td>150</td>
+<td>3</td>
+<td>120</td>
+<td>139-96</td>
+<td>(1727)</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>T&ouml;nqvist Mikko</td>
+<td>126-80</td>
+<td>3/5</td>
+<td>145</td>
+<td>3&frac34;</td>
+<td>135</td>
+<td>127-81</td>
+<td>(1811)</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>Haikola Petri</td>
+<td>130-31</td>
+<td>3/5</td>
+<td>140</td>
+<td>3</td>
+<td>130</td>
+<td>130-32</td>
+<td>(1790)</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>Duong Gia Duy (Harry)</td>
+<td>----</td>
+<td>3/5</td>
+<td>152</td>
+<td></td>
+<td>142</td>
+<td>142-1</td>
+<td>(1706)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>Stenman Olavi</td>
+<td>155-91</td>
+<td>2/5</td>
+<td>142</td>
+<td>2</td>
+<td>152</td>
+<td>155-92</td>
+<td>(1615)</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>Li Quy Cuong</td>
+<td>161-15</td>
+<td>2/5</td>
+<td>155</td>
+<td>2</td>
+<td>165</td>
+<td>162-16</td>
+<td>(1566)</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>Tuovinen Jukka</td>
+<td>158-60</td>
+<td>1/4</td>
+<td>159</td>
+<td>2</td>
+<td>184</td>
+<td>161-61</td>
+<td>(1573)</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>Riskula Tero</td>
+<td>248-58</td>
+<td>&frac12;/4</td>
+<td>223</td>
+<td>1</td>
+<td>261</td>
+<td>249-59</td>
+<td>(957)</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>Li Visa</td>
+<td>299-1</td>
+<td>&frac12;/3</td>
+<td>249</td>
+<td>0</td>
+<td>282</td>
+<td>297-2</td>
+<td>(621)</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2022"></a>
+## Vuoden 2022 tuloksia
+
+<a id="tuloksia-jouluturnauksesta-17-12-2022"></a>
+### Tuloksia jouluturnauksesta 17.12.2022:
+
+<p> Peliaika oli 25 minuuttia per pelaaja.</p>
+
+<p> Kisapaikka: Helsinki,Shakkiareena (Hiomotie 10, Helsinki).</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody><tr>
+<td>Sija</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>Sonneborn-<br/>
+          Berger</td>
+<td>Tulos</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Ming Jiang</td>
+<td class="grey_bkg">X
+      </td><td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>3</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>1</td>
+<td class="grey_bkg">X
+      </td><td>0</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>4&frac12;</td>
+<td>2&frac12;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">X
+      </td><td>&frac12;</td>
+<td>1</td>
+<td>4</td>
+<td>2&frac12;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jukka Tuovinen</td>
+<td>0</td>
+<td>&frac12;</td>
+<td>&frac12;</td>
+<td class="grey_bkg">X
+      </td><td>0</td>
+<td>2&frac12;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Li Quycuong</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">X
+      </td><td>1</td>
+<td>1</td>
+</tr>
+</tbody></table>
+
+<a id="EM-kisat_2022"></a>
+### Euroopan mestaruuskisojen 23.-25.9.2022 tuloksia
+
+<p> Irlanin Dublinin Konfutse-instituutti j&auml;rjesti 23.-25.9. vuoden 2022
+    Euroopan Mestaruuskisat. Suomesta niihin osallistuivat : Evie Kho,
+    Olavi Stenman ja Petri Haikola.</p>
+
+---
+
+<a id="SM-kisat_2022-2"></a>
+### Tuloksia SM-kisoista 16.-17.7.2022:
+
+<p> Peliaika on 45 minuuttia per pelaaja ja 15 sekuntia per siirto.</p>
+
+<p> Kisapaikka: Helsinki,Shakkiareena (Hiomotie 10, Helsinki).</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="5%">Sija</td>
+<td width="20%">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">5</td>
+<td width="5%">6</td>
+<td width="5%">7</td>
+<td width="5%">Buchholz</td>
+<td width="5%">Sonneborn-Berger</td>
+<td width="5%">Tulos</td>
+</tr>
+<tr>
+</tr><tr>
+<td>1</td>
+<td>Petri Haikola</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td>12</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Li Quycuong</td>
+<td>1</td>
+<td></td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>13</td>
+<td>7</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jukka Tuovinen</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>13</td>
+<td>5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td></td>
+<td class="grey_bkg">&nbsp;</td>
+<td></td>
+<td>1</td>
+<td>12</td>
+<td></td>
+<td>3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Arto Vaara</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Tero Riskula</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td></td>
+<td></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset nelj&auml;n hengen ryhm&auml;n
+    tuloksista: </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>1</td>
+<td>Petri Haikola</td>
+<td>128-29</td>
+<td>4/5</td>
+<td>158</td>
+<td>4</td>
+<td>128</td>
+<td>128-30</td>
+<td>1804</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi Stenman</td>
+<td>158-89</td>
+<td>3/4</td>
+<td>159</td>
+<td>2</td>
+<td>134</td>
+<td>155-90</td>
+<td>1615</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Li Quycuong</td>
+<td>163-14</td>
+<td>3/5</td>
+<td>162</td>
+<td>2.5</td>
+<td>152</td>
+<td>161-15</td>
+<td>1573</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jukka Tuovinen</td>
+<td>158-59</td>
+<td>2/4</td>
+<td>155</td>
+<td>2</td>
+<td>155</td>
+<td>158-60</td>
+<td>1594</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>140-94</td>
+<td>2/4</td>
+<td>60</td>
+<td>3</td>
+<td>160</td>
+<td>142-95</td>
+<td>1706</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Arto Vaara</td>
+<td>171-53</td>
+<td>1/4</td>
+<td>168</td>
+<td>2</td>
+<td>193</td>
+<td>173-54</td>
+<td>1489</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Tero Riskula</td>
+<td>248-57</td>
+<td>0 /4</td>
+<td>198</td>
+<td>0</td>
+<td>248</td>
+<td>248-58</td>
+<td>964</td>
+<td>8:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Tampere_2022"></a>
+### Tulokset historian ensimmäisestä Tampereen harjoitusturnauksesta:
+
+<p> Ajankohta : 18.6.2022 </p>
+
+<p> Ajat: 30 minuuttia kierrosta kohden, kaksinkertainen
+turnaus. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pisteet</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Haikola, Petri</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1&nbsp;1</td>
+<td>1&nbsp;1</td>
+<td>1 0</td>
+<td>&nbsp;5</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>0&nbsp;0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0&nbsp;1</td>
+<td>1 1</td>
+<td>&nbsp;3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tuovinen, Jukka</td>
+<td>0&nbsp;0</td>
+<td>1 0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12; 1</td>
+<td>&nbsp;2,5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stenman, Olavi</td>
+<td>0 1</td>
+<td>0 0</td>
+<td>&frac12;&nbsp;0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1,5</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2019"></a>
+## Vuoden 2019 tuloksia
+
+<a id="konfutse-instituutin-turnaus-4-11-2019"></a>
+### Konfutse-instituutin turnaus 4.11.2019
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 20 minuuttia kierrosta kohden</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>&nbsp;1</td>
+<td>&nbsp;2</td>
+<td>&nbsp;3</td>
+<td>&nbsp;4</td>
+<td>&nbsp; 5</td>
+<td>&nbsp;6</td>
+<td>&nbsp;7</td>
+<td>&nbsp;8</td>
+<td>&nbsp;9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Su Houyi </td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5,0</td>
+<td>14</td>
+<td>14</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>4,0</td>
+<td>10</td>
+<td>7</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Petri Haikola</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td></td>
+<td>&nbsp;1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>17</td>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Yang Chi</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>16</td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Jukka Tuovinen</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td class="grey_bkg"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>14</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Wang Wanchun </td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>13</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Li Quy Cuong</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3,0</td>
+<td>9</td>
+<td>4</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2,0</td>
+<td>17</td>
+<td>5</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Xu Rongjian</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2,0</td>
+<td>13</td>
+<td>3</td>
+<td>9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Jiang Ming</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2,0</td>
+<td>12</td>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Visa Li</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg"></td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2,0</td>
+<td>10</td>
+<td>2</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Xu Hansen</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg"></td>
+<td>1</td>
+<td>1</td>
+<td>2,0</td>
+<td>9</td>
+<td>1</td>
+<td>12</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Tuomo Ojala</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg"></td>
+<td>1</td>
+<td>1,0</td>
+<td>11</td>
+<td>0</td>
+<td>13</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Ning Hongyan</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg"></td>
+<td>0,0</td>
+<td>10</td>
+<td>0</td>
+<td>14</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Shanghai-Jia-Ding-Cup-2019"></a>
+### 32nd European Xiangqi Championship 2019
+
+<p> Paikka : Minsk </p>
+
+<p> Aika: 26.-28.7.2019 </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Xue Handi</td>
+<td>GER</td>
+<td>6&frac12; /7</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pu Fangyao</td>
+<td>GER</td>
+<td>6/7</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Fang Yi</td>
+<td>ITA</td>
+<td>5&frac12;/7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Korchitskij Sergej</td>
+<td>BLR</td>
+<td>5&frac12;/7</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Yang Chi</td>
+<td>FIN</td>
+<td>4&frac12;/7</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Yan Zixi</td>
+<td>GER</td>
+<td>4&frac12;/7</td>
+</tr>
+<tr>
+<td>7</td>
+<td>N&auml;gler Michael</td>
+<td>GER</td>
+<td>4&frac12;/7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Wang Wei</td>
+<td>ITA</td>
+<td>4&frac12;/7</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Bieg Pascal</td>
+<td>GER</td>
+<td>4/7</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Haikola Petri</td>
+<td>FIN</td>
+<td>4/7</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Rumyantsev Dmitry</td>
+<td>RUS</td>
+<td>4/6</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Paulovich Petr</td>
+<td>BLR</td>
+<td>3&frac12;/7</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Wu Caifang</td>
+<td>GBR</td>
+<td>3&frac12;/7</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Ikonnikov Valery</td>
+<td>BLR</td>
+<td>3&frac12;/7</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Liplianski Ivan</td>
+<td>BLR</td>
+<td>3&frac12;/6</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Nord Kanstantsin</td>
+<td>BLR</td>
+<td>3&frac12;/6</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Wu Weiguang</td>
+<td>GER</td>
+<td>3/6</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Balabaev Nikita</td>
+<td>UKR</td>
+<td>3/4</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Stenman Olavi</td>
+<td>FIN</td>
+<td>2&frac12;/7</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Frischmuth Uwe</td>
+<td>GER</td>
+<td>2&frac12;/7</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Li Quy Cuong</td>
+<td>FIN</td>
+<td>2&frac12;/7</td>
+</tr>
+<tr>
+<td>22<br/>
+</td>
+<td>Seliazniou Valiantsin</td>
+<td>BLR</td>
+<td>2&frac12;/6</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Vaara Arto</td>
+<td>FIN</td>
+<td>2/6</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Zhou Zihan</td>
+<td>GER</td>
+<td>2/4</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Buslov Egor</td>
+<td>RUS</td>
+<td>2/4</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Lyba Eduard</td>
+<td>UKR</td>
+<td>2/4</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Kamlichenko Jaroslav</td>
+<td>UKR</td>
+<td>2/4</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Kamara Darya</td>
+<td>BLR</td>
+<td>2/3</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Gresyuk Vitaly</td>
+<td>BLR</td>
+<td>1&frac12;/4</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Nesterov Vladimir</td>
+<td>RUS</td>
+<td>1&frac12;/4</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Kharlamava Alina</td>
+<td>BLR</td>
+<td>1&frac12;/4</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Kaspiarovich Nadya</td>
+<td>BLR</td>
+<td>1&frac12;/4</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Demin Alexander</td>
+<td>RUS</td>
+<td>1/6</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Kharlamau Uladzislau</td>
+<td>BLR</td>
+<td>1/4</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Kamlichenko Rostilav</td>
+<td>UKR</td>
+<td>1/4</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Zhuravlev Pavel</td>
+<td>BLR</td>
+<td>1/3</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Buslov Anton</td>
+<td>RUS</td>
+<td>1/3</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Bak Valery</td>
+<td>BLR</td>
+<td>0/6</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Belko Kyra</td>
+<td>BLR</td>
+<td>0/3</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Patskevich Darya</td>
+<td>BLR</td>
+<td>0/2</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="SM-turnauksen-tuloksia-13.-14.7.2019"></a>
+### SM-turnauksen tuloksia 13.-14.7.2019
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 45 min + 15 s/siirto</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>Pelit</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>4,0</td>
+<td>13,5</td>
+<td>10,50 </td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>4,0</td>
+<td>13,5</td>
+<td>9,75</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Haikola, Petri</td>
+<td>0</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>3,5</td>
+<td>12,0</td>
+<td>6,00</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stenman, Olavi</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;&frac12;</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>2,5</td>
+<td>12,5</td>
+<td>3,50</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Vaara,Arto</td>
+<td>&frac12;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>5</td>
+<td>2,0</td>
+<td>13,0 </td>
+<td>3,75</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Tuovinen, Jukka</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td></td>
+<td class="grey_bkg">1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4</td>
+<td>2,0</td>
+<td>13,0</td>
+<td>1,50</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Li Quy Cong</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>1,0</td>
+<td>12,5</td>
+<td>2,00</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Riskula, Tero </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;1</td>
+<td>4</td>
+<td>1,0</td>
+<td>10,0</td>
+<td>0,50</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Shanghai-Jia-Ding-Cup-2019-2"></a>
+### Shanghai Jia Ding Cup 2019 tuloksia
+
+<p> Paikka : Shanghai </p>
+
+<p> Aika: 24.5.2019 </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Xie Jing</td>
+<td>CHN</td>
+<td>6 /7</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Hua ChenHao</td>
+<td>CHN</td>
+<td>5&frac12;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Sun YongZheng</td>
+<td>CHN</td>
+<td>5&frac12;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Lai Ly Huynh</td>
+<td>VIE</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Zhao Wei</td>
+<td>CHN</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Xue HanDi</td>
+<td>GER</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Hu YuShan</td>
+<td>USA</td>
+<td>5</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Pu FangYao</td>
+<td>CHN</td>
+<td>4&frac12;</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Uong Duong Bac</td>
+<td>VIE</td>
+<td>4&frac12;</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Chen WanWei</td>
+<td>PHI</td>
+<td>4&frac12;</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Yogi Do</td>
+<td>USA</td>
+<td>4</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Nguyen Minh NQ</td>
+<td>VIE</td>
+<td>4</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Jackson Hong</td>
+<td>PHI</td>
+<td>4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Chen PeiJin</td>
+<td>PHI</td>
+<td>4</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Petri Haikola</td>
+<td>FIN</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Karsten Hoffarth</td>
+<td>GER</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Michael N&auml;gler</td>
+<td>GER</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Sergej Korchitskij</td>
+<td>BLR</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Gu YiQing</td>
+<td>CAN</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Radtai Lokutarapol</td>
+<td>THA</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Fang Yi</td>
+<td>ITA</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td><br/>
+</td>
+<td>Pan JianMing</td>
+<td>CAN</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Tanaka Atsushi</td>
+<td>JPN</td>
+<td>3&frac12;</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Hu Yue</td>
+<td>ITA</td>
+<td>3</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Krishna Sankirtan</td>
+<td>THA</td>
+<td>3</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Tse Richard</td>
+<td>USA</td>
+<td>3</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Kani Hiroaki</td>
+<td>JPN</td>
+<td>3</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>FIN</td>
+<td>2&frac12;</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>FIN</td>
+<td>2&frac12;</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Nakamura Chizuru</td>
+<td>JPN</td>
+<td>2</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Dmitry Rumyantsev</td>
+<td>RUS</td>
+<td>2</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Yu XiaoLan</td>
+<td>NED</td>
+<td>2</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Petr Paulovich</td>
+<td>RUS</td>
+<td>2</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Andrea Trombettoni</td>
+<td>CHN</td>
+<td>1&frac12;</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Bastian Gollmar</td>
+<td>GER</td>
+<td>1&frac12;</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Damien</td>
+<td>CAN</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="kevatturnaus-13-4-2019"></a>
+### Kevätturnaus 13.4.2019
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 40 minuuttia kierrosta kohden</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Haikola, Petri </td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4,0</td>
+<td>8,5</td>
+<td>8,50</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Yang Chi</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>8,5</td>
+<td>4,50</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jiang Ming</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>7,0</td>
+<td>5,00</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Su Houyi</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>7,0</td>
+<td>3,00</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">1</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,5</td>
+<td>7,5</td>
+<td>3,25</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Tuovinen, Jukka </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2,5</td>
+<td>4,0</td>
+<td>2,00</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Li Quy Cuong</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,0</td>
+<td>9,5</td>
+<td>3,50</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,0</td>
+<td>9,0</td>
+<td>3,00</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Stenman, Olavi</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2,0</td>
+<td>7,0</td>
+<td>1,00</td>
+<td>9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Vaara, Arto</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>9,5</td>
+<td>2,50</td>
+<td>10</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Riskula, Tero</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>9,5</td>
+<td>1,50</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Rossi, Jorma</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">1</td>
+<td>&nbsp;</td>
+<td>1,0</td>
+<td>8,5</td>
+<td>1,00</td>
+<td>12</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Muhonen, Sami</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">1</td>
+<td>1,0</td>
+<td>8,5</td>
+<td>0,00</td>
+<td>13</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2018"></a>
+## Vuoden 2018 tuloksia
+
+<a id="ii-8th-yang-guanglin-cup-xiangqi-open-overseas-division"></a>
+### II 8th Yang GuangLin Cup XiangQi Open Overseas Division
+
+<p>Dongguang, 3.-7.9.2018</p>
+
+<p>Ajat: 60 min + 20 sek/siirto</p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Cao YanLei</td>
+<td>15 </td>
+<td>87</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Zhao Fan</td>
+<td>13 </td>
+<td>94</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>HeWenJin</td>
+<td>12</td>
+<td>100</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Nguyen MinhNhatQuang</td>
+<td>12</td>
+<td>99</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>FengJiaJun</td>
+<td>12</td>
+<td>96</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Wu MingYi</td>
+<td>12</td>
+<td>91</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Diep KhaiNguyen</td>
+<td>12</td>
+<td>91</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Chiu YuKuen</td>
+<td>12</td>
+<td>90</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Zhuang HongMing</td>
+<td>12</td>
+<td>89</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>XueHanDi</td>
+<td>12</td>
+<td>81</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Vo Huu Cuong&gt;/td&gt;
+</td>
+<td>11</td>
+<td>101</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Phi ManhCuong</td>
+<td>11</td>
+<td>92</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>TonThatNhatTan</td>
+<td>11</td>
+<td>82</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Yang DhungYu</td>
+<td>10</td>
+<td>94</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Huang XueQiann</td>
+<td>10</td>
+<td>93</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Dao CaoKhoa</td>
+<td>10</td>
+<td>92</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Wu ZongHan</td>
+<td>10</td>
+<td>92</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Liang DaMin</td>
+<td>10</td>
+<td>90</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Li JinHuan
+</td>
+<td>10</td>
+<td>87</td>
+</tr>
+<tr>
+<td>21.</td>
+<td>RuanHuangJian</td>
+<td>10</td>
+<td>86</td>
+</tr>
+<tr>
+<td>22.</td>
+<td>ShenYiHao</td>
+<td>10</td>
+<td>86</td>
+</tr>
+<tr>
+<td>23.</td>
+<td>GeZhenYi</td>
+<td>10</td>
+<td>86</td>
+</tr>
+<tr>
+<td>24.</td>
+<td>ChenJueSheng</td>
+<td>10</td>
+<td>86</td>
+</tr>
+<tr>
+<td>25.</td>
+<td>DongHe</td>
+<td>10</td>
+<td>85</td>
+</tr>
+<tr>
+<td>26.</td>
+<td>CaiAnJue</td>
+<td>10</td>
+<td>77</td>
+</tr>
+<tr>
+<td>27.</td>
+<td>Chen FaZuo</td>
+<td>10</td>
+<td>72</td>
+</tr>
+<tr>
+<td>28.</td>
+<td>CaiWeiHeng</td>
+<td>9</td>
+<td>92</td>
+</tr>
+<tr>
+<td>29.</td>
+<td>Ruan MingZhao</td>
+<td>9</td>
+<td>85</td>
+</tr>
+<tr>
+<td>30.</td>
+<td>DuGuangWei</td>
+<td>9</td>
+<td>81</td>
+</tr>
+<tr>
+<td>31.</td>
+<td>ChenWenNing</td>
+<td>9</td>
+<td>76</td>
+</tr>
+<tr>
+<td>32.</td>
+<td>Gu YiQing</td>
+<td>8</td>
+<td>93</td>
+</tr>
+<tr>
+<td>33.</td>
+<td>Weng DeQiang</td>
+<td>8</td>
+<td>92</td>
+</tr>
+<tr>
+<td>34.</td>
+<td>Wong WanHeng</td>
+<td>8</td>
+<td>85</td>
+</tr>
+<tr>
+<td>35.</td>
+<td>ChenYouFa</td>
+<td>8</td>
+<td>85</td>
+</tr>
+<tr>
+<td>36.</td>
+<td>LiuAnSheng</td>
+<td>8</td>
+<td>78</td>
+</tr>
+<tr>
+<td>37.</td>
+<td>Liang Yuan</td>
+<td>8</td>
+<td>72</td>
+</tr>
+<tr>
+<td>38.</td>
+<td>XuMingLong</td>
+<td>8</td>
+<td>71</td>
+</tr>
+<tr>
+<td>39.</td>
+<td>LinJianHua</td>
+<td>8</td>
+<td>71</td>
+</tr>
+<tr>
+<td>40.</td>
+<td>RuanHaiHao</td>
+<td>8</td>
+<td>67</td>
+</tr>
+<tr>
+<td>41.</td>
+<td>HuYingJun</td>
+<td>8</td>
+<td>57</td>
+</tr>
+<tr>
+<td>42.</td>
+<td>LuHongJu</td>
+<td>7</td>
+<td>74</td>
+</tr>
+<tr>
+<td>43.</td>
+<td>Wu YonySheng</td>
+<td>7</td>
+<td>67</td>
+</tr>
+<tr>
+<td>44.</td>
+<td>Lam KaYan</td>
+<td>6</td>
+<td>75</td>
+</tr>
+<tr>
+<td>45.</td>
+<td>HuangYuJi</td>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>46.</td>
+<td>OuZhiQiang</td>
+<td>6</td>
+<td>69</td>
+</tr>
+<tr>
+<td>47.</td>
+<td>DengTingYong</td>
+<td>6</td>
+<td>66</td>
+</tr>
+<tr>
+<td>48.</td>
+<td>ChenJiaYun</td>
+<td>6</td>
+<td>63</td>
+</tr>
+<tr>
+<td>49.</td>
+<td>LiChen</td>
+<td>6</td>
+<td>60
+</td>
+</tr>
+<tr>
+<td>50.</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>6</td>
+<td>54</td>
+</tr>
+<tr>
+<td>51.</td>
+<td>LeiXiongCai</td>
+<td>4</td>
+<td>66</td>
+</tr>
+<tr>
+<td>52.</td>
+<td>ChenYongXiang</td>
+<td>4</td>
+<td>65</td>
+</tr>
+<tr>
+<td>53.</td>
+<td>NuoDe</td>
+<td>4</td>
+<td>61</td>
+</tr>
+<tr>
+<td>54</td>
+<td>YiFang</td>
+<td>0</td>
+<td>48</td>
+</tr>
+<tr>
+<td>55.</td>
+<td>ChenYouPing</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>56.</td>
+<td>RuanMingQiong</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="1st-Minsk-Xiangqi-Open--30.9.2018"></a>
+### 1st Minsk Xiangqi Open
+
+<p>Minsk, Chinese culture center, 30.9.2018</p>
+
+<p>Ajat: 30 min + 5 s/siirto</p>
+
+MacMahon-pisteitä käytettäessä korkeammalle rankatuille pelaajille annetaan muutama piste eteen turnauksen alussa, jolloin he myöhemmillä kierroksilla tulevat jo aikaisessa vaiheessa paritetuksi toisiaan vastaan.
+
+<p>
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>MacMahon-pisteet</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sergej Korchitskij</td>
+<td>BY</td>
+<td>2</td>
+<td>8+</td>
+<td>4+</td>
+<td>2+</td>
+<td>3+</td>
+<td>6+</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Petr Pavlovich</td>
+<td>BY</td>
+<td>2</td>
+<td>6+</td>
+<td>3+
+</td>
+<td>1-</td>
+<td>7+</td>
+<td>4=</td>
+<td>9</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Petri Haikola</td>
+<td>FI</td>
+<td>2</td>
+<td>5+</td>
+<td>2-</td>
+<td>8+</td>
+<td>1-</td>
+<td>9+</td>
+<td>8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Kanstantsin Nord</td>
+<td>BY</td>
+<td>2</td>
+<td>9+</td>
+<td>1-</td>
+<td>7+</td>
+<td>6=</td>
+<td>2=</td>
+<td>8</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Andrei Kaspiarovich</td>
+<td>BY</td>
+<td>2</td>
+<td>3-</td>
+<td>7-</td>
+<td>10+</td>
+<td>13+</td>
+<td>8+</td>
+<td>8</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Dmitriy Rumyantsev</td>
+<td>RU</td>
+<td>2</td>
+<td>2-</td>
+<td>9+</td>
+<td>13+</td>
+<td>4=</td>
+<td>1-</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Valery Ikonnikov </td>
+<td>BY</td>
+<td>2</td>
+<td>12=</td>
+<td>5+</td>
+<td>4-</td>
+<td>2-</td>
+<td>14+</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Uladizlau Kharlamau</td>
+<td>BY</td>
+<td>2</td>
+<td>1-</td>
+<td>12+</td>
+<td>3-</td>
+<td>14+</td>
+<td>5-</td>
+<td>6</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ivan Liplianskij</td>
+<td>BY</td>
+<td>2</td>
+<td>4-</td>
+<td>6-</td>
+<td>12+</td>
+<td>11+</td>
+<td>3-</td>
+<td>6</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Victar Saevich</td>
+<td>BY</td>
+<td>0</td>
+<td>13-</td>
+<td>14+</td>
+<td>5-</td>
+<td>16+</td>
+<td>15+</td>
+<td>6</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Aliaksei Budkevich</td>
+<td>BY</td>
+<td>0</td>
+<td>14-</td>
+<td>16+</td>
+<td>15+</td>
+<td>9-</td>
+<td>13+</td>
+<td>6</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Victar Sayevich</td>
+<td>BY</td>
+<td>2</td>
+<td>7=</td>
+<td>8-</td>
+<td>9-</td>
+<td>15-</td>
+<td>16+</td>
+<td>5</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Alina Kharlamava</td>
+<td>BY</td>
+<td>0</td>
+<td>10+</td>
+<td>15+</td>
+<td>6-</td>
+<td>5-</td>
+<td>11-</td>
+<td>4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Yahor Krauchanka</td>
+<td>BY</td>
+<td>0</td>
+<td>11+</td>
+<td>10-</td>
+<td>16+</td>
+<td>8-</td>
+<td>7-</td>
+<td>4</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Valery Bak</td>
+<td>BY</td>
+<td>0</td>
+<td>16+</td>
+<td>13-</td>
+<td>11-</td>
+<td>12-+</td>
+<td>10-</td>
+<td>4</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Dariya Korobeynik</td>
+<td>BY</td>
+<td>0</td>
+<td>15-</td>
+<td>11-</td>
+<td>14-</td>
+<td>10-</td>
+<td>12-</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+&nbsp;<br/>
+</p>
+
+---
+
+<a id="Sichuan-Airlines-12.9.2018-Pikapeliturnaus"></a>
+### Sichuan Airlines cup Pikapeliturnaus
+
+<p>Chengdu, 12.9.2018</p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>Kesk. peli</td>
+<td>Voitot</td>
+<td>Voitot mustilla</td>
+<td>Pelit mustilla</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Channan Heng</td>
+<td>CAM</td>
+<td>10</td>
+<td>29</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Kayrel Nielhan Bin Awang</td>
+<td>MAS</td>
+<td>8</td>
+<td>26</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Shoshi Kazuharu</td>
+<td>JAP</td>
+<td>8</td>
+<td>22</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>FIN</td>
+<td>7</td>
+<td>35</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sasaki Yu Ki</td>
+<td>MAS</td>
+<td>7</td>
+<td>25</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Anuar Bin Bakri</td>
+<td>MAS</td>
+<td>6</td>
+<td>31</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Krishna Sankirtan</td>
+<td>THA</td>
+<td>6</td>
+<td>25</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Inoue Nachi</td>
+<td>JAP</td>
+<td>6</td>
+<td>25</td>
+<td>0</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Lucas Gitter</td>
+<td>GER</td>
+<td>5</td>
+<td>28</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Iwan Setiawan</td>
+<td>INA</td>
+<td>5</td>
+<td>26</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Pascal Bieg</td>
+<td>GER</td>
+<td>4</td>
+<td>29</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Sergej Korhitskij</td>
+<td>BLR</td>
+<td>4</td>
+<td>28</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Kyaw Kyaw</td>
+<td>MYA</td>
+<td>4</td>
+<td>20</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Richard Gitter</td>
+<td>GER</td>
+<td>4</td>
+<td>14</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Dmitry Gladyshev</td>
+<td>RUS</td>
+<td>2</td>
+<td>26</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Ivan Liplianski</td>
+<td>BLR</td>
+<td>2</td>
+<td>24</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Alfred Gitter</td>
+<td>GER</td>
+<td>2</td>
+<td>20</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Eric Ottl</td>
+<td>FRA</td>
+<td>0</td>
+<td>17</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Sichuan-Airlines-cup-Global-Pair-Tournament-12.9.2018"></a>
+### Sichuan Airlines cup Global Pair Tournament
+
+<p>Chengdu, 12.9.2018</p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>Huom.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Chen Lichun</td>
+<td>CHN</td>
+<td>Shoshi Kazuharu</td>
+<td>JPN</td>
+<td>11</td>
+<td>58</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Xu Yinchuan</td>
+<td>CHN</td>
+<td>Iwan Setiawan</td>
+<td>IDN</td>
+<td>10</td>
+<td>59</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Zheng Weitong</td>
+<td>CHN</td>
+<td>Kayrel Nielhan Bin Awang</td>
+<td>MAS</td>
+<td>10</td>
+<td>56</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Hong Zhi</td>
+<td>CHN</td>
+<td>Krishna Sankirtan</td>
+<td>THA</td>
+<td>9</td>
+<td>53</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Xue Handi</td>
+<td>GER</td>
+<td>Sasaki Yu Ki</td>
+<td>MAS</td>
+<td>8</td>
+<td>58</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Liang Yanting</td>
+<td>CHN</td>
+<td>Chamnan Heng</td>
+<td>CAM</td>
+<td>8</td>
+<td>55</td>
+<td>3 voittoa</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Xie Jing</td>
+<td>CHN</td>
+<td>Lucas Gitter</td>
+<td>GER</td>
+<td>8</td>
+<td>55</td>
+<td>2 voittoa</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Zhao Xinxin</td>
+<td>CHN</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>FIN</td>
+<td>8</td>
+<td>43</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Liu Zijian</td>
+<td>PHI</td>
+<td>Kyaw Kyaw</td>
+<td>MYA</td>
+<td>8</td>
+<td>37</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Chen Xinglin</td>
+<td>CHN</td>
+<td>Anuar Bin Bakri</td>
+<td>MAS</td>
+<td>7</td>
+<td>54</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Jiang Chuan</td>
+<td>CHN</td>
+<td>Pascal Bieg</td>
+<td>GER</td>
+<td>6</td>
+<td>48</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Wang Tianyi</td>
+<td>CHN</td>
+<td>Dmitry Gladyshev</td>
+<td>RUS</td>
+<td>6</td>
+<td>42</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Nguyen Minh Nhat Quang</td>
+<td>VIE</td>
+<td>Inoue Nachi</td>
+<td>JPN</td>
+<td>4</td>
+<td>42</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Tang Sinan</td>
+<td>CHN</td>
+<td>Ivan Liplianski</td>
+<td>BLR</td>
+<td>4</td>
+<td>37</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Yeoh Thean Jern</td>
+<td>MAS</td>
+<td>Serge Korhitskij</td>
+<td>BLR</td>
+<td>3</td>
+<td>45</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Zhao Guorong</td>
+<td>CHN</td>
+<td>Eric Ottl</td>
+<td>FRA</td>
+<td>2</td>
+<td>42</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+---
+
+<a id="SM-turnauksen-tuloksia-18.-19.8.2018"></a>
+### SM-turnauksen tuloksia 18.-19.8.2018
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 45 min + 15 s/siirto</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>Pelit</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Haikola, Petri</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>5</td>
+<td>4,0</td>
+<td>12,0</td>
+<td>8,50 </td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>3,5</td>
+<td>14,0</td>
+<td>8,75</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>3,5</td>
+<td>12,5</td>
+<td>7,25</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tuovinen, Jukka</td>
+<td>1</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>5</td>
+<td>3,5</td>
+<td>11,0</td>
+<td>8,25</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Rumyantsev, Dmitri</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>3,0</td>
+<td>9,5 </td>
+<td>3,50</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Stenman, Olavi</td>
+<td>0</td>
+<td>0</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>2,5</td>
+<td>15,0</td>
+<td>5,75</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Muhonen, Sami</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>1,5</td>
+<td>13,5</td>
+<td>1,75</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Li Quy Cuang </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>1</td>
+<td>14,0</td>
+<td>3,50</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ojala, Tuomo</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td =""=""></td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td>4</td>
+<td>1,0</td>
+<td>11,5</td>
+<td>1,25</td>
+<td>9</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td>10</td>
+<td>Riskula, Tero</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td =""=""></td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>4</td>
+<td>0,5</td>
+<td>14,5 </td>
+<td>0,75</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+---
+
+<a id="31st-European-Xiangqi-Championship-2018"></a>
+### 31st European Xiangqi Championship 2018
+
+<p>Milano, 28.-29.07.2018</p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>Arvo</td>
+<td>Joukkue</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Xue Handi</td>
+<td>IGM</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>2</td>
+<td> Lin Xiuwei</td>
+<td>&nbsp;</td>
+<td>ES</td>
+</tr>
+<tr>
+<td>3</td>
+<td> Xu Wenjun</td>
+<td>&nbsp;</td>
+<td>UK</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Fang Dingliang</td>
+<td>IM</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Huang Chunlong</td>
+<td>IGM</td>
+<td>UK</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Xue Zhong</td>
+<td>IG</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Chen Fazuo</td>
+<td>IGM</td>
+<td>UK</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Yan Zixi</td>
+<td>&nbsp;</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Fang Yi</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Shan Tianpeng</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Korchitskiy Sergej</td>
+<td>FM</td>
+<td>BY</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Lin Ye</td>
+<td>IGM</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Du Bocheng</td>
+<td>&nbsp;</td>
+<td>ES</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Chen Jun</td>
+<td>IGM</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Naegler Michael</td>
+<td>IM</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Hu Yue</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Chen Haihan</td>
+<td>&nbsp;</td>
+<td>IE</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Li Zhishan</td>
+<td>&nbsp;</td>
+<td>NL</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Yu Na</td>
+<td>&nbsp;</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>20</td>
+<td> Hu Yunsheng</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>21</td>
+<td> Zhu Yueping</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Haikola Petri</td>
+<td>&nbsp;</td>
+<td>FI</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Wang Wei</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Yu Xiaolan</td>
+<td>FM</td>
+<td>NL</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Liplianski Ivan</td>
+<td>&nbsp;</td>
+<td>BY</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Zhou Mengyong</td>
+<td>&nbsp;</td>
+<td>ES</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Chen Xiaoyong</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Wang Jiasheng</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Hsu Wei Kuo</td>
+<td>&nbsp;</td>
+<td>NL</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Bieg Pascal</td>
+<td>&nbsp;</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Sun Weijun</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Guberti Agostino</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Wu Caifang</td>
+<td>FM</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Lin Xiqiao</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Rumyantsev Dmitry</td>
+<td>FM</td>
+<td>RU</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Trombettoni Andrea</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Sirci Gianluca</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Yuan Zhiwei</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Hu Qianjin</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Su Nan</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<p>Ei-kiinalais/vietnamilaiset</p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>Arvo</td>
+<td>Joukkue</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Korchitskiy Sergej</td>
+<td>FM</td>
+<td>BY</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Naegler Michael</td>
+<td>IM</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Haikola Petri</td>
+<td>&nbsp;</td>
+<td>FI</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Liplianski Ivan</td>
+<td>&nbsp;</td>
+<td>BY</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Bieg Pascal</td>
+<td>&nbsp;</td>
+<td>DE</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Guberti Agostino</td>
+<td>&nbsp;</td>
+<td>IT</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="kevatturnaus-12-5-2018"></a>
+### Kevätturnaus 12.5.2018
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 40 minuuttia kierrosta kohden</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jiang Ming </td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,5</td>
+<td>7,5</td>
+<td>6,75</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>11,5</td>
+<td>8,00</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Haikola, Petri</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>7,5</td>
+<td>4,50</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Su Houyi</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+<td>7,5</td>
+<td>4,50</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Li, Quycuong</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2,0</td>
+<td>7,5</td>
+<td>1,00</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Yan Anqing </td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2,0</td>
+<td>8,0</td>
+<td>2,00</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Stenman, Olavi</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1,5</td>
+<td>9,5</td>
+<td>1,75</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Tuovinen, Jukka</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1,0</td>
+<td>8,5</td>
+<td>0,00</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Evie, Kho</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1,0</td>
+<td>7,0</td>
+<td>0,00</td>
+<td>9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Ojala, Tuomo</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,0</td>
+<td>5,5</td>
+<td>0,00</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="one-belt-one-road-xiangqi-international-open-kisan-tulokset"></a>
+### One Belt One Road Xiangqi International Open -kisan tulokset
+
+<p>Lingyun, 13.-15.4.2018</p>
+
+<p> Ajat 30 min + 10 s/siirto</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Joukkue</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>Pisteet</td>
+<td>Berger</td>
+<td>Voitot</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>GER</td>
+<td>Martinovic, Nikola</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>2,0</td>
+<td>5,0</td>
+<td>1</td>
+<td>11</td>
+</tr>
+<tr>
+<td>2</td>
+<td>MYA</td>
+<td>Kyaw Kyaw</td>
+<td>2</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>15,0</td>
+<td>62,0</td>
+<td>5</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>MAS</td>
+<td>Bin Bakri, Anu&aacute;r</td>
+<td>2</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>14,0</td>
+<td>65,5</td>
+<td>5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>INA</td>
+<td>Setiawan, Iwan</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>14,0</td>
+<td>60,0</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>RUS</td>
+<td>Rumyantsev, Dmitri</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>9,0</td>
+<td>26,5</td>
+<td>4</td>
+<td>8</td>
+</tr>
+<tr>
+<td>6</td>
+<td>GER</td>
+<td>Gollmar, Bastian</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>3,0</td>
+<td>8,5</td>
+<td>1</td>
+<td>10</td>
+</tr>
+<tr>
+<td>7</td>
+<td>FIN</td>
+<td>Haikola, Petri</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>10.0</td>
+<td>35,5</td>
+<td>4</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>GER</td>
+<td>Hoffarth, Karsten</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>13,0</td>
+<td>56,5</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>9</td>
+<td>FIN</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>2</td>
+<td>0</td>
+<td>12,0</td>
+<td>47,0</td>
+<td>4</td>
+<td>6</td>
+</tr>
+<tr>
+<td>10</td>
+<td>GER</td>
+<td>Bieg, Pascal</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>5,0</td>
+<td>24,0</td>
+<td>2</td>
+<td>9</td>
+</tr>
+<tr>
+<td>11</td>
+<td>BLR</td>
+<td>Korchitskij, Sergej</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>13,0</td>
+<td>50,5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2017"></a>
+## Vuoden 2017 tuloksia
+
+<a id="konfutse-instituutin-turnaus-8-10-2017"></a>
+### Konfutse-instituutin turnaus 8.10.2017
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 20 minuuttia kierrosta kohden</p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+</tbody>
+</table>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td class="blue_bkg">F1</td>
+<td class="blue_bkg">F2</td>
+<td class="blue_bkg">F3</td>
+<td class="blue_bkg">F4</td>
+<td class="blue_bkg">F5</td>
+<td class="blue_bkg">F6</td>
+<td class="blue_bkg">F7</td>
+<td class="blue_bkg">F8</td>
+<td class="blue_bkg">F9</td>
+<td class="yellow_bkg">C1</td>
+<td class="yellow_bkg">C2</td>
+<td class="yellow_bkg">C3</td>
+<td class="yellow_bkg">C4</td>
+<td class="yellow_bkg">C5</td>
+<td class="yellow_bkg">C6</td>
+<td class="yellow_bkg">C7</td>
+<td class="yellow_bkg">C8</td>
+<td class="yellow_bkg">C9</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td class="blue_bkg">F1</td>
+<td class="blue_bkg">Stenman,Olavi</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td class="blue_bkg">F2</td>
+<td class="blue_bkg">Haikola, Petri</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td class="blue_bkg">F3</td>
+<td class="blue_bkg">Li, Guycuong</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td class="blue_bkg">F4</td>
+<td class="blue_bkg">Vaara, Arto</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>2,0</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="blue_bkg">F5</td>
+<td class="blue_bkg">Ojala, Tuomo</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td class="blue_bkg">F6</td>
+<td class="blue_bkg">T&ouml;rnqvist, Mikko</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4,0</td>
+</tr>
+<tr>
+<td class="blue_bkg">F7</td>
+<td class="blue_bkg">Mahlam&auml;ki, Arto</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1,0</td>
+</tr>
+<tr>
+<td class="blue_bkg">F8</td>
+<td class="blue_bkg">Tuovinen, Jukka</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td class="blue_bkg">F9</td>
+<td class="blue_bkg">Muhonen, Sami</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1,0</td>
+<td class="blue_bkg">21,5</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C1</td>
+<td class="yellow_bkg">Xu, Rongjian</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C2</td>
+<td class="yellow_bkg">Wang, Jiahong</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C3</td>
+<td class="yellow_bkg">Yan, Anqing</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C4</td>
+<td class="yellow_bkg">Yang, Jinghui</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C5</td>
+<td class="yellow_bkg">Chi,Yang</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C6</td>
+<td class="yellow_bkg">Zhang, Qunsheng</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C7</td>
+<td class="yellow_bkg">Zhu, Peidong</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C8</td>
+<td class="yellow_bkg">Jiang, Ming</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C9</td>
+<td class="yellow_bkg">Zheng, He</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>2,0</td>
+<td class="yellow_bkg">23,5</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="avoin-suomen-mestaruus-12-13-8-2017"></a>
+### Avoin Suomen mestaruus 12.-13.8.2017
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 45 min + 15 s/siirto</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>Pelit</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>5,0</td>
+<td>12,0</td>
+<td>12,00</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Haikola, Petri</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>5</td>
+<td>4,0</td>
+<td>13,0</td>
+<td>8,00</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman, Olavi</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>3,0</td>
+<td>14,5</td>
+<td>4,25</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tuovinen, Jukka</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>2,0</td>
+<td>14,5</td>
+<td>4,25</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Bigalke, Andr&eacute;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>2,0</td>
+<td>14,5</td>
+<td>3,00</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ojala, Tuomo</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>5</td>
+<td>1,0</td>
+<td>13,0</td>
+<td>1,00</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Wu Zhiqian</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>1,0</td>
+<td>9,5</td>
+<td>3,00</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>3</td>
+<td>0,0</td>
+<td>9.0</td>
+<td>1.00</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="kevatturnaus-19-3-2017"></a>
+### Kevätturnaus 19.3.2017
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 40 minuuttia kierrosta kohden</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>10</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Vaara, Arto</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>10</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Haikola, Petri</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>9</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Li, Quycuong</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>6</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Tuovinen, Jukka</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>6</td>
+<td>1</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Stenman, Olavi</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>8</td>
+<td>0</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ojala, Tuomo</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>7</td>
+<td>0</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2016"></a>
+## Vuoden 2016 tuloksia
+
+<a id="SM_2016"></a>
+### SM-kisojen 18.12.2016 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka: Shakkiareena, Hiomotie 10, Helsinki</p>
+
+---
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>Pisteet</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Haikola, Petri</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&frac12;</td>
+<td>4,0</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3,5</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman, Olavi</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>3,0</td>
+<td>&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tuovinen, Jukka</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>2,0</td>
+<td>3,5</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Li, Quycuong</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>2,0</td>
+<td>2,5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ojala, Tuomo</td>
+<td>&frac12;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Harjoitusturnaus-lokakuu-2016"></a>
+### Harjoitusturnauksen 29.-30.10.2016 tuloksia
+
+<p> Paikka: Shakkiareena, Hiomotie 10, Helsinki</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pisteet</td>
+<td>S-B</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12; 1</td>
+<td>0 1</td>
+<td>1 1</td>
+<td>4,5</td>
+<td>9,75</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Stenman, Olavi</td>
+<td>&frac12; 0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1 1</td>
+<td>1 1</td>
+<td>4,5</td>
+<td>8,25</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Haikola, Petri</td>
+<td>1 0</td>
+<td>0 0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1 1</td>
+<td>3,0</td>
+<td>&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tuovinen, Jukka</td>
+<td>0 0</td>
+<td>0 0</td>
+<td>0 0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,0</td>
+<td>&nbsp;</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="World-Xiangqi-Open-2016"></a>
+### World Xiangqi Open 2016, 13.-15.8.2016
+
+<p> Paikka: Hotelli Haaga, Nuijamiestenkatu 10, Helsinki</p>
+
+<p> Kilpailussa pelattiin 7 kierrosta.</p>
+
+<p> Voitosta sai 2 pistett&auml; ja tasapelist&auml; 1.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Joukkue</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Chengdu, China</td>
+<td>13</td>
+</tr>
+<tr>
+<td>2</td>
+<td>China</td>
+<td>13</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Zhuzhou, China</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>EXF</td>
+<td>9</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Macau, China</td>
+<td>8</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Canada</td>
+<td>8</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Jiangxi, China</td>
+<td>8</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Germany 2</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Philippines</td>
+<td>6</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Germany 1</td>
+<td>6</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Finland 1</td>
+<td>6</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Italy</td>
+<td>6</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Finland 3 </td>
+<td>6</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Finland 2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>15</td>
+<td> Russia</td>
+<td>2</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Finland 4 </td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+---
+
+<a id="2015"></a>
+## Vuoden 2015 tuloksia
+
+<a id="Konfutse_2015"></a>
+### Konfutse-instituutin turnauksen 15.5.2015 tuloksia
+
+<p> Ajat : 15 minuuttia kierrosta kohden</p>
+
+<p> Kisat j&auml;rjestettiin Suomi-Kiina -maaotteluna
+(joukkuepisteet keltaisella taustalla). V&auml;rit arvottiin ja sen
+tuloksena Suomen joukkue aloitti punaisilla (v&auml;rej&auml; vaihdettiin
+jokaisella kierroksella) </p>
+
+<p> Paikka : Konfutse-instituutti, Unioninkatu 33, Helsinki</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td style="border: medium none ;" width="5%">&nbsp;</td>
+<td style="border: medium none ;">&nbsp;</td>
+<td class="blue_bkg" width="5%">1</td>
+<td class="blue_bkg" width="5%">2</td>
+<td class="blue_bkg" width="5%">3</td>
+<td class="blue_bkg" width="5%">4</td>
+<td class="blue_bkg" width="5%">5</td>
+<td class="ruddy_pink_bkg" width="5%">1</td>
+<td class="ruddy_pink_bkg" width="5%">2</td>
+<td class="ruddy_pink_bkg" width="5%">3</td>
+<td class="ruddy_pink_bkg" width="5%">4</td>
+<td class="ruddy_pink_bkg" width="5%">5</td>
+<td class="ruddy_pink_bkg" width="5%">6</td>
+<td class="green_bkg" width="5%">P</td>
+<td style="border: medium none ;" width="5%">&nbsp;</td>
+</tr>
+<tr>
+<td class="blue_bkg">1</td>
+<td class="blue_bkg">Stenman Olavi</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="blue_bkg">2</td>
+<td class="blue_bkg">Tuovinen Jukka</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="blue_bkg">3</td>
+<td class="blue_bkg">Haikola Petri</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="blue_bkg">4</td>
+<td class="blue_bkg">T&ouml;rnqvist Mikko</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="blue_bkg">5</td>
+<td class="blue_bkg">Aitta Timo</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td class="yellow_bkg">12</td>
+</tr>
+<tr>
+<td class="ruddy_pink_bkg">1</td>
+<td class="ruddy_pink_bkg">Yang Leo</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>4</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="ruddy_pink_bkg">2</td>
+<td class="ruddy_pink_bkg">Jiang Shan</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>3</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="ruddy_pink_bkg">3</td>
+<td class="ruddy_pink_bkg">Lu Bute</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="ruddy_pink_bkg">4</td>
+<td class="ruddy_pink_bkg">Shao Yufang</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="ruddy_pink_bkg">5</td>
+<td class="ruddy_pink_bkg">Wang Kai</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td style="border: medium none ;">&nbsp;</td>
+</tr>
+<tr>
+<td class="ruddy_pink_bkg">6</td>
+<td class="ruddy_pink_bkg">Zhong Xiao</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td class="yellow_bkg">8</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Harjoitusturnaus_18042015"></a>
+### Harjoitusturnauksen 18.4.2015 tuloksia
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Ajat 1 h + 10 s/siirto</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>P</td>
+<td>Bu</td>
+<td>S-B</td>
+<td>Sij</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Petri Haikola</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2&frac12;</td>
+<td>6&frac12;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>&frac12;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2&frac12;</td>
+<td>4&frac12;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Timo Aitta</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td>2&frac12;</td>
+<td>2&frac12;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>1&frac12;</td>
+<td>4 - 5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tuomo Ojala</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>1&frac12;</td>
+<td>4 - 5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="silver_bkg">1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>5</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Tero Riskula</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="silver_bkg">1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4&frac12;</td>
+<td>0</td>
+<td>7 - 8</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Visa Li</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="silver_bkg">1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4&frac12;</td>
+<td>0</td>
+<td>7 - 8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Quy Cuong Li</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&frac12;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+
+<p>Kierroskohtaiset tulokset:</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="40%">1. kierros</td>
+<td width="5%">&nbsp;</td>
+<td width="40%">&nbsp;</td>
+<td width="15%">&nbsp;</td>
+</tr>
+<tr>
+<td>Timo Aitta</td>
+<td>-</td>
+<td>Quy Cuong Li</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist</td>
+<td>-</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Tuomo Ojala</td>
+<td>-</td>
+<td>Petri Haikola</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>-</td>
+<td>Tero Riskula</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Lepovuorossa</td>
+<td>&nbsp;</td>
+<td>Visa Li</td>
+<td>(1)</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. kierros</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Quy Cuong Li</td>
+<td>-</td>
+<td>Tuomo Ojala</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Visa Li</td>
+<td>-</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Petri Haikola</td>
+<td>-</td>
+<td>Olavi Stenman</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>-</td>
+<td>Timo Aitta</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Lepovuorossa</td>
+<td>&nbsp;</td>
+<td>Tero Riskula</td>
+<td>(1)</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3. kierros</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>-</td>
+<td>Quy Cuong Li</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist</td>
+<td>-</td>
+<td>Petri Haikola</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+<tr>
+<td>Tero Riskula</td>
+<td>-</td>
+<td>Timo Aitta</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Tuomo Ojala</td>
+<td>-</td>
+<td>Visa Li</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Lepovuorossa</td>
+<td>&nbsp;</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>(1)</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset nelj&auml;n hengen ryhm&auml;n
+tuloksista: </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Haikola Petri</td>
+<td>155-8</td>
+<td>2&frac12;/3</td>
+<td>165</td>
+<td>2</td>
+<td>132</td>
+<td>150-9</td>
+<td>1650</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>137-59</td>
+<td>2&frac12;/3</td>
+<td>176</td>
+<td>2&frac12;</td>
+<td>143</td>
+<td>138-60</td>
+<td>1734</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Aitta Timo</td>
+<td>169-34</td>
+<td>2&frac12;/3</td>
+<td>206</td>
+<td>2&frac12;</td>
+<td>173</td>
+<td>170-35</td>
+<td>1510</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stenman Olavi</td>
+<td>159-70</td>
+<td>2 /3</td>
+<td>191</td>
+<td>2&frac12;</td>
+<td>174</td>
+<td>161-71</td>
+<td>1573</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Ojala Tuomo</td>
+<td>200-17</td>
+<td>2 /3</td>
+<td>205</td>
+<td>1&frac12;</td>
+<td>188</td>
+<td>198-18</td>
+<td>1314</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>R&ouml;nkk&ouml; Seppo</td>
+<td>189-25</td>
+<td>0 /2</td>
+<td>154</td>
+<td>&frac12;</td>
+<td>204</td>
+<td>191-26</td>
+<td>1363</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Riskula Tero</td>
+<td>249-52</td>
+<td>0 /2</td>
+<td>199</td>
+<td>0</td>
+<td>249</td>
+<td>249-53</td>
+<td>957</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Li Visa</td>
+<td>299 (4) os</td>
+<td>0 /2</td>
+<td>200</td>
+<td>&nbsp;</td>
+<td>250</td>
+<td>299-1os</td>
+<td>607</td>
+<td>os-v.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Li Quy Cuong</td>
+<td>81 (3) ob</td>
+<td>&frac12;/3</td>
+<td>176</td>
+<td>&nbsp;</td>
+<td>210</td>
+<td>145-1</td>
+<td>1685</td>
+<td>3:3</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Harjoitusturnaus_28022015"></a>
+### Harjoitusturnauksen 28.2.2015 tuloksia
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Nelj&auml;n hengen ryhm&auml;, ajat 1 h + 10 s/siirto</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%">Nimi</td>
+<td width="7%">1</td>
+<td width="7%">2</td>
+<td width="7%">3</td>
+<td width="7%">4</td>
+<td width="18%">Pisteet</td>
+<td width="18%">S-B</td>
+<td width="18%">Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Quy Cuang Li</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>2 - 4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>0</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2 - 4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Petri Haikola</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2 - 4</td>
+</tr>
+</tbody>
+</table>
+
+<p> Kuuden hengen ryhm&auml;, peliaikana 30 min </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">5</td>
+<td width="5%">6</td>
+<td width="15%">Pisteet</td>
+<td width="15%">S-B</td>
+<td width="15%">Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jukka Tuovinen</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>(1)*</td>
+<td>5</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Arto Vaara</td>
+<td>0</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>(1)*</td>
+<td>4</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tuomo Ojala</td>
+<td>0</td>
+<td>0</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>&nbsp;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Visa Li</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>(1)*</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Helmi Li</td>
+<td>(0)*</td>
+<td>(0)*</td>
+<td>0</td>
+<td>0</td>
+<td>(0)*</td>
+<td class="silver_bkg">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+
+<p> * = Peli&auml; ei pelattu koska Helmi Li keskeytti </p>
+
+<p> Lasketut INGO-luokitukset nelj&auml;n hengen ryhm&auml;n
+tuloksista: </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Quy Cuang Li</td>
+<td>----</td>
+<td>3 /3</td>
+<td>131</td>
+<td>&nbsp;</td>
+<td>81</td>
+<td>81 (3) ob</td>
+<td>----</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>131-57</td>
+<td>1 /3</td>
+<td>132</td>
+<td>1&frac12;</td>
+<td>149</td>
+<td>134-58</td>
+<td>1762</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>158-68</td>
+<td>1 /3</td>
+<td>132</td>
+<td>&frac12;</td>
+<td>149</td>
+<td>156-69</td>
+<td>1608</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Petri Haikola</td>
+<td>157-7</td>
+<td>1 /3</td>
+<td>132</td>
+<td>1</td>
+<td>149</td>
+<td>155-8</td>
+<td>1615</td>
+<td>4:1</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset kuuden hengen ryhm&auml;n
+tuloksista : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jukka Tuovinen</td>
+<td>170-48</td>
+<td>4 /4</td>
+<td>205</td>
+<td>3&frac12;</td>
+<td>155</td>
+<td>168-49</td>
+<td>1524</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Arto Vaara</td>
+<td>179-46</td>
+<td>3 /4</td>
+<td>207</td>
+<td>3</td>
+<td>182</td>
+<td>179-47</td>
+<td>1447</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tuomo Ojala</td>
+<td>199-16</td>
+<td>3 /5</td>
+<td>219</td>
+<td>3&frac12;</td>
+<td>209</td>
+<td>200-17</td>
+<td>1300</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tero Riskula</td>
+<td>249-51</td>
+<td>2 /5</td>
+<td>239</td>
+<td>2</td>
+<td>249</td>
+<td>249-52</td>
+<td>957</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Visa Li</td>
+<td>----</td>
+<td>0 /4</td>
+<td>249</td>
+<td>&nbsp;</td>
+<td>299</td>
+<td>299 (4) os</td>
+<td>----</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Helmi Li</td>
+<td>----</td>
+<td>0 /2</td>
+<td>249</td>
+<td>&nbsp;</td>
+<td>299</td>
+<td>299 (2) os</td>
+<td>----</td>
+<td>F1=H</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="HM_2015"></a>
+### HM-kisojen 17.1.2015 tuloksia
+
+<p> Ajat : 30 minuuttia</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Alla olevassa taulukossa on annettu kunkin kierroksen
+kohdalla ensin tulos (0 - h&auml;vi&ouml;, 1/2 - tasapeli, 1 - voitto),
+sitten vastustajan numero ja lopuksi pelaajan v&auml;ri. </p>
+
+<p>Vertailulukuna k&auml;ytetty Sonneborn-Bergeri&auml; (voitettujen
+pelaajien pisteet + puolet niiden pelaajien pisteist&auml;, joiden kanssa
+ko. pelaaja pelasi tasapelin)
+sek&auml; Buchholzia (vastustajien pisteiden summa)
+</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>no</td>
+<td>Nimi</td>
+<td colspan="3">1k</td>
+<td colspan="3">2k</td>
+<td colspan="3">3k</td>
+<td colspan="3">4k</td>
+<td colspan="3">5k</td>
+<td>&sum;</td>
+<td>SB</td>
+<td>Buchholz</td>
+<td>Sij</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>1.0</td>
+<td>6</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>10</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>3</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>7</td>
+<td class="black_bkg">M</td>
+<td>5.0</td>
+<td>13.5</td>
+<td>&nbsp;</td>
+<td class="gold_bkg">1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Petri Haikola</td>
+<td>1.0</td>
+<td>7</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>10</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>5</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>9</td>
+<td class="red_bkg">P</td>
+<td>3.0</td>
+<td>3.5</td>
+<td>&nbsp;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>0.5</td>
+<td>8</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>2</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>10</td>
+<td class="red_bkg">P</td>
+<td>2.5</td>
+<td>5.5</td>
+<td>&nbsp;</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jukka Tuovinen</td>
+<td>1.0</td>
+<td>9</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>1</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>8</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>10</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>6</td>
+<td class="black_bkg">M</td>
+<td>3.0</td>
+<td>4.0</td>
+<td>&nbsp;</td>
+<td class="bronze_bkg">3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Arto Vaara</td>
+<td>0.0</td>
+<td>10</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>3</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>9</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>0.5</td>
+<td>8</td>
+<td class="red_bkg">P</td>
+<td>1.5</td>
+<td>1.0</td>
+<td>&nbsp;</td>
+<td>9</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>0.0</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>9</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>7</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>8</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>4</td>
+<td class="red_bkg">P</td>
+<td>2.0</td>
+<td>2.0</td>
+<td>9.0</td>
+<td>7</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Rikard Skotnicki (SWE)</td>
+<td>0.0</td>
+<td>2</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>8</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>6</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>9</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>1</td>
+<td class="red_bkg">P</td>
+<td>2.0</td>
+<td>2.0</td>
+<td>7.0</td>
+<td>8</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Tuomo Ojala</td>
+<td>0.5</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>7</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>6</td>
+<td class="red_bkg">P</td>
+<td>0.5</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>2.0</td>
+<td>4.0</td>
+<td>&nbsp;</td>
+<td>6</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Tero Riskula</td>
+<td>0.0</td>
+<td>4</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>6</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>5</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>7</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>&nbsp;</td>
+<td>10</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Jingqiang Goh 吴井强</td>
+<td>1.0</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>1</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>4</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>4.0</td>
+<td>10.0</td>
+<td>&nbsp;</td>
+<td class="silver_bkg">2</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>134-56</td>
+<td>5 /5</td>
+<td>165</td>
+<td>4</td>
+<td>115</td>
+<td>131-57</td>
+<td>1783</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jing Qiang Goh</td>
+<td>----</td>
+<td>4 /5</td>
+<td>159</td>
+<td>&nbsp;</td>
+<td>129</td>
+<td>129-1</td>
+<td>1797</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jukka Tuovinen</td>
+<td>171-47</td>
+<td>3 /5</td>
+<td>175</td>
+<td>2&frac12;</td>
+<td>165</td>
+<td>170-48</td>
+<td>1510</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Petri Haikola</td>
+<td>156-6</td>
+<td>3 /5</td>
+<td>173</td>
+<td>3&frac12;</td>
+<td>163</td>
+<td>157-7</td>
+<td>1601</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Olavi Stenman</td>
+<td>158-67</td>
+<td>2&frac12;/5</td>
+<td>159</td>
+<td>2&frac12;</td>
+<td>159</td>
+<td>158-68</td>
+<td>1594</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Tuomo Ojala</td>
+<td>201-15</td>
+<td>2 /5</td>
+<td>177</td>
+<td>1&frac12;</td>
+<td>187</td>
+<td>199-16</td>
+<td>1307</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>188-24</td>
+<td>2 /5</td>
+<td>188</td>
+<td>2&frac12;</td>
+<td>198</td>
+<td>189-25</td>
+<td>1377</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Rikard Skotnicki</td>
+<td>194-6</td>
+<td>2 /5</td>
+<td>187</td>
+<td>2</td>
+<td>197</td>
+<td>195-7</td>
+<td>1335</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Arto Vaara</td>
+<td>176-45</td>
+<td>1&frac12;/5</td>
+<td>174</td>
+<td>2&frac12;</td>
+<td>194</td>
+<td>179-46</td>
+<td>1447</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Tero Riskula</td>
+<td>249-50</td>
+<td>0 /5</td>
+<td>199</td>
+<td>0</td>
+<td>249</td>
+<td>249-51</td>
+<td>957</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2014"></a>
+## Vuoden 2014 tuloksia
+
+<a id="SM_2014"></a>
+### SM-kisojen 20.-21.12.2014
+
+<p> Ajat : 60 minuuttia + 30 s / siirto</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Alla olevassa taulukossa on annettu kunkin kierroksen
+kohdalla ensin tulos (0 - h&auml;vi&ouml;, 1/2 - tasapeli, 1 - voitto),
+sitten vastustajan numero ja lopuksi pelaajan v&auml;ri. </p>
+
+<p>Vertailulukuna k&auml;ytetty Sonneborn-Bergeri&auml; (voitettujen
+pelaajien pisteet + puolet niiden pelaajien pisteist&auml;, joiden kanssa
+ko. pelaaja pelasi tasapelin)
+</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>no</td>
+<td>Nimi</td>
+<td colspan="3">1k</td>
+<td colspan="3">2k</td>
+<td colspan="3">3k</td>
+<td colspan="3">4k</td>
+<td colspan="3">5k</td>
+<td>&sum;</td>
+<td>SB</td>
+<td>Sij</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0.5</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>4</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>7</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>2</td>
+<td class="red_bkg">P</td>
+<td>4.5</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi Stenman</td>
+<td>1.0</td>
+<td>6</td>
+<td class="red_bkg">P</td>
+<td>0.5</td>
+<td>3</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>5</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>3.5</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Petri Haikola</td>
+<td>0.5</td>
+<td>1</td>
+<td class="red_bkg">P</td>
+<td>0.5</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>6</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>4</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>3.0</td>
+<td>5.0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jukka Tuovinen</td>
+<td>1.0</td>
+<td>5</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>2</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>7</td>
+<td class="red_bkg">P</td>
+<td>3.0</td>
+<td>4.0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tuomo Ojala</td>
+<td>0.0</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>1.0</td>
+<td>6</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>1</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>3</td>
+<td class="red_bkg">P</td>
+<td>1.0</td>
+<td>&nbsp;</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>0.0</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>5</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0.0</td>
+<td>&nbsp;</td>
+<td>6-7</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Sami Muhonen</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0.0</td>
+<td>1</td>
+<td class="red_bkg">P</td>
+<td>0.0</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>0.0</td>
+<td>&nbsp;</td>
+<td>6-7</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>145-83</td>
+<td>4&frac12;/5</td>
+<td>175</td>
+<td>4</td>
+<td>135</td>
+<td>142-84</td>
+<td>1706</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi Stenman</td>
+<td>160-66</td>
+<td>3&frac12;/5</td>
+<td>171</td>
+<td>3</td>
+<td>151</td>
+<td>158-67</td>
+<td>1594</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Petri Haikola</td>
+<td>153-5</td>
+<td>3 /5</td>
+<td>172</td>
+<td>3&frac12;</td>
+<td>162</td>
+<td>156-6</td>
+<td>1608</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jukka Tuovinen</td>
+<td>172-46</td>
+<td>3 /5</td>
+<td>177</td>
+<td>2&frac12;</td>
+<td>167</td>
+<td>171-47</td>
+<td>1503</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tuomo Ojala</td>
+<td>204-14</td>
+<td>1 /5</td>
+<td>164</td>
+<td>&frac12;</td>
+<td>194</td>
+<td>201-15</td>
+<td>1293</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>181-23</td>
+<td>0 /3</td>
+<td>172</td>
+<td>1</td>
+<td>222</td>
+<td>188-24</td>
+<td>1384</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Sami Muhonen</td>
+<td>----</td>
+<td>0 /2</td>
+<td>172</td>
+<td>&nbsp;</td>
+<td>222</td>
+<td>222 (2) os</td>
+<td>----</td>
+<td>F1=H</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Alypelifestivaali_2014"></a>
+### Oulun Älypelifestivaalin (22.11.-23.11.2014) tuloksia
+
+<p> Xiangqi-kilpailu su 23.11.2014 :</p>
+
+<p> Pelipaikka : Monikulttuurikeskus Villa Victor, Oulu</p>
+
+<p> Peliajat : 30 min + 5 s/siirto </p>
+
+<p> &Auml;lypelifestivaali toimi my&ouml;s nopean Xiangqin avoimena
+suomenmestaruusotteluna.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="30%">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">5</td>
+<td width="5%">P</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jouni Tolonen</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Rikard Skotnicki (SWE)</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Simo Lehtonen</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>135-55</td>
+<td>4 /4</td>
+<td>177</td>
+<td>3&frac12;</td>
+<td>127</td>
+<td>134-56</td>
+<td>1762</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Tolonen Jouni</td>
+<td>152-39</td>
+<td>3 /4</td>
+<td>183</td>
+<td>3&frac12;</td>
+<td>158</td>
+<td>153-40</td>
+<td>1629</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Skotnicki Rikard SWE</td>
+<td>194-5</td>
+<td>2 /4</td>
+<td>191</td>
+<td>2</td>
+<td>191</td>
+<td>194-6</td>
+<td>1342</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Lehtonen Simo</td>
+<td>----</td>
+<td>1 /4</td>
+<td>197</td>
+<td>&nbsp;</td>
+<td>222</td>
+<td>222-1</td>
+<td>1146</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Riskula Tero</td>
+<td>248-49</td>
+<td>0 /4</td>
+<td>204</td>
+<td>0</td>
+<td>254</td>
+<td>249-50</td>
+<td>957</td>
+<td>8:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="EM_2014"></a>
+### Euroopan Mestaruuskilpailujen tuloksia 21.-22.7.2014, Manchester
+
+<p> Ajat : 65 minuuttia kierrosta kohden</p>
+
+<p> Paikka : <br/>
+<a href="http://goo.gl/Uiyh9H">Iso-Britannia,
+Manchester, Oldham Road, Wing Yip Business Centre, Glamorous Chinese
+Restaurant(金煌大酒楼)</a> <br/>
+<a href="http://www.glamorous-restaurant.co.uk/">Ravintolan
+nettisivu</a>
+</p>
+
+<p>Suomalaisten sijoitukset</p>
+
+<table>
+</table>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Nimi</td>
+<td =""="">Kokonaissijoitus</td>
+<td =""="">Sijoitus
+ei-kiinalais-vietnamilaisten sarjassa</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist</td>
+<td>4.</td>
+<td>1.</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>15.</td>
+<td>2.</td>
+</tr>
+<tr>
+<td>Arto Vaara</td>
+<td>31.</td>
+<td>6.</td>
+</tr>
+<tr>
+<td>Tuomo Ojala</td>
+<td>38.</td>
+<td>12.</td>
+</tr>
+</tbody>
+</table>
+
+<p>INGO-laskenta:</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dang, Nicolas</td>
+<td>FRA</td>
+<td>62-45</td>
+<td>7/7</td>
+<td>90</td>
+<td>5&frac12;</td>
+<td>40</td>
+<td>56-46</td>
+<td>2308</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Zhang, Guohan</td>
+<td>U.K.</td>
+<td>----</td>
+<td>5&frac12;/7</td>
+<td>99</td>
+<td>&nbsp;</td>
+<td>70</td>
+<td>70-1</td>
+<td>2210</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Chen, Jun</td>
+<td>GER</td>
+<td>103-16</td>
+<td>5/7</td>
+<td>117</td>
+<td>4&frac12;</td>
+<td>95</td>
+<td>101-17</td>
+<td>1993</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td bgcolor="red">4</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>FIN</td>
+<td>147-53</td>
+<td>5/7</td>
+<td>146</td>
+<td>3&frac12;</td>
+<td>124</td>
+<td>141-54</td>
+<td>1713</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Xue, Zhong</td>
+<td>GER</td>
+<td>73-33</td>
+<td>4&frac12;/7</td>
+<td>95</td>
+<td>5</td>
+<td>81</td>
+<td>75-34</td>
+<td>2175</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Chen, Fazuo</td>
+<td>U.K.</td>
+<td>95-36</td>
+<td>4&frac12;/7</td>
+<td>107</td>
+<td>4&frac12;</td>
+<td>92</td>
+<td>94-37</td>
+<td>2042</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Huang, Chunlong</td>
+<td>U.K.</td>
+<td>64-11</td>
+<td>4&frac12;/7</td>
+<td>98</td>
+<td>6</td>
+<td>84</td>
+<td>69-12</td>
+<td>2217</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Zhu, Fangming</td>
+<td>U.K.</td>
+<td>----</td>
+<td>4&frac12;/7</td>
+<td>116</td>
+<td>&nbsp;</td>
+<td>102</td>
+<td>102-1</td>
+<td>1986</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Wu, Ming</td>
+<td>FRA</td>
+<td>----</td>
+<td>4&frac12;/7</td>
+<td>131</td>
+<td>&nbsp;</td>
+<td>117</td>
+<td>117-1</td>
+<td>1881</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Ng, Michael</td>
+<td>U.K.</td>
+<td>----</td>
+<td>4&frac12;/7</td>
+<td>131</td>
+<td>&nbsp;</td>
+<td>117</td>
+<td>117-1</td>
+<td>1881</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Ye, Jianbin</td>
+<td>U.K.</td>
+<td>----</td>
+<td>4/7</td>
+<td>139</td>
+<td>&nbsp;</td>
+<td>132</td>
+<td>132-1</td>
+<td>1776</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Wu, Caifang</td>
+<td>GER</td>
+<td>148-66</td>
+<td>4/7</td>
+<td>145</td>
+<td>3&frac12;</td>
+<td>138</td>
+<td>145-67</td>
+<td>1685</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Li, Chen</td>
+<td>U.K.</td>
+<td>100-5</td>
+<td>4/7</td>
+<td>143</td>
+<td>6&frac12;</td>
+<td>136</td>
+<td>112-6</td>
+<td>1916</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Lai, Chi Kong</td>
+<td>U.K.</td>
+<td>132-45</td>
+<td>4/7</td>
+<td>136</td>
+<td>4</td>
+<td>129</td>
+<td>131-46</td>
+<td>1783</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td bgcolor="red">15</td>
+<td>Stenman, Olavi</td>
+<td>FIN</td>
+<td>163-65</td>
+<td>4/7</td>
+<td>158</td>
+<td>3</td>
+<td>151</td>
+<td>160-66</td>
+<td>1580</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Wan, William</td>
+<td>U.K.</td>
+<td>----</td>
+<td>4/7</td>
+<td>144</td>
+<td>&nbsp;</td>
+<td>137</td>
+<td>137-1</td>
+<td>1741</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Cheung, Tung Wing</td>
+<td>U.K.</td>
+<td>----</td>
+<td>4/7</td>
+<td>145</td>
+<td>&nbsp;</td>
+<td>138</td>
+<td>138-1</td>
+<td>1734</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Lam, Pak Hoi</td>
+<td>U.K.</td>
+<td>----</td>
+<td>4/7</td>
+<td>159</td>
+<td>&nbsp;</td>
+<td>152</td>
+<td>152-1</td>
+<td>1636</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Dekker, Alain</td>
+<td>U.K.</td>
+<td>165-10</td>
+<td>4/7</td>
+<td>163</td>
+<td>3&frac12;</td>
+<td>156</td>
+<td>163-11</td>
+<td>1559</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Chen, Wilson</td>
+<td>U.K.</td>
+<td>----</td>
+<td>4/7</td>
+<td>174</td>
+<td>&nbsp;</td>
+<td>167</td>
+<td>167-1</td>
+<td>1531</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Yang, Dawen</td>
+<td>U.K.</td>
+<td>----</td>
+<td>3&frac12;/7</td>
+<td>127</td>
+<td>&nbsp;</td>
+<td>127</td>
+<td>127-1</td>
+<td>1811</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Lu, Nhat Phuong</td>
+<td>FRA</td>
+<td>136-1</td>
+<td>3&frac12;/7</td>
+<td>132</td>
+<td>3</td>
+<td>132</td>
+<td>134-2</td>
+<td>1762</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Boc, Tich Huy</td>
+<td>U.K.</td>
+<td>179-2</td>
+<td>3/7</td>
+<td>152</td>
+<td>1&frac12;</td>
+<td>159</td>
+<td>169-3</td>
+<td>1517</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Pang, Vicent</td>
+<td>U.K.</td>
+<td>----</td>
+<td>3/7</td>
+<td>158</td>
+<td>&nbsp;</td>
+<td>165</td>
+<td>165-1</td>
+<td>1545</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Wang, Ge</td>
+<td>GER</td>
+<td>194-4</td>
+<td>3/7</td>
+<td>166</td>
+<td>1&frac12;</td>
+<td>173</td>
+<td>183-5</td>
+<td>1419</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Cheung, Chu Lim</td>
+<td>U.K.</td>
+<td>----</td>
+<td>3/7</td>
+<td>150</td>
+<td>&nbsp;</td>
+<td>157</td>
+<td>157-1</td>
+<td>1601</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Zhang, Wenbo</td>
+<td>U.K.</td>
+<td>----</td>
+<td>3/7</td>
+<td>173</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>180-1</td>
+<td>1440</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Lee, Edmond</td>
+<td>U.K.</td>
+<td>----</td>
+<td>3/7</td>
+<td>171</td>
+<td>&nbsp;</td>
+<td>178</td>
+<td>178-1</td>
+<td>1454</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Freyer, Guido</td>
+<td>GER</td>
+<td>167-13</td>
+<td>3/7</td>
+<td>181</td>
+<td>4&frac12;</td>
+<td>189</td>
+<td>172-14</td>
+<td>1496</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Geremy, Xavier</td>
+<td>FRA</td>
+<td>172-8</td>
+<td>2&frac12;/7</td>
+<td>174</td>
+<td>3&frac12;</td>
+<td>188</td>
+<td>177-9</td>
+<td>1461</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td bgcolor="red">31</td>
+<td>Vaara, Arto</td>
+<td>FIN</td>
+<td>170-44</td>
+<td>2&frac12;/7</td>
+<td>182</td>
+<td>4&frac12;</td>
+<td>196</td>
+<td>176-45</td>
+<td>1468</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Berger, Martin</td>
+<td>GER</td>
+<td>216-9</td>
+<td>2&frac12;/7</td>
+<td>193</td>
+<td>2</td>
+<td>207</td>
+<td>213-10</td>
+<td>1209</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Man, Thomas</td>
+<td>U.K.</td>
+<td>----</td>
+<td>2&frac12;/7</td>
+<td>190</td>
+<td>&nbsp;</td>
+<td>204</td>
+<td>204-1</td>
+<td>1272</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Yang, Diyan</td>
+<td>U.K.</td>
+<td>----</td>
+<td>2&frac12;/7</td>
+<td>184</td>
+<td>&nbsp;</td>
+<td>199</td>
+<td>199-1</td>
+<td>1307</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Hamer, Martyn</td>
+<td>U.K.</td>
+<td>216-3</td>
+<td>2&frac12;/7</td>
+<td>195</td>
+<td>2</td>
+<td>209</td>
+<td>212-4</td>
+<td>1216</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Reinders, Rudolf</td>
+<td>GER</td>
+<td>160-79</td>
+<td>2/7</td>
+<td>156</td>
+<td>3</td>
+<td>177</td>
+<td>164-80</td>
+<td>1552</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Skotnicki, Rikard</td>
+<td>SWE</td>
+<td>190-4</td>
+<td>2/7</td>
+<td>177</td>
+<td>2&frac12;</td>
+<td>199</td>
+<td>194-5</td>
+<td>1342</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td bgcolor="red">38</td>
+<td>Ojala, Tuomo</td>
+<td>FIN</td>
+<td>200-13</td>
+<td>2/7</td>
+<td>196</td>
+<td>3</td>
+<td>217</td>
+<td>204-14</td>
+<td>1272</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Chen, Min</td>
+<td>GER</td>
+<td>245-9</td>
+<td>1&frac12;/7</td>
+<td>199</td>
+<td>&frac12;</td>
+<td>227</td>
+<td>239-10</td>
+<td>1027</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Ip, Michael</td>
+<td>U.K.</td>
+<td>----</td>
+<td>0 /7</td>
+<td>216</td>
+<td>&nbsp;</td>
+<td>266</td>
+<td>266-1os</td>
+<td>838</td>
+<td>F1=H</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Konfutse_2014"></a>
+### Konfutse-instituutin turnauksen 22.2.2014 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Konfutse-instituutti, Unioninkatu 33, Helsinki</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="blue_bkg">F1</td>
+<td class="blue_bkg">F2</td>
+<td class="blue_bkg">F3</td>
+<td class="blue_bkg">F4</td>
+<td class="blue_bkg">F5</td>
+<td class="blue_bkg">F6</td>
+<td class="blue_bkg">F7</td>
+<td class="yellow_bkg">C1</td>
+<td class="yellow_bkg">C2</td>
+<td class="yellow_bkg">C3</td>
+<td class="yellow_bkg">C4</td>
+<td class="yellow_bkg">C5</td>
+<td class="yellow_bkg">C6</td>
+<td class="yellow_bkg">C7</td>
+<td class="yellow_bkg">C8</td>
+<td class="yellow_bkg">C9</td>
+<td class="yellow_bkg">C10</td>
+<td class="yellow_bkg">C11</td>
+<td class="yellow_bkg">C12</td>
+<td class="green_bkg">P</td>
+</tr>
+<tr>
+<td class="blue_bkg">F1</td>
+<td class="blue_bkg">Mikko T&ouml;rnqvist</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="blue_bkg">F2</td>
+<td class="blue_bkg">Petri Haikola</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td class="blue_bkg">F3</td>
+<td class="blue_bkg">Olavi Stenman</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="blue_bkg">F4</td>
+<td class="blue_bkg">Timo Aitta</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="blue_bkg">F5</td>
+<td class="blue_bkg">Seppo R&ouml;nkk&ouml;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="blue_bkg">F6</td>
+<td class="blue_bkg">Tuomo Ojala</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="blue_bkg">F7</td>
+<td class="blue_bkg">Tero Riskula</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C1</td>
+<td class="yellow_bkg">Zhang Weibin</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C2</td>
+<td class="yellow_bkg">Bo Fu</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C3</td>
+<td class="yellow_bkg">Chen Jianding</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C4</td>
+<td class="yellow_bkg">Gao Yuan</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C5</td>
+<td class="yellow_bkg">Yuwei Bie</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C6</td>
+<td class="yellow_bkg">Zhe Zhao</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C7</td>
+<td class="yellow_bkg">Bote Lin</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C8</td>
+<td class="yellow_bkg">Dawei Feng</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C9</td>
+<td class="yellow_bkg">Wang Jue</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C10</td>
+<td class="yellow_bkg">Chiyu Lu</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C11</td>
+<td class="yellow_bkg">Yang Jing</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="yellow_bkg">C12</td>
+<td class="yellow_bkg">Wei Ying</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td class="blue_bkg" width="40%">Mikko
+T&ouml;rnqvist</td>
+<td width="5%">&nbsp;
+-&nbsp;&nbsp;</td>
+<td class="yellow_bkg" width="40%">Zhang
+Weibin</td>
+<td width="5%">0 - 1</td>
+</tr>
+<tr>
+<td class="blue_bkg">Petri Haikola</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Bo Fu</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="blue_bkg">Olavi Stenman</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Chen Jianding</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="blue_bkg">Timo Aitta</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Gao Yuan</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="blue_bkg">Seppo R&ouml;nkk&ouml;</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Yuwei Bie</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="blue_bkg">Tuomo Ojala</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Zhe Zhao</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td class="blue_bkg">Tero Riskula</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Bote Lin</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Dawei Feng</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Chiyu Lu</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Wei Ying</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Wang Yue</td>
+<td>0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td class="yellow_bkg" width="40%">Bo Fu</td>
+<td width="5%">&nbsp;
+-&nbsp;&nbsp;</td>
+<td class="blue_bkg" width="40%">Mikko
+T&ouml;rnqvist</td>
+<td width="5%">1 - 0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Chen Jianding</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="blue_bkg">Petri Haikola</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Gao Yuan</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="blue_bkg">Olavi Stenman</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Yuwei Bie</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="blue_bkg">Timo Aitta</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Bote Lin</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="blue_bkg">Seppo R&ouml;nkk&ouml;</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Zhang Weibin</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="blue_bkg">Tuomo Ojala</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Wang Yue</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="blue_bkg">Tero Riskula</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Zhe Zhao</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Wei Ying</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Chiyu Lu</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Yang Jing</td>
+<td>1 - 0</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td class="blue_bkg" width="40%">Mikko
+T&ouml;rnqvist</td>
+<td width="5%">&nbsp;
+-&nbsp;&nbsp;</td>
+<td class="yellow_bkg" width="40%">Bote
+Lin</td>
+<td width="5%">1 - 0</td>
+</tr>
+<tr>
+<td class="blue_bkg">Petri Haikola</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Zhang Weibin</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td class="blue_bkg">Olavi Stenman</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Wang Yue</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td class="blue_bkg">Timo Aitta</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Bo Fu</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="blue_bkg">Seppo R&ouml;nkk&ouml;</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Chiyu Lu</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="blue_bkg">Tuomo Ojala</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Gao Yuan</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="blue_bkg">Tero Riskula</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Chen Jianding</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Zhe Zhao</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Yuwei Bie</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td class="yellow_bkg">Yang Jing</td>
+<td>&nbsp; -&nbsp;&nbsp;</td>
+<td class="yellow_bkg">Wei Ying</td>
+<td>1 - 0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="HM_2014"></a>
+### Helsingin mestaruuskisojen 19.1.2014 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Alla olevassa taulukossa on annettu kunkin kierroksen
+kohdalla ensin tulos (0 - h&auml;vi&ouml;, 1/2 - tasapeli, 1 - voitto),
+sitten vastustajan numero ja lopuksi pelaajan v&auml;ri. Harmaalla taustalla
+on merkitty kierroksia, jolla ko. pelaaja
+oli lepovuorossa tai estynyt pelaamasta.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>no</td>
+<td>Nimi</td>
+<td colspan="3">1k</td>
+<td colspan="3">2k</td>
+<td colspan="3">3k</td>
+<td colspan="3">4k</td>
+<td colspan="3">5k</td>
+<td>&sum;</td>
+<td>Sij</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Tuomo Ojala</td>
+<td>0</td>
+<td>6</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>2</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>4</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>5.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>2</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>5</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>6</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>3</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>6.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>3</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>1</td>
+<td>4</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>1</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>6</td>
+<td bgcolor="red">P</td>
+<td>4</td>
+<td>2.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>4</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>6</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>5</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>2</td>
+<td bgcolor="red">P</td>
+<td>3</td>
+<td>3.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>5</td>
+<td>Jukka Tuovinen</td>
+<td>1</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>3</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>6</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>1</td>
+<td bgcolor="red">P</td>
+<td>2</td>
+<td>4.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>6</td>
+<td>Petri Haikola</td>
+<td>1</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>4</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>5</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>5</td>
+<td>1.</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Haikola Petri</td>
+<td>176-4</td>
+<td>5 /5</td>
+<td>181</td>
+<td>3</td>
+<td>131!</td>
+<td>153-5</td>
+<td>1629</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvistMikko</td>
+<td>148-52</td>
+<td>4 /5</td>
+<td>172</td>
+<td>3&frac12;</td>
+<td>142</td>
+<td>147-53</td>
+<td>1671</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman Olavi</td>
+<td>163-64</td>
+<td>3 /5</td>
+<td>172</td>
+<td>3</td>
+<td>162</td>
+<td>163-65</td>
+<td>1559</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tuovinen Jukka</td>
+<td>170-45</td>
+<td>2 /5</td>
+<td>172</td>
+<td>2&frac12;</td>
+<td>182</td>
+<td>172-46</td>
+<td>1496</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Ojala Tuomo</td>
+<td>199-12</td>
+<td>1 /5</td>
+<td>176</td>
+<td>1&frac12;</td>
+<td>206</td>
+<td>200-13</td>
+<td>1300</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Riskula Tero</td>
+<td>248-48</td>
+<td>0 /5</td>
+<td>198</td>
+<td>0</td>
+<td>248</td>
+<td>248-49</td>
+<td>964</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2013"></a>
+## Vuoden 2013 tuloksia
+
+<a id="Alypelifestivaali_2013"></a>
+### Oulun Älypelifestivaalin (23.11.-8.12.2013) tuloksia
+
+<p> Xiangqi-kilpailu su 8.12.2013 :</p>
+
+<p> Peliajat olivat 15 min + 15 s/siirto. Kisoissa
+pelattiin kaksinkertainen sarja, jossa
+kukin pelaaja pelasi siis kaikkia muita pelaajia vastaan kaksi kertaa.
+Voitosta sai pisteen
+ja tasapelist&auml; puoli pistett&auml;.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="40%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffcc" width="20%"> <b>Pisteet</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">1</td>
+<td align="left">Tolonen Jouni</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">2</td>
+<td align="left">Skotnicki Rikard (SWE)</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1,5</td>
+<td>1,5</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">3</td>
+<td align="left">Simo Lehtonen</td>
+<td>0</td>
+<td>0,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="SM_2013"></a>
+### SM-kisojen 23.-24.11.2013 tuloksia
+
+<p> Ajat : 60 minuuttia ja 30 sekuntia siirtoa kohden</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<p> Alla olevassa taulukossa on annettu kunkin kierroksen
+kohdalla ensin tulos (0 - h&auml;vi&ouml;, 1/2 - tasapeli, 1 - voitto),
+sitten vastustajan numero ja lopuksi pelaajan v&auml;ri. Harmaalla taustalla
+on merkitty kierroksia, jolla ko. pelaaja
+oli lepovuorossa tai estynyt pelaamasta.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>no</td>
+<td>Nimi</td>
+<td colspan="3">1k</td>
+<td colspan="3">2k</td>
+<td colspan="3">3k</td>
+<td colspan="3">4k</td>
+<td colspan="3">5k</td>
+<td>&sum;</td>
+<td>Bu</td>
+<td>Sij</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Zhang Weibin</td>
+<td>&frac12;</td>
+<td>5</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>6</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>7</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>3</td>
+<td bgcolor="red">P</td>
+<td>4&frac12;</td>
+<td>&nbsp;</td>
+<td>1.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>2</td>
+<td>Fu Bo</td>
+<td>1</td>
+<td>10</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>1</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>9</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>8</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>4</td>
+<td>&nbsp;</td>
+<td>2.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>1</td>
+<td>8</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>6</td>
+<td bgcolor="red">P</td>
+<td>&frac12;</td>
+<td>7</td>
+<td class="black_bkg">M</td>
+<td>&frac12;</td>
+<td>5</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>3</td>
+<td>12&frac12;</td>
+<td>3.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td>9</td>
+<td bgcolor="red">P</td>
+<td>&frac12;</td>
+<td>5</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>11</td>
+<td bgcolor="red">P</td>
+<td>&frac12;</td>
+<td>6</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>7</td>
+<td class="black_bkg">M</td>
+<td>3</td>
+<td>10</td>
+<td>4.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>5</td>
+<td>Jukka Tuovinen</td>
+<td>&frac12;</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>&frac12;</td>
+<td>4</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>0</td>
+<td class="grey_bkg">0</td>
+<td>&frac12;</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>2</td>
+<td bgcolor="red">P</td>
+<td>2&frac12;</td>
+<td>14&frac12;</td>
+<td>5.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>6</td>
+<td>Arto Vaara</td>
+<td>1</td>
+<td>11</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>3</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>1</td>
+<td bgcolor="red">P</td>
+<td>&frac12;</td>
+<td>4</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>9</td>
+<td class="black_bkg">M</td>
+<td>2&frac12;</td>
+<td>13</td>
+<td>6.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>7</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>1</td>
+<td>0</td>
+<td class="grey_bkg">0</td>
+<td>1</td>
+<td>9</td>
+<td class="black_bkg">M</td>
+<td>&frac12;</td>
+<td>3</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>1</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>4</td>
+<td bgcolor="red">P</td>
+<td>2&frac12;</td>
+<td>12&frac12;</td>
+<td>7.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>8</td>
+<td>Tuomo Ojala</td>
+<td>0</td>
+<td>3</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>0</td>
+<td class="grey_bkg">0</td>
+<td>1</td>
+<td>10</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>2</td>
+<td bgcolor="red">P</td>
+<td>&frac12;</td>
+<td>11</td>
+<td class="black_bkg">M</td>
+<td>2&frac12;</td>
+<td>8&frac12;</td>
+<td>8.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>9</td>
+<td>Petri Haikola</td>
+<td>1</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>7</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>2</td>
+<td class="black_bkg">M</td>
+<td>1</td>
+<td>11</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>6</td>
+<td bgcolor="red">P</td>
+<td>2</td>
+<td>&nbsp;</td>
+<td>9.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>10</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>0</td>
+<td>2</td>
+<td bgcolor="red">P</td>
+<td>1</td>
+<td>11</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>8</td>
+<td bgcolor="red">P</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>10.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>11</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>6</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>10</td>
+<td bgcolor="red">P</td>
+<td>0</td>
+<td>4</td>
+<td class="black_bkg">M</td>
+<td>0</td>
+<td>9</td>
+<td class="black_bkg">M</td>
+<td>&frac12;</td>
+<td>8</td>
+<td bgcolor="red">P</td>
+<td>&frac12;</td>
+<td>&nbsp;</td>
+<td>11.</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Zhang Weibin</td>
+<td>----</td>
+<td>4&frac12;/5</td>
+<td>154</td>
+<td>&nbsp;</td>
+<td>114</td>
+<td>114-1</td>
+<td>1902</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Fu Bo</td>
+<td>----</td>
+<td>4 /5</td>
+<td>166</td>
+<td>&nbsp;</td>
+<td>136</td>
+<td>136-1</td>
+<td>1748</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman Olavi</td>
+<td>167-63</td>
+<td>3 /5</td>
+<td>161</td>
+<td>2</td>
+<td>151</td>
+<td>163-64</td>
+<td>1559</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>143-51</td>
+<td>3 /5</td>
+<td>172</td>
+<td>4</td>
+<td>162</td>
+<td>148-52</td>
+<td>1664</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tuovinen Jukka</td>
+<td>174-44</td>
+<td>1&frac12;/4</td>
+<td>143</td>
+<td>&frac12;</td>
+<td>155</td>
+<td>170-45</td>
+<td>1510</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Vaara Arto</td>
+<td>172-43</td>
+<td>2&frac12;/5</td>
+<td>166</td>
+<td>2</td>
+<td>166</td>
+<td>170-44</td>
+<td>1510</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>R&auml;m&ouml; Jouni</td>
+<td>141-82</td>
+<td>1&frac12;/4</td>
+<td>151</td>
+<td>2&frac12;</td>
+<td>163</td>
+<td>145-83</td>
+<td>1685</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ojala Tuomo</td>
+<td>199-11</td>
+<td>1&frac12;/4</td>
+<td>185</td>
+<td>1&frac12;</td>
+<td>198</td>
+<td>199-12</td>
+<td>1307</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Haikola Petri</td>
+<td>178-3</td>
+<td>2 /5</td>
+<td>164</td>
+<td>2</td>
+<td>174</td>
+<td>176-4</td>
+<td>1468</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>R&ouml;nkk&ouml; Seppo</td>
+<td>176-22</td>
+<td>1 /3</td>
+<td>187</td>
+<td>2</td>
+<td>204</td>
+<td>181-23</td>
+<td>1433</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Riskula Tero</td>
+<td>251-47</td>
+<td>&frac12;/5</td>
+<td>201</td>
+<td>0</td>
+<td>241</td>
+<td>248-48</td>
+<td>964</td>
+<td>3:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="MM_2013"></a>
+### Huizhoun MM-kisojen 21.10.-27.10.2013 tuloksia
+
+<p> Rankingtilanne l&ouml;ytyy <a href="http://www.01xq.com/archives/ShowRank.asp?eid=100001574">
+t&auml;lt&auml;</a> englanninkieliselt&auml; sivustolta. Huomaa, ett&auml; Mikko
+T&ouml;rnqvist on listattu kiinalaisella nimell&auml;&auml;n Deng MingGao, Olavi
+Stenman nimell&auml; ShiTianMan ja Sulo Truong nimell&auml; Zhang Derong. </p>
+
+<p> Paritukset ja pelitulokset on my&ouml;s listattu
+pelaajakohtaisesti : <br/>
+<a href="http://www.01xq.com/archives/ShowPlayer.asp?eid=100001574&amp;P=53">
+Sulo Truong </a><br/>
+<a href="http://www.01xq.com/archives/ShowPlayer.asp?eid=100001574&amp;P=58">
+Mikko T&ouml;rnqvist</a><br/>
+<a href="http://www.01xq.com/archives/ShowPlayer.asp?eid=100001574&amp;P=30">
+Jouni R&auml;m&ouml;</a><br/>
+<a href="http://www.01xq.com/archives/ShowPlayer.asp?eid=100001574&amp;P=49">
+Olavi Stenman</a><br/>
+Osassa sivuista on my&ouml;s laitettu mukaan pelip&ouml;yt&auml;kirja
+linkin "Game" per&auml;&auml;n.
+</p>
+
+<p> Peliajat ovat 60 min + 30 s/siirto. Vastustajien
+nimiss&auml; sukunimi kirjoitettu isoin kirjaimin. </p>
+
+<p> Pelej&auml; pelataan Suomen aikaa klo 8-12 ja 14:30-17:30. </p>
+
+<table border="3" cellpadding="1" cellspacing="1" style="border: medium none ;" width="100%">
+<tbody>
+<tr>
+<th colspan="7"> 1. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> Xu Zhenghao </td>
+<td> 许正豪 </td>
+<td> Singapore </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> GEREMY Xavier </td>
+<td> &nbsp; </td>
+<td> Ranska </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Krishna Sankirtan </td>
+<td> 基沙纳 </td>
+<td> Thaimaa </td>
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> Chen Fazuo</td>
+<td> 陈发佐 </td>
+<td> Iso-Britannia </td>
+<td> 0 - 2 </td>
+</tr>
+<tr>
+<th colspan="7"> 2. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> KLEIN Andreas </td>
+<td> &nbsp; </td>
+<td> Saksa </td>
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> TonThatNhatTan </td>
+<td> 宗室日新 </td>
+<td> Vietnam </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> Kon Island </td>
+<td> 邝伟德 </td>
+<td> Hongkong </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> GLADYSHEV Dmitry </td>
+<td> &nbsp; </td>
+<td> Ven&auml;j&auml; </td>
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> 0 - 2 </td>
+</tr>
+<tr>
+<th colspan="7"> 3. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> GLADYSHEV Dmitry </td>
+<td> &nbsp; </td>
+<td> Ven&auml;j&auml; </td>
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Christophe Chea </td>
+<td> &nbsp; </td>
+<td> Ranska </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Liao Minghao </td>
+<td> 廖铭濠 </td>
+<td> Singapore </td>
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> YU Anthony </td>
+<td> 余穗康 </td>
+<td> Australia </td>
+<td> 0 - 2 </td>
+</tr>
+<tr>
+<th colspan="7"> 4. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> SLOAN Sam </td>
+<td> &nbsp; </td>
+<td> USA L&auml;nsi </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> HUANG Chunlong </td>
+<td> 黄春龙 </td>
+<td> Iso-Britannia </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> DENG Yibing </td>
+<td> 邓宜兵 </td>
+<td> Australia </td>
+<td> 1 - 1 </td>
+</tr>
+<tr align="center">
+<td> ZHOU RuiDong </td>
+<td> 周瑞东 </td>
+<td> Italia </td>
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr>
+<th colspan="7"> 5. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> FRISCHMUTH Uwe</td>
+<td> &nbsp; </td>
+<td> Saksa </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Tin Win </td>
+<td> 黄必富 </td>
+<td> Myanmar </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> SHOSHI Kazuharu </td>
+<td> 所司和晴 </td>
+<td> Japani </td>
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> FREYER Guido </td>
+<td> &nbsp; </td>
+<td> Saksa </td>
+<td> 2 - 0 </td>
+</tr>
+<tr>
+<th colspan="7"> 6. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> Daniil Zorin</td>
+<td> &nbsp; </td>
+<td> Ven&auml;j&auml; </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> Wichian Leangpansakul </td>
+<td> 梁金德 </td>
+<td> Thaimaa </td>
+<td> 2 - 0 </td>
+</tr>
+<tr>
+<th colspan="7"> 7. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> AKIYOSHI Kazuyoshi</td>
+<td> 秋吉一功 </td>
+<td> Japani </td>
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Kayrel Nielhan Bin </td>
+<td> 嘉涵 </td>
+<td> It&auml;-Malesia </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Anuar BIN BAKRI </td>
+<td> &nbsp; </td>
+<td> Malesia </td>
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> KLEIN Andreas </td>
+<td> &nbsp; </td>
+<td> Saksa </td>
+<td> 0 - 2 </td>
+</tr>
+<tr>
+<th colspan="7"> 8. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> DEMIN Alexander</td>
+<td> &nbsp; </td>
+<td> Ven&auml;j&auml; </td>
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Kon Island </td>
+<td> 邝伟德 </td>
+<td> Hongkong </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> XU Xianming </td>
+<td> 许显銘 </td>
+<td> Brunei </td>
+<td> 2 - 0 </td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> Wichian Leangpansakul </td>
+<td> 梁金德 </td>
+<td> Thaimaa </td>
+<td> 0 - 2 </td>
+</tr>
+<tr>
+<th colspan="7"> 9. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> TRUONG Sulo </td>
+<td> 张德荣 </td>
+<td> Suomi </td>
+<td> Olavi Stenman </td>
+<td> 史天曼 </td>
+<td> Suomi </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Wichian Leangpansakul </td>
+<td> 梁金德 </td>
+<td> Thaimaa </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 0 - 2 </td>
+</tr>
+<tr align="center">
+<td> Joe BLOW (BOWIE Matt) </td>
+<td> &nbsp; </td>
+<td> It&auml;-USA </td>
+<td> Jouni R&Auml;M&Ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 2 - 0 </td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Mustniemi_2013"></a>
+### Mustniemen turnauksen 10.-11.8.2013 tuloksia
+
+<p> Paikka: Mustniemen m&ouml;kki, Luum&auml;ki</p>
+
+<p> Peliajat olivat 30 min + 30 min.</p>
+
+<a id="a-ryhma"></a>
+#### A-ryhmä
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="30%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffcc" width="20%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>Sij.</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">1</td>
+<td>Jukka Tuovinen</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&frac12;</td>
+<td>&frac12;</td>
+<td>4</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">2</td>
+<td>Olavi Stenman</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">3</td>
+<td>Mei Peng</td>
+<td>1</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">4</td>
+<td>Arto Vaara</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1&frac12;</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+
+<h4>Alkusarjat</h4>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>1k</td>
+<td>1 - 2</td>
+<td>3 - 4</td>
+</tr>
+<tr>
+<td>2k</td>
+<td>3 - 1</td>
+<td>4 - 2</td>
+</tr>
+<tr>
+<td>3k</td>
+<td>1 - 4</td>
+<td>2 - 3</td>
+</tr>
+</tbody>
+</table>
+
+<a id="b-ryhma"></a>
+#### B-ryhmä
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="30%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffcc" width="20%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>Sij.</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">1</td>
+<td>Timo Aitta</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>0</td>
+<td>1&frac12;</td>
+<td>3*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">2</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>&frac12;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1&frac12;</td>
+<td>2*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">3</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>3</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+<p> * V&auml;rivertailu</p>
+
+<a id="1-ryhma-sijat-1-4"></a>
+#### 1-ryhmä (sijat 1-4)
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="30%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="5%"> <b>A1</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>A2</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>B1</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>B2</b>
+</td>
+<td bgcolor="#ccffcc" width="20%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>Sij.</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">A1</td>
+<td>Mei Peng</td>
+<td bgcolor="#404040">&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">A2</td>
+<td>Arto Vaara</td>
+<td bgcolor="silver">0</td>
+<td bgcolor="#404040">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>3*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">B1</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="#404040">&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>1</td>
+<td>4*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">B2</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0</td>
+<td>1</td>
+<td bgcolor="silver">0</td>
+<td bgcolor="#404040">&nbsp;</td>
+<td>1</td>
+<td>2*</td>
+</tr>
+</tbody>
+</table>
+
+<h4>Sijat 1-4 </h4>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>1k</td>
+<td>A1-B2</td>
+<td>A2-B1</td>
+</tr>
+<tr>
+<td>2k</td>
+<td>B1-A1</td>
+<td>B2-A2</td>
+</tr>
+</tbody>
+</table>
+
+<p> * V&auml;rivertailu, keskin&auml;inen peli</p>
+
+<p> <span style="color: silver;">Hopeisella
+merkityt</span> pelitulokset ovat per&auml;isin alkuryhm&auml;st&auml;. </p>
+
+<a id="2-ryhma-sijat-5-8"></a>
+#### 2-ryhmä (sijat 5-8)
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="30%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="5%"> <b>A3</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>A4</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>B3</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>B4</b>
+</td>
+<td bgcolor="#ccffcc" width="20%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>Sij.</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">A3</td>
+<td>Olavi Stenman</td>
+<td bgcolor="#404040">&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>2&frac12;</td>
+<td>5</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">A4</td>
+<td>Jukka Tuovinen</td>
+<td bgcolor="silver">0</td>
+<td bgcolor="#404040">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>6</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">B3</td>
+<td>Timo Aitta</td>
+<td>&frac12;</td>
+<td>0</td>
+<td bgcolor="#404040">&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>1&frac12;</td>
+<td>7</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">B4</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">0</td>
+<td bgcolor="#404040">&nbsp;</td>
+<td>0</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+<h4>Sijat 5-8 </h4>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>1k</td>
+<td>A3-B4</td>
+<td>A4-B3</td>
+</tr>
+<tr>
+<td>2k</td>
+<td>B3-A3</td>
+<td>B4-A4</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Turnaus_13072013"></a>
+### Heinäkuun turnauksen 13.7.2013 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>Pist.</td>
+<td>Sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sun Jian</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4&frac12;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>&frac12;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3&frac12;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Timo Aitta</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sun Jian</td>
+<td>91-6</td>
+<td>4&frac12;/5</td>
+<td>141</td>
+<td>5</td>
+<td>101</td>
+<td>93-7</td>
+<td>2049</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>R&auml;m&ouml; Jouni</td>
+<td>148-79</td>
+<td>4 /5</td>
+<td>155</td>
+<td>3</td>
+<td>125</td>
+<td>145-80</td>
+<td>1685</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>142-48</td>
+<td>3&frac12;/5</td>
+<td>154</td>
+<td>3</td>
+<td>134</td>
+<td>141-49</td>
+<td>1713</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stenman Olavi</td>
+<td>167-60</td>
+<td>2 /5</td>
+<td>158</td>
+<td>2</td>
+<td>168</td>
+<td>167-61</td>
+<td>1531</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Aitta Timo</td>
+<td>169-32</td>
+<td>1 /5</td>
+<td>158</td>
+<td>2</td>
+<td>188</td>
+<td>172-33</td>
+<td>1496</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>L&ouml;fstr&ouml;m Elina</td>
+<td>213-7</td>
+<td>0 /5</td>
+<td>165</td>
+<td>0</td>
+<td>215</td>
+<td>213-8</td>
+<td>1209</td>
+<td>4:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Turnaus_13072013-2"></a>
+### Heinäkuun turnauksen 14.7.2013 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>Pist.</td>
+<td>Sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Timo Aitta</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>1</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>3&frac12;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td>0</td>
+<td>&frac12;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2&frac12;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>145-80</td>
+<td>4 /5</td>
+<td>174</td>
+<td>4</td>
+<td>144</td>
+<td>145-81</td>
+<td>1685</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Timo Aitta</td>
+<td>172-33</td>
+<td>4 /5</td>
+<td>178</td>
+<td>3</td>
+<td>148</td>
+<td>169-34</td>
+<td>1517</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>167-61</td>
+<td>3&frac12;/5</td>
+<td>178</td>
+<td>3</td>
+<td>158</td>
+<td>166-62</td>
+<td>1538</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>141-49</td>
+<td>2&frac12;/5</td>
+<td>173</td>
+<td>4</td>
+<td>173</td>
+<td>146-50</td>
+<td>1678</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tero Riskula</td>
+<td>254-46</td>
+<td>1 /5</td>
+<td>206</td>
+<td>0</td>
+<td>236</td>
+<td>251-47</td>
+<td>943</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>213-8</td>
+<td>0 /5</td>
+<td>184</td>
+<td>1</td>
+<td>234</td>
+<td>217-9</td>
+<td>1181</td>
+<td>4:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Kes-turnaus_29062013"></a>
+### Kesäkuun turnauksen 29.6.2013 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>Pist.</td>
+<td>Sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3&frac12;</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi Stenman</td>
+<td>&frac12;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3&frac12;</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Timo Aitta</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Teemu Matvejeff</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Etunimi</td>
+<td>Sukunimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>T&ouml;rnqvist</td>
+<td>Mikko</td>
+<td>142-47</td>
+<td>3&frac12;/4</td>
+<td>180</td>
+<td>3&frac12;</td>
+<td>143</td>
+<td>142-48</td>
+<td>1706</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Stenman</td>
+<td>Olavi</td>
+<td>169-59</td>
+<td>3&frac12;/4</td>
+<td>187</td>
+<td>2&frac12;</td>
+<td>149</td>
+<td>167-60</td>
+<td>1531</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Aitta</td>
+<td>Timo</td>
+<td>167-31</td>
+<td>2/4</td>
+<td>186</td>
+<td>3</td>
+<td>186</td>
+<td>169-32</td>
+<td>1517</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Riskula</td>
+<td>Tero</td>
+<td>256-45</td>
+<td>1/4</td>
+<td>212</td>
+<td>&frac12;</td>
+<td>237</td>
+<td>254-46</td>
+<td>922</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Matvejeff</td>
+<td>Teemu</td>
+<td>231-7</td>
+<td>0/4</td>
+<td>200</td>
+<td>1</td>
+<td>250</td>
+<td>234-8</td>
+<td>1062</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="EM_2013"></a>
+### EM-kisojen 15.-16.5.2013 tuloksia
+
+<p> Ajat : 50 minuuttia + 10 sek. / siirto</p>
+
+<p> Paikka : Dong Ya -ravintola, Via Paolo Sarpi 3, Milano,
+Italia</p>
+
+<p> Kaikki pelip&ouml;yt&auml;kirjat peleist&auml; (1-100) ovat
+ladattavissa <a href="https://shakki.info/asiakirjat/2013_EM_Kisat_pelipoytakirjat.zip">t&auml;&auml;lt&auml;</a>.
+</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Pos</td>
+<td>Pts</td>
+<td>ID</td>
+<td>Ctg</td>
+<td>NAME</td>
+<td>Rtg</td>
+<td>Fed</td>
+<td>Buc1</td>
+<td>BucT</td>
+</tr>
+<tr>
+<td>1</td>
+<td>6.0</td>
+<td>38</td>
+<td>NC</td>
+<td>Xue Honglin</td>
+<td>0</td>
+<td>ITA</td>
+<td>26.5</td>
+<td>29.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>5.5</td>
+<td>6</td>
+<td>GM</td>
+<td>He ZhiMin</td>
+<td>2000</td>
+<td>ITA</td>
+<td>27.5</td>
+<td>28.5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>5.5</td>
+<td>11</td>
+<td>NC</td>
+<td>FANG Dingliang</td>
+<td>1800</td>
+<td>ITA</td>
+<td>26.5</td>
+<td>28.5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>5.0</td>
+<td>1</td>
+<td>GM</td>
+<td>DANG Nicolas</td>
+<td>2400</td>
+<td>FRA</td>
+<td>30.5</td>
+<td>34.0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5.0</td>
+<td>2</td>
+<td>GM</td>
+<td>Huang Chunlong</td>
+<td>2300</td>
+<td>ENG</td>
+<td>27.0</td>
+<td>29.0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>5.0</td>
+<td>3</td>
+<td>GM</td>
+<td>PU Fangyao</td>
+<td>2200</td>
+<td>GER</td>
+<td>25.5</td>
+<td>28.5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>4.5</td>
+<td>27</td>
+<td>M</td>
+<td>PHUNG Kim Dang</td>
+<td>1400</td>
+<td>FRA</td>
+<td>30.5</td>
+<td>34.5</td>
+</tr>
+<tr>
+<td>8</td>
+<td>4.5</td>
+<td>4</td>
+<td>GM</td>
+<td>Chen Fazuo</td>
+<td>2100</td>
+<td>ENG</td>
+<td>27.0</td>
+<td>30.0</td>
+</tr>
+<tr>
+<td>9</td>
+<td>4.5</td>
+<td>10</td>
+<td>M</td>
+<td>Hu YunSheng</td>
+<td>1800</td>
+<td>ITA</td>
+<td>25.0</td>
+<td>28.0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>4.5</td>
+<td>29</td>
+<td>NC</td>
+<td>NGUYEN Marc Antoin</td>
+<td>1400</td>
+<td>FRA</td>
+<td>24.0</td>
+<td>26.5</td>
+</tr>
+<tr>
+<td>11</td>
+<td>4.5</td>
+<td>7</td>
+<td>NC</td>
+<td>WENG Hanming</td>
+<td>1990</td>
+<td>GER</td>
+<td>24.0</td>
+<td>25.5</td>
+</tr>
+<tr>
+<td>12</td>
+<td>4.5</td>
+<td>15</td>
+<td>NC</td>
+<td>ZHU Yueping</td>
+<td>1779</td>
+<td>ITA</td>
+<td>22.5</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td>13</td>
+<td>4.0</td>
+<td>5</td>
+<td>M</td>
+<td>XUE Zhong</td>
+<td>2100</td>
+<td>GER</td>
+<td>29.5</td>
+<td>32.0</td>
+</tr>
+<tr>
+<td>14</td>
+<td>4.0</td>
+<td>8</td>
+<td>NC</td>
+<td>VUIBERT J&eacute;r&ocirc;me</td>
+<td>1900</td>
+<td>FRA</td>
+<td>24.0</td>
+<td>25.0</td>
+</tr>
+<tr>
+<td>15</td>
+<td>4.0</td>
+<td>23</td>
+<td>NC</td>
+<td>CHEA Christophe</td>
+<td>1500</td>
+<td>FRA</td>
+<td>23.5</td>
+<td>25.5</td>
+</tr>
+<tr>
+<td>16</td>
+<td>4.0</td>
+<td>31</td>
+<td>NC</td>
+<td>TRAN Luck</td>
+<td>1300</td>
+<td>FRA</td>
+<td>23.0</td>
+<td>25.5</td>
+</tr>
+<tr>
+<td>17</td>
+<td>3.5</td>
+<td>36</td>
+<td>NC</td>
+<td>SHAO Yinglin</td>
+<td>1100</td>
+<td>FRA</td>
+<td>23.5</td>
+<td>25.5</td>
+</tr>
+<tr>
+<td>18</td>
+<td>3.5</td>
+<td>12</td>
+<td>NC</td>
+<td>HU Yue</td>
+<td>1800</td>
+<td>ITA</td>
+<td>23.5</td>
+<td>25.0</td>
+</tr>
+<tr>
+<td>19</td>
+<td>3.5</td>
+<td>16</td>
+<td>NC</td>
+<td>Chen Xiaoyong</td>
+<td>1700</td>
+<td>ITA</td>
+<td>22.5</td>
+<td>25.0</td>
+</tr>
+<tr>
+<td>20</td>
+<td>3.5</td>
+<td>17</td>
+<td>NC</td>
+<td>CAI Jinjun</td>
+<td>1670</td>
+<td>ITA</td>
+<td>22.0</td>
+<td>24.0</td>
+</tr>
+<tr>
+<td>21</td>
+<td>3.5</td>
+<td>34</td>
+<td>NC</td>
+<td>LU Nh&acirc;t Phuong</td>
+<td>1200</td>
+<td>FRA</td>
+<td>21.5</td>
+<td>23.5</td>
+</tr>
+<tr>
+<td>22</td>
+<td>3.5</td>
+<td>22</td>
+<td>NC</td>
+<td>WANG Wei</td>
+<td>1550</td>
+<td>ITA</td>
+<td>21.0</td>
+<td>23.0</td>
+</tr>
+<tr>
+<td>23</td>
+<td>3.5</td>
+<td>20</td>
+<td>NC</td>
+<td>XU Quanwang</td>
+<td>1600</td>
+<td>ITA</td>
+<td>20.5</td>
+<td>21.5</td>
+</tr>
+<tr bgcolor="red">
+<td>24</td>
+<td>3.0</td>
+<td>19</td>
+<td>NCN</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>1600</td>
+<td>FIN</td>
+<td>22.0</td>
+<td>24.0</td>
+</tr>
+<tr>
+<td>25</td>
+<td>3.0</td>
+<td>14</td>
+<td>NC</td>
+<td>LIN Xilong</td>
+<td>1790</td>
+<td>ITA</td>
+<td>22.0</td>
+<td>23.0</td>
+</tr>
+<tr>
+<td>26</td>
+<td>3.0</td>
+<td>13</td>
+<td>NCN</td>
+<td>NAEGLER Michael</td>
+<td>1800</td>
+<td>GER</td>
+<td>21.0</td>
+<td>23.0</td>
+</tr>
+<tr>
+<td>27</td>
+<td>3.0</td>
+<td>35</td>
+<td>NCN</td>
+<td>Trombettoni Andrea</td>
+<td>1200</td>
+<td>ITA</td>
+<td>20.5</td>
+<td>22.0</td>
+</tr>
+<tr>
+<td>28</td>
+<td>2.5</td>
+<td>9</td>
+<td>M</td>
+<td>CAO Qu&ocirc;c Chi Phili</td>
+<td>1890</td>
+<td>FRA</td>
+<td>25.5</td>
+<td>28.0</td>
+</tr>
+<tr bgcolor="red">
+<td>29</td>
+<td>2.5</td>
+<td>24</td>
+<td>NCN</td>
+<td>R&auml;m&ouml; Jouni</td>
+<td>1500</td>
+<td>FIN</td>
+<td>19.5</td>
+<td>21.5</td>
+</tr>
+<tr>
+<td>30</td>
+<td>2.5</td>
+<td>28</td>
+<td>NC</td>
+<td>GEREMY Xavier</td>
+<td>1400</td>
+<td>FRA</td>
+<td>17.5</td>
+<td>18.5</td>
+</tr>
+<tr>
+<td>31</td>
+<td>2.0</td>
+<td>30</td>
+<td>NC</td>
+<td>FREYER Guido</td>
+<td>1300</td>
+<td>GER</td>
+<td>20.0</td>
+<td>21.5</td>
+</tr>
+<tr>
+<td>32</td>
+<td>2.0</td>
+<td>18</td>
+<td>NC</td>
+<td>SHAO Samuer</td>
+<td>1600</td>
+<td>FRA</td>
+<td>20.0</td>
+<td>21.5</td>
+</tr>
+<tr>
+<td>33</td>
+<td>2.0</td>
+<td>21</td>
+<td>NC</td>
+<td>Skotnicki Rikard</td>
+<td>1550</td>
+<td>SVE</td>
+<td>17.0</td>
+<td>18.5</td>
+</tr>
+<tr>
+<td>34</td>
+<td>2.0</td>
+<td>32</td>
+<td>NC</td>
+<td>Berger Martin</td>
+<td>1200</td>
+<td>GER</td>
+<td>15.0</td>
+<td>16.5</td>
+</tr>
+<tr>
+<td>35</td>
+<td>2.0</td>
+<td>37</td>
+<td>NC</td>
+<td>ZHOU Binbin</td>
+<td>1000</td>
+<td>FRA</td>
+<td>13.5</td>
+<td>14.5</td>
+</tr>
+<tr>
+<td>36</td>
+<td>1.5</td>
+<td>26</td>
+<td>NCN</td>
+<td>Veronesi Carlo Alb</td>
+<td>1500</td>
+<td>ITA</td>
+<td>17.0</td>
+<td>19.0</td>
+</tr>
+<tr>
+<td>37</td>
+<td>1.5</td>
+<td>33</td>
+<td>NC</td>
+<td>CHEN Min</td>
+<td>1200</td>
+<td>GER</td>
+<td>14.5</td>
+<td>15.5</td>
+</tr>
+<tr bgcolor="red">
+<td>38</td>
+<td>1.0</td>
+<td>25</td>
+<td>NC</td>
+<td>Stenman Olavi</td>
+<td>1500</td>
+<td>FIN</td>
+<td>20.5</td>
+<td>22.0</td>
+</tr>
+</tbody>
+</table>
+
+<p> Ottelut kierroksittain : + merkitsee voittoa, - h&auml;vi&ouml;t&auml;
+ja = tasapeli&auml;. W merkitsee peli&auml; punaisilla
+ja B mustilla. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>ID</td>
+<td>Sukunimi</td>
+<td>Etunimi</td>
+<td>Ranking</td>
+<td>Ctg</td>
+<td>Maa</td>
+<td>Pisteet</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<td>1</td>
+<td>DANG</td>
+<td>Nicolas</td>
+<td>2400</td>
+<td>GM</td>
+<td>FRA</td>
+<td>5</td>
+<td>+W20</td>
+<td>+B11</td>
+<td>+W6</td>
+<td>-B38</td>
+<td>+W4</td>
+<td>-B2</td>
+<td>+W5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Huang</td>
+<td>Chunlong</td>
+<td>2300</td>
+<td>GM</td>
+<td>ENG</td>
+<td>5</td>
+<td>+B21</td>
+<td>+Wl3</td>
+<td>=B5</td>
+<td>+W7</td>
+<td>=B27</td>
+<td>+W1</td>
+<td>-B38</td>
+</tr>
+<tr>
+<td>3</td>
+<td>PU</td>
+<td>Fangyao</td>
+<td>2200</td>
+<td>GM</td>
+<td>GER</td>
+<td>5</td>
+<td>+W22</td>
+<td>+Bl4</td>
+<td>-W38</td>
+<td>-W27</td>
+<td>+B23</td>
+<td>+B20</td>
+<td>+W8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Chen</td>
+<td>Fazuo</td>
+<td>2100</td>
+<td>GM</td>
+<td>ENG</td>
+<td>4.5</td>
+<td>+B23</td>
+<td>=W27</td>
+<td>=B7</td>
+<td>+W13</td>
+<td>-Bl</td>
+<td>+W29</td>
+<td>=B15</td>
+</tr>
+<tr>
+<td>5</td>
+<td>XUE</td>
+<td>Zhong</td>
+<td>2100</td>
+<td>M</td>
+<td>GER</td>
+<td>4</td>
+<td>+W24</td>
+<td>+Bl6</td>
+<td>=W2</td>
+<td>+B29</td>
+<td>=W38</td>
+<td>-W6</td>
+<td>-Bl</td>
+</tr>
+<tr>
+<td>6</td>
+<td>He</td>
+<td>ZhiMin</td>
+<td>2000</td>
+<td>GM</td>
+<td>ITA</td>
+<td>5.5</td>
+<td>+B25</td>
+<td>+W31</td>
+<td>-Bl</td>
+<td>+Wl5</td>
+<td>=W11</td>
+<td>+B5</td>
+<td>+B27</td>
+</tr>
+<tr>
+<td>7</td>
+<td>WENG</td>
+<td>Hanminq</td>
+<td>1990</td>
+<td>NC</td>
+<td>GER</td>
+<td>4.5</td>
+<td>+W26</td>
+<td>+B18</td>
+<td>=W4</td>
+<td>-B2</td>
+<td>+Wl6</td>
+<td>+Bl2</td>
+<td>-B11</td>
+</tr>
+<tr>
+<td>8</td>
+<td>VOIBERT</td>
+<td>J&eacute;r&ocirc;me</td>
+<td>1900</td>
+<td>NC</td>
+<td>FRA</td>
+<td>4</td>
+<td>-B27</td>
+<td>+W25</td>
+<td>-B29</td>
+<td>+W28</td>
+<td>+B22</td>
+<td>+W31</td>
+<td>-B3</td>
+</tr>
+<tr>
+<td>9</td>
+<td>CAO</td>
+<td>Qu&ouml;c Chi Philipp</td>
+<td>1890</td>
+<td>M</td>
+<td>FRA</td>
+<td>2.5</td>
+<td>+W28</td>
+<td>-B38</td>
+<td>+W20</td>
+<td>=B16</td>
+<td>-W29</td>
+<td>-Wl5</td>
+<td>-B34</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Hu</td>
+<td>YunShenq</td>
+<td>1800</td>
+<td>M</td>
+<td>ITA</td>
+<td>4.5</td>
+<td>=B29</td>
+<td>+Wl7</td>
+<td>-B27</td>
+<td>+Wl4</td>
+<td>+B36</td>
+<td>-W11</td>
+<td>+Bl2</td>
+</tr>
+<tr>
+<td>11</td>
+<td>FANG</td>
+<td>Dingliang</td>
+<td>1800</td>
+<td>NC</td>
+<td>ITA</td>
+<td>5.5</td>
+<td>+W30</td>
+<td>-Wl</td>
+<td>+Bl9</td>
+<td>+W23</td>
+<td>=B6</td>
+<td>+BlO</td>
+<td>+W7</td>
+</tr>
+<tr>
+<td>12</td>
+<td>HU</td>
+<td>Yue</td>
+<td>1800</td>
+<td>NC</td>
+<td>ITA</td>
+<td>3.5</td>
+<td>-B31</td>
+<td>+W26</td>
+<td>+B22</td>
+<td>=W36</td>
+<td>+B17</td>
+<td>-W7</td>
+<td>-Wl0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>NAEGLER</td>
+<td>Michael</td>
+<td>1800</td>
+<td>NCN</td>
+<td>GER</td>
+<td>3</td>
+<td>+W32</td>
+<td>-B2</td>
+<td>+W24</td>
+<td>-B4</td>
+<td>-W20</td>
+<td>-W36</td>
+<td>+B37</td>
+</tr>
+<tr>
+<td>14</td>
+<td>LIN</td>
+<td>Xilong</td>
+<td>1790</td>
+<td>NC</td>
+<td>ITA</td>
+<td>3</td>
+<td>+B33</td>
+<td>-W3</td>
+<td>-B23</td>
+<td>-BlO</td>
+<td>+W25</td>
+<td>+W19</td>
+<td>-B31</td>
+</tr>
+<tr>
+<td>15</td>
+<td>ZHU</td>
+<td>Yueping</td>
+<td>1779</td>
+<td>NC</td>
+<td>ITA</td>
+<td>4.5</td>
+<td>=W34</td>
+<td>=B36</td>
+<td>+W30</td>
+<td>-B6</td>
+<td>+W35</td>
+<td>+B9</td>
+<td>=W4</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Chen</td>
+<td>Xiaoyong</td>
+<td>1700</td>
+<td>NC</td>
+<td>ITA</td>
+<td>3.5</td>
+<td>+B35</td>
+<td>-W5</td>
+<td>+B31</td>
+<td>=W9</td>
+<td>-B7</td>
+<td>=W17</td>
+<td>=B22</td>
+</tr>
+<tr>
+<td>17</td>
+<td>CAI</td>
+<td>Jinjun</td>
+<td>1670</td>
+<td>NC</td>
+<td>ITA</td>
+<td>3.5</td>
+<td>=W36</td>
+<td>-BlO</td>
+<td>+W34</td>
+<td>+B18</td>
+<td>-W12</td>
+<td>=B16</td>
+<td>=W20</td>
+</tr>
+<tr>
+<td>18</td>
+<td>SHAO</td>
+<td>Samuer</td>
+<td>1600</td>
+<td>NC</td>
+<td>FRA</td>
+<td>2</td>
+<td>+B37</td>
+<td>-W7</td>
+<td>-B36</td>
+<td>-W17</td>
+<td>+B26</td>
+<td>-W22</td>
+<td>-B19</td>
+</tr>
+<tr bgcolor="red">
+<td>19</td>
+<td>T&ouml;rnqvist</td>
+<td>Mikko</td>
+<td>1600</td>
+<td>NCN</td>
+<td>FIN</td>
+<td>3</td>
+<td>-W38</td>
+<td>+B28</td>
+<td>-W11</td>
+<td>-B35</td>
+<td>+W30</td>
+<td>-Bl4</td>
+<td>+W18</td>
+</tr>
+<tr>
+<td>20</td>
+<td>XU</td>
+<td>Quanwang</td>
+<td>1600</td>
+<td>NC</td>
+<td>ITA</td>
+<td>3.5</td>
+<td>-Bl</td>
+<td>+W33</td>
+<td>-B9</td>
+<td>+W25</td>
+<td>+B13</td>
+<td>-W3</td>
+<td>=B17</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Skotnicki</td>
+<td>Rikard</td>
+<td>1550</td>
+<td>NC</td>
+<td>SVE</td>
+<td>2</td>
+<td>-W2</td>
+<td>-B30</td>
+<td>=W32</td>
+<td>-B34</td>
+<td>=W33</td>
+<td>+B26</td>
+<td>-W35</td>
+</tr>
+<tr>
+<td>22</td>
+<td>WANG</td>
+<td>Wei</td>
+<td>1550</td>
+<td>NC</td>
+<td>ITA</td>
+<td>3.5</td>
+<td>-B3</td>
+<td>+W35</td>
+<td>-W12</td>
+<td>+B30</td>
+<td>-W8</td>
+<td>+B18</td>
+<td>=W16</td>
+</tr>
+<tr>
+<td>23</td>
+<td>CHEA</td>
+<td>Christophe</td>
+<td>1500</td>
+<td>NC</td>
+<td>FRA</td>
+<td>4</td>
+<td>-W4</td>
+<td>+B32</td>
+<td>+W14</td>
+<td>-B11</td>
+<td>-W3</td>
+<td>+B35</td>
+<td>+W24</td>
+</tr>
+<tr bgcolor="red">
+<td>24</td>
+<td>R&auml;m&ouml;</td>
+<td>Jouni</td>
+<td>1500</td>
+<td>NCN</td>
+<td>FIN</td>
+<td>2.5</td>
+<td>-B5</td>
+<td>+W37</td>
+<td>-B13</td>
+<td>-W31</td>
+<td>=B28</td>
+<td>+W32</td>
+<td>-B23</td>
+</tr>
+<tr bgcolor="red">
+<td>25</td>
+<td>Stenman</td>
+<td>Olavi</td>
+<td>1500</td>
+<td>NC</td>
+<td>FIN</td>
+<td>1</td>
+<td>-W6</td>
+<td>-B8</td>
+<td>+W33</td>
+<td>-B20</td>
+<td>-Bl4</td>
+<td>-W37</td>
+<td>-B28</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Veronesi</td>
+<td>Carlo Alber</td>
+<td>1500</td>
+<td>NCN</td>
+<td>ITA</td>
+<td>1.5</td>
+<td>-B7</td>
+<td>-B12</td>
+<td>-W35</td>
+<td>+B32</td>
+<td>-W18</td>
+<td>-W21</td>
+<td>=B30</td>
+</tr>
+<tr>
+<td>27</td>
+<td>PHUNG</td>
+<td>Kim Dang</td>
+<td>1400</td>
+<td>M</td>
+<td>FRA</td>
+<td>4.5</td>
+<td>+W8</td>
+<td>=B4</td>
+<td>+WlO</td>
+<td>+B3</td>
+<td>=W2</td>
+<td>=B38</td>
+<td>-W6</td>
+</tr>
+<tr>
+<td>28</td>
+<td>GEREMY</td>
+<td>Xavier</td>
+<td>1400</td>
+<td>NC</td>
+<td>FRA</td>
+<td>2.5</td>
+<td>-B9</td>
+<td>-W19</td>
+<td>+B37</td>
+<td>-B8</td>
+<td>=W24</td>
+<td>-B34</td>
+<td>+W25</td>
+</tr>
+<tr>
+<td>29</td>
+<td>NGUYEN</td>
+<td>Marc Antoine</td>
+<td>1400</td>
+<td>NC</td>
+<td>FRA</td>
+<td>4.5</td>
+<td>=W10</td>
+<td>+B34</td>
+<td>+W8</td>
+<td>-W5</td>
+<td>+B9</td>
+<td>-B4</td>
+<td>+W36</td>
+</tr>
+<tr>
+<td>30</td>
+<td>FREYER</td>
+<td>Guido</td>
+<td>1300</td>
+<td>NC</td>
+<td>GER</td>
+<td>2</td>
+<td>-B11</td>
+<td>+W21</td>
+<td>-B15</td>
+<td>-W22</td>
+<td>-B19</td>
+<td>=B33</td>
+<td>=W26</td>
+</tr>
+<tr>
+<td>31</td>
+<td>TRAN</td>
+<td>Luck</td>
+<td>1300</td>
+<td>NC</td>
+<td>FRA</td>
+<td>4</td>
+<td>+W12</td>
+<td>-B6</td>
+<td>-W16</td>
+<td>+B24</td>
+<td>+W34</td>
+<td>-B8</td>
+<td>+W14</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Berger</td>
+<td>Martin</td>
+<td>1200</td>
+<td>NC</td>
+<td>GER</td>
+<td>2</td>
+<td>-B13</td>
+<td>-W23</td>
+<td>=B21</td>
+<td>-W26</td>
+<td>+B37</td>
+<td>-B24</td>
+<td>=W33</td>
+</tr>
+<tr>
+<td>33</td>
+<td>CHEN</td>
+<td>Min</td>
+<td>1200</td>
+<td>NC</td>
+<td>GER</td>
+<td>1.5</td>
+<td>-W14</td>
+<td>-B20</td>
+<td>-B25</td>
+<td>-W37</td>
+<td>=B21</td>
+<td>=W30</td>
+<td>=B32</td>
+</tr>
+<tr>
+<td>34</td>
+<td>LU</td>
+<td>Nhat Phuong</td>
+<td>1200</td>
+<td>NC</td>
+<td>FRA</td>
+<td>3.5</td>
+<td>=B15</td>
+<td>-W29</td>
+<td>-B17</td>
+<td>+W21</td>
+<td>-B31</td>
+<td>+W28</td>
+<td>+W9</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Trombettoni</td>
+<td>Andrea</td>
+<td>1200</td>
+<td>NCN</td>
+<td>ITA</td>
+<td>3</td>
+<td>-W16</td>
+<td>-B22</td>
+<td>+B26</td>
+<td>+W19</td>
+<td>-Bl5</td>
+<td>-W23</td>
+<td>+B21</td>
+</tr>
+<tr>
+<td>36</td>
+<td>SHAO</td>
+<td>Yinqlin</td>
+<td>1100</td>
+<td>NC</td>
+<td>FRA</td>
+<td>3.5</td>
+<td>=B17</td>
+<td>=W15</td>
+<td>+W18</td>
+<td>=B12</td>
+<td>-WlO</td>
+<td>+B13</td>
+<td>-B29</td>
+</tr>
+<tr>
+<td>37</td>
+<td>ZHOU</td>
+<td>Binbin</td>
+<td>1000</td>
+<td>NC</td>
+<td>FRA</td>
+<td>2</td>
+<td>-W18</td>
+<td>-B24</td>
+<td>-W28</td>
+<td>+B33</td>
+<td>-W32</td>
+<td>+B25</td>
+<td>-W13</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Xue</td>
+<td>Honglin</td>
+<td>0</td>
+<td>NC</td>
+<td>ITA</td>
+<td>6</td>
+<td>+B19</td>
+<td>+W9</td>
+<td>+B3</td>
+<td>+Wl</td>
+<td>=B5</td>
+<td>=W27</td>
+<td>+W2</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>XUE Honglin</td>
+<td>ITA</td>
+<td>----</td>
+<td>6 /7</td>
+<td>78</td>
+<td>&nbsp;</td>
+<td>42</td>
+<td>42-1</td>
+<td>2406</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>2</td>
+<td>HE Zhimin</td>
+<td>ITA</td>
+<td>81-24</td>
+<td>5&frac12;/7</td>
+<td>96</td>
+<td>4&frac12;</td>
+<td>68</td>
+<td>79-25</td>
+<td>2147</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>FANG Dingliang</td>
+<td>ITA</td>
+<td>----</td>
+<td>5&frac12;/7</td>
+<td>106</td>
+<td>&nbsp;</td>
+<td>78</td>
+<td>78-1</td>
+<td>2154</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>4</td>
+<td>DANG Nicolas</td>
+<td>FRA</td>
+<td>63-44</td>
+<td>5 /7</td>
+<td>79</td>
+<td>4&frac12;</td>
+<td>57</td>
+<td>62-45</td>
+<td>2266</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>HUANG Chunlong</td>
+<td>ENG</td>
+<td>67-9</td>
+<td>5 /7</td>
+<td>84</td>
+<td>4&frac12;</td>
+<td>63</td>
+<td>66-10</td>
+<td>2238</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>PU Fangyao</td>
+<td>GER</td>
+<td>72-30</td>
+<td>5 /7</td>
+<td>101</td>
+<td>5&frac12;</td>
+<td>80</td>
+<td>73-31</td>
+<td>2189</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>PHUNG Kim Dang</td>
+<td>FRA</td>
+<td>81-23</td>
+<td>4&frac12;/7</td>
+<td>83</td>
+<td>3&frac12;</td>
+<td>69</td>
+<td>79-24</td>
+<td>2147</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>CHEN Fazuo</td>
+<td>ENG</td>
+<td>93-34</td>
+<td>4&frac12;/7</td>
+<td>103</td>
+<td>4</td>
+<td>89</td>
+<td>92-35</td>
+<td>2056</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>HU Yunsheng</td>
+<td>ITA</td>
+<td>114-10</td>
+<td>4&frac12;/7</td>
+<td>108</td>
+<td>3</td>
+<td>94</td>
+<td>111-11</td>
+<td>1923</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>NGUYEN Marc-Antoine</td>
+<td>FRA</td>
+<td>109-5</td>
+<td>4&frac12;/7</td>
+<td>109</td>
+<td>3&frac12;</td>
+<td>94</td>
+<td>106-6</td>
+<td>1958</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>WENG Hanming</td>
+<td>GER</td>
+<td>101-33</td>
+<td>4&frac12;/7</td>
+<td>111</td>
+<td>4</td>
+<td>97</td>
+<td>100-34</td>
+<td>2000</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>ZHU Yueping</td>
+<td>ITA</td>
+<td>130-2</td>
+<td>4&frac12;/7</td>
+<td>121</td>
+<td>3</td>
+<td>106</td>
+<td>122-3</td>
+<td>1846</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>XUE Zhong</td>
+<td>GER</td>
+<td>76-25</td>
+<td>4 /7</td>
+<td>86</td>
+<td>4</td>
+<td>79</td>
+<td>76-26</td>
+<td>2168</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>VUIBERT J&eacute;r&ocirc;me</td>
+<td>FRA</td>
+<td>113-26</td>
+<td>4 /7</td>
+<td>122</td>
+<td>4</td>
+<td>115</td>
+<td>113-27</td>
+<td>1909</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>CHEA Christophe</td>
+<td>FRA</td>
+<td>165-4</td>
+<td>4 /7</td>
+<td>139</td>
+<td>1&frac12;</td>
+<td>132!</td>
+<td>148-5</td>
+<td>1664</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>TRAN Luck</td>
+<td>FRA</td>
+<td>115-9</td>
+<td>4 /7</td>
+<td>119</td>
+<td>4</td>
+<td>112</td>
+<td>114-10</td>
+<td>1902</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>SHAO Yinglin</td>
+<td>FRA</td>
+<td>----</td>
+<td>3&frac12;/7</td>
+<td>123</td>
+<td>&nbsp;</td>
+<td>123</td>
+<td>123-1</td>
+<td>1839</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>18</td>
+<td>HU Yue</td>
+<td>ITA</td>
+<td>----</td>
+<td>3&frac12;/7</td>
+<td>128</td>
+<td>&nbsp;</td>
+<td>128</td>
+<td>128-1</td>
+<td>1804</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>19</td>
+<td>CHEN Xiaoyong</td>
+<td>ITA</td>
+<td>115-1</td>
+<td>3&frac12;/7</td>
+<td>118</td>
+<td>3&frac12;</td>
+<td>118</td>
+<td>116-2</td>
+<td>1888</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>CAI Jinjun</td>
+<td>ITA</td>
+<td>279(1)os</td>
+<td>3&frac12;/7</td>
+<td>126</td>
+<td>&nbsp;</td>
+<td>126</td>
+<td>145-1</td>
+<td>1685</td>
+<td>1:7</td>
+</tr>
+<tr>
+<td>21</td>
+<td>LU Nh&acirc;t Phuong</td>
+<td>FRA</td>
+<td>----</td>
+<td>3&frac12;/7</td>
+<td>136</td>
+<td>&nbsp;</td>
+<td>136</td>
+<td>136-1</td>
+<td>1748</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>22</td>
+<td>WANG Wei</td>
+<td>ITA</td>
+<td>151-1</td>
+<td>3&frac12;/7</td>
+<td>130</td>
+<td>2</td>
+<td>130</td>
+<td>144-2</td>
+<td>1692</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>23</td>
+<td>XU Quanwang</td>
+<td>ITA</td>
+<td>----</td>
+<td>3&frac12;/7</td>
+<td>116</td>
+<td>&nbsp;</td>
+<td>116</td>
+<td>116-1</td>
+<td>1888</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>24</td>
+<td>T&Ouml;RNQVIST Mikko</td>
+<td>FIN</td>
+<td>142-46</td>
+<td>3 /7</td>
+<td>133</td>
+<td>3</td>
+<td>140</td>
+<td>142-47</td>
+<td>1706</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>25</td>
+<td>LIN Xilong</td>
+<td>ITA</td>
+<td>114-1</td>
+<td>3 /7</td>
+<td>129</td>
+<td>4&frac12;</td>
+<td>136</td>
+<td>121-2</td>
+<td>1853</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>26</td>
+<td>N&Auml;GLER Michael</td>
+<td>GER</td>
+<td>108-105</td>
+<td>3 /7</td>
+<td>123</td>
+<td>4&frac12;</td>
+<td>130</td>
+<td>111-106</td>
+<td>1923</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>27</td>
+<td>TROMBETTONI Andrea</td>
+<td>ITA</td>
+<td>151-7</td>
+<td>3 /7</td>
+<td>146</td>
+<td>3</td>
+<td>154</td>
+<td>152-8</td>
+<td>1636</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>28</td>
+<td>CAO Qu&ocirc;c Chi Philipp</td>
+<td>FRA</td>
+<td>106-14</td>
+<td>2&frac12;/7</td>
+<td>117</td>
+<td>4&frac12;</td>
+<td>131</td>
+<td>110-15</td>
+<td>1930</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>29</td>
+<td>R&Auml;M&Ouml; Jouni</td>
+<td>FIN</td>
+<td>146-78</td>
+<td>2&frac12;/7</td>
+<td>146</td>
+<td>3&frac12;</td>
+<td>161</td>
+<td>148-79</td>
+<td>1664</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>30</td>
+<td>GEREMY Xavier</td>
+<td>FRA</td>
+<td>181-6</td>
+<td>2&frac12;/7</td>
+<td>155</td>
+<td>1&frac12;</td>
+<td>169</td>
+<td>179-7</td>
+<td>1447</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>31</td>
+<td>FREYER Guido</td>
+<td>GER</td>
+<td>155-6</td>
+<td>2 /7</td>
+<td>155</td>
+<td>3&frac12;</td>
+<td>177</td>
+<td>159-7</td>
+<td>1587</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>32</td>
+<td>SHAO Samuer</td>
+<td>FRA</td>
+<td>148-1</td>
+<td>2 /7</td>
+<td>144</td>
+<td>3</td>
+<td>166</td>
+<td>154-2</td>
+<td>1622</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>33</td>
+<td>SKOTNICKI Rikard</td>
+<td>SVE</td>
+<td>187-3</td>
+<td>2 /7</td>
+<td>175</td>
+<td>2&frac12;</td>
+<td>196</td>
+<td>190-4</td>
+<td>1370</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>34</td>
+<td>BERGER Martin</td>
+<td>GER</td>
+<td>247-4</td>
+<td>2 /7</td>
+<td>212</td>
+<td>1</td>
+<td>233</td>
+<td>242-5</td>
+<td>1006</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>35</td>
+<td>ZHOU Binbin</td>
+<td>FRA *</td>
+<td>----</td>
+<td>1 /7</td>
+<td>213</td>
+<td>&nbsp;</td>
+<td>249</td>
+<td>249-1</td>
+<td>957</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>36</td>
+<td>VERONESI Carlo Alberto</td>
+<td>ITA</td>
+<td>168-16</td>
+<td>1&frac12;/7</td>
+<td>158</td>
+<td>3</td>
+<td>186</td>
+<td>171-17</td>
+<td>1503</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>37</td>
+<td>CHEN Min</td>
+<td>GER *</td>
+<td>250-6</td>
+<td>2&frac12;/7</td>
+<td>214</td>
+<td>1</td>
+<td>228</td>
+<td>246-7</td>
+<td>978</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>38</td>
+<td>STENMAN Olavi</td>
+<td>FIN</td>
+<td>166-58</td>
+<td>1 /7</td>
+<td>154</td>
+<td>2&frac12;</td>
+<td>190</td>
+<td>169-59</td>
+<td>1517</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+<p> * according to final table (result ZHOU vs. CHEN
+differs by error)</p>
+
+---
+
+<a id="Kevatturnaus_25052013"></a>
+### Kevätturnauksen 25.5.2013 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pist.</td>
+<td>Sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1&frac12;</td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Timo Aitta</td>
+<td>0</td>
+<td>&frac12;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1&frac12;</td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Etunimi</td>
+<td>Sukunimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mikko</td>
+<td>T&ouml;rnqvist</td>
+<td>144-45</td>
+<td>3/3</td>
+<td>175</td>
+<td>2&frac12;</td>
+<td>125</td>
+<td>142-46</td>
+<td>1706</td>
+<td>10:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi</td>
+<td>Stenman</td>
+<td>165-57</td>
+<td>1&frac12;/3</td>
+<td>175</td>
+<td>2</td>
+<td>175</td>
+<td>166-58</td>
+<td>1538</td>
+<td>10:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Timo</td>
+<td>Aitta</td>
+<td>166-30</td>
+<td>1&frac12;/3</td>
+<td>175</td>
+<td>2</td>
+<td>175</td>
+<td>167-31</td>
+<td>1531</td>
+<td>10:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tero</td>
+<td>Riskula</td>
+<td>256-44</td>
+<td>0/3</td>
+<td>206</td>
+<td>0</td>
+<td>256</td>
+<td>256-45</td>
+<td>908</td>
+<td>10:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Jarvenpaa_09032013"></a>
+### Järvenpään turnauksen 9.3.2013 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Setlementti Louhela, Louhelankuja 1, J&auml;rvenp&auml;&auml;
+</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th></th>
+<td colspan="6"> Ryhm&auml; A
+</td>
+</tr>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pisteet</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Nguyễn, Nh&acirc;n thế</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nguyễn, Truyền</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stenman, Olavi</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>3-4</td>
+</tr>
+</tbody>
+</table>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th></th>
+<td colspan="6"> Ryhm&auml; B
+</td>
+</tr>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pisteet</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Vaara, Arto</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Haikola, Petri</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>1-2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Nguyễn, Ngọc Nương</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>3-4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>&Dstrok;o&agrave;n, &Aacute;i</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>3-4</td>
+</tr>
+</tbody>
+</table>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th></th>
+<td colspan="6"> Ryhm&auml; C
+</td>
+</tr>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pisteet</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Ojala, Tuomo</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Nguyễn, Lập quốc</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2-4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Thanh, Duy</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>2-4</td>
+</tr>
+</tbody>
+</table>
+
+<p> Tulokset ryhmitt&auml;in kultakin kierrokselta:</p>
+
+<p>Ryhm&auml; A: </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Nguyễn, Nh&acirc;n thế</td>
+<td>-</td>
+<td>Nguyễn, Truyền</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>Stenman, Olavi</td>
+<td>-</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>0-1</td>
+</tr>
+<tr>
+<td>Stenman, Olavi</td>
+<td>-</td>
+<td>Nguyễn, Nh&acirc;n thế</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>-</td>
+<td>Nguyễn, Truyen</td>
+<td>0-1</td>
+</tr>
+<tr>
+<td>Nguyễn, Nh&acirc;n thế</td>
+<td>-</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>Nguyễn, Truyền</td>
+<td>-</td>
+<td>Stenman, Olavi</td>
+<td>1-0</td>
+</tr>
+</tbody>
+</table>
+
+<p>Ryhm&auml; B:</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&Dstrok;o&agrave;n, &Aacute;i</td>
+<td>-</td>
+<td>Vaara, Arto</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>Nguyễn, Ngọc Nương</td>
+<td>-</td>
+<td>Haikola, Petri</td>
+<td>0-1</td>
+</tr>
+<tr>
+<td>Nguyễn, Ngọc Nương</td>
+<td>-</td>
+<td>&Dstrok;o&agrave;n, &Aacute;i</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>Haikola, Petri</td>
+<td>-</td>
+<td>Vaara, Arto</td>
+<td>0-1</td>
+</tr>
+<tr>
+<td>&Dstrok;o&agrave;n, &Aacute;i</td>
+<td>-</td>
+<td>Haikola, Petri</td>
+<td>0-1</td>
+</tr>
+<tr>
+<td>Vaara, Arto</td>
+<td>-</td>
+<td>Nguyễn, Ngọc Nương</td>
+<td>1-0</td>
+</tr>
+</tbody>
+</table>
+
+<p>Ryhm&auml; C: </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Thanh, Duy</td>
+<td>-</td>
+<td>Nguyễn, Lập quốc</td>
+<td>0-1</td>
+</tr>
+<tr>
+<td>Ojala, Tuomo</td>
+<td>-</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>Ojala, Tuomo</td>
+<td>-</td>
+<td>Thanh, Duy</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>-</td>
+<td>Nguyễn, Lập quốc</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>Thanh, Duy</td>
+<td>-</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>Nguyễn, Lập quốc</td>
+<td>-</td>
+<td>Ojala, Tuomo</td>
+<td>0-1</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<th colspan="10"> Ryhm&auml; A </th>
+</tr>
+<tr>
+<td>1</td>
+<td>Nguyễn, Nh&acirc;n thế</td>
+<td>146-27</td>
+<td>2 /3</td>
+<td>148</td>
+<td>1&frac12;</td>
+<td>131</td>
+<td>145-28</td>
+<td>1685</td>
+<td>10:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nguyễn, Truyền</td>
+<td>----</td>
+<td>2 /3</td>
+<td>151</td>
+<td>&nbsp;</td>
+<td>135</td>
+<td>135-1</td>
+<td>1755</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>3</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>142-44</td>
+<td>1 /3</td>
+<td>149</td>
+<td>1&frac12;</td>
+<td>166</td>
+<td>144-45</td>
+<td>1692</td>
+<td>10:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stenman, Olavi</td>
+<td>166-56</td>
+<td>1 /3</td>
+<td>141</td>
+<td>1</td>
+<td>158</td>
+<td>165-57</td>
+<td>1545</td>
+<td>10:1</td>
+</tr>
+<tr>
+<th colspan="10"> Ryhm&auml; B </th>
+</tr>
+<tr>
+<td>1</td>
+<td>Vaara, Arto</td>
+<td>172-42</td>
+<td>2 /3</td>
+<td>193</td>
+<td>2</td>
+<td>176</td>
+<td>172-43</td>
+<td>1496</td>
+<td>10:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Haikola, Petri</td>
+<td>179-2</td>
+<td>2 /3</td>
+<td>191</td>
+<td>2</td>
+<td>174</td>
+<td>178-3</td>
+<td>1454</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Nguyễn, Ngọc Nương</td>
+<td>----</td>
+<td>1 /3</td>
+<td>184</td>
+<td>&nbsp;</td>
+<td>200</td>
+<td>200-1</td>
+<td>1300</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>4</td>
+<td>&Dstrok;o&agrave;n, &Aacute;i</td>
+<td>----</td>
+<td>1 /3</td>
+<td>184</td>
+<td>&nbsp;</td>
+<td>200</td>
+<td>200-1</td>
+<td>1300</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<th colspan="10"> Ryhm&auml; C </th>
+</tr>
+<tr>
+<td>1</td>
+<td>Ojala, Tuomo</td>
+<td>202-10</td>
+<td>3 /3</td>
+<td>224</td>
+<td>2</td>
+<td>174!</td>
+<td>199-11</td>
+<td>1307</td>
+<td>9:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>211-6</td>
+<td>1 /3</td>
+<td>212</td>
+<td>1&frac12;</td>
+<td>229</td>
+<td>213-7</td>
+<td>1209</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Nguyễn, Lập quốc</td>
+<td>----</td>
+<td>1 /3</td>
+<td>215</td>
+<td>&nbsp;</td>
+<td>231</td>
+<td>231-1</td>
+<td>1083</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Thanh, Duy</td>
+<td>----</td>
+<td>1 /3</td>
+<td>215</td>
+<td>&nbsp;</td>
+<td>231</td>
+<td>231-1</td>
+<td>1083</td>
+<td>F1=H</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Konfutse_16022013"></a>
+### Konfutse-instituutin naisten turnauksen 16.2.2013 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Konfutse-instituutti, Unioninkatu 33, Helsinki</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pisteet</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>2&frac12;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Rao Min</td>
+<td>&frac12;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Li Yuanzheng</td>
+<td>0</td>
+<td>&frac12;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>0</td>
+<td>0</td>
+<td>&frac12;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&frac12;</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+<p> Tulokset kierroksittain:</p>
+
+<p> 1. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>-</td>
+<td>Rao Min</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+<tr>
+<td>Li Yuanzheng</td>
+<td>-</td>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Li Yuanzheng</td>
+<td>-</td>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>-</td>
+<td>Rao Min</td>
+<td>0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>-</td>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Rao Min</td>
+<td>-</td>
+<td>Li Yuanzheng</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Zhao Ruochun</td>
+<td>229-2</td>
+<td>2&frac12;/3</td>
+<td>261</td>
+<td>2&frac12;</td>
+<td>228</td>
+<td>229-3</td>
+<td>1097</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Rao Min</td>
+<td>234-4</td>
+<td>2 /3</td>
+<td>261</td>
+<td>2&frac12;</td>
+<td>245</td>
+<td>236-5</td>
+<td>1048</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Li Yuanzheng</td>
+<td>----</td>
+<td>1 /3</td>
+<td>254</td>
+<td>&nbsp;</td>
+<td>271</td>
+<td>271-1</td>
+<td>803</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Yu Yuan</td>
+<td>300-1</td>
+<td>&frac12;/3</td>
+<td>257</td>
+<td>0</td>
+<td>290</td>
+<td>299-2</td>
+<td>607</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Konfutse_26012013"></a>
+### Konfutse-instituutin turnauksen 26.1.2013 tuloksia
+
+<p> Ajat : 30 minuuttia kierrosta kohden</p>
+
+<p> Paikka : Konfutse-instituutti, Unioninkatu 33, Helsinki</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>P</td>
+<td>Bu</td>
+<td>S-B</td>
+<td>Sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sh&ecaron;n R&oacute;nɡx&imacr;n</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>3&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="gold">1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>3</td>
+<td>8&frac12;</td>
+<td>5&frac12;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman Olavi</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>3</td>
+<td>8&frac12;</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tuovinen Jukka</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>2</td>
+<td>10</td>
+<td>　&nbsp;</td>
+<td>8</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Vaara Arto</td>
+<td>&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>3</td>
+<td>10</td>
+<td>　&nbsp;</td>
+<td bgcolor="grey">2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ch&eacute;n Y&ugrave;w&ecaron;i</td>
+<td>0</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>2</td>
+<td>9&frac12;</td>
+<td>　&nbsp;</td>
+<td>9</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Haikola Petri</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>3</td>
+<td>9</td>
+<td>　&nbsp;</td>
+<td bgcolor="orange">3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Du&agrave;n W&ecaron;i</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>8&frac12;</td>
+<td>1</td>
+<td>15</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ojala Tuomo</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>2</td>
+<td>8&frac12;</td>
+<td>　&nbsp;</td>
+<td>10</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>8&frac12;</td>
+<td>1&frac12;</td>
+<td>14</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Ng Yan Peng</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>4</td>
+<td>　&nbsp;</td>
+<td>18</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Li&agrave;o D&imacr;ng</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>2</td>
+<td>8</td>
+<td>　&nbsp;</td>
+<td>11</td>
+</tr>
+<tr>
+<td>13</td>
+<td>J&imacr;n Q&iacute;an Yu&egrave;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>2&frac12;</td>
+<td>10</td>
+<td>　&nbsp;</td>
+<td>6</td>
+</tr>
+<tr>
+<td>14</td>
+<td>L&ugrave; Y&aacute;o</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>2</td>
+<td>6</td>
+<td>　&nbsp;</td>
+<td>12</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Zh&amacr;ng X&ugrave;sh&egrave;ng</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>7</td>
+<td>　&nbsp;</td>
+<td>16</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>6&frac12;</td>
+<td>　&nbsp;</td>
+<td>17</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Y&aacute;ng Sh&ugrave;n</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">&frac12;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>2&frac12;</td>
+<td>3&frac12;</td>
+<td>　&nbsp;</td>
+<td>7</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Lǐ Xu&ecaron;m&eacute;nɡ</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">&frac12;</td>
+<td>　&nbsp;</td>
+<td>1&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>13</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Somervuo Panu</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>1</td>
+<td>3&frac12;</td>
+<td>　&nbsp;</td>
+<td>19</td>
+</tr>
+</tbody>
+</table>
+
+<p> Tulokset kierroksittain:</p>
+
+<p> 1. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Sh&ecaron;n R&oacute;nɡx&imacr;n</td>
+<td>-</td>
+<td>Ojala Tuomo</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>-</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Stenman Olavi</td>
+<td>-</td>
+<td>Ng Yan Peng</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Li&agrave;o D&imacr;ng</td>
+<td>-</td>
+<td>Tuovinen Jukka</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Vaara Arto</td>
+<td>-</td>
+<td>J&imacr;n Q&iacute;an Yu&egrave;</td>
+<td>&frac12;</td>
+<td>-</td>
+<td>&frac12;</td>
+</tr>
+<tr>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>-</td>
+<td>Ch&eacute;n Y&ugrave;w&ecaron;i</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Haikola Petri</td>
+<td>-</td>
+<td>Zh&amacr;ng X&ugrave;sh&egrave;ng</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Yu Yuan</td>
+<td>-</td>
+<td>Du&agrave;n W&ecaron;i</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+<p>Y&aacute;ng Sh&ugrave;n ja Lǐ Xu&ecaron;m&eacute;nɡ my&ouml;h&auml;styiv&auml;t ja aloittivat
+kilpailun 2. kierroksella.</p>
+
+<p> 2. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Jin Qian Yue</td>
+<td>-</td>
+<td>Y&aacute;ng Sh&ugrave;n</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>T&ouml;rnqvist Mikko</td>
+<td>-</td>
+<td>Haikola Petri</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Ch&eacute;n Y&ugrave;w&ecaron;i</td>
+<td>-</td>
+<td>Sh&ecaron;n R&oacute;nɡx&imacr;n</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Tuovinen Jukka</td>
+<td>-</td>
+<td>Stenman Olavi</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Lǐ Xu&ecaron;m&eacute;nɡ</td>
+<td>-</td>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Du&agrave;n W&ecaron;i</td>
+<td>-</td>
+<td>Vaara Arto</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Ng Yan Peng</td>
+<td>-</td>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Zh&amacr;ng X&ugrave;sh&egrave;ng</td>
+<td>-</td>
+<td>Li&agrave;o D&imacr;ng</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Ojala Tuomo</td>
+<td>-</td>
+<td>L&ugrave; Y&aacute;o</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<p>Ng Yan Peng keskeytti 2. kierroksen j&auml;lkeen ja Panu
+Somervuo tuli mukaan</p>
+
+<p> 3. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Sh&ecaron;n R&oacute;nɡx&imacr;n</td>
+<td>-</td>
+<td>Stenman Olavi</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Vaara Arto</td>
+<td>-</td>
+<td>Haikola Petri</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Jin Qian Yue</td>
+<td>-</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Ojala Tuomo</td>
+<td>-</td>
+<td>Tuovinen Jukka</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>-</td>
+<td>Ch&eacute;n Y&ugrave;w&ecaron;i</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Li&agrave;o D&imacr;ng</td>
+<td>-</td>
+<td>Du&agrave;n W&ecaron;i</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>-</td>
+<td>Lǐ Xu&ecaron;m&eacute;nɡ</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Y&aacute;ng Sh&ugrave;n</td>
+<td>-</td>
+<td>Somervuo Panu</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>L&ugrave; Y&aacute;o</td>
+<td>-</td>
+<td>Zh&amacr;ng X&ugrave;sh&egrave;ng</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<p> 4. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Lǐ Xu&ecaron;m&eacute;nɡ</td>
+<td>-</td>
+<td>Jin Qian Yue</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Y&uacute; Yu&amacr;o</td>
+<td>-</td>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>T&ouml;rnqvist Mikko</td>
+<td>-</td>
+<td>Ch&eacute;n Y&ugrave;w&ecaron;i</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Stenman Olavi</td>
+<td>-</td>
+<td>Li&agrave;o D&imacr;ng</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Zh&amacr;ng X&ugrave;sh&egrave;ng</td>
+<td>-</td>
+<td>Somervuo Panu</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>-</td>
+<td>Ojala Tuomo</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Vaara Arto</td>
+<td>-</td>
+<td>Sh&ecaron;n R&oacute;nɡx&imacr;n</td>
+<td>&frac12;</td>
+<td>-</td>
+<td>&frac12;</td>
+</tr>
+<tr>
+<td>Tuovinen Jukka</td>
+<td>-</td>
+<td>Haikola Petri</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Du&agrave;n W&ecaron;i</td>
+<td>-</td>
+<td>Y&aacute;ng Sh&ugrave;n</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th></th>
+</tr>
+<tr>
+<td align="center" colspan="6">
+Lopputulokset</td>
+</tr>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>P</td>
+<td>Bu</td>
+<td>S-B</td>
+<td>Sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sh&ecaron;n R&oacute;nɡx&imacr;n</td>
+<td>3&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td bgcolor="gold">1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Vaara Arto</td>
+<td>3</td>
+<td>10</td>
+<td>　&nbsp;</td>
+<td bgcolor="grey">2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Haikola Petri</td>
+<td>3</td>
+<td>9</td>
+<td>　&nbsp;</td>
+<td bgcolor="orange">3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>3</td>
+<td>8&frac12;</td>
+<td>5&frac12;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Stenman Olavi</td>
+<td>3</td>
+<td>8&frac12;</td>
+<td>5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>J&imacr;n Q&iacute;an Yu&egrave;</td>
+<td>2&frac12;</td>
+<td>10</td>
+<td>　&nbsp;</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Y&aacute;ng Sh&ugrave;n</td>
+<td>2&frac12;</td>
+<td>3&frac12;</td>
+<td>　&nbsp;</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Tuovinen Jukka</td>
+<td>2</td>
+<td>10</td>
+<td>　&nbsp;</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ch&eacute;n Y&ugrave;w&ecaron;i</td>
+<td>2</td>
+<td>9&frac12;</td>
+<td>　&nbsp;</td>
+<td>9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Ojala Tuomo</td>
+<td>2</td>
+<td>8&frac12;</td>
+<td>　&nbsp;</td>
+<td>10</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Li&agrave;o D&imacr;ng</td>
+<td>2</td>
+<td>8</td>
+<td>　&nbsp;</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>L&ugrave; Y&aacute;o</td>
+<td>2</td>
+<td>6</td>
+<td>　&nbsp;</td>
+<td>12</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Lǐ Xu&ecaron;m&eacute;nɡ</td>
+<td>1&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>13</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>1</td>
+<td>8&frac12;</td>
+<td>1&frac12;</td>
+<td>14</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Du&agrave;n W&ecaron;i</td>
+<td>1</td>
+<td>8&frac12;</td>
+<td>1</td>
+<td>15</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Zh&amacr;ng X&ugrave;sh&egrave;ng</td>
+<td>1</td>
+<td>7</td>
+<td>　&nbsp;</td>
+<td>16</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Y&uacute; Yu&amacr;n</td>
+<td>1</td>
+<td>6&frac12;</td>
+<td>　&nbsp;</td>
+<td>17</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Ng Yan Peng</td>
+<td>1</td>
+<td>4</td>
+<td>　&nbsp;</td>
+<td>18</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Somervuo Panu</td>
+<td>1</td>
+<td>3&frac12;</td>
+<td>　&nbsp;</td>
+<td>19</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Shen Rongxin</td>
+<td>140-2</td>
+<td>3&frac12;/4</td>
+<td>170</td>
+<td>3</td>
+<td>132</td>
+<td>138-3</td>
+<td>1734</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Vaara Arto</td>
+<td>177-41</td>
+<td>3 /4</td>
+<td>160</td>
+<td>1&frac12;</td>
+<td>135!</td>
+<td>172-42</td>
+<td>1496</td>
+<td>7:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Haikola Petri</td>
+<td>189-1</td>
+<td>3 /4</td>
+<td>173</td>
+<td>1&frac12;</td>
+<td>148!</td>
+<td>179-2</td>
+<td>1447</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>141-43</td>
+<td>3 /4</td>
+<td>173</td>
+<td>3&frac12;</td>
+<td>148</td>
+<td>142-44</td>
+<td>1706</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Stenman Olavi</td>
+<td>167-55</td>
+<td>3 /4</td>
+<td>181</td>
+<td>2&frac12;</td>
+<td>156</td>
+<td>166-56</td>
+<td>1538</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Jin Qian Yue</td>
+<td>----</td>
+<td>2&frac12;/4</td>
+<td>176</td>
+<td>&nbsp;</td>
+<td>164</td>
+<td>164-1</td>
+<td>1552</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Yang Shun</td>
+<td>173-1</td>
+<td>2 /3</td>
+<td>192</td>
+<td>2</td>
+<td>175</td>
+<td>173-2</td>
+<td>1489</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Tuovinen Jukka</td>
+<td>174-43</td>
+<td>2 /4</td>
+<td>178</td>
+<td>2</td>
+<td>178</td>
+<td>174-44</td>
+<td>1482</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Chen Yuwei</td>
+<td>187-1</td>
+<td>2 /4</td>
+<td>182</td>
+<td>2</td>
+<td>182</td>
+<td>186-2</td>
+<td>1398</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Ojala Tuomo</td>
+<td>202-9</td>
+<td>2 /4</td>
+<td>199</td>
+<td>2</td>
+<td>199</td>
+<td>202-10</td>
+<td>1286</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Liao Ding</td>
+<td>----</td>
+<td>2 /4</td>
+<td>194</td>
+<td>&nbsp;</td>
+<td>194</td>
+<td>194-1</td>
+<td>1342</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Lu Yao</td>
+<td>----</td>
+<td>2 /4</td>
+<td>219</td>
+<td>&nbsp;</td>
+<td>219</td>
+<td>219-1</td>
+<td>1167</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Li Xuemeng</td>
+<td>----</td>
+<td>1 /3</td>
+<td>256</td>
+<td>&nbsp;</td>
+<td>273</td>
+<td>273-1</td>
+<td>789</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Zhao Ruochun</td>
+<td>226-1</td>
+<td>1 /4</td>
+<td>214</td>
+<td>1&frac12;</td>
+<td>239</td>
+<td>229-2</td>
+<td>1097</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Duan Wei</td>
+<td>189-1</td>
+<td>1 /4</td>
+<td>186</td>
+<td>2</td>
+<td>211</td>
+<td>193-2</td>
+<td>1349</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Zhang Xusheng</td>
+<td>262-1</td>
+<td>1 /4</td>
+<td>239</td>
+<td>1</td>
+<td>264</td>
+<td>262-2</td>
+<td>866</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Yu Yuan</td>
+<td>----</td>
+<td>1 /4</td>
+<td>294</td>
+<td>&nbsp;</td>
+<td>319</td>
+<td>300-1</td>
+<td>600</td>
+<td>max!</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Ng Yan Peng</td>
+<td>----</td>
+<td>0 /2</td>
+<td>318</td>
+<td>&nbsp;</td>
+<td>368</td>
+<td>300(2)os</td>
+<td>----</td>
+<td>max!</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Somervuo Panu</td>
+<td>----</td>
+<td>0 /2</td>
+<td>262</td>
+<td>&nbsp;</td>
+<td>312</td>
+<td>300(2)os</td>
+<td>----</td>
+<td>max!</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Kutsuturnaus_18012013"></a>
+### Kutsuturnauksen 18.-20.1.2013 tuloksia
+
+<p> Ajat : 45 minuuttia + 15 s / siirto</p>
+
+<p> Paikka : Shakkiareena, Hiomotie 10, Helsinki</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>Pisteet</td>
+<td>S-B</td>
+<td>Voitot mustilla</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Shen Rongxin （沈荣鑫）</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4&frac12;</td>
+<td>　&nbsp;</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>&frac12;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td class="forfeit">1</td>
+<td>4&frac12;</td>
+<td>　&nbsp;</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jukka Tuovinen</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td class="forfeit">1</td>
+<td>2</td>
+<td>2&frac12;</td>
+<td>　&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Liu Jun （刘军）</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>　&nbsp;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>&frac12;</td>
+<td>1&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Zheng He （郑禾）</td>
+<td>0</td>
+<td class="forfeit">0</td>
+<td class="forfeit">0</td>
+<td>0</td>
+<td>&frac12;</td>
+<td bgcolor="silver">　&nbsp;</td>
+<td>&frac12;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="25%">Punainen</td>
+<td width="5%">-</td>
+<td width="25%">Musta</td>
+<td width="15%">Tulos</td>
+<td width="30%">Kommentti</td>
+</tr>
+<tr align="center">
+<td>Liu Jun</td>
+<td>-</td>
+<td>Shen Rongxin</td>
+<td>0 - 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Jukka Tuovinen</td>
+<td>-</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0 - 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>-</td>
+<td>Zheng He</td>
+<td>&frac12; - &frac12;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="25%">Punainen</td>
+<td width="5%">-</td>
+<td width="25%">Musta</td>
+<td width="15%">Tulos</td>
+<td width="30%">Kommentti</td>
+</tr>
+<tr align="center">
+<td>Jukka Tuovinen</td>
+<td>-</td>
+<td>Liu Jun</td>
+<td>1 - 0</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Zheng He</td>
+<td>-</td>
+<td>Shen Rongxin</td>
+<td>0 - 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>-</td>
+<td>Olavi Stenman</td>
+<td>1 - 0</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="25%">Punainen</td>
+<td width="5%">-</td>
+<td width="25%">Musta</td>
+<td width="15%">Tulos</td>
+<td width="30%">Kommentti</td>
+</tr>
+<tr align="center">
+<td>Liu Jun</td>
+<td>-</td>
+<td>Zheng He</td>
+<td>1 - 0</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>-</td>
+<td>Jukka Tuovinen</td>
+<td>1 - 0</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Shen Rongxin</td>
+<td>-</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>&frac12; - &frac12;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+<p> 4. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="25%">Punainen</td>
+<td width="5%">-</td>
+<td width="25%">Musta</td>
+<td width="15%">Tulos</td>
+<td width="30%">Kommentti</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>-</td>
+<td>Liu Jun</td>
+<td>0 - 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td class="forfeit">Mikko T&ouml;rnqvist</td>
+<td class="forfeit">-</td>
+<td class="forfeit">Zheng He</td>
+<td class="forfeit">1 - 0</td>
+<td class="forfeit">Luovutus</td>
+</tr>
+<tr align="center">
+<td>Jukka Tuovinen</td>
+<td>-</td>
+<td>Shen Rongxin</td>
+<td>0 - 1</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+<p> 5. kierros</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="25%">Punainen</td>
+<td width="5%">-</td>
+<td width="25%">Musta</td>
+<td width="15%">Tulos</td>
+<td width="30%">Kommentti</td>
+</tr>
+<tr align="center">
+<td>Liu Jun</td>
+<td>-</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0 - 1</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Shen Rongxin</td>
+<td>-</td>
+<td>Olavi Stenman</td>
+<td>1 - 0</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td class="forfeit">Zheng He</td>
+<td class="forfeit">-</td>
+<td class="forfeit">Jukka Tuovinen</td>
+<td class="forfeit">0 - 1</td>
+<td class="forfeit">Luovutus</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Shen Rongxin</td>
+<td>147-1</td>
+<td>4&frac12;/5</td>
+<td>166</td>
+<td>3&frac12;</td>
+<td>126</td>
+<td>140-2</td>
+<td>1720</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>143-42</td>
+<td>3&frac12;/4</td>
+<td>163</td>
+<td>3</td>
+<td>125</td>
+<td>141-43</td>
+<td>1713</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tuovinen Jukka</td>
+<td>173-42</td>
+<td>1/4</td>
+<td>155</td>
+<td>1&frac12;</td>
+<td>180</td>
+<td>174-43</td>
+<td>1482</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Liu Jun</td>
+<td>166-4</td>
+<td>2/5</td>
+<td>162</td>
+<td>2&frac12;</td>
+<td>172</td>
+<td>168-5</td>
+<td>1524</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Stenman Olavi</td>
+<td>165-54</td>
+<td>1&frac12;/5</td>
+<td>162</td>
+<td>2&frac12;</td>
+<td>182</td>
+<td>167-55</td>
+<td>1531</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Zheng He</td>
+<td>183-1</td>
+<td>&frac12;/3</td>
+<td>159</td>
+<td>1</td>
+<td>193</td>
+<td>184-2</td>
+<td>1412</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+<p> Kuvia kisoista : <br/>
+
+</p>
+
+---
+
+<a id="2012"></a>
+## Vuoden 2012 tuloksia
+
+<a id="Konfutse_13102012"></a>
+### Konfutse-instituutin kisojen 13.10.2012 tulokset
+
+<p>Ajat : 30 minuuttia / pelaaja / kierros </p>
+
+<p>V merkitsee voittoa, T tasapeli&auml; ja H h&auml;vi&ouml;t&auml; numerolla
+merkitty&auml; pelaajaa vastaan.<br/>
+Punainen tausta ja valkoinen fontti merkitsev&auml;t, ett&auml; pelaaja pelasi
+ko. kierroksella punaisilla. <br/>
+Nimet annettu muodossa sukunimi, etunimi.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>Kiinaksi</td>
+<td>1k</td>
+<td>2k</td>
+<td>3k</td>
+<td>4k</td>
+<td>5k</td>
+<td>Pisteet</td>
+<td>Bucholtz</td>
+<td>Sonneborn-<br/>
+Berger</td>
+<td>Progress.</td>
+<td>Sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>　&nbsp;</td>
+<td class="red_bkg">V:20</td>
+<td>V:11</td>
+<td class="red_bkg">V:5</td>
+<td>V:6</td>
+<td>V:2</td>
+<td>5</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>M&eacute;i P&eacute;ng</td>
+<td>梅鹏</td>
+<td class="red_bkg">V:24</td>
+<td>V:10</td>
+<td class="red_bkg">V:8</td>
+<td>V:7</td>
+<td class="red_bkg">H:1</td>
+<td>4</td>
+<td>14.5</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Sh&ecaron;n R&oacute;nɡx&imacr;n</td>
+<td>沈荣鑫</td>
+<td>V:6</td>
+<td class="red_bkg">H:5</td>
+<td class="red_bkg">V:10</td>
+<td>V:14</td>
+<td class="red_bkg">V:7</td>
+<td>4</td>
+<td>14</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Zh&egrave;ng H&eacute;</td>
+<td>郑禾</td>
+<td>V:16</td>
+<td class="red_bkg">V:22</td>
+<td class="red_bkg">H:7</td>
+<td>V:5</td>
+<td class="red_bkg">V:8</td>
+<td>4</td>
+<td>12</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>D&ugrave; Miǎn</td>
+<td>杜勉</td>
+<td class="red_bkg">V:17</td>
+<td>V:3</td>
+<td>H:1</td>
+<td class="red_bkg">H:4</td>
+<td>V:14</td>
+<td>3</td>
+<td>17</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Olavi Stenman</td>
+<td>　&nbsp;</td>
+<td class="red_bkg">H:3</td>
+<td>V:17</td>
+<td class="red_bkg">V:13</td>
+<td class="red_bkg">H:1</td>
+<td>V:9</td>
+<td>3</td>
+<td>16</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>　&nbsp;</td>
+<td>V:25</td>
+<td class="red_bkg">V:13</td>
+<td>V:4</td>
+<td class="red_bkg">H:2</td>
+<td>H:3</td>
+<td>3</td>
+<td>14</td>
+<td>6</td>
+<td>+</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Arto Vaara</td>
+<td>　&nbsp;</td>
+<td>V:21</td>
+<td class="red_bkg">V:9</td>
+<td>H:2</td>
+<td class="red_bkg">V:15</td>
+<td>H:4</td>
+<td>3</td>
+<td>14</td>
+<td>6</td>
+<td>　&nbsp;</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Petri Haikola</td>
+<td>　&nbsp;</td>
+<td class="red_bkg">V:15</td>
+<td>H:8</td>
+<td class="red_bkg">V:11</td>
+<td>V:18</td>
+<td class="red_bkg">H:6</td>
+<td>3</td>
+<td>12.5</td>
+<td>6.5</td>
+<td>　&nbsp;</td>
+<td>9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Tuomo Ojala</td>
+<td>　&nbsp;</td>
+<td class="red_bkg">V:18</td>
+<td class="red_bkg">H:2</td>
+<td>H:3</td>
+<td>V:19</td>
+<td class="red_bkg">V:13</td>
+<td>3</td>
+<td>12.5</td>
+<td>4.5</td>
+<td>=</td>
+<td>10-11</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>　&nbsp;</td>
+<td class="red_bkg">V:19</td>
+<td class="red_bkg">H:1</td>
+<td>H:9</td>
+<td>V:16</td>
+<td class="red_bkg">V:18</td>
+<td>3</td>
+<td>12.5</td>
+<td>4.5</td>
+<td>=</td>
+<td>10-11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>W&aacute;ng H&aacute;n</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>BYE</td>
+<td>H:18</td>
+<td class="red_bkg">V:21</td>
+<td>V:15</td>
+<td>3</td>
+<td>4.5</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>12</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Du&agrave;n W&ecaron;i</td>
+<td>段伟</td>
+<td>V: 23</td>
+<td class="red_bkg">H:7</td>
+<td>H:6</td>
+<td class="red_bkg">V:17</td>
+<td>H:10</td>
+<td>2</td>
+<td>12</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>13</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Y&uacute; H&oacute;nɡju&amacr;n</td>
+<td>于红娟</td>
+<td>H:22</td>
+<td class="red_bkg">V:16</td>
+<td>V:19</td>
+<td class="red_bkg">H:3</td>
+<td class="red_bkg">H:5</td>
+<td>2</td>
+<td>11</td>
+<td>3</td>
+<td>　&nbsp;</td>
+<td>14</td>
+</tr>
+<tr>
+<td>15</td>
+<td>W&aacute;ng Ch&aacute;ngf&amacr;ng</td>
+<td>　&nbsp;</td>
+<td>H:9</td>
+<td class="red_bkg">V:21</td>
+<td>V:22</td>
+<td>H:8</td>
+<td class="red_bkg">H:12</td>
+<td>2</td>
+<td>11</td>
+<td>2</td>
+<td>+</td>
+<td>15</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Zh&amacr;nɡ X&ugrave;sh&egrave;nɡ</td>
+<td>张旭晟</td>
+<td class="red_bkg">H:9</td>
+<td>H:14</td>
+<td>V:21</td>
+<td class="red_bkg">H:11</td>
+<td>V:20</td>
+<td>2</td>
+<td>11</td>
+<td>2</td>
+<td>　&nbsp;</td>
+<td>16</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Xi&egrave; L&oacute;ng</td>
+<td>谢龙</td>
+<td>H:10</td>
+<td class="red_bkg">H:6</td>
+<td class="red_bkg">V:20</td>
+<td>H:13</td>
+<td class="red_bkg">V:19</td>
+<td>2</td>
+<td>10</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>17</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Zh&agrave;o Ru&ograve;ch&uacute;n</td>
+<td>赵若纯</td>
+<td>H:10</td>
+<td>T:24</td>
+<td class="red_bkg">V:12</td>
+<td class="red_bkg">H:9</td>
+<td>H:11</td>
+<td>1.5</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>18</td>
+</tr>
+<tr>
+<td>19</td>
+<td>R&egrave;n Ji&eacute;</td>
+<td>任杰</td>
+<td>H:11</td>
+<td>V:20</td>
+<td class="red_bkg">H:14</td>
+<td class="red_bkg">H:10</td>
+<td>H:17</td>
+<td>1</td>
+<td>11</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>19</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Lǐ C&iacute;</td>
+<td>李慈</td>
+<td>H:10</td>
+<td class="red_bkg">H:19</td>
+<td class="red_bkg">H:17</td>
+<td>BYE</td>
+<td class="red_bkg">H:16</td>
+<td>1</td>
+<td>10</td>
+<td>0</td>
+<td>=</td>
+<td>20-21</td>
+</tr>
+<tr>
+<td>21</td>
+<td>W&aacute;nɡ Sh&imacr;y&imacr;n</td>
+<td>王诗茵</td>
+<td class="red_bkg">H:8</td>
+<td>H:15</td>
+<td class="red_bkg">H:16</td>
+<td>H:12</td>
+<td>BYE</td>
+<td>1</td>
+<td>10</td>
+<td>0</td>
+<td>=</td>
+<td>20-21</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Y&uacute; H&agrave;oy&aacute;ng</td>
+<td>于浩洋</td>
+<td class="red_bkg">V:14</td>
+<td class="red_bkg">H:4</td>
+<td class="red_bkg">H:15</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>8</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>22</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>杨二林</td>
+<td>H:13</td>
+<td class="red_bkg">V:25</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>23</td>
+</tr>
+<tr>
+<td>24</td>
+<td>R&aacute;o Mǐn</td>
+<td>饶敏</td>
+<td>H:2</td>
+<td class="red_bkg">T:18</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0.5</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>24</td>
+</tr>
+<tr>
+<td>25</td>
+<td>R&aacute;o H&oacute;ngzh&amacr;ng</td>
+<td>饶宏章</td>
+<td class="red_bkg">H:7</td>
+<td>H:23</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>0</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>　&nbsp;</td>
+<td>25</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+Toisen kierroksen j&auml;lkeen Y&aacute;ng &Egrave;rl&iacute;n, R&aacute;o Mǐn ja R&aacute;o H&oacute;ngzh&amacr;ng
+keskeyttiv&auml;t ja W&aacute;ng H&aacute;n liittyi mukaan.<br/>
+Kolmannen kierroksen j&auml;lkeen Y&uacute; H&agrave;oy&aacute;ng keskeytti.<br/>
+</p>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>147-40</td>
+<td>5/5</td>
+<td>168</td>
+<td>3&frac12;</td>
+<td>118!</td>
+<td>142-41</td>
+<td>1706</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mei Peng</td>
+<td>101-5</td>
+<td>4/5</td>
+<td>143</td>
+<td>4&frac12;</td>
+<td>113</td>
+<td>103-6</td>
+<td>1979</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Shen Rongxin</td>
+<td>----</td>
+<td>4/5</td>
+<td>177</td>
+<td>147</td>
+<td>147-1</td>
+<td>1671</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Zheng He</td>
+<td>194-2</td>
+<td>4/5</td>
+<td>198</td>
+<td>2&frac12;</td>
+<td>168!</td>
+<td>181-3</td>
+<td>1433</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Du Mian</td>
+<td>179-2</td>
+<td>3/5</td>
+<td>180</td>
+<td>2&frac12;</td>
+<td>170</td>
+<td>176-3</td>
+<td>1468</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Stenman Olavi</td>
+<td>165-53</td>
+<td>3/5</td>
+<td>172</td>
+<td>3</td>
+<td>162</td>
+<td>165-54</td>
+<td>1545</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>R&auml;m&ouml; Jouni</td>
+<td>145-77</td>
+<td>3/5</td>
+<td>160</td>
+<td>3&frac12;</td>
+<td>150</td>
+<td>146-78</td>
+<td>1678</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Vaara Arto</td>
+<td>178-40</td>
+<td>3/5</td>
+<td>184</td>
+<td>3</td>
+<td>174</td>
+<td>177-41</td>
+<td>1461</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Haikola Petri</td>
+<td>----</td>
+<td>3/5</td>
+<td>199</td>
+<td>189</td>
+<td>189-1</td>
+<td>1377</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Ojala Tuomo</td>
+<td>206-8</td>
+<td>3/5</td>
+<td>198</td>
+<td>2</td>
+<td>188</td>
+<td>202-9</td>
+<td>1286</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>L&ouml;fstr&ouml;m Elina</td>
+<td>211-5</td>
+<td>3/5</td>
+<td>221</td>
+<td>3</td>
+<td>211</td>
+<td>211-6</td>
+<td>1223</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Wang Han</td>
+<td>----</td>
+<td>2/3</td>
+<td>238</td>
+<td>221</td>
+<td>221-1</td>
+<td>1153</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Duan Wei</td>
+<td>----</td>
+<td>2/5</td>
+<td>179</td>
+<td>189</td>
+<td>189-1</td>
+<td>1377</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Yu Hongjuan</td>
+<td>233-2</td>
+<td>2/5</td>
+<td>240</td>
+<td>3</td>
+<td>250</td>
+<td>239-3</td>
+<td>1027</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Wang Changfang</td>
+<td>207-1</td>
+<td>2/5</td>
+<td>220</td>
+<td>3</td>
+<td>230</td>
+<td>215-2</td>
+<td>1195</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Zhang Xusheng</td>
+<td>----</td>
+<td>2/5</td>
+<td>273</td>
+<td>283</td>
+<td>283-1</td>
+<td>719</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Xie Long</td>
+<td>----</td>
+<td>2/5</td>
+<td>229</td>
+<td>239</td>
+<td>239-1</td>
+<td>1027</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Zhao Ruochun</td>
+<td>----</td>
+<td>1&frac12;/5</td>
+<td>215</td>
+<td>235</td>
+<td>235-1</td>
+<td>1055</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Ren Jie</td>
+<td>----</td>
+<td>1/5</td>
+<td>259</td>
+<td>289</td>
+<td>289-1</td>
+<td>677</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Li Ci</td>
+<td>----</td>
+<td>0 /4</td>
+<td>289</td>
+<td>339</td>
+<td>300-1os</td>
+<td>600</td>
+<td>max!</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Wang Shiyin</td>
+<td>----</td>
+<td>0 /4</td>
+<td>283</td>
+<td>333</td>
+<td>300-1os</td>
+<td>600</td>
+<td>max!</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Yu Haoyang</td>
+<td>300-1os</td>
+<td>1/3</td>
+<td>250</td>
+<td>0</td>
+<td>267!</td>
+<td>294-2</td>
+<td>642</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Yang Erlin</td>
+<td>140(3)</td>
+<td>1/2</td>
+<td>192</td>
+<td>192</td>
+<td>161-1</td>
+<td>1573</td>
+<td>3:2</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Rao Min</td>
+<td>246-3</td>
+<td>&frac12;/2</td>
+<td>216</td>
+<td>&frac12;</td>
+<td>241</td>
+<td>245-4</td>
+<td>985</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Rao Hongzhang</td>
+<td>----</td>
+<td>0 /2</td>
+<td>145</td>
+<td>195</td>
+<td>195(2)os</td>
+<td>----</td>
+<td>F1=H</td>
+</tr>
+</tbody>
+</table>
+
+<p> Kuvia kisoista : <br/>
+
+</p>
+
+---
+
+<a id="SM_2012"></a>
+### Kiinalaisen shakin avoimet SM-kisat 25.-26.8.2012
+
+<p>Ajat : 45 minuuttia ja 20 sekuntia lis&auml;aikaa kierrosta
+kohden. </p>
+
+<p>Punainen tausta ja valkoinen fontti merkitsev&auml;t, ett&auml;
+pelaaja pelasi ko. pelin punaisilla. <br/>
+Nimet annettu muodossa sukunimi, etunimi.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="5%">#</td>
+<td width="55">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">5</td>
+<td width="5%">6</td>
+<td width="5%">P</td>
+<td width="5%">sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td bgcolor="silver">X</td>
+<td>0.5</td>
+<td class="red_bkg">1</td>
+<td class="red_bkg">1</td>
+<td class="red_bkg">1</td>
+<td>1</td>
+<td>4.5</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td class="red_bkg">0.5</td>
+<td bgcolor="silver">X</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4.5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman, Olavi</td>
+<td>0</td>
+<td class="red_bkg">0</td>
+<td bgcolor="silver">X</td>
+<td>1</td>
+<td class="red_bkg">1</td>
+<td class="red_bkg">1</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Vaara, Arto</td>
+<td>0</td>
+<td class="red_bkg">0</td>
+<td class="red_bkg">0</td>
+<td bgcolor="silver">X</td>
+<td class="red_bkg">1</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>0</td>
+<td class="red_bkg">0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">X</td>
+<td class="red_bkg">1</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ojala, Tuomo</td>
+<td class="red_bkg">0</td>
+<td class="red_bkg">0</td>
+<td>0</td>
+<td class="red_bkg">0</td>
+<td>0</td>
+<td bgcolor="silver">X</td>
+<td>0</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+
+<p>Mestaruus ratkaistiin muiden vertailukriteerien
+puutteessa 10+10 minuutin pikapeleill&auml; siten,ett&auml; voitosta sai pisteen
+ja tasapelist&auml; puoli pistett&auml;. Pikapelej&auml; jatkettiin siihen asti,kunnes
+jommallakummalla pelaajalla oli t&auml;ynn&auml; kaksi pistett&auml; vaihtaen v&auml;rej&auml;
+joka kierroksella.</p>
+
+<p> Lopputulos : Mikko T&ouml;rnqvist - Jouni R&auml;m&ouml; 2,5 - 1,5 <br/>
+(v&auml;rit ja tulokset pikapeliss&auml; M-P (0,5-0,5), P-M (1-0), M-P (0-1), P-M
+(1,0))<br/>
+</p>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>145-38</td>
+<td>4&frac12;/5</td>
+<td>176</td>
+<td>4</td>
+<td>136</td>
+<td>144-39</td>
+<td>1692</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>R&auml;m&ouml; Jouni</td>
+<td>147-76</td>
+<td>4&frac12;/5</td>
+<td>176</td>
+<td>4</td>
+<td>136</td>
+<td>145-77</td>
+<td>1685</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman Olavi</td>
+<td>165-52</td>
+<td>3/5</td>
+<td>177</td>
+<td>3</td>
+<td>167</td>
+<td>165-53</td>
+<td>1545</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Vaara Arto</td>
+<td>177-39</td>
+<td>2/5</td>
+<td>175</td>
+<td>2&frac12;</td>
+<td>185</td>
+<td>178-40</td>
+<td>1454</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>L&ouml;fstr&ouml;m Elina</td>
+<td>214-4</td>
+<td>1/5</td>
+<td>174</td>
+<td>&frac12;</td>
+<td>204</td>
+<td>211-5</td>
+<td>1223</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ojala Tuomo</td>
+<td>202-7</td>
+<td>0 /5</td>
+<td>172</td>
+<td>1</td>
+<td>222</td>
+<td>206-8</td>
+<td>1258</td>
+<td>4:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Konfutse_20120324"></a>
+### Ystävyyskisat Konfutse-instituutissa Helsingissä 24.3.2012
+
+<p>Ajat : 30 minuuttia / pelaaja / kierros </p>
+
+<p>V merkitsee voittoa, T tasapeli&auml; ja H h&auml;vi&ouml;t&auml; numerolla
+merkitty&auml; pelaajaa vastaan.<br/>
+Punainen tausta ja valkoinen fontti merkitsev&auml;t, ett&auml; pelaaja pelasi
+ko. kierroksella punaisilla. <br/>
+Nimet annettu muodossa sukunimi, etunimi.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>Kiinaksi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>Sonneborn-Berger</td>
+<td>M-Buch.</td>
+<td>B-well</td>
+<td>Progr.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>M&eacute;i P&eacute;ng</td>
+<td>梅鹏</td>
+<td>4:V</td>
+<td class="red_bkg">12:V</td>
+<td>5:V</td>
+<td class="red_bkg">3:V</td>
+<td>4,0 </td>
+<td>11,00 </td>
+<td>11,00 </td>
+<td>6,00 </td>
+<td>66,00 </td>
+<td>10,00 </td>
+</tr>
+<tr>
+<td>2</td>
+<td>Stenman, Olavi</td>
+<td>　</td>
+<td>14:V</td>
+<td class="red_bkg">15:T</td>
+<td>7:V</td>
+<td>9:V</td>
+<td>3,5 </td>
+<td>8,00 </td>
+<td>7,25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&lt;p&gt; Oulun turnaus&lt;/p&gt;<br/>
+</td>
+<td>4,00 </td>
+<td>48,00 </td>
+<td>8,50 </td>
+</tr>
+<tr>
+<td>3</td>
+<td>S&umacr;n Ji&agrave;n</td>
+<td>孙健</td>
+<td class="red_bkg">19:V</td>
+<td>11:V</td>
+<td class="red_bkg">9:V</td>
+<td>1:H</td>
+<td>3,0 </td>
+<td>9,00 </td>
+<td>5,00 </td>
+<td>4,00 </td>
+<td>54,00 </td>
+<td>9,00 </td>
+</tr>
+<tr>
+<td>4</td>
+<td>Bi&eacute; Y&ugrave;w&ecaron;i</td>
+<td>别玉伟</td>
+<td class="red_bkg">1:H</td>
+<td>18:V</td>
+<td class="red_bkg">10:V</td>
+<td>11:V</td>
+<td>3,0 </td>
+<td>9,00 </td>
+<td>5,00 </td>
+<td>4,00 </td>
+<td>54,00 </td>
+<td>6,00 </td>
+</tr>
+<tr>
+<td>5</td>
+<td>Z&omacr;u Xiǎochen</td>
+<td>邹晓晨</td>
+<td class="red_bkg">22:V</td>
+<td>19:V</td>
+<td class="red_bkg">1:H</td>
+<td>16:V</td>
+<td>3,0 </td>
+<td>6,00 </td>
+<td>2,00 </td>
+<td>2,00 </td>
+<td>36,00 </td>
+<td>8,00 </td>
+</tr>
+<tr>
+<td>6</td>
+<td>Y&aacute;ng Sh&ugrave;n</td>
+<td>杨顺</td>
+<td class="red_bkg">16:H</td>
+<td>13:V</td>
+<td>17:V</td>
+<td class="red_bkg">15:V</td>
+<td>3,0 </td>
+<td>5,50 </td>
+<td>4,50 </td>
+<td>2,50 </td>
+<td>33,00 </td>
+<td>6,00 </td>
+</tr>
+<tr>
+<td>7</td>
+<td>Vaara, Arto</td>
+<td>　</td>
+<td class="red_bkg">21:V</td>
+<td>10:V</td>
+<td class="red_bkg">2:H</td>
+<td>8:T</td>
+<td>2,5 </td>
+<td>9,00 </td>
+<td>4,25 </td>
+<td>4,50 </td>
+<td>54,00 </td>
+<td>7,50 </td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ch&eacute;n Li&agrave;ng</td>
+<td>陈亮</td>
+<td>15:H</td>
+<td class="red_bkg">20:V</td>
+<td>12:V</td>
+<td class="red_bkg">7:T</td>
+<td>2,5 </td>
+<td>7,00 </td>
+<td>4,25 </td>
+<td>3,50 </td>
+<td>42,00 </td>
+<td>5,50 </td>
+</tr>
+<tr>
+<td>9</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>　</td>
+<td class="red_bkg">13:V</td>
+<td>16:V</td>
+<td>3:H</td>
+<td class="red_bkg">2:H</td>
+<td>2,0 </td>
+<td>9,50 </td>
+<td>3,00 </td>
+<td>5,00 </td>
+<td>57,00 </td>
+<td>7,00 </td>
+</tr>
+<tr>
+<td>10</td>
+<td>Zh&amacr;ng Zh&eacute;</td>
+<td>张哲</td>
+<td>17:V</td>
+<td class="red_bkg">7:H</td>
+<td>4:H</td>
+<td class="red_bkg">14:V</td>
+<td>2,0 </td>
+<td>8,50 </td>
+<td>3,00 </td>
+<td>4,50 </td>
+<td>51,00 </td>
+<td>5,00 </td>
+</tr>
+<tr>
+<td>11</td>
+<td>D&ugrave; Miǎn</td>
+<td>杜勉</td>
+<td>20:V</td>
+<td class="red_bkg">3:H</td>
+<td>15:V</td>
+<td class="red_bkg">4:H</td>
+<td>2,0 </td>
+<td>8,50 </td>
+<td>2,50 </td>
+<td>4,50 </td>
+<td>51,00 </td>
+<td>6,00 </td>
+</tr>
+<tr>
+<td>12</td>
+<td>Zh&egrave;ng H&eacute;</td>
+<td>郑禾</td>
+<td class="red_bkg">18:V</td>
+<td>1:H</td>
+<td class="red_bkg">8:H</td>
+<td>21:V</td>
+<td>2,0 </td>
+<td>8,50 </td>
+<td>2,00 </td>
+<td>3,50 </td>
+<td>51,00 </td>
+<td>5,00 </td>
+</tr>
+<tr>
+<td>13</td>
+<td>Ch&eacute;n Y&ugrave;w&ecaron;i</td>
+<td>陈玉伟</td>
+<td>9:H</td>
+<td class="red_bkg">6:H</td>
+<td>18:V</td>
+<td class="red_bkg">17:V</td>
+<td>2,0 </td>
+<td>7,00 </td>
+<td>2,00 </td>
+<td>3,00 </td>
+<td>42,00 </td>
+<td>3,00 </td>
+</tr>
+<tr>
+<td>14</td>
+<td>Li&uacute; Yǐng</td>
+<td>刘颖</td>
+<td class="red_bkg">2:H</td>
+<td>22:V</td>
+<td class="red_bkg">16:V</td>
+<td>10:H</td>
+<td>2,0 </td>
+<td>6,50 </td>
+<td>1,00 </td>
+<td>3,00 </td>
+<td>39,00 </td>
+<td>5,00 </td>
+</tr>
+<tr>
+<td>15</td>
+<td>Zh&amacr;ng M&iacute;ng</td>
+<td>张明</td>
+<td class="red_bkg">8:V</td>
+<td>2:T</td>
+<td class="red_bkg">11:H</td>
+<td>6:H</td>
+<td>1,5 </td>
+<td>11,00 </td>
+<td>4,25 </td>
+<td>5,50 </td>
+<td>66,00 </td>
+<td>5,50 </td>
+</tr>
+<tr>
+<td>16</td>
+<td>Ojala, Tuomo</td>
+<td>　</td>
+<td>6:V</td>
+<td class="red_bkg">9:H</td>
+<td>14:H</td>
+<td class="red_bkg">5:H</td>
+<td>1,0 </td>
+<td>10,00 </td>
+<td>3,00 </td>
+<td>5,00 </td>
+<td>60,00 </td>
+<td>4,00 </td>
+</tr>
+<tr>
+<td>17</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>　</td>
+<td class="red_bkg">10:H</td>
+<td>21:V</td>
+<td class="red_bkg">6:H</td>
+<td>13:H</td>
+<td>1,0 </td>
+<td>8,00 </td>
+<td>1,00 </td>
+<td>4,00 </td>
+<td>48,00 </td>
+<td>3,00 </td>
+</tr>
+<tr>
+<td>18</td>
+<td>X&uacute; H&oacute;ngb&oacute;</td>
+<td>徐鸿博</td>
+<td>12:H</td>
+<td class="red_bkg">4:H</td>
+<td class="red_bkg">13:H</td>
+<td>20:V</td>
+<td>1,0 </td>
+<td>8,00 </td>
+<td>1,00 </td>
+<td>4,00 </td>
+<td>48,00 </td>
+<td>1,00 </td>
+</tr>
+<tr>
+<td>19</td>
+<td>Y&uacute; H&oacute;ngju&amacr;n</td>
+<td>于红娟</td>
+<td>3:H</td>
+<td class="red_bkg">5:H</td>
+<td>20:H</td>
+<td class="red_bkg">22:V</td>
+<td>1,0 </td>
+<td>7,00 </td>
+<td>0,00 </td>
+<td>4,00 </td>
+<td>42,00 </td>
+<td>1,00 </td>
+</tr>
+<tr>
+<td>20</td>
+<td>P&eacute;i L&iacute;ng</td>
+<td>裴陵</td>
+<td class="red_bkg">11:H</td>
+<td>8:H</td>
+<td class="red_bkg">19:V</td>
+<td class="red_bkg">18:H</td>
+<td>1,0 </td>
+<td>6,50 </td>
+<td>1,00 </td>
+<td>3,00 </td>
+<td>39,00 </td>
+<td>2,00 </td>
+</tr>
+<tr>
+<td>21</td>
+<td>M&aacute;o Zih&aacute;o</td>
+<td>毛子豪</td>
+<td>7:H</td>
+<td class="red_bkg">17:H</td>
+<td>22:V</td>
+<td class="red_bkg">12:H</td>
+<td>1,0 </td>
+<td>5,50 </td>
+<td>0,00 </td>
+<td>3,00 </td>
+<td>33,00 </td>
+<td>2,00 </td>
+</tr>
+<tr>
+<td>22</td>
+<td>Y&uacute; H&agrave;oy&aacute;ng</td>
+<td>于浩洋</td>
+<td>5:H</td>
+<td class="red_bkg">14:H</td>
+<td class="red_bkg">21:H</td>
+<td>19:H</td>
+<td>0,0 </td>
+<td>7,00 </td>
+<td>0,00 </td>
+<td>3,00 </td>
+<td>42,00 </td>
+<td>0,00 </td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mei Peng</td>
+<td>105-4</td>
+<td>4 /4</td>
+<td>135</td>
+<td>3</td>
+<td>85</td>
+<td>101-5</td>
+<td>(1993)</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Stenman Olavi</td>
+<td>168-51</td>
+<td>3&frac12;/4</td>
+<td>178</td>
+<td>2&frac12;</td>
+<td>141!</td>
+<td>165-52</td>
+<td>(1545)</td>
+<td>7:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Sun Jian</td>
+<td>89-5</td>
+<td>3 /4</td>
+<td>131</td>
+<td>3&frac12;</td>
+<td>106</td>
+<td>91-6</td>
+<td>(2063)</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Bie Yuwei</td>
+<td>----</td>
+<td>3 /4</td>
+<td>165</td>
+<td><br/>
+</td>
+<td>140</td>
+<td>140-1</td>
+<td>(1720)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Zou Xiaochen</td>
+<td>----</td>
+<td>3 /4</td>
+<td>180</td>
+<td><br/>
+</td>
+<td>155</td>
+<td>155-1</td>
+<td>(1615)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Yang Shun</td>
+<td>----</td>
+<td>3 /4</td>
+<td>198</td>
+<td><br/>
+</td>
+<td>173</td>
+<td>173-1</td>
+<td>(1489)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Vaara Arto</td>
+<td>178-38</td>
+<td>2&frac12;/4</td>
+<td>184</td>
+<td>2&frac12;</td>
+<td>172</td>
+<td>177-39</td>
+<td>(1461)</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Chen Liang</td>
+<td>----</td>
+<td>2&frac12;/4</td>
+<td>197</td>
+<td><br/>
+</td>
+<td>185</td>
+<td>185-1</td>
+<td>(1405)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>9</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>144-37</td>
+<td>2 /4</td>
+<td>154</td>
+<td>2&frac12;</td>
+<td>154</td>
+<td>145-38</td>
+<td>(1685)</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Zhang Zhe</td>
+<td>----</td>
+<td>2 /4</td>
+<td>183</td>
+<td><br/>
+</td>
+<td>183</td>
+<td>183-1</td>
+<td>(1419)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Du Mian</td>
+<td>181-1</td>
+<td>2 /4</td>
+<td>172</td>
+<td>1&frac12;</td>
+<td>172</td>
+<td>179-2</td>
+<td>(1447)</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Zheng He</td>
+<td>193-1</td>
+<td>2 /4</td>
+<td>198</td>
+<td>2</td>
+<td>198</td>
+<td>194-2</td>
+<td>(1342)</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Chen Yuwei</td>
+<td>----</td>
+<td>2 /4</td>
+<td>187</td>
+<td><br/>
+</td>
+<td>187</td>
+<td>187-1</td>
+<td>(1391)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Liu Ying</td>
+<td>----</td>
+<td>2 /4</td>
+<td>202</td>
+<td><br/>
+</td>
+<td>202</td>
+<td>202-1</td>
+<td>(1286)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Zhang Ming</td>
+<td>----</td>
+<td>1&frac12;/4</td>
+<td>177</td>
+<td><br/>
+</td>
+<td>189</td>
+<td>189-1</td>
+<td>(1377)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Ojala Tuomo</td>
+<td>203-6</td>
+<td>1 /4</td>
+<td>171</td>
+<td>&frac12;</td>
+<td>196</td>
+<td>202-7</td>
+<td>(1286)</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>L&ouml;fstr&ouml;m Elina</td>
+<td>211-3</td>
+<td>1 /4</td>
+<td>201</td>
+<td>1&frac12;</td>
+<td>226</td>
+<td>214-4</td>
+<td>(1202)</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Xu Hongbu</td>
+<td>----</td>
+<td>1 /4</td>
+<td>195</td>
+<td><br/>
+</td>
+<td>220</td>
+<td>220-1</td>
+<td>(1160)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Yu Hongjuan</td>
+<td>231-1</td>
+<td>1 /4</td>
+<td>218</td>
+<td>1&frac12;</td>
+<td>243</td>
+<td>233-2</td>
+<td>(1069)</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Pei Ling</td>
+<td>----</td>
+<td>1 /4</td>
+<td>204</td>
+<td><br/>
+</td>
+<td>229</td>
+<td>229-1</td>
+<td>(1097)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Mao Zihao</td>
+<td>----</td>
+<td>1 /4</td>
+<td>237</td>
+<td><br/>
+</td>
+<td>262</td>
+<td>262-1</td>
+<td>( 866)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Yu Haoyang</td>
+<td>----</td>
+<td>0 /4</td>
+<td>262</td>
+<td><br/>
+</td>
+<td>312</td>
+<td>300-1os</td>
+<td>( 600)</td>
+<td>max!</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2011"></a>
+## Vuoden 2011 tuloksia
+
+<a id="Suomi-Vietnam_03122011"></a>
+### Suomi-Vietnam ottelu 3.12.2011
+
+<p> J&auml;rvenp&auml;&auml;n Kiinalainen Shakki r.y. yhteisty&ouml;ss&auml;
+Vapaaehtoistoiminnankeskus Rinkulan kanssa
+j&auml;rjesti lauantaina 3.12.2011 nelikierroksisen Suomen ja Vietnamin
+joukkueiden v&auml;lisen ottelun. Mukaan oli saatu 4 pelaajaa molempiin
+joukkueisiin. </p>
+
+<p> Muutamia valokuvia ottelusta (klikkaamalla suurempi
+kuva): <br/>
+</p>
+
+<p> Peliajat olivat 20+20min, joten pelej&auml; ei toimitettu
+ranking-laskentaan. Pelit pelattiin Vapaaehtoistoiminnankeskus Rinkulan
+tiloissa J&auml;rvenp&auml;&auml;ss&auml;.
+</p>
+
+<p> Suomalaisten pelaajien tulokset (vietnamilaiset
+pelaajat alla olevan taulukon mukaisesssa j&auml;rjestyksess&auml;) :</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td colspan="2" style="border-style: none;">&nbsp;
+</td>
+<td align="left" colspan="15" style="border-style: none;"> <b>Vietnamilaiset pelaajat</b> </td>
+</tr>
+<tr align="center">
+<td style="border-style: none;" width="6%">
+# </td>
+<td align="left" style="border-style: none;" width="22%"> <b>Suomi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pelien
+lkm</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>Sonneborn-Berger</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Buchholz</b>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Arto Vaara</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olavi Stenman</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+
+<p> Vietnamilaisten pelaajien tulokset (suomalaiset
+pelaajat yll&auml; olevan taulukon mukaisesssa j&auml;rjestyksess&auml;) on esitetty
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td colspan="2" style="border-style: none;">&nbsp;
+</td>
+<td align="left" colspan="15" style="border-style: none;"> <b>Suomalaiset pelaajat</b> </td>
+</tr>
+<tr align="center">
+<td style="border-style: none;" width="6%">
+# </td>
+<td align="left" style="border-style: none;" width="22%"> <b>Vietnam</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pelien
+lkm</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>Sonneborn-Berger</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Buchholz</b>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nhan The Nguyen</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Nguyen Duoc Lap</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td>8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Dau Doan</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>8</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+</p>
+
+<p>P = pisteet <br/>
+G = pelattujen pelien lukum&auml;&auml;r&auml; <br/>
+S-B = Sonneborn - Berger pisteet (summattuna voitettujen pelaajien
+pisteet ja puolet niiden pelaajien pisteist&auml;, joita vastaan pelaaja sai
+tasapelin) <br/>
+Bu = Bucholtz pisteet (vastustajien pisteet laskettuna yhteen)
+</p>
+
+---
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros (suomalaiset punaisilla) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="30%"><b>Suomi</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td width="5%">-</td>
+<td width="40%"><b>Vietnam</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Arto Vaara</td>
+<td>P</td>
+<td>-</td>
+<td>Dau Doan</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>P</td>
+<td>-</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Jouni R&auml;m&ouml;</td>
+<td>P</td>
+<td>-</td>
+<td>Nhan The Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>P</td>
+<td>-</td>
+<td>Nguyen Duoc Lap</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td colspan="4" style="border-style: none;">&nbsp;</td>
+<td>2</td>
+<td>-</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros (suomalaiset mustilla) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="30%"><b>Suomi</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td width="5%">-</td>
+<td width="40%"><b>Vietnam</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Arto Vaara</td>
+<td>M</td>
+<td>-</td>
+<td>Nguyen Duoc Lap</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>M</td>
+<td>-</td>
+<td>Nhan The Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Jouni R&auml;m&ouml;</td>
+<td>M</td>
+<td>-</td>
+<td>Dau Doan</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>M</td>
+<td>-</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td colspan="4" style="border-style: none;">&nbsp;</td>
+<td>1</td>
+<td>-</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros (suomalaiset punaisilla) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="30%"><b>Suomi</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td width="5%">-</td>
+<td width="40%"><b>Vietnam</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Arto Vaara</td>
+<td>P</td>
+<td>-</td>
+<td>Nhan The Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>P</td>
+<td>-</td>
+<td>Nguyen Duoc Lap</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Jouni R&auml;m&ouml;</td>
+<td>P</td>
+<td>-</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>P</td>
+<td>-</td>
+<td>Dau Doan</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td colspan="4" style="border-style: none;">&nbsp;</td>
+<td>3</td>
+<td>-</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+<p> 4. kierros (suomalaiset mustilla) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="30%"><b>Suomi</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td width="5%">-</td>
+<td width="40%"><b>Vietnam</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Arto Vaara</td>
+<td>M</td>
+<td>-</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>M</td>
+<td>-</td>
+<td>Dau Doan</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Jouni R&auml;m&ouml;</td>
+<td>M</td>
+<td>-</td>
+<td>Nguyen Duoc Lap</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>M</td>
+<td>-</td>
+<td>Nhan The Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td colspan="4" style="border-style: none;">&nbsp;</td>
+<td>2</td>
+<td>-</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+
+<a id="yhteistulos-suomi-vietnam-8-0-8-0"></a>
+#### Yhteistulos : Suomi - Vietnam 8,0 - 8,0
+
+---
+
+<a id="MM_2011"></a>
+### Indonesian MM-kisojen 20.-26.11.2011 tuloksia
+
+<p> Suomen joukkueseen kuuluvat ilmoittautuneet pelaajat :
+Olavi Stenman, Jouni R&auml;m&ouml; ja Mikko T&ouml;rnqvist.</p>
+
+<p> Peliajat ovat 60 min + 30 s/siirto. Vastustajien
+nimiss&auml; sukunimi kirjoitettu isoin kirjaimin. </p>
+
+<p> Muiden kuin suomalaistenkin pelaajien tuloksia on
+laajemmin luettavissa t&auml;&auml;lt&auml;: <br/>
+<a href="http://www.xiangqibowl.net/wxc/">http://www.xiangqibowl.net/wxc/</a>
+<br/>
+</p>
+
+<p>Suomalaisten p&ouml;yt&auml;kirjat ovat imuroitavissa <a href="https://shakki.info/tietokanta/Jakarta_2011_Suomalaisten_pelit.zip">t&auml;&auml;lt&auml;</a>
+tai katseltavissa my&ouml;s alla olevien linkkien avulla. Avaukset on
+luokiteltu <a href="http://www.xqbase.com/ecco/ecco_contents.htm">ECCO-tietokannan</a>
+avulla. ECCO-tietokanta on kuvattu lyhyesti englanniksi <a href="http://www.xqinenglish.com/opeccoclassificationsummary.html">t&auml;&auml;ll&auml;.</a></p>
+
+<p>P&ouml;yt&auml;kirjat, v&auml;liaikatulokset ja lopulliset
+tulostaulukot ovat my&ouml;s
+ladattavissa <a href="https://shakki.info/tietokanta/WorldXiangQiChampionship12.zip">t&auml;&auml;lt&auml;</a>.
+Kuvia kisoista on ladattavissa <a href="http://www.mediafire.com/file/nkzxyy4a9958bpn/WorldXiangQiChampionship12-Pictures.zip">t&auml;&auml;lt&auml;</a>.</p>
+
+<p>P&ouml;yt&auml;kirjojen selaamiseen tarvitaan WXF:n formaattia
+lukeva ohjelma, esimerkiksi
+XQStudio. Sen k&auml;ytt&ouml;ohjeet l&ouml;ytyv&auml;t <a href="http://www.shakki.info/asiakirjat/XQStudio_pakkaus.zip">t&auml;&auml;lt&auml;</a>.</p>
+
+<table border="3" style="border: medium none ;">
+</table>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th colspan="7"> 1. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> ABE Hidetoshi </td>
+<td> 阿部秀俊 </td>
+<td> Japani </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> JIANG Chuan </td>
+<td> 蒋川 </td>
+<td> Kiina </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> WONG Wan Heng </td>
+<td> 黄运兴 </td>
+<td> Malesia </td>
+<td> 0 - 1 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 2. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Chandra NUGRUHO </td>
+<td> 努格鲁豪 </td>
+<td> Indonesia </td>
+<td> 1 - 0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> HE Zhimin </td>
+<td> 何志敏 </td>
+<td> Italia </td>
+<td> 0 - 1 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Anuar B H BAKRI </td>
+<td> 安华 </td>
+<td> Malesia </td>
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 3. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> HE Zhimin </td>
+<td> 何志敏 </td>
+<td> Italia </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Chandra NUGRUHO </td>
+<td> 努格鲁豪 </td>
+<td> Indonesia </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 0-1 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> XU Guangya </td>
+<td> 徐光亚 </td>
+<td> Japani </td>
+<td> 0-1 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 4. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Dmitry RUMYANTSEV </td>
+<td> 鲁缅采夫 </td>
+<td> Ven&auml;j&auml; </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> ABE Hidetoshi </td>
+<td> 阿部秀俊 </td>
+<td> Japani </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> OGAWA Hiroshi </td>
+<td> 小川比吕士 </td>
+<td> Japani </td>
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> 0-1 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 5. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> JUAN Ming Chao </td>
+<td> 阮明昭 </td>
+<td> Taiwan </td>
+<td> 0-1 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Aleksandr DEMIN </td>
+<td> 若敏 </td>
+<td> Ven&auml;j&auml; </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 0-1 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Chein Kyi </td>
+<td> 成举 </td>
+<td> Myanmar </td>
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> 0-1 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 6. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 0-1 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> TENG Siongliang </td>
+<td> 邓祥年 </td>
+<td> It&auml;-Malesia </td>
+<td> 0-1 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 7. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Michael N&Auml;GLER </td>
+<td> 纳格勒 </td>
+<td> Saksa </td>
+<td> 0.5 - 0.5 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Dmitry RUMYANTSEV </td>
+<td> 鲁缅采夫 </td>
+<td> Ven&auml;j&auml; </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> LYUU Yin San </td>
+<td> 吕因三 </td>
+<td> Myanmar </td>
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 8. kierros</th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> Ivan MINARTA </td>
+<td> 余仲明 </td>
+<td> Indonesia </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> Anuar B. H. BAKRI </td>
+<td> 安华 </td>
+<td> Malesia </td>
+<td> 0.5-0.5 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Uwe FRISCHMUTH </td>
+<td> 弗里施穆特 </td>
+<td> Saksa </td>
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 9. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+<td> P&ouml;yt&auml;kirja</td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr align="center">
+<td> Olavi Stenman </td>
+<td> 石天曼 </td>
+<td> Suomi </td>
+<td> Xavier GEREMY</td>
+<td> 惹勒米 </td>
+<td> Ranska </td>
+<td> 1-0 </td>
+<td> 
+</td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+</tbody>
+</table>
+
+<p> Sijoitukset (piste voitosta, puoli tasapelist&auml;)</p>
+
+<table border="3" cellpadding="1" cellspacing="1" style="border: medium none ;" width="100%">
+<tbody>
+<tr>
+<td width="60%">Nimi</td>
+<td width="20%">Pisteet</td>
+<td width="20%">Kokonaissijoitus</td>
+<td width="20%">Sijoitus ei-kiin/viet.
+joukosssa</td>
+</tr>
+<tr>
+<td> Mikko T&ouml;rnqvist</td>
+<td> 4,5 </td>
+<td> 37.</td>
+<td> 4. </td>
+</tr>
+<tr>
+<td> Jouni R&auml;m&ouml;</td>
+<td> 3,5 </td>
+<td> 49.</td>
+<td> 10. </td>
+</tr>
+<tr>
+<td> Olavi Stenman</td>
+<td> 3 </td>
+<td> 60.</td>
+<td> 20. </td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Alypelikisat_2011"></a>
+### Oulun Älypelikisojen (21.-30.10.2011) tuloksia
+
+<p> Xiangqi-kilpailu su 30.10.2011 :</p>
+
+<p> Peliajat olivat 15 min + 15 s/siirto. Kisoissa
+pelattiin kaksinkertainen sarja, jossa
+kukin pelaaja pelasi siis kaikkia muita pelaajia vastaan kaksi kertaa.
+Voitosta sai pisteen
+ja tasapelist&auml; puolipistett&auml;.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="40%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffcc" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffcc" width="20%"> <b>Pisteet</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">1</td>
+<td align="left">Su Yang</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">2</td>
+<td align="left">Jouni Tolonen</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1,5</td>
+<td>1</td>
+<td>3,5</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">3</td>
+<td align="left">Simo Lehtonen</td>
+<td>0</td>
+<td>0,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>2</td>
+<td>2,5</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">4</td>
+<td align="left">Ville Ainali</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="SM_2011"></a>
+### SM-Kisojen 2011 tuloksia
+
+<p> Kiinalaisen Shakin Yst&auml;v&auml;t Suomessa r.y. yhteisty&ouml;ss&auml; <a href="http://www.helsinki.fi/hum/confucius/">Konfutse-instituutin</a>
+kanssa j&auml;rjesti Konfutse-instituutissa lauantaina 16.4.2011 ja
+17.4.2011 viisikierroksisen
+turnauksen. Mukaan oli saatu jopa 16 pelaajaa. Voittajaksi selvityi Mei
+Peng (梅鹏), onnittelut voittajalle!</p>
+
+<p> Pelaajien tulokset lopullisessa tulosj&auml;rjestyksess&auml; : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="38%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="3%"> <b>1</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>2</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>3</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>4</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>5</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>6</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>7</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>8</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>9</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>10</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>11</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>12</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>13</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>14</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>15</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>16</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>P</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>K</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>M-Buch</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>INGO</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">1</td>
+<td align="left">Mei, Peng</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0.5</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4.5</td>
+<td>5</td>
+<td>9.5</td>
+<td>102</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">2</td>
+<td align="left">T&ouml;rnqvist, Mikko</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>5</td>
+<td>8.5</td>
+<td>149</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">3</td>
+<td align="left">Rumyantsev, Dmitry</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0.5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3.5</td>
+<td>5</td>
+<td>9.5</td>
+<td>164</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">4</td>
+<td align="left">Stenman, Olavi</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0.5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3.5</td>
+<td>5</td>
+<td>9</td>
+<td>167</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">5</td>
+<td align="left">R&auml;m&ouml;, Jouni</td>
+<td>0.5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0.5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>5</td>
+<td>8</td>
+<td>141</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">6</td>
+<td align="left">Ojala, Tuomo</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td>8</td>
+<td>211</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">7</td>
+<td align="left">Mao, Yong</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td>5.5</td>
+<td>250</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">8</td>
+<td align="left">Wang, Fengli</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>5</td>
+<td>5.5</td>
+<td>250</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">9</td>
+<td align="left">Vaara, Arto</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0.5</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2.5</td>
+<td>5</td>
+<td>9.5</td>
+<td>182</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">10</td>
+<td align="left">L&ouml;fstr&ouml;m, Elina</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>5</td>
+<td>7</td>
+<td>208</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">11</td>
+<td align="left">*Jiang, Ping</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+<td>201</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">12</td>
+<td align="left">Zhou, Zhou</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>5</td>
+<td>10.5</td>
+<td>250</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">13</td>
+<td align="left">Gao, Yan</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>8</td>
+<td>237</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">14</td>
+<td align="left">Yu, Hongjuan</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>8</td>
+<td>250</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">15</td>
+<td align="left">*Ren, Hai</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>225</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">16</td>
+<td align="left">Niinim&auml;ki, Pertti</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>5</td>
+<td>6</td>
+<td>244</td>
+</tr>
+</tbody>
+</table>
+
+<p> * 2 pelaajaa ei pelannut koko turnausta loppuun. </p>
+
+<p> Selityksi&auml; tuloksista : </p>
+
+<ul>
+<li>P = Pisteet </li>
+<li>K = kierrosten lukum&auml;&auml;r&auml; </li>
+<li>M-Bu = Mediaani-Buchholz pisteet (pelattujen
+vastustajien pisteiden summa, josta v&auml;hennetty suurin ja pienin luku.
+Vastustajien pelaamattomista kierroksista sai puoli pistett&auml;
+hyvityst&auml;.) </li>
+<li>INGO = INGO-luku ennen turnausta (INGO-luvissa
+pienempi luku on parempi, luokittelemattomille pelaajille laitettu luku
+250) </li>
+</ul>
+
+<p> J&auml;rjestyksen m&auml;&auml;r&auml;si: </p>
+
+<ol start="1" type="1">
+<li> Saadut pisteet peleist&auml; (1 piste voitosta, puoli
+pistett&auml; tasapelist&auml;) </li>
+<li> Mediaani-Buchholz -pisteet </li>
+<li> INGO luku </li>
+</ol>
+
+---
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="5%">P&ouml;yt&auml;</td>
+<td width="40%">Punainen</td>
+<td width="5%">Tulos</td>
+<td width="40%">Musta</td>
+</tr>
+<tr align="center">
+<td>1</td>
+<td>Mei, Peng</td>
+<td>1:0</td>
+<td>Ojala, Tuomo</td>
+</tr>
+<tr align="center">
+<td>2</td>
+<td>Ren, Hai</td>
+<td>0:1</td>
+<td>R&auml;m&ouml;, Jouni</td>
+</tr>
+<tr align="center">
+<td>3</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>1:0</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+</tr>
+<tr align="center">
+<td>4</td>
+<td>Mao, Yong</td>
+<td>0:1</td>
+<td>Rumyantsev, Dmitry</td>
+</tr>
+<tr align="center">
+<td>5</td>
+<td>Stenman, Olavi</td>
+<td>1:0</td>
+<td>Zhou, Zhou</td>
+</tr>
+<tr align="center">
+<td>6</td>
+<td>Wang, Fengli</td>
+<td>0:1</td>
+<td>Vaara, Arto</td>
+</tr>
+<tr align="center">
+<td>7</td>
+<td>Jiang, Ping</td>
+<td>1:0</td>
+<td>Yu, Hongjuan</td>
+</tr>
+<tr align="center">
+<td>8</td>
+<td>Niinim&auml;ki, Pertti</td>
+<td>0:1</td>
+<td>Gao, Yan</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="5%">P&ouml;yt&auml;</td>
+<td width="40%">Punainen</td>
+<td width="5%">Tulos</td>
+<td width="40%">Musta</td>
+</tr>
+<tr align="center">
+<td>1</td>
+<td>Vaara, Arto</td>
+<td>0:1</td>
+<td>Mei, Peng</td>
+</tr>
+<tr align="center">
+<td>2</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>0:1</td>
+<td>Stenman, Olavi</td>
+</tr>
+<tr align="center">
+<td>3</td>
+<td>Gao, Yan</td>
+<td>0:1</td>
+<td>T&ouml;rnqvist, Mikko</td>
+</tr>
+<tr align="center">
+<td>4</td>
+<td>Rumyantsev, Dmitry</td>
+<td>1:0</td>
+<td>Jiang, Ping</td>
+</tr>
+<tr align="center">
+<td>5</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>0:1</td>
+<td>Wang, Fengli</td>
+</tr>
+<tr align="center">
+<td>6</td>
+<td>Ojala, Tuomo</td>
+<td>1:0</td>
+<td>Niinim&auml;ki, Pertti</td>
+</tr>
+<tr align="center">
+<td>7</td>
+<td>Zhou, Zhou</td>
+<td>1:0</td>
+<td>Ren, Hai</td>
+</tr>
+<tr align="center">
+<td>8</td>
+<td>Yu, Hongjuan</td>
+<td>0:1</td>
+<td>Mao, Yong</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="5%">P&ouml;yt&auml;</td>
+<td width="40%">Punainen</td>
+<td width="5%">Tulos</td>
+<td width="40%">Musta</td>
+</tr>
+<tr align="center">
+<td>1</td>
+<td>Mei, Peng</td>
+<td>1:0</td>
+<td>Rumyantsev, Dmitry</td>
+</tr>
+<tr align="center">
+<td>2</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>1:0</td>
+<td>Stenman, Olavi</td>
+</tr>
+<tr align="center">
+<td>3</td>
+<td>Gao, Yan</td>
+<td>0:1</td>
+<td>R&auml;m&ouml;, Jouni</td>
+</tr>
+<tr align="center">
+<td>4</td>
+<td>Mao, Yong</td>
+<td>0:1</td>
+<td>Vaara, Arto</td>
+</tr>
+<tr align="center">
+<td>5</td>
+<td>Jiang, Ping</td>
+<td>1:0</td>
+<td>Zhou, Zhou</td>
+</tr>
+<tr align="center">
+<td>6</td>
+<td>Wang, Fengli</td>
+<td>0:1</td>
+<td>Ojala, Tuomo</td>
+</tr>
+<tr align="center">
+<td>7</td>
+<td>Niinim&auml;ki, Pertti</td>
+<td>0:1</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+</tr>
+<tr align="center">
+<td>8</td>
+<td>Ren, Hai</td>
+<td>1:0</td>
+<td>Yu, Hongjuan</td>
+</tr>
+</tbody>
+</table>
+
+<p> 4. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="5%">P&ouml;yt&auml;</td>
+<td width="40%">Punainen</td>
+<td width="5%">Tulos</td>
+<td width="40%">Musta</td>
+</tr>
+<tr align="center">
+<td>1</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>0:1</td>
+<td>Mei, Peng</td>
+</tr>
+<tr align="center">
+<td>2</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>0.5:0.5</td>
+<td>Vaara, Arto</td>
+</tr>
+<tr align="center">
+<td>3</td>
+<td>Stenman, Olavi</td>
+<td>0.5:0.5</td>
+<td>Rumyantsev, Dmitry</td>
+</tr>
+<tr align="center">
+<td>4</td>
+<td>Ojala, Tuomo</td>
+<td>1:0</td>
+<td>Gao, Yan</td>
+</tr>
+<tr align="center">
+<td>5</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td>0:1</td>
+<td>Mao, Yong</td>
+</tr>
+<tr align="center">
+<td>6</td>
+<td>Zhou, Zhou</td>
+<td>0:1</td>
+<td>Wang, Fengli</td>
+</tr>
+<tr align="center">
+<td>7</td>
+<td>Yu, Hongjuan</td>
+<td>1:0</td>
+<td>Niinim&auml;ki, Pertti</td>
+</tr>
+</tbody>
+</table>
+
+<p> 5. kierros </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="5%">P&ouml;yt&auml;</td>
+<td width="40%">Punainen</td>
+<td width="5%">Tulos</td>
+<td width="40%">Musta</td>
+</tr>
+<tr align="center">
+<td>1</td>
+<td>Mei, Peng</td>
+<td>0.5:0.5</td>
+<td>R&auml;m&ouml;, Jouni</td>
+</tr>
+<tr align="center">
+<td>2</td>
+<td>Ojala, Tuomo</td>
+<td>0:1</td>
+<td>T&ouml;rnqvist, Mikko</td>
+</tr>
+<tr align="center">
+<td>3</td>
+<td>Vaara, Arto</td>
+<td>0:1</td>
+<td>Stenman, Olavi</td>
+</tr>
+<tr align="center">
+<td>4</td>
+<td>Rumyantsev, Dmitry</td>
+<td>1:0</td>
+<td>Zhou, Zhou</td>
+</tr>
+<tr align="center">
+<td>5</td>
+<td>Wang, Fengli</td>
+<td>1:0</td>
+<td>Yu, Hongjuan</td>
+</tr>
+<tr align="center">
+<td>6</td>
+<td>Mao, Yong</td>
+<td>1:0</td>
+<td>Niinim&auml;ki, Pertti</td>
+</tr>
+<tr align="center">
+<td>7</td>
+<td>Gao, Yan</td>
+<td>0:1</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista :</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>Kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mei, Peng</td>
+<td>102-3</td>
+<td>4&frac12;/5</td>
+<td>149</td>
+<td> 5</td>
+<td>109</td>
+<td> 105-4</td>
+<td>(1965)</td>
+<td> 1:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td> 149-35</td>
+<td>4 /5</td>
+<td>173</td>
+<td> 3&frac12;</td>
+<td> 143</td>
+<td> 147-36</td>
+<td> (1671)</td>
+<td> 3:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Rumyantsev, Dmitry</td>
+<td>164-1</td>
+<td>3&frac12;/5</td>
+<td>178</td>
+<td> 3</td>
+<td>158</td>
+<td> 161-2</td>
+<td>(1573)</td>
+<td> 1:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stenman, Olavi</td>
+<td>167-49</td>
+<td>3&frac12;/5</td>
+<td>171</td>
+<td> 2&frac12;</td>
+<td> 151</td>
+<td> 163-50</td>
+<td> (1559)</td>
+<td> 3:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td> 141-74</td>
+<td> 3 /5</td>
+<td> 167</td>
+<td> 4</td>
+<td> 157</td>
+<td> 145-75</td>
+<td> (1685)</td>
+<td> 3:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ojala, Tuomo</td>
+<td>211-5</td>
+<td>3 /5</td>
+<td>198</td>
+<td>2</td>
+<td>188</td>
+<td>203-6</td>
+<td>(1279)</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Mao, Yong</td>
+<td> ----</td>
+<td>3 /5</td>
+<td>206</td>
+<td></td>
+<td>196</td>
+<td>196-1</td>
+<td>(1328)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Wang, Fengli</td>
+<td> ----</td>
+<td>3 /5</td>
+<td>214</td>
+<td></td>
+<td>204</td>
+<td>204-1</td>
+<td>(1272)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Vaara, Arto</td>
+<td>182-37</td>
+<td>2&frac12;/5</td>
+<td>168</td>
+<td> 2</td>
+<td>168</td>
+<td> 178-38</td>
+<td>(1454)</td>
+<td> 3:1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>L&ouml;fstr&ouml;m, Elina</td>
+<td> 208-2</td>
+<td> 2 /5</td>
+<td> 204</td>
+<td> 2</td>
+<td>&frac12; 214</td>
+<td> 211-3</td>
+<td> (1223</td>
+<td>) 1:1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Jiang, Ping</td>
+<td>199-2</td>
+<td>2 /3</td>
+<td>210</td>
+<td>2</td>
+<td>194</td>
+<td>198-3</td>
+<td>(1314)</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Zhou, Zhou</td>
+<td> ----</td>
+<td>1 /5</td>
+<td>196</td>
+<td></td>
+<td>226</td>
+<td>226-1</td>
+<td>(1118)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Gao, Yan</td>
+<td>230-3</td>
+<td>1 /5</td>
+<td>202</td>
+<td>1</td>
+<td>232</td>
+<td>231-4</td>
+<td>(1083)</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Yu, Hongjuan</td>
+<td> ----</td>
+<td>1 /5</td>
+<td>211</td>
+<td></td>
+<td>241</td>
+<td>241-1</td>
+<td>(1013)</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Ren, Hai</td>
+<td>Nopean peli avoin SM225-1</td>
+<td>1 /3</td>
+<td>214</td>
+<td>1</td>
+<td>231</td>
+<td>226-2</td>
+<td>(1118)</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Niinim&auml;ki, Pertti</td>
+<td> 233-2</td>
+<td>0 /5</td>
+<td>217</td>
+<td> 1&frac12;</td>
+<td> 267</td>
+<td> 250-3</td>
+<td> ( 950)</td>
+<td> 1:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="naisten_turnaus_2011"></a>
+### Naisten turnaus 26.02.2011
+
+<p> Peliajat olivat 30+30 min</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" style="border-style: none;" width="35%">&nbsp; </td>
+<td width="5%"> <b>1</b> </td>
+<td width="5%"> <b>2</b> </td>
+<td width="5%"> <b>3</b> </td>
+<td width="5%"> <b>4</b> </td>
+<td width="5%"> <b>5</b> </td>
+<td width="5%"> <b>6</b> </td>
+<td width="5%"> <b>7</b> </td>
+<td width="5%"> <b>Pisteet</b> </td>
+<td width="5%"> <b>Buchholz</b> </td>
+<td width="5%"> <b>Sijoitus</b> </td>
+</tr>
+<tr align="center">
+<td>1</td>
+<td align="left">Ping Jiang</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>2</td>
+<td align="left">Elina L&ouml;fstr&ouml;m</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>5</td>
+<td>2</td>
+</tr>
+<tr align="center">
+<td>3</td>
+<td align="left">Chai Yanru</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr align="center">
+<td>4</td>
+<td align="left">Dian Yuan</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>5</td>
+<td>4</td>
+</tr>
+<tr align="center">
+<td>5</td>
+<td align="left">Sun Xuemei</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr align="center">
+<td>6</td>
+<td align="left">Gao Yan</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>6</td>
+</tr>
+<tr align="center">
+<td>7</td>
+<td align="left">Rao Min</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>7</td>
+</tr>
+</tbody>
+</table>
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td>Dian Yuan</td>
+<td>-</td>
+<td>Gao Yan</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>-</td>
+<td>Chai Yanru</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Rao Min</td>
+<td>-</td>
+<td>Ping Jiang</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Sun Xuemei</td>
+<td colspan="5">lepovuorossa</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td>Ping Jiang</td>
+<td>-</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Sun Xuemei</td>
+<td>-</td>
+<td>Dian Yuan</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Chai Yanru</td>
+<td>-</td>
+<td>Rao Min</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Gao Yan</td>
+<td colspan="5">ei jatkanut</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td>Dian Yuan</td>
+<td>-</td>
+<td>Ping Jiang</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>-</td>
+<td>Rao Min</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Chai Yanru</td>
+<td>-</td>
+<td>Sun Xuemei</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikoina vain
+30+30 min, joten muutokset puolikkaalla kertoimella): </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jiang Ping</td>
+<td>201-1</td>
+<td>3/3</td>
+<td>234</td>
+<td>2.5</td>
+<td>184</td>
+<td>199-2</td>
+<td>1307</td>
+</tr>
+<tr>
+<td>2</td>
+<td>L&ouml;fstr&ouml;m Elina</td>
+<td>208-1</td>
+<td>2/3</td>
+<td>223</td>
+<td>2</td>
+<td>207</td>
+<td>208-2</td>
+<td>1244</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Chai Yanru</td>
+<td>----</td>
+<td>2/3</td>
+<td>242</td>
+<td></td>
+<td>226</td>
+<td>226-1</td>
+<td>1118</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Yuan Dian</td>
+<td>----</td>
+<td>1/3</td>
+<td>263</td>
+<td></td>
+<td>280</td>
+<td>280-1</td>
+<td>740</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sun Xuemei</td>
+<td>----</td>
+<td>0 /2</td>
+<td>280</td>
+<td></td>
+<td>330</td>
+<td>300(2)os</td>
+<td>----</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Yan Gao</td>
+<td>230-2</td>
+<td>1/1</td>
+<td>280</td>
+<td>1</td>
+<td>230</td>
+<td>230-3</td>
+<td>1090</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Min Rao</td>
+<td>243-2</td>
+<td>0 /3</td>
+<td>212</td>
+<td>0.5</td>
+<td>262</td>
+<td>246-3</td>
+<td>978</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2010"></a>
+## Vuoden 2010 tuloksia
+
+<a id="Suomi-Vietnam_20112010"></a>
+### Suomi-Vietnam ottelu 20.11.2010
+
+<p> J&auml;rvenp&auml;&auml;n Kiinalainen Shakki r.y. yhteisty&ouml;ss&auml;
+Vapaaehtoistoiminnankeskus Rinkulan kanssa
+j&auml;rjesti lauantaina 20.11.2010 nelikierroksisen Suomen ja Vietnamin
+joukkueiden v&auml;lisen ottelun. Mukaan oli saatu 7 pelaajaa molempiin
+joukkueisiin. </p>
+
+<p> Peliajat olivat 20+20min, joten pelej&auml; ei toimitettu
+ranking-laskentaan. Pelit pelattiin Vapaaehtoistoiminnankeskus Rinkulan
+tiloissa J&auml;rvenp&auml;&auml;ss&auml;.
+</p>
+
+<p> Tapahtumaa sponsoroi my&ouml;s Vietnamin suurl&auml;hetyst&ouml;. </p>
+
+<p> Suomalaisten pelaajien tulokset (vietnamilaiset
+pelaajat alla olevan taulukon mukaisesssa j&auml;rjestyksess&auml;) :</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td colspan="2" style="border-style: none;">&nbsp;
+</td>
+<td align="left" colspan="15" style="border-style: none;"> <b>Vietnamilaiset pelaajat</b> </td>
+</tr>
+<tr align="center">
+<td style="border-style: none;" width="6%">
+# </td>
+<td align="left" style="border-style: none;" width="22%"> <b>Suomi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>5</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>6</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>7</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pelien
+lkm</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>Sonneborn-Berger</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Buchholz</b>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Arto Vaara</td>
+<td>1</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>2,5</td>
+<td>4</td>
+<td>3,75</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Tuomo Ojala</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Raimo Lindroos</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>9,5</td>
+</tr>
+</tbody>
+</table>
+
+<p> Vietnamilaisten pelaajien tulokset (suomalaiset
+pelaajat yll&auml; olevan taulukon mukaisesssa j&auml;rjestyksess&auml;) on esitetty
+seuraavassa taulukossa. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td colspan="2" style="border-style: none;">&nbsp;
+</td>
+<td align="left" colspan="15" style="border-style: none;"> <b>Suomalaiset pelaajat</b> </td>
+</tr>
+<tr align="center">
+<td style="border-style: none;" width="6%">
+# </td>
+<td align="left" style="border-style: none;" width="22%"> <b>Vietnam</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>5</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>6</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>7</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pelien
+lkm</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>Sonneborn-Berger</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Buchholz</b>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Truyen Van Nguyen</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4</td>
+<td>3,5</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nhan The Nguyen</td>
+<td>0,5</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>3,5</td>
+<td>4</td>
+<td>8</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ai Van Doan</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4</td>
+<td>3,5</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Nga Nguyen-Pakarinen</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Tam Van Nguyen</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>5,5</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Phuc Van Nguyen</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4</td>
+<td>3</td>
+<td>7</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros (Vuorov&auml;rein, P=Punainen, M=Musta) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="30%"><b>Suomi</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td width="5%">-</td>
+<td width="40%"><b>Vietnam</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Arto Vaara</td>
+<td>M</td>
+<td>-</td>
+<td>Tam Van Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Tuomo Ojala</td>
+<td>P</td>
+<td>-</td>
+<td>Nhan The Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>M</td>
+<td>-</td>
+<td>Truyen Van Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Jouni R&auml;m&ouml;</td>
+<td>P</td>
+<td>-</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>M</td>
+<td>-</td>
+<td>Nga Nguyen-Pakarinen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Raimo Lindroos</td>
+<td>M</td>
+<td>-</td>
+<td>Phuc Van Nguyen </td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>M</td>
+<td>-</td>
+<td>Ai Van Doan</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td colspan="4" style="border-style: none;">&nbsp;</td>
+<td>3</td>
+<td>-</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros (Vuorov&auml;rein, P=Punainen, M=Musta) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="30%"><b>Suomi</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td width="5%">-</td>
+<td width="40%"><b>Vietnam</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Arto Vaara</td>
+<td>P</td>
+<td>-</td>
+<td>Nhan The Nguyen</td>
+<td>0,5</td>
+<td>-</td>
+<td>0,5</td>
+</tr>
+<tr align="center">
+<td>Tuomo Ojala</td>
+<td>M</td>
+<td>-</td>
+<td>Truyen Van Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>P</td>
+<td>-</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Jouni R&auml;m&ouml;</td>
+<td>M</td>
+<td>-</td>
+<td>Nga Nguyen-Pakarinen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>M</td>
+<td>-</td>
+<td>Phuc Van Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Raimo Lindroos</td>
+<td>P</td>
+<td>-</td>
+<td>Ai Van Doan</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>P</td>
+<td>-</td>
+<td>Tam Van Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td colspan="4" style="border-style: none;">&nbsp;</td>
+<td>4,5</td>
+<td>-</td>
+<td>2,5</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros (Vuorov&auml;rein, P=Punainen, M=Musta) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="30%"><b>Suomi</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td width="5%">-</td>
+<td width="40%"><b>Vietnam</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Arto Vaara</td>
+<td>M</td>
+<td>-</td>
+<td>Truyen Van Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Tuomo Ojala</td>
+<td>P</td>
+<td>-</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>M</td>
+<td>-</td>
+<td>Tam Van Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Jouni R&auml;m&ouml;</td>
+<td>P</td>
+<td>-</td>
+<td>Phuc Van Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>M</td>
+<td>-</td>
+<td>Ai Van Doan</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Raimo Lindroos</td>
+<td>P</td>
+<td>-</td>
+<td>Nga Nguyen-Pakarinen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>M</td>
+<td>-</td>
+<td>Nhan The Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td colspan="4" style="border-style: none;">&nbsp;</td>
+<td>4</td>
+<td>-</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+<p> 4. kierros (Vuorov&auml;rein, P=Punainen, M=Musta) </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td width="30%"><b>Suomi</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td width="5%">-</td>
+<td width="40%"><b>Vietnam</b></td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+<td style="border-style: none;" width="5%">&nbsp;</td>
+</tr>
+<tr align="center">
+<td>Arto Vaara</td>
+<td>M</td>
+<td>-</td>
+<td>Nuong Ngoc Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Tuomo Ojala</td>
+<td>P</td>
+<td>-</td>
+<td>Tam Van Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>M</td>
+<td>-</td>
+<td>Phuc Van Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Jouni R&auml;m&ouml;</td>
+<td>P</td>
+<td>-</td>
+<td>Ai Van Doan</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>M</td>
+<td>-</td>
+<td>Truyen Van Nguyen</td>
+<td>1</td>
+<td>-</td>
+<td>0</td>
+</tr>
+<tr align="center">
+<td>Raimo Lindroos</td>
+<td>P</td>
+<td>-</td>
+<td>Nhan The Nguyen</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td colspan="4" style="border-style: none;">&nbsp;</td>
+<td>3</td>
+<td>-</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+<a id="yhteistulos-suomi-vietnam-14-5-12-5"></a>
+#### Yhteistulos : Suomi - Vietnam 14,5 - 12,5
+
+---
+
+<a id="EM-kisat_2010"></a>
+### Euroopan mestaruuskisojen 11.-12.9.2010 tuloksia
+
+<p> Saksan XQ-yhdistys j&auml;rjesti 11.-12.9. vuoden 2010
+Euroopan Mestaruuskisat. Suomesta niihin osallistuivat : Jouni R&auml;m&ouml;,
+Olavi Stenman, Arto Vaara ja Tuomo Ojala. </p>
+
+<p>Tulokset on esitetty lyhyesti seuraavassa taulukossa.
+Sarakkeihin 1-7 on merkitty kierrosten 1-7 tulokset siten, ett&auml; ensin
+on merkitty vastustajan numero, sitten pelaajan v&auml;ri (r=punainen,
+b=musta) ja lopuksi lopputulos.
+Buchholz-luku on laskettu laskemalla yhteen voitettujen vastustajien
+pisteet ja puolet niiden pelaajien tuloksista, joita vastaan on pelattu
+tasapeli. Sarakkeeseen NFY on merkitty erikseen mik&auml;li pelaaja ei ole
+kiinalainen tai vietnamilainen (N), alle 20-vuotias pelaaja (Y) tai
+naispelaaja (F).
+</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Sukunimi</td>
+<td>Etunimi</td>
+<td>Maa</td>
+<td>Ingo</td>
+<td>NFY</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dang,</td>
+<td>Nicolas</td>
+<td>FRA</td>
+<td>63</td>
+<td></td>
+<td>20r1</td>
+<td>25b1</td>
+<td>14r1</td>
+<td>4b1</td>
+<td>3r1</td>
+<td>2b0</td>
+<td>9r1</td>
+<td>6,0</td>
+<td>32,5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pu,</td>
+<td>Fangyao</td>
+<td>GER</td>
+<td>77</td>
+<td></td>
+<td>5r1</td>
+<td>39b1</td>
+<td>15r1</td>
+<td>3b0</td>
+<td>14r1</td>
+<td>1r1</td>
+<td>11b1</td>
+<td>6,0</td>
+<td>32,0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Huynh,</td>
+<td>Vinh-Tuong</td>
+<td>FRA</td>
+<td>99</td>
+<td></td>
+<td>7r1</td>
+<td>19b1</td>
+<td>18r1</td>
+<td>2r1</td>
+<td>1b0</td>
+<td>9b&frac12;</td>
+<td>10r1</td>
+<td>5,5</td>
+<td>34,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Nguyen,</td>
+<td>Marc-Antoine</td>
+<td>FRA</td>
+<td>96</td>
+<td></td>
+<td>9r1</td>
+<td>27b1</td>
+<td>17r1</td>
+<td>1r0</td>
+<td>6b1</td>
+<td>10b0</td>
+<td>15r1</td>
+<td>5,0</td>
+<td>31,5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Xu,</td>
+<td>WeiGuo</td>
+<td>NED</td>
+<td>112</td>
+<td></td>
+<td>2b0</td>
+<td>33r1</td>
+<td>29b1</td>
+<td>25r1</td>
+<td>8r&frac12;</td>
+<td>16b&frac12;</td>
+<td>23r1</td>
+<td>5,0</td>
+<td>29,0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Chen,</td>
+<td>Jun</td>
+<td>GER</td>
+<td>114</td>
+<td></td>
+<td>8r&frac12;</td>
+<td>41b1</td>
+<td>10r&frac12;</td>
+<td>19b1</td>
+<td>4r0</td>
+<td>34b1</td>
+<td>16r1</td>
+<td>5,0</td>
+<td>27,5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nguyen,</td>
+<td>Viet</td>
+<td>GER</td>
+<td>121</td>
+<td></td>
+<td>3b0</td>
+<td>36r&frac12;</td>
+<td>38r1</td>
+<td>43b1</td>
+<td>34r&frac12;</td>
+<td>25b1</td>
+<td>14r1</td>
+<td>5,0</td>
+<td>24,5</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Wang,</td>
+<td>Hui-Chuan</td>
+<td>NED</td>
+<td>80</td>
+<td></td>
+<td>6b&frac12;</td>
+<td>24r1</td>
+<td>11b1</td>
+<td>12r&frac12;</td>
+<td>5b&frac12;</td>
+<td>14b0</td>
+<td>20r1</td>
+<td>4,5</td>
+<td>31,0</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Chen,</td>
+<td>Ming</td>
+<td>NED</td>
+<td>119</td>
+<td></td>
+<td>4b0</td>
+<td>23r1</td>
+<td>42b1</td>
+<td>35r1</td>
+<td>12b1</td>
+<td>3r&frac12;</td>
+<td>1b0</td>
+<td>4,5</td>
+<td>30,5</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Xue,</td>
+<td>Zhong</td>
+<td>GER</td>
+<td>76</td>
+<td></td>
+<td>11b&frac12;</td>
+<td>48r1</td>
+<td>6b&frac12;</td>
+<td>17r1</td>
+<td>16b&frac12;</td>
+<td>4r1</td>
+<td>3b0</td>
+<td>4,5</td>
+<td>30,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Liu,</td>
+<td>Zhenyu</td>
+<td>GER</td>
+<td>112</td>
+<td></td>
+<td>10r&frac12;</td>
+<td>43b1</td>
+<td>8r0</td>
+<td>26b1</td>
+<td>15r1</td>
+<td>22b1</td>
+<td>2r0</td>
+<td>4,5</td>
+<td>29,0</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Lai Hop</td>
+<td>Duong</td>
+<td>GER</td>
+<td>97</td>
+<td></td>
+<td>13b&frac12;</td>
+<td>26r1</td>
+<td>28b1</td>
+<td>8b&frac12;</td>
+<td>9r0</td>
+<td>17r&frac12;</td>
+<td>32b1</td>
+<td>4,5</td>
+<td>28,0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Yuen,</td>
+<td>ShuShang</td>
+<td>NED</td>
+<td>119</td>
+<td></td>
+<td>12r&frac12;</td>
+<td>52b&frac12;</td>
+<td>35r0</td>
+<td>45b1</td>
+<td>37b1</td>
+<td>32r&frac12;</td>
+<td>28b1</td>
+<td>4,5</td>
+<td>21,5</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Weng,</td>
+<td>Hanming</td>
+<td>GER</td>
+<td>102</td>
+<td></td>
+<td>53r1</td>
+<td>42b1</td>
+<td>1b0</td>
+<td>21r1</td>
+<td>2b0</td>
+<td>8r1</td>
+<td>7b0</td>
+<td>4,0</td>
+<td>29,5</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Han,</td>
+<td>Shuqing</td>
+<td>GER</td>
+<td></td>
+<td></td>
+<td>16r1</td>
+<td>35b1</td>
+<td>2b0</td>
+<td>32r1</td>
+<td>11b0</td>
+<td>39r1</td>
+<td>4b0</td>
+<td>4,0</td>
+<td>29,0</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Ding,</td>
+<td>Wa Chong</td>
+<td>NED</td>
+<td>100</td>
+<td></td>
+<td>15b0</td>
+<td>44r1</td>
+<td>31b1</td>
+<td>18b1</td>
+<td>10r&frac12;</td>
+<td>5r&frac12;</td>
+<td>6b0</td>
+<td>4,0</td>
+<td>28,5</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Liu,</td>
+<td>Yang</td>
+<td>GER</td>
+<td></td>
+<td></td>
+<td>33b1</td>
+<td>47r1</td>
+<td>4b0</td>
+<td>10b0</td>
+<td>27r1</td>
+<td>12b&frac12;</td>
+<td>18r&frac12;</td>
+<td>4,0</td>
+<td>27,0</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Greeuw,</td>
+<td>Gert</td>
+<td>NED</td>
+<td>134</td>
+<td>N</td>
+<td>23r1</td>
+<td>37b1</td>
+<td>3b0</td>
+<td>16r0</td>
+<td>35b&frac12;</td>
+<td>41r1</td>
+<td>17b&frac12;</td>
+<td>4,0</td>
+<td>26,0</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Sett,</td>
+<td>Kar Long</td>
+<td>NED</td>
+<td>162</td>
+<td></td>
+<td>21b1</td>
+<td>3r0</td>
+<td>48b1</td>
+<td>6r0</td>
+<td>25b0</td>
+<td>37r1</td>
+<td>39b1</td>
+<td>4,0</td>
+<td>26,0</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Vuibert,</td>
+<td>J&eacute;rome</td>
+<td>FRA</td>
+<td>107</td>
+<td></td>
+<td>1b0</td>
+<td>21r0</td>
+<td>51b1</td>
+<td>52r1</td>
+<td>31b1</td>
+<td>30r1</td>
+<td>8b0</td>
+<td>4,0</td>
+<td>25,0</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Klein,</td>
+<td>Andreas</td>
+<td>GER</td>
+<td>139</td>
+<td>N</td>
+<td>19r0</td>
+<td>20b1</td>
+<td>37r1</td>
+<td>14b0</td>
+<td>23r0</td>
+<td>47b1</td>
+<td>36r1</td>
+<td>4,0</td>
+<td>24,0</td>
+</tr>
+<tr bgcolor="lightblue">
+<td>22</td>
+<td>R&auml;m&ouml;,</td>
+<td>Jouni</td>
+<td>FIN</td>
+<td>138</td>
+<td>N</td>
+<td>24b&frac12;</td>
+<td>31r&frac12;</td>
+<td>47b&frac12;</td>
+<td>29r1</td>
+<td>41b1</td>
+<td>11r0</td>
+<td>30b&frac12;</td>
+<td>4,0</td>
+<td>23,5</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Reinders,</td>
+<td>Rudolf</td>
+<td>GER</td>
+<td>159</td>
+<td>N</td>
+<td>18b0</td>
+<td>9b0</td>
+<td>54r1</td>
+<td>48r1</td>
+<td>21b1</td>
+<td>40r1</td>
+<td>5b0</td>
+<td>4,0</td>
+<td>22,5</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Meyersieck,</td>
+<td>Michael</td>
+<td>GER</td>
+<td>161</td>
+<td>N</td>
+<td>22r&frac12;</td>
+<td>8b0</td>
+<td>41r0</td>
+<td>50b1</td>
+<td>47r&frac12;</td>
+<td>45b1</td>
+<td>34r1</td>
+<td>4,0</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Tessen,</td>
+<td>J&ouml;rn</td>
+<td>GER</td>
+<td>152</td>
+<td>N</td>
+<td>51b1</td>
+<td>1r0</td>
+<td>45b1</td>
+<td>5b0</td>
+<td>19r1</td>
+<td>7r0</td>
+<td>26b&frac12;</td>
+<td>3,5</td>
+<td>28,0</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Gollmar,</td>
+<td>Bastian</td>
+<td>GER</td>
+<td>163</td>
+<td>N</td>
+<td>34r&frac12;</td>
+<td>12b0</td>
+<td>50r1</td>
+<td>11r0</td>
+<td>29b1</td>
+<td>36b&frac12;</td>
+<td>25r&frac12;</td>
+<td>3,5</td>
+<td>24,0</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Li,</td>
+<td>Yung</td>
+<td>NED</td>
+<td>156</td>
+<td></td>
+<td>46b1</td>
+<td>4r0</td>
+<td>32b0</td>
+<td>42r1</td>
+<td>17b0</td>
+<td>31r&frac12;</td>
+<td>44b1</td>
+<td>3,5</td>
+<td>23,5</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Wu,</td>
+<td>Caifang</td>
+<td>GER</td>
+<td>164</td>
+<td>F</td>
+<td>41r&frac12;</td>
+<td>30b1</td>
+<td>12r0</td>
+<td>34b0</td>
+<td>49r1</td>
+<td>35b1</td>
+<td>13r0</td>
+<td>3,5</td>
+<td>23,0</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Phan,</td>
+<td>Liem</td>
+<td>NED</td>
+<td>191</td>
+<td></td>
+<td>38r&frac12;</td>
+<td>34b1</td>
+<td>5r0</td>
+<td>22b0</td>
+<td>26r0</td>
+<td>49b1</td>
+<td>46r1</td>
+<td>3,5</td>
+<td>23,0</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Hoffarth,</td>
+<td>Karsten</td>
+<td>GER</td>
+<td>131</td>
+<td>N</td>
+<td>40b&frac12;</td>
+<td>28r0</td>
+<td>36b1</td>
+<td>47r1</td>
+<td>39b&frac12;</td>
+<td>20b0</td>
+<td>22r&frac12;</td>
+<td>3,5</td>
+<td>22,5</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Huber,</td>
+<td>Siegfried</td>
+<td>GER</td>
+<td>168</td>
+<td>N</td>
+<td>52r&frac12;</td>
+<td>22b&frac12;</td>
+<td>16r0</td>
+<td>38b1</td>
+<td>20r0</td>
+<td>27b&frac12;</td>
+<td>43r1</td>
+<td>3,5</td>
+<td>22,5</td>
+</tr>
+<tr bgcolor="lightblue">
+<td>32</td>
+<td>Vaara,</td>
+<td>Arto</td>
+<td>FIN</td>
+<td>197</td>
+<td>N</td>
+<td>42r0</td>
+<td>54b1</td>
+<td>27r1</td>
+<td>15b0</td>
+<td>33r1</td>
+<td>13b&frac12;</td>
+<td>12r0</td>
+<td>3,5</td>
+<td>22,5</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Frischmuth,</td>
+<td>Uwe</td>
+<td>GER</td>
+<td>149</td>
+<td>N</td>
+<td>17r0</td>
+<td>5b0</td>
+<td>53r&frac12;</td>
+<td>44b1</td>
+<td>32b0</td>
+<td>52r1</td>
+<td>41b1</td>
+<td>3,5</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Bradler,</td>
+<td>Stephan</td>
+<td>GER</td>
+<td>149</td>
+<td>NY</td>
+<td>26b&frac12;</td>
+<td>29r0</td>
+<td>44b1</td>
+<td>28r1</td>
+<td>7b&frac12;</td>
+<td>6r0</td>
+<td>24b0</td>
+<td>3,0</td>
+<td>27,0</td>
+</tr>
+<tr bgcolor="lightblue">
+<td>35</td>
+<td>Stenman,</td>
+<td>Olavi</td>
+<td>FIN</td>
+<td>172</td>
+<td>N</td>
+<td>49r1</td>
+<td>15r0</td>
+<td>13b1</td>
+<td>9b0</td>
+<td>18r&frac12;</td>
+<td>28r0</td>
+<td>40b&frac12;</td>
+<td>3,0</td>
+<td>25,5</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Degtyarev,</td>
+<td>Evgeny</td>
+<td>GER</td>
+<td>166</td>
+<td>N</td>
+<td>37b0</td>
+<td>7b&frac12;</td>
+<td>30r0</td>
+<td>46r1</td>
+<td>52b1</td>
+<td>26r&frac12;</td>
+<td>21b0</td>
+<td>3,0</td>
+<td>23,0</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Geremy,</td>
+<td>Xavier</td>
+<td>FRA</td>
+<td>192</td>
+<td>N</td>
+<td>36r1</td>
+<td>18r0</td>
+<td>21b0</td>
+<td>53b1</td>
+<td>13r0</td>
+<td>19b0</td>
+<td>47r1</td>
+<td>3,0</td>
+<td>23,0</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Gitter,</td>
+<td>Richard</td>
+<td>GER</td>
+<td>214</td>
+<td>NY</td>
+<td>29b&frac12;</td>
+<td>40r&frac12;</td>
+<td>7b0</td>
+<td>31r0</td>
+<td>42b0</td>
+<td>48r1</td>
+<td>53b1</td>
+<td>3,0</td>
+<td>21,0</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Gitter,</td>
+<td>Lucas</td>
+<td>GER</td>
+<td>154</td>
+<td>NY</td>
+<td>54r1</td>
+<td>2r0</td>
+<td>52b&frac12;</td>
+<td>49b1</td>
+<td>30r&frac12;</td>
+<td>15b0</td>
+<td>19r0</td>
+<td>3,0</td>
+<td>21,0</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Kappelhoff,</td>
+<td>Hubert</td>
+<td>GER</td>
+<td>158</td>
+<td>N</td>
+<td>30r&frac12;</td>
+<td>38b&frac12;</td>
+<td>49r&frac12;</td>
+<td>41b0</td>
+<td>43r1</td>
+<td>23b0</td>
+<td>35r&frac12;</td>
+<td>3,0</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td>41</td>
+<td>De Leeuw,</td>
+<td>Arnout</td>
+<td>NED</td>
+<td>192</td>
+<td>N</td>
+<td>28b&frac12;</td>
+<td>6r0</td>
+<td>24b1</td>
+<td>40r1</td>
+<td>22r0</td>
+<td>18b0</td>
+<td>33r0</td>
+<td>2,5</td>
+<td>27,0</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Brenner,</td>
+<td>Markus</td>
+<td>GER</td>
+<td>170</td>
+<td>N</td>
+<td>32b1</td>
+<td>14r0</td>
+<td>9r0</td>
+<td>27b0</td>
+<td>38r1</td>
+<td>46b0</td>
+<td>45r&frac12;</td>
+<td>2,5</td>
+<td>23,5</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Sechting,</td>
+<td>Martin</td>
+<td>GER</td>
+<td>182</td>
+<td>N</td>
+<td>44b&frac12;</td>
+<td>11r0</td>
+<td>46b1</td>
+<td>7r0</td>
+<td>40b0</td>
+<td>50r1</td>
+<td>31b0</td>
+<td>2,5</td>
+<td>23,0</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Bigalke,</td>
+<td>Andre</td>
+<td>GER</td>
+<td></td>
+<td>N</td>
+<td>43r&frac12;</td>
+<td>16b0</td>
+<td>34r0</td>
+<td>33r0</td>
+<td>48b1</td>
+<td>51b1</td>
+<td>27r0</td>
+<td>2,5</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Gitter,</td>
+<td>Alfred</td>
+<td>GER</td>
+<td>190</td>
+<td>N</td>
+<td>48b0</td>
+<td>53b1</td>
+<td>25r0</td>
+<td>13r0</td>
+<td>51b+</td>
+<td>24r0</td>
+<td>42b&frac12;</td>
+<td>2,5</td>
+<td>20,0</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Yang,</td>
+<td>Guang</td>
+<td>GER</td>
+<td></td>
+<td>F</td>
+<td>27r0</td>
+<td>50b&frac12;</td>
+<td>43r0</td>
+<td>36b0</td>
+<td>53r1</td>
+<td>42r1</td>
+<td>29b0</td>
+<td>2,5</td>
+<td>18,5</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Doetzkies,</td>
+<td>Uwe</td>
+<td>GER</td>
+<td>186</td>
+<td>N</td>
+<td>50r1</td>
+<td>17b0</td>
+<td>22r&frac12;</td>
+<td>30b0</td>
+<td>24b&frac12;</td>
+<td>21r0</td>
+<td>37b0</td>
+<td>2,0</td>
+<td>24,5</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Lavallade,</td>
+<td>Carine</td>
+<td>FRA</td>
+<td>223</td>
+<td>NF</td>
+<td>45r1</td>
+<td>10b0</td>
+<td>19r0</td>
+<td>23b0</td>
+<td>44r0</td>
+<td>38b0</td>
+<td>54r+</td>
+<td>2,0</td>
+<td>20,5</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Skotnicki,</td>
+<td>Rikard</td>
+<td>SWE</td>
+<td>198</td>
+<td>N</td>
+<td>35b0</td>
+<td>51r1</td>
+<td>40b&frac12;</td>
+<td>39r0</td>
+<td>28b0</td>
+<td>29r0</td>
+<td>50b&frac12;</td>
+<td>2,0</td>
+<td>20,0</td>
+</tr>
+<tr bgcolor="lightblue">
+<td>50</td>
+<td>Ojala,</td>
+<td>Tuomo</td>
+<td>FIN</td>
+<td>208</td>
+<td>N</td>
+<td>47b0</td>
+<td>46r&frac12;</td>
+<td>26b0</td>
+<td>24r0</td>
+<td>54b+</td>
+<td>43b0</td>
+<td>49r&frac12;</td>
+<td>2,0</td>
+<td>16,5</td>
+</tr>
+<tr>
+<td>51</td>
+<td>Mi,</td>
+<td>Gufeng</td>
+<td>GER</td>
+<td></td>
+<td></td>
+<td>25r0</td>
+<td>49b0</td>
+<td>20r0</td>
+<td>54b1</td>
+<td>45r-</td>
+<td>44r0</td>
+<td>52b1</td>
+<td>2,0</td>
+<td>16,0</td>
+</tr>
+<tr>
+<td>52</td>
+<td>Li&szlig;ner,</td>
+<td>Joachim</td>
+<td>GER</td>
+<td>197</td>
+<td>N</td>
+<td>31b&frac12;</td>
+<td>13r&frac12;</td>
+<td>39r&frac12;</td>
+<td>20b0</td>
+<td>36r0</td>
+<td>33b0</td>
+<td>51r0</td>
+<td>1,5</td>
+<td>23,5</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Li,</td>
+<td>Zhongping</td>
+<td>GER</td>
+<td></td>
+<td></td>
+<td>14b0</td>
+<td>45r0</td>
+<td>33b&frac12;</td>
+<td>37r0</td>
+<td>46b0</td>
+<td>54r+</td>
+<td>38r0</td>
+<td>1,5</td>
+<td>18,5</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Yang,</td>
+<td>Bo-Hsiang</td>
+<td>GER</td>
+<td></td>
+<td></td>
+<td>39b0</td>
+<td>32r0</td>
+<td>23b0</td>
+<td>51r0</td>
+<td>50r-</td>
+<td>53b-</td>
+<td>48b-</td>
+<td>0,0</td>
+<td>18,0</td>
+</tr>
+</tbody>
+</table>
+
+<p> Joukkuekisan tulokset saatiin laskemalla
+yksil&ouml;suoritukset yhteen. Suomi sijoittui joukkuekisassa sijalle 9/17.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Joukkue</td>
+<td>Ingo</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Ranska I</td>
+<td>86</td>
+<td>16,5</td>
+<td>98,0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dang, Nicolas</td>
+<td>63</td>
+<td>6,0</td>
+<td>32,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Huynh, Vinh-Tuong</td>
+<td>99</td>
+<td>5,5</td>
+<td>34,0</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nguyen, Marc-Antoine</td>
+<td>96</td>
+<td>5,0</td>
+<td>31,5</td>
+</tr>
+<tr>
+<td colspan="5" style="border-style: solid none;">&nbsp;</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Saksa I</td>
+<td>83</td>
+<td>15,0</td>
+<td>90,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pu, Fangyao</td>
+<td>77</td>
+<td>6,0</td>
+<td>32,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Xue, Zhong</td>
+<td>76</td>
+<td>4,5</td>
+<td>30,0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Lai Hop, Duong</td>
+<td>97</td>
+<td>4,5</td>
+<td>28,0</td>
+</tr>
+<tr>
+<td colspan="5" style="border-style: solid none;">&nbsp;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Saksa II</td>
+<td>109</td>
+<td>13,5</td>
+<td>86,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Chen, Jun</td>
+<td>114</td>
+<td>5,0</td>
+<td>27,5</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Liu, Zhenyu</td>
+<td>112</td>
+<td>4,5</td>
+<td>29,0</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Weng, Hanming</td>
+<td>102</td>
+<td>4,0</td>
+<td>29,5</td>
+</tr>
+<tr>
+<td colspan="5" style="border-style: solid none;">...</td>
+</tr>
+<tr bgcolor="lightblue">
+<td>9</td>
+<td>Suomi</td>
+<td>169</td>
+<td>10,5</td>
+<td>71,5</td>
+</tr>
+<tr>
+<td>17</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>138</td>
+<td>4,0</td>
+<td>23,5</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Vaara, Arto</td>
+<td>197</td>
+<td>3,5</td>
+<td>22,5</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Stenman, Olavi</td>
+<td>172</td>
+<td>3,0</td>
+<td>25,5</td>
+</tr>
+<tr>
+<td colspan="5" style="border-style: solid none;">...</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Saksa X</td>
+<td>&nbsp;</td>
+<td>3,5</td>
+<td>52,5</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Mi, Gufeng</td>
+<td>&nbsp;</td>
+<td>2,0</td>
+<td>16,0</td>
+</tr>
+<tr>
+<td>52</td>
+<td>Li, Zhongping</td>
+<td>&nbsp;</td>
+<td>1,5</td>
+<td>18,5</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Yang, Bo-Hsiang</td>
+<td>&nbsp;</td>
+<td>0,0</td>
+<td>18,0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Kisat_27032010"></a>
+### Konfutse-instituutin kisojen 27.3.2010 tuloksia
+
+<p> Kiinalaisen Shakin Yst&auml;v&auml;t Suomessa r.y. yhteisty&ouml;ss&auml; <a href="http://www.helsinki.fi/hum/confucius/">Konfutse-instituutin</a>
+kanssa j&auml;rjesti Konfutse-instituutissa lauantaina 27.3.2010
+viisikierroksisen
+turnauksen. Mukaan oli saatu jopa 22 pelaajaa. </p>
+
+<p> Pelaajien tulokset : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="30%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="2%"> <b>1</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>2</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>3</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>4</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>5</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>6</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>7</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>8</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>9</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>10</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>11</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>12</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>13</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>14</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>15</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>16</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>17</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>18</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>19</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>20</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>21</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>22</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>P</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>B</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>S-B</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>Sij.</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">1</td>
+<td>Mei Peng</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="#ffff99">1</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">2</td>
+<td>Arto Vaara</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>16</td>
+<td>&nbsp;</td>
+<td bgcolor="#ccffff">2</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">3</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>15.5</td>
+<td>&nbsp;</td>
+<td bgcolor="#ffcc99">3</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">4</td>
+<td>Xiang Yuan</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>14.5</td>
+<td>&nbsp;</td>
+<td>4</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">5</td>
+<td>Zhang Yuezhou</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>13</td>
+<td>&nbsp;</td>
+<td>5</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">6</td>
+<td>Xiang Gu</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10.5</td>
+<td>&nbsp;</td>
+<td>6</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">7</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10</td>
+<td>&nbsp;</td>
+<td>7</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">8</td>
+<td>Jiang Ping</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>8.5</td>
+<td>&nbsp;</td>
+<td>8</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">9</td>
+<td>Zhu Hai</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>13.5</td>
+<td>&nbsp;</td>
+<td>9</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">10</td>
+<td>Wu Junru</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>7.5</td>
+<td>&nbsp;</td>
+<td>10</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">11</td>
+<td>Tuomo Ojala*</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>7</td>
+<td>&nbsp;</td>
+<td>11</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">12</td>
+<td>Wang Changfang*</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>&nbsp;</td>
+<td>12</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">13</td>
+<td>Liu Yuanyuan</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0.5</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1.5</td>
+<td>10.5</td>
+<td>1.75</td>
+<td>13</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">14</td>
+<td>Sigin Gaowa</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0.5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>10.5</td>
+<td>0.75</td>
+<td>14</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">15</td>
+<td>Liu Bin*</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>8.5</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">15?*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">16</td>
+<td>Pertti Niinim&auml;ki*</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>8</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">16?*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">17</td>
+<td>Gao Yan*</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>7</td>
+<td>2</td>
+<td bgcolor="silver">17?*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">18</td>
+<td>Yang Bo*</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>7</td>
+<td>0</td>
+<td bgcolor="silver">18?*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">19</td>
+<td>Hui Tang*</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">19?*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">20</td>
+<td>Jonas J&auml;msen*</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>8.5</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">20?*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">21</td>
+<td>Rao Min*</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>5</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">21?*</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">22</td>
+<td>Shi Tingting*</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">22?*</td>
+</tr>
+</tbody>
+</table>
+
+<p> * 10 pelaajaa ei pelannut koko turnausta loppuun. </p>
+
+---
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td>Mei Peng</td>
+<td>Jonas J&auml;msen</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Zhang Yuezhou</td>
+<td>Tuomo Ojala</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Pertti Niinim&auml;ki</td>
+<td>Shi Tingting</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Wu Junru</td>
+<td>Gao Yan</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>Rao Min</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Hui Tang</td>
+<td>Jiang Ping</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Sigin Gaowa</td>
+<td>Olavi Stenman</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Liu Yuanyuan</td>
+<td>Zhu Hai</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Arto Vaara</td>
+<td>Xiang Yuan</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Wang Changfang</td>
+<td>Xiang Gu</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Yang Bo</td>
+<td>Liu Bin</td>
+<td>0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td>Tuomo Ojala</td>
+<td>Wang Changfang</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Zhu Hai</td>
+<td>Arto Vaara</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Pertti Niinim&auml;ki</td>
+<td>Mei Peng</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Rao Min</td>
+<td>Wu Junru</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Liu Bin</td>
+<td>Zhang Yuezhou</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Xiang Yuan</td>
+<td>Liu Yuanyuan</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Jonas J&auml;msen</td>
+<td>Sigin Gaowa</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Jiang Ping</td>
+<td>Yang Bo</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Gao Yan</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>Xiang Gu</td>
+<td>1 - 0</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td>Zhu Hai</td>
+<td>Gao Yan</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Mei Peng</td>
+<td>Arto Vaara</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Sigin Gaowa</td>
+<td>Jiang Ping</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Wang Changfang</td>
+<td>Jonas J&auml;msen</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Zhang Yuezhou</td>
+<td>Olavi Stenman</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Wu Junru</td>
+<td>Tuomo Ojala</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Xiang Yuan</td>
+<td>Pertti Niinim&auml;ki</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Xiang Gu</td>
+<td>Liu Yuanyuan</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>Liu Bin</td>
+<td>1 - 0</td>
+</tr>
+</tbody>
+</table>
+
+<p> Yang Bo oli lepovuorossa.</p>
+
+<p> 4. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td>Zhu Hai</td>
+<td>Zhang Yuezhou</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Liu Bin</td>
+<td>Liu Yuanyuan</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Arto Vaara</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>Mei Peng</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Wu Junru</td>
+<td>Sigin Gaowa</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Jiang Ping</td>
+<td>Xiang Yuan</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Yang Bo</td>
+<td>Xiang Gu</td>
+<td>0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<p> 5. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td>Mei Peng</td>
+<td>Xiang Yuan</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Zhang Yuezhou</td>
+<td>Arto Vaara</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>Olavi Stenman </td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Xiang Gu</td>
+<td>Wu Junru</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Liu Yuanyuan</td>
+<td>Sigin Gaowa</td>
+<td>0.5 - 0.5</td>
+</tr>
+<tr>
+<td>Jiang Ping</td>
+<td>Zhu Hai</td>
+<td>1 - 0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2010_Naisten_Kisa"></a>
+### Naisten kisan 20.2.2010 tuloksia
+
+<p>Kaikkien aikojen ensimm&auml;inen, ja
+siten historiallinen, naisten xiangqi turnaus Suomessa
+pelattiin Konfutse Instituutissa 20.2.2010.</p>
+
+<p>Ilmoittautuneita oli toistakymment&auml;
+mutta suurin osa ilmoittautuneista kiinalaistyt&ouml;ist&auml; ei saapunut
+paikalle.
+Onneksi molemmat suomalaiset ja malesialainen Yang Peng Ng eiv&auml;t
+pel&auml;nneet pakkasta
+kuten kiinalaiset (kuulemma). Kilpailun tuomarina toimi Sun Jian.</p>
+
+<p>Katteettomat ilmoittautumiset kuitenkin
+tavallaan sotkivat kisan! Kun pelaamiseen oli varattu aikaa 2,5 tuntia
+niin
+miettimisaikana piti k&auml;ytt&auml;&auml; 15+15 min jotta 5 kierroksen kisa olisi
+mahdollinen. Vasta ensimm&auml;isen kierroksen j&auml;lkeen varmistui, ett&auml;
+enemp&auml;&auml;
+pelaajia ei tule. T&auml;ss&auml; vaiheessa siirryttiin k&auml;ytt&auml;m&auml;&auml;n 30+30 min
+miettimisaikoja
+pelaajien suostumuksella mutta tuon nopean 1. kierroksen takia kisa j&auml;i
+silti laskentakelvottomaksi
+eli tuloksia ei voi l&auml;hett&auml;&auml; Saksaan ranking &ndash;laskentaan.
+Harmi! Nyt uudet pelaajat eiv&auml;t saa viel&auml; vahvuuslukua. Vain Gao
+Yan&rsquo;ill&auml; on Ingo &ndash;luku jonka h&auml;n sai viime
+kes&auml;n&auml;. Rouva Li lupasi kuitenkin, ett&auml; instituutissa j&auml;rjestet&auml;&auml;n
+kaikille
+avoin kisa 27.3. joten asia hoitunee siell&auml;.</p>
+
+<p>Itse kilpailu oli muuten kaikin
+puolin onnistunut ja miellytt&auml;v&auml; tapahtuma. Kisan j&auml;lkeen instituutti
+tarjosi
+kaikki mukana olleille illallisen ravintola Grand Shanghai&rsquo;ssa.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pist.</td>
+<td>Sij.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Gao Yan</td>
+<td>X</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Elina L&ouml;fstr&ouml;m</td>
+<td>0</td>
+<td>X</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Elina Toivanen</td>
+<td>0</td>
+<td>0</td>
+<td>X</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Yang Peng Ng</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>X</td>
+<td>0</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2009"></a>
+## Vuoden 2009 tuloksia
+
+<a id="jiucheng-properties-cup-18-12-2009-10-1-2010"></a>
+### Jiucheng Properties Cup 18.12.2009-10.1.2010
+
+<p> Jouni R&auml;m&ouml; on voittanut 1. kierroksella 19.12. Saksan
+Stephan Bradlerin ja p&auml;&auml;ssyt 2. kierrokselle. <br/>
+1. kierroksen pelip&ouml;yt&auml;kirja l&ouml;ytyy <a href="http://www.01xq.com/e_game_view.asp?id=04401918C4123C">
+t&auml;&auml;lt&auml;</a> <br/>
+(Saksan Stephan Bradler punaisilla) <br/>
+(samansuuntaista tykki&auml;, pysty vs. vaakatorni) </p>
+
+<p> 2. kierrokselle Jouni R&auml;m&ouml; on h&auml;vinnyt vuoden 2005
+Kiinan mestarille Hong Zhi:lle
+ja karsiutunut jatkosta. 2. kierroksen pelip&ouml;yt&auml;kirja l&ouml;ytyy <a href="http://www.01xq.com/e_game_view.asp?id=04401906786F28">
+t&auml;&auml;lt&auml;</a> <br/>
+(Jouni punaisilla) <br/>
+(Screen Horse -avausta, 5. ... H7+6 -variantti) <br/>
+</p>
+
+---
+
+<a id="SM-2009"></a>
+### SM-kisojen 12.-13.12.2009 tuloksia
+
+<p> Peliajat olivat 45 min + 45 s/siirto. Vapaavuorosta sai
+yhden pisteen.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="25%">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">5</td>
+<td width="5%">6</td>
+<td width="5%">7</td>
+<td width="5%">8</td>
+<td width="5%">9</td>
+<td width="5%">Pisteet</td>
+<td width="5%">Bucholz</td>
+<td width="5%">Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sun Jian</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4,5</td>
+<td>15</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mei Peng</td>
+<td>0,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4,5</td>
+<td>14,5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2,5</td>
+<td>15</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0,5</td>
+<td>1</td>
+<td>2,5</td>
+<td>14,5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Liu Jun</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2,5</td>
+<td>12</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Tero Riskula</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>11,5</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Arto Vaara</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">1</td>
+<td>0,5</td>
+<td>2</td>
+<td>8,5</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Tuomo Ojala</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td bgcolor="silver">1</td>
+<td>1,5</td>
+<td>&nbsp;</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<th align="left" colspan="3" style="border-style: none;"> Kierroskohtaiset tulokset<br/>
+</th>
+</tr>
+<tr>
+<th colspan="3"> 1. kierros<br/>
+<br/>
+</th>
+</tr>
+<tr>
+<td>Liu Jun</td>
+<td>Sun Jian</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Mei Peng</td>
+<td>Olavi Stenman</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Arto Vaara</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist</td>
+<td>Tuomo Ojala</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Lepovuorossa:</td>
+<td colspan="2">Tero Riskula</td>
+</tr>
+<tr>
+<th colspan="3" style="border-style: none;">&nbsp;
+</th>
+</tr>
+<tr>
+<th colspan="3"> 2. kierros<br/>
+<br/>
+</th>
+</tr>
+<tr>
+<td>Sun Jian</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Jouni R&auml;m&ouml;</td>
+<td>Mei Peng</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Tero Riskula</td>
+<td>Liu Jun</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>Arto Vaara</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+<tr>
+<td>Lepovuorossa:</td>
+<td colspan="2">Tuomo Ojala</td>
+</tr>
+<tr>
+<th colspan="3" style="border-style: none;">&nbsp;
+</th>
+</tr>
+<tr>
+<th colspan="3"> 3. kierros<br/>
+<br/>
+</th>
+</tr>
+<tr>
+<td>Mei Peng</td>
+<td>Sun Jian</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+<tr>
+<td>Tuomo Ojala</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist</td>
+<td>Liu Jun</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>Tero Riskula</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Lepovuorossa:</td>
+<td colspan="2">Arto Vaara</td>
+</tr>
+<tr>
+<th colspan="3" style="border-style: none;">&nbsp;
+</th>
+</tr>
+<tr>
+<th colspan="3"> 4. kierros<br/>
+<br/>
+</th>
+</tr>
+<tr>
+<td>Sun Jian</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist</td>
+<td>Mei Peng</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>Tuomo Ojala</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Arto Vaara</td>
+<td>Tero Riskula</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Lepovuorossa:</td>
+<td colspan="2">Liu Jun</td>
+</tr>
+<tr>
+<th colspan="3" style="border-style: none;">&nbsp;
+</th>
+</tr>
+<tr>
+<th colspan="3"> 5. kierros<br/>
+<br/>
+</th>
+</tr>
+<tr>
+<td>Sun Jian</td>
+<td>Olavi Stenman</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Tero Riskula</td>
+<td>Mei Peng</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Jouni R&auml;m&ouml;</td>
+<td>Liu Jun</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+<tr>
+<td>Tuomo Ojala</td>
+<td>Arto Vaara</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+<tr>
+<td>Lepovuorossa:</td>
+<td colspan="2">Mikko T&ouml;rnqvist</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sun Jian</td>
+<td>88-4</td>
+<td>4&frac12;/5</td>
+<td>131</td>
+<td>4&frac12;</td>
+<td>91</td>
+<td>89-5</td>
+<td>2077</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mei Peng</td>
+<td>107-1</td>
+<td>4&frac12;/5</td>
+<td>137</td>
+<td>4</td>
+<td>97</td>
+<td>102-2</td>
+<td>1986</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>150-34</td>
+<td>2/4</td>
+<td>143</td>
+<td>1&frac12;</td>
+<td>143</td>
+<td>149-35</td>
+<td>1657</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>135-72</td>
+<td>2&frac12;/5</td>
+<td>146</td>
+<td>3</td>
+<td>146</td>
+<td>138-73</td>
+<td>1734</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Olavi Stenman</td>
+<td>172-46</td>
+<td>2&frac12;/5</td>
+<td>176</td>
+<td>2&frac12;</td>
+<td>176</td>
+<td>173-47</td>
+<td>1489</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Liu Jun</td>
+<td>166-3</td>
+<td>1&frac12;/4</td>
+<td>154</td>
+<td>1&frac12;</td>
+<td>167</td>
+<td>166-4</td>
+<td>1538</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Tero Riskula</td>
+<td>261-43</td>
+<td>1/4</td>
+<td>211</td>
+<td>0</td>
+<td>236!</td>
+<td>256-44</td>
+<td>908</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Arto Vaara</td>
+<td>200-34</td>
+<td>1/4</td>
+<td>193</td>
+<td>1&frac12;</td>
+<td>218</td>
+<td>204-35</td>
+<td>1272</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Tuomo Ojala</td>
+<td>215-2</td>
+<td>&frac12;/4</td>
+<td>176</td>
+<td>&frac12;</td>
+<td>213</td>
+<td>214-3</td>
+<td>1202</td>
+<td>2:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Otaniemi_25.10.2009"></a>
+### Otaniemen Harjoituskisan (25.10.2009) tuloksia
+
+<p> Peliajat olivat 45 min + 45 s/siirto ryhmill&auml; A ja C.
+Ryhm&auml;ll&auml; B
+peliajat olivat 30 min + 30 s/siirto.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th colspan="10"> Ryhm&auml; A (45 min+ 45 s/siirto)</th>
+</tr>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="25%">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">Pisteet</td>
+<td width="5%">Buchholz</td>
+<td width="5%">S-B</td>
+<td width="5%">Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sun Jian</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>0,5</td>
+<td>2,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Yan Anqing</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+<td>1</td>
+<td>1,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0</td>
+<td>0,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>2-3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0,5</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+<p> Bucholz ja Sonneborn-Berger -vertailu eiv&auml;t tuo eroa 2.
+ja 3. sijan suhteen.
+V&auml;rivertailun mukaan Yan Anqing olisi ollut toinen, mutta koska
+kyseess&auml; oli
+harjoituskisat asialla ei liene juuri merkityst&auml;. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th colspan="10"> Ryhm&auml; B (30 min+ 30 s/siirto)</th>
+</tr>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="25%">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">Pisteet</td>
+<td width="5%">Bucholz</td>
+<td width="5%">S-B</td>
+<td width="5%">Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Xia Jiliang</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jukka Tuovinen</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Yang Jing</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Li Dapeng</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+<p> B-ryhm&auml;ss&auml; pelattiin lyhyemmill&auml; ajoilla, aloitettiin
+muita my&ouml;hemmin ja s&auml;&auml;nn&ouml;iss&auml; joustettiin muutenkin. Kilpailua ennen
+my&ouml;s sovittiin, ett&auml; ryhm&auml;n B tuloksia ei l&auml;hetet&auml; INGO-laskentaan. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th colspan="10"> Ryhm&auml; C (45 min+ 45 s/siirto)</th>
+</tr>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="25%">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">Pisteet</td>
+<td width="5%">Bucholz</td>
+<td width="5%">S-B</td>
+<td width="5%">Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Arto Vaara</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+<td>1</td>
+<td>1</td>
+<td>2,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Tuomo Ojala</td>
+<td>0,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+<td>1</td>
+<td>2</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Teemu Matvejeff</td>
+<td>0</td>
+<td>0,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<th colspan="10"> Ryhm&auml; A </th>
+</tr>
+<tr>
+<td>1</td>
+<td>Sun Jian</td>
+<td>85-3</td>
+<td>2&frac12;/3</td>
+<td>132</td>
+<td>3</td>
+<td>99</td>
+<td>88-4</td>
+<td>2084</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Yan Anqing</td>
+<td>126-3</td>
+<td>1&frac12;/3</td>
+<td>124</td>
+<td>1&frac12;</td>
+<td>124</td>
+<td>125-4</td>
+<td>1825</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>138-71</td>
+<td>1&frac12;/3</td>
+<td>121</td>
+<td>1</td>
+<td>121</td>
+<td>135-72</td>
+<td>1755</td>
+<td>5:01</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>149-33</td>
+<td>&frac12;/3</td>
+<td>121</td>
+<td>&frac12;</td>
+<td>154</td>
+<td>150-34</td>
+<td>1650</td>
+<td>5:01</td>
+</tr>
+<tr>
+<th colspan="10"> Ryhm&auml; C </th>
+</tr>
+<tr>
+<td>1</td>
+<td>Arto Vaara</td>
+<td>200-33</td>
+<td>2&frac12;/3</td>
+<td>232</td>
+<td>2&frac12;</td>
+<td>199</td>
+<td>200-34</td>
+<td>1300</td>
+<td>5:01</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Tuomo Ojala</td>
+<td>215-1</td>
+<td>2/3</td>
+<td>231</td>
+<td>2</td>
+<td>214</td>
+<td>215-2</td>
+<td>1195</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Teemu Matvejeff</td>
+<td>232-6</td>
+<td>1&frac12;/3</td>
+<td>225</td>
+<td>1&frac12;</td>
+<td>225</td>
+<td>231-7</td>
+<td>1083</td>
+<td>4:01</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tero Riskula</td>
+<td>260-42</td>
+<td>0 /3</td>
+<td>219</td>
+<td>&frac12;</td>
+<td>269</td>
+<td>261-43</td>
+<td>873</td>
+<td>5:01</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Alypelikisat_2009"></a>
+### Oulun Älypelikisojen (16.-25.10.2009) tuloksia
+
+<p> Xiangqi-kilpailu su 18.10.2009 :</p>
+
+<p> Peliajat olivat 15 min + 15 s/siirto. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="20">1.</td>
+<td width="200">Jouni R&auml;m&ouml;</td>
+<td width="20">3</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Jiehan Zhou</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Sauli Huovinen</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Qiyu Zhou</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista (peliaikojen
+lyhyyden vuoksi muutokset
+puolikkaalla kertoimella) : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>R&auml;m&ouml; Jouni</td>
+<td>138-70</td>
+<td>3/3</td>
+<td>188</td>
+<td>3</td>
+<td>138</td>
+<td>138-71</td>
+<td>1734</td>
+<td>10:01</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Zhou Jiehan</td>
+<td>196-1</td>
+<td>2/3</td>
+<td>198</td>
+<td>1&frac12;</td>
+<td>181</td>
+<td>194-2</td>
+<td>1342</td>
+<td>6:01</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Huovinen Sauli</td>
+<td>201-2</td>
+<td>1/3</td>
+<td>199</td>
+<td>1&frac12;</td>
+<td>216</td>
+<td>203-3</td>
+<td>1279</td>
+<td>6:01</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Zhou Qiyu</td>
+<td>----</td>
+<td>0/3</td>
+<td>201</td>
+<td>&nbsp;</td>
+<td>251</td>
+<td>251-1os</td>
+<td>943</td>
+<td>F1=H</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Otaniemi_Open_2009"></a>
+### Otaniemi Open-turnauksen (3.-4.10.2009) tuloksia
+
+<p> Peliajat olivat 45 min + 45 s/siirto. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th colspan="11">Otaniemi Open 3-4.10. 2009
+(45 min+ 45 s/siirto)</th>
+</tr>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="35%">Nimi</td>
+<td width="5%">1</td>
+<td width="5%">2</td>
+<td width="5%">3</td>
+<td width="5%">4</td>
+<td width="5%">5</td>
+<td width="5%">6</td>
+<td width="5%">Pisteet</td>
+<td width="5%">Sonneborn-<br/>
+Berger</td>
+<td width="5%">Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sun Jian</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Timo Aitta</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>&nbsp;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+<td>1,5</td>
+<td>&nbsp;</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Jukka Tuovinen</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0,5</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>F-vanha</td>
+<td>Pisteet</td>
+<td>Taso</td>
+<td>Odotus</td>
+<td>H</td>
+<td>F-uusi</td>
+<td>(*ELO)</td>
+<td>kerroin</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sun Jian</td>
+<td>85-2</td>
+<td>5 /5</td>
+<td>135</td>
+<td>5</td>
+<td>85</td>
+<td>85-3</td>
+<td>(2105)</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>R&auml;m&ouml; Jouni</td>
+<td>138-69</td>
+<td>3 /5</td>
+<td>150</td>
+<td>3</td>
+<td>140</td>
+<td>138-70</td>
+<td>(1734)</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>T&ouml;rnqvist Mikko</td>
+<td>152-32</td>
+<td>3 /5</td>
+<td>150</td>
+<td>2&frac12;</td>
+<td>140</td>
+<td>149-33</td>
+<td>(1657)</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Aitta Timo</td>
+<td>168-29</td>
+<td>2 /5</td>
+<td>150</td>
+<td>1&frac12;</td>
+<td>160</td>
+<td>166-30</td>
+<td>(1538)</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Stenman Olavi</td>
+<td>173-45</td>
+<td>1&frac12;/5</td>
+<td>150</td>
+<td>1&frac12;</td>
+<td>170</td>
+<td>172-46</td>
+<td>(1496)</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Tuovinen Jukka</td>
+<td>168-41</td>
+<td>&frac12;/5</td>
+<td>150</td>
+<td>1&frac12;</td>
+<td>190</td>
+<td>173-42</td>
+<td>(1489)</td>
+<td>3:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="MM_2009"></a>
+### Xintai MM-kisojen 29.8.-2.9.2009 tuloksia
+
+<p> Rankingtilanne l&ouml;ytyy <a href="http://www.01xq.com/archives/wxc11/ShowRank.asp">
+t&auml;lt&auml;</a> englanninkieliselt&auml; sivustolta. Huomaa, ett&auml; Mikko
+T&ouml;rnqvist on listattu kiinalaisella nimell&auml;&auml;n Deng MingGao. </p>
+
+<p> Paritukset ja pelitulokset on my&ouml;s listattu
+pelaajakohtaisesti : <br/>
+<a href="http://www.01xq.com/archives/wxc11/ShowPlayer.asp?P=1986">
+Mikko T&ouml;rnqvist</a><br/>
+<a href="http://www.01xq.com/archives/wxc11/ShowPlayer.asp?P=7028">
+Jouni R&auml;m&ouml;</a><br/>
+<a href="http://www.01xq.com/archives/wxc11/ShowPlayer.asp?P=2359">
+Arto Vaara</a><br/>
+Osassa sivuista on my&ouml;s laitettu mukaan pelip&ouml;yt&auml;kirja
+linkin "Game" per&auml;&auml;n.
+</p>
+
+<p> Kisojen pelip&ouml;yt&auml;kirjat (kiinankielisin&auml; versioina)
+ovat imuroitavissa t&auml;&auml;lt&auml; : <br/>
+<a href="https://shakki.info/asiakirjat/MM_kisat_2009_pelipoytakirjat.doc">
+word-dokumenttina </a> <br/>
+ja <br/>
+<a href="https://shakki.info/asiakirjat/MM_kisat_2009_pelipoytakirjat.zip">
+XQStudio -ohjelman dokumentteina</a> (pakattuna zip-tiedostona). <br/>
+XQStudio -ohjelma ja opastus sen k&auml;ytt&ouml;&ouml;n l&ouml;ytyy <a href="https://shakki.info/asiakirjat/XQStudio_pakkaus.zip"> t&auml;&auml;lt&auml;</a>.
+<br/>
+Kaikkien pelaajien nimet ovat kiinaksi, joten niit&auml; t&auml;ytyy verrata
+englanninkielisiin nimiin <a href="http://www.dpxq.com/hldcg/player_246.html">
+t&auml;m&auml;n sivuston</a> avulla.
+</p>
+
+<p> Peliajat ovat 60 min + 30 s/siirto. Vastustajien
+nimiss&auml; sukunimi kirjoitettu isoin kirjaimin. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<th colspan="7"> 1. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> WONG Wan Heng </td>
+<td> 黄运兴 </td>
+<td> Malesia </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="center">
+<td> WU Kui Lin (WU Kew Lin) </td>
+<td> 吴贵临 </td>
+<td> Taiwan </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="center">
+<td> DARYATNO Hardjo </td>
+<td> 林进强 </td>
+<td> Indonesia </td>
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 2. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> MATSUNO Youichirou </td>
+<td> 松野阳一郎 </td>
+<td> Japani </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="center">
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> Lepovuoro </td>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="center">
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> WONG William </td>
+<td> 黄荣章 </td>
+<td> USA It&auml; </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 3. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Andreas KLEIN </td>
+<td> 克莱恩 </td>
+<td> Saksa </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="center">
+<td> CHIU Yu Kuen </td>
+<td> 赵汝权 </td>
+<td> Hongkong </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="center">
+<td> LI Yachao </td>
+<td> 李亚超 </td>
+<td> Kanada It&auml; </td>
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 4. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> YOKOYAMA Eiichi </td>
+<td> 横山荣一 </td>
+<td> Japani </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="center">
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> MAUNG Tin (LIU Siqi) </td>
+<td> 刘思奇 </td>
+<td> Myanmar </td>
+<td> 0.5 - 0.5 </td>
+</tr>
+<tr align="center">
+<td> SAKUMA Hiroaki </td>
+<td> 佐久间 宽明 </td>
+<td> Japani </td>
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 5. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> LUO YuanZhang </td>
+<td> 罗元章 </td>
+<td> Kanada L&auml;nsi </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="center">
+<td> LI Yachao </td>
+<td> 李亚超 </td>
+<td> Kanada It&auml; </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="center">
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> Michael N&Auml;GLER </td>
+<td> 耐格勒 </td>
+<td> Saksa </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 6. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> YU Chu Woon </td>
+<td> 余祖望 </td>
+<td> Brunei </td>
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> 0.5 - 0.5 </td>
+</tr>
+<tr align="center">
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> Chris HANKINSON </td>
+<td> 韩理思 </td>
+<td> USA It&auml; </td>
+<td> 0.5 - 0.5 </td>
+</tr>
+<tr align="center">
+<td> Irimia Hapchina </td>
+<td> 伊里米亚．海波奇纳 </td>
+<td> Kanada L&auml;nsi </td>
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> 0.5 - 0.5 </td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 7. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Iwan SETIAWAN </td>
+<td> 伊万．塞蒂亚万 </td>
+<td> Indonesia </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="center">
+<td> Markus BRENNER </td>
+<td> 布莱内 </td>
+<td> Saksa </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="center">
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> Karsten HOFFARTH</td>
+<td> 霍法特 </td>
+<td> Saksa </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 8. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="center">
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> UMEZAWA Jirou </td>
+<td> 梅泽二郎 </td>
+<td> Japani </td>
+<td> 0.5 - 0.5 </td>
+</tr>
+<tr>
+<td style="border-style: none;">&nbsp; </td>
+</tr>
+<tr>
+<th colspan="7"> 9. kierros </th>
+</tr>
+<tr align="center">
+<td> Punainen </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Musta </td>
+<td> kiinaksi </td>
+<td> Joukkue </td>
+<td> Tulos </td>
+</tr>
+<tr align="center">
+<td> Mikko T&ouml;rnqvist </td>
+<td> 邓明高 </td>
+<td> Suomi </td>
+<td> SONE Toshihiko </td>
+<td> 曾根敏彦 </td>
+<td> Japani </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="center">
+<td> Anuar </td>
+<td> 安华 </td>
+<td> Malesia </td>
+<td> Jouni R&auml;m&ouml; </td>
+<td> 赖优尼 </td>
+<td> Suomi </td>
+<td> 0.5 - 0.5 </td>
+</tr>
+<tr align="center">
+<td> NURHADI DJUMADI WS </td>
+<td> 努哈迪．尤玛迪 </td>
+<td> Indonesia </td>
+<td> Arto Vaara </td>
+<td> 瓦尔豆 </td>
+<td> Suomi </td>
+<td> 0.5 - 0.5 </td>
+</tr>
+</tbody>
+</table>
+
+<p> Sijoitukset (2 pistett&auml; voitosta, 1 tasapelist&auml;)</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td width="60%">Nimi</td>
+<td width="20%">Pisteet</td>
+<td width="20%">Kokonaissijoitus</td>
+<td width="20%">Sijoitus ei-kiin/viet.
+joukosssa</td>
+</tr>
+<tr>
+<td> Jouni R&auml;m&ouml;</td>
+<td> 9 </td>
+<td> 46.</td>
+<td> 7. </td>
+</tr>
+<tr>
+<td> Mikko T&ouml;rnqvist</td>
+<td> 7 </td>
+<td> 62.</td>
+<td> 17. </td>
+</tr>
+<tr>
+<td> Arto Vaara</td>
+<td> 5 </td>
+<td> 75.</td>
+<td> 30. </td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Kisat_22082009"></a>
+### Suomi-Kiina ystävyysyksilökisan 22.8.2009 tuloksia
+
+<p> Kiinalaisen Shakin Yst&auml;v&auml;t Suomessa r.y. yhteisty&ouml;ss&auml; <a href="http://www.helsinki.fi/hum/confucius/">Konfutse-instituutin</a>
+kanssa j&auml;rjesti Konfutse-instituutissa lauantaina 22.8.2009
+viisikierroksisen
+turnauksen. Mukaan oli saatu jopa 24 pelaajaa. </p>
+
+<p> Peliajat olivat 30 +30 min.</p>
+
+<p> Tapahtuman sponsoreina olivat Kiinan suurl&auml;hetyst&ouml; ja <a href="http://www.helsinki.fi/hum/confucius/">Konfutse-instituutti</a>.
+</p>
+
+<p> Pelaajien tulokset : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="2%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffcc" width="30%">
+Nimi </td>
+<td bgcolor="#ccffcc" width="2%"> <b>1</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>2</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>3</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>4</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>5</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>6</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>7</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>8</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>9</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>10</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>11</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>12</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>13</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>14</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>15</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>16</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>17</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>18</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>19</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>20</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>21</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>22</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>23</b>
+</td>
+<td bgcolor="#ccffcc" width="2%"> <b>24</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>P</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>B</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>S-B</b>
+</td>
+<td bgcolor="#ccffcc" width="3%"> <b>Sij.</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">1</td>
+<td bgcolor="#ffff99">孙健 S&umacr;n Ji&agrave;n</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&frac12;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4.5</td>
+<td>*</td>
+<td>&nbsp;</td>
+<td>1</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">2</td>
+<td bgcolor="#ffff99">梅鹏 M&eacute;i P&eacute;ng</td>
+<td>&frac12;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4.5</td>
+<td>*</td>
+<td>&nbsp;</td>
+<td>2</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">3</td>
+<td bgcolor="#ccffff">Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>4</td>
+<td>14.5</td>
+<td>&nbsp;</td>
+<td>3</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">4</td>
+<td bgcolor="#ffff99">卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>13</td>
+<td>&nbsp;</td>
+<td>4</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">5</td>
+<td bgcolor="#ffff99">王永红 W&aacute;ng Yǒngh&oacute;ng</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>16</td>
+<td>&nbsp;</td>
+<td>5</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">6</td>
+<td bgcolor="#ffff99">徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>15.5</td>
+<td>&nbsp;</td>
+<td>6</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">7</td>
+<td bgcolor="#ccffff">Jukka Tuovinen</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>14.5</td>
+<td>&nbsp;</td>
+<td>7</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">8</td>
+<td bgcolor="#ccffff">Olavi Stenman</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>13.5</td>
+<td>5</td>
+<td>8</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">9</td>
+<td bgcolor="#ffff99">杜勉 D&ugrave; Miǎn</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>11</td>
+<td>5</td>
+<td>9</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">10</td>
+<td bgcolor="#ffff99">陈波 Ch&eacute;n B&omacr;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>11</td>
+<td>&nbsp;</td>
+<td>10</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">11</td>
+<td bgcolor="#ffff99">郑禾 Zh&egrave;ng H&eacute;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>10</td>
+<td>&nbsp;</td>
+<td>11</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">12</td>
+<td bgcolor="#ffff99">曹德复 C&aacute;o D&eacute;f&ugrave;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>16</td>
+<td>&nbsp;</td>
+<td>12</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">13</td>
+<td bgcolor="#ccffff">Tuomo Ojala</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>13</td>
+<td>&nbsp;</td>
+<td>13</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">14</td>
+<td bgcolor="#ffff99">杨景辉 Y&aacute;ng Jǐnghu&imacr;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>10</td>
+<td>&nbsp;</td>
+<td>14</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">15</td>
+<td bgcolor="#ffff99">杨二林 Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2**</td>
+<td>9.5</td>
+<td>&nbsp;</td>
+<td>15</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">16</td>
+<td bgcolor="#ffff99">刘媛媛 Li&uacute; Yu&aacute;nyu&aacute;n</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="#00ffff">&nbsp;</td>
+<td bgcolor="#00ffff">0</td>
+<td bgcolor="#00ffff">1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>9</td>
+<td>3</td>
+<td>16</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">17</td>
+<td bgcolor="#ffff99">任海 R&egrave;n Hǎi</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>9</td>
+<td>1</td>
+<td>17</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">18</td>
+<td bgcolor="#ffff99">高艳 G&amacr;o Y&agrave;n</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>7</td>
+<td>&nbsp;</td>
+<td>18</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">19</td>
+<td bgcolor="#ffff99">刘斌 Li&uacute; B&imacr;n</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2**</td>
+<td>4</td>
+<td>&nbsp;</td>
+<td>19</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">20</td>
+<td bgcolor="#ffff99">徐燕云 X&uacute; Y&agrave;ny&uacute;n</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>15.5</td>
+<td>&nbsp;</td>
+<td>20</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">21</td>
+<td bgcolor="#ccffff">Pertti Niinim&auml;ki</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>11</td>
+<td>&nbsp;</td>
+<td>21</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">22</td>
+<td bgcolor="#ffff99">饶敏 R&aacute;o Mǐn</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>10</td>
+<td>&nbsp;</td>
+<td>22</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">23</td>
+<td bgcolor="#ffff99">杨楠 Y&aacute;ng N&aacute;n</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>1</td>
+<td>1</td>
+<td>8</td>
+<td>&nbsp;</td>
+<td>23</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffcc">24</td>
+<td bgcolor="#ffff99">赵翔 Zh&agrave;o Xi&aacute;ng</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>0</td>
+<td>13</td>
+<td>&nbsp;</td>
+<td>24</td>
+</tr>
+</tbody>
+</table>
+
+<p> * Lis&auml;peli pelattiin voittajan selvitt&auml;miseksi : <br/>
+Mei Peng - Sun Jian, 0 - 1 </p>
+
+<p> ** Yang Erlin ja Liu Bin pelasivat vain kolme
+kierrosta. </p>
+
+---
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>徐燕云 X&uacute; Y&agrave;ny&uacute;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>高艳 G&amacr;o Y&agrave;n</td>
+<td>曹德复 C&aacute;o D&eacute;f&ugrave;</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng</td>
+<td>任海 R&egrave;n Hǎi</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>Jukka Tuovinen</td>
+<td>杨景辉 Y&aacute;ng Jǐnghu&imacr;</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>杜勉 D&ugrave; Miǎn</td>
+<td>饶敏 R&aacute;o Mǐn</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>梅鹏 M&eacute;i P&eacute;ng</td>
+<td>徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>杨楠 Y&aacute;ng N&aacute;n</td>
+<td>Olavi Stenman</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>赵翔 Zh&agrave;o Xi&aacute;ng</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>刘媛媛 Li&uacute; Yu&aacute;nyu&aacute;n</td>
+<td>杨二林 Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>陈波 Ch&eacute;n B&omacr;</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>刘斌 Li&uacute; B&imacr;n</td>
+<td>Pertti Niinim&auml;ki</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>Tuomo Ojala</td>
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>1 - 0</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td>杨景辉 Y&aacute;ng Jǐnghu&imacr;</td>
+<td>徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>曹德复 C&aacute;o D&eacute;f&ugrave;</td>
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>梅鹏 M&eacute;i P&eacute;ng</td>
+<td>Jukka Tuovinen</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>任海 R&egrave;n Hǎi</td>
+<td>Tuomo Ojala</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>徐燕云 X&uacute; Y&agrave;ny&uacute;n</td>
+<td>高艳 G&amacr;o Y&agrave;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>陈波 Ch&eacute;n B&omacr;</td>
+<td>赵翔 Zh&agrave;o Xi&aacute;ng</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>饶敏 R&aacute;o Mǐn</td>
+<td>杨楠 Y&aacute;ng N&aacute;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>杨二林 Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>刘斌 Li&uacute; B&imacr;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>Pertti Niinim&auml;ki</td>
+<td>刘媛媛 Li&uacute; Yu&aacute;nyu&aacute;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>杜勉 D&ugrave; Miǎn</td>
+<td>0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>杨二林 Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>梅鹏 M&eacute;i P&eacute;ng</td>
+<td>曹德复 C&aacute;o D&eacute;f&ugrave;</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>刘媛媛 Li&uacute; Yu&aacute;nyu&aacute;n</td>
+<td>杨景辉 Y&aacute;ng Jǐnghu&imacr;</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>杨楠 Y&aacute;ng N&aacute;n</td>
+<td>高艳 G&amacr;o Y&agrave;n</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>徐燕云 X&uacute; Y&agrave;ny&uacute;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>Tuomo Ojala</td>
+<td>陈波 Ch&eacute;n B&omacr;</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>Jukka Tuovinen</td>
+<td>杜勉 D&ugrave; Miǎn</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>刘斌 Li&uacute; B&imacr;n</td>
+<td>饶敏 R&aacute;o Mǐn</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>Pertti Niinim&auml;ki</td>
+<td>Olavi Stenman</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>赵翔 Zh&agrave;o Xi&aacute;ng</td>
+<td>任海 R&egrave;n Hǎi</td>
+<td>0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<p> 4. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td>徐燕云 X&uacute; Y&agrave;ny&uacute;n</td>
+<td>Jukka Tuovinen</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>高艳 G&amacr;o Y&agrave;n</td>
+<td>Tuomo Ojala</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>赵翔 Zh&agrave;o Xi&aacute;ng</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>任海 R&egrave;n Hǎi</td>
+<td>Pertti Niinim&auml;ki</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>杨景辉 Y&aacute;ng Jǐnghu&imacr;</td>
+<td>杨楠 Y&aacute;ng N&aacute;n</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>饶敏 R&aacute;o Mǐn</td>
+<td>刘媛媛 Li&uacute; Yu&aacute;nyu&aacute;n</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>曹德复 C&aacute;o D&eacute;f&ugrave;</td>
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>Mikko T&ouml;rnqvist</td>
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>杜勉 D&ugrave; Miǎn</td>
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>Olavi Stenman</td>
+<td>梅鹏 M&eacute;i P&eacute;ng</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>陈波 Ch&eacute;n B&omacr;</td>
+<td>徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<p> Yang Erlin ja Liu Bin pelasivat vain kolme kierrosta. </p>
+
+<p> 5. kierros </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>任海 R&egrave;n Hǎi</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>Olavi Stenman</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>刘媛媛 Li&uacute; Yu&aacute;nyu&aacute;n</td>
+<td>陈波 Ch&eacute;n B&omacr;</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>杨景辉 Y&aacute;ng Jǐnghu&imacr;</td>
+<td>饶敏 R&aacute;o Mǐn</td>
+<td>1 - 0</td>
+</tr>
+<tr align="center">
+<td>Pertti Niinim&auml;ki</td>
+<td>高艳 G&amacr;o Y&agrave;n</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>徐燕云 X&uacute; Y&agrave;ny&uacute;n</td>
+<td>曹德复 C&aacute;o D&eacute;f&ugrave;</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>Tuomo Ojala</td>
+<td>杜勉 D&ugrave; Miǎn</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>Jukka Tuovinen</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>赵翔 Zh&agrave;o Xi&aacute;ng</td>
+<td>杨楠 Y&aacute;ng N&aacute;n</td>
+<td>0 - 1</td>
+</tr>
+<tr align="center">
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>梅鹏 M&eacute;i P&eacute;ng</td>
+<td>0.5 - 0.5</td>
+</tr>
+<tr align="center">
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng</td>
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<p> Viiden kierroksen j&auml;lkeen sek&auml; Mei Peng:ll&auml; ett&auml; Sun
+Jian:ll&auml; oli 4.5 pistett&auml;. Lis&auml;peli pelattiin voittajan
+selvitt&auml;miseksi. Tulos: <br/>
+Mei Peng - Sun Jian 0 -1 </p>
+
+---
+
+<a id="Joukkuekisat_08082009"></a>
+### Suomi-Kiina ystävyysjoukkuekisan 8.8.2009 tuloksia
+
+<p> Kiinalaisen Shakin Yst&auml;v&auml;t Suomessa r.y. yhteisty&ouml;ss&auml; <a href="http://www.helsinki.fi/hum/confucius/">Konfutse-instituutin</a>
+kanssa j&auml;rjesti Konfutse-instituutissa lauantaina 8.8.2009
+kolmikierroksisen Suomen ja Kiinan joukkueiden v&auml;lisen joukkuekisan.
+Mukaan oli saatu jopa 11 pelaajaa molempiin joukkueisiin. </p>
+
+<p> Peliajat olivat 40 + 40 min.</p>
+
+<p> Tapahtuman sponsoreina olivat Kiinan suurl&auml;hetyst&ouml; ja <a href="http://www.helsinki.fi/hum/confucius/">Konfutse-instituutti</a>.
+</p>
+
+<p> Suomalaisten pelaajien tulokset (kiinalaiset pelaajat
+alla olevan taulukon mukaisesssa j&auml;rjestyksess&auml;) :</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td colspan="2" style="border-style: none;">&nbsp;
+</td>
+<td align="left" colspan="15" style="border-style: none;"> <b>Kiinalaiset pelaajat</b> </td>
+</tr>
+<tr align="center">
+<td style="border-style: none;" width="6%">
+# </td>
+<td align="left" style="border-style: none;" width="22%"> <b>Suomi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>5</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>6</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>7</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>8</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>9</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>10</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>11</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pelien
+lkm</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>Sonneborn-Berger</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Buchholz</b>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>4,5*</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Timo Aitta</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>3</td>
+<td>0,25</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jukka Tuovinen</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>0,5</td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Olavi Stenman</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Raimo Lindroos</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Arto Vaara</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Arto Tengvall</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Tuomo Ojala</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Timo Riikonen</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Pertti Niinim&auml;ki</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+<p> * : luku skaalattu ottelum&auml;&auml;r&auml;&auml; vastaavaksi. </p>
+
+<p> Kiinalaisten pelaajien tulokset (suomalaiset pelaajat
+yll&auml; olevan taulukon mukaisesssa j&auml;rjestyksess&auml;) :</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td colspan="2" style="border-style: none;">&nbsp;
+</td>
+<td align="left" colspan="15" style="border-style: none;"> <b>Suomalaiset pelaajat</b> </td>
+</tr>
+<tr align="center">
+<td style="border-style: none;" width="6%">
+# </td>
+<td align="left" style="border-style: none;" width="22%"> <b>Kiina</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>5</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>6</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>7</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>8</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>9</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>10</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>11</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pelien
+lkm</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>Sonneborn-Berger</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Buchholz</b>
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>3</td>
+<td>2,5</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>3</td>
+<td>2,5</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>杨二林 Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>6</td>
+</tr>
+<tr>
+<td>6</td>
+<td>曹德复C&aacute;o D&eacute;f&ugrave;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>3*</td>
+</tr>
+<tr>
+<td>7</td>
+<td>徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>2</td>
+<td>1,25</td>
+<td>2,25*</td>
+</tr>
+<tr>
+<td>8</td>
+<td>小弥 Xiǎo M&iacute;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>9*</td>
+</tr>
+<tr>
+<td>9</td>
+<td>饶敏 R&aacute;o Mǐn</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>6*</td>
+</tr>
+<tr>
+<td>10</td>
+<td>杭州H&aacute;ng Zh&omacr;u</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>4,5*</td>
+</tr>
+<tr>
+<td>11</td>
+<td>朱海 Zh&umacr; Hǎi</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>4,5*</td>
+</tr>
+</tbody>
+</table>
+
+<p> * : luku skaalattu ottelum&auml;&auml;r&auml;&auml; vastaavaksi. </p>
+
+---
+
+<p> Tulokset kierroksittain : </p>
+
+<p> 1. kierros (suomalaispelaajat punaisilla) </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="center">
+<td><b>Suomi</b></td>
+<td><b>Kiina</b></td>
+<td style="border-style: none;">&nbsp;</td>
+</tr>
+<tr>
+<td>Jouni R&auml;m&ouml;</td>
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist</td>
+<td>曹德复C&aacute;o D&eacute;f&ugrave;</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Timo Aitta</td>
+<td>徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>&frac12; - &frac12;</td>
+</tr>
+<tr>
+<td>Jukka Tuovinen</td>
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Olavi Stenman</td>
+<td>小弥 Xiǎo M&iacute;</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Raimo Lindroos</td>
+<td>杭州H&aacute;ng Zh&omacr;u</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Arto Vaara</td>
+<td>饶敏 R&aacute;o Mǐn</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Arto Tengvall</td>
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng<span style="">&nbsp;</span></td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Tuomo Ojala</td>
+<td>朱海 Zh&umacr; Hǎi</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Timo Riikonen</td>
+<td>杨二林 Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Pertti Niinim&auml;ki</td>
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td colspan="2" style="border-style: none;">&nbsp;</td>
+<td>6,5 - 4,5</td>
+</tr>
+</tbody>
+</table>
+
+<p> 2. kierros (suomalaispelaajat mustilla) </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td><b>Suomi</b></td>
+<td><b>Kiina</b></td>
+<td style="border-style: none;">&nbsp;</td>
+</tr>
+<tr>
+<td>Jouni R&auml;m&ouml;</td>
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist</td>
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Timo Aitta</td>
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Jukka Tuovinen</td>
+<td>徐容建 X&uacute; R&oacute;ngji&agrave;n</td>
+<td>1 - 0</td>
+</tr>
+<tr =""="">
+<td>Olavi Stenman</td>
+<td>杨二林 Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Arto Vaara</td>
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng<span style="">&nbsp;</span></td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Arto Tengvall</td>
+<td>朱海 Zh&umacr; Hǎi</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Pertti Niinim&auml;ki</td>
+<td>曹德复C&aacute;o D&eacute;f&ugrave;</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td colspan="2" style="border-style: none;">&nbsp;</td>
+<td>6 - 2</td>
+</tr>
+</tbody>
+</table>
+
+<p> 3. kierros (Vuorov&auml;rein, P=Punainen, M=Musta) </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td><b>Suomi</b></td>
+<td><b>Kiina</b></td>
+<td style="border-style: none;">&nbsp;</td>
+</tr>
+<tr>
+<td>Mikko T&ouml;rnqvist (M)</td>
+<td>孙健 S&umacr;n Ji&agrave;n</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Timo Aitta (P)</td>
+<td>王永红 W&aacute;ng Yǒngh&oacute;ng<span style="">&nbsp;</span></td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Jukka Tuovinen (P)</td>
+<td>杨二林 Y&aacute;ng &Egrave;rl&iacute;n</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Olavi Stenman (P)</td>
+<td>卢晓峰 L&uacute; Xiǎof&emacr;ng</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td>Arto Vaara (M)</td>
+<td>郑禾 Zh&egrave;ng H&eacute;</td>
+<td>0 - 1</td>
+</tr>
+<tr>
+<td>Arto Tengvall (M)</td>
+<td>杭州H&aacute;ng Zh&omacr;u</td>
+<td>1 - 0</td>
+</tr>
+<tr>
+<td colspan="2" style="border-style: none;">&nbsp;</td>
+<td>2 - 4</td>
+</tr>
+</tbody>
+</table>
+
+<p> Yhteistulos : Suomi - Kiina 14,5 - 10,5 </p>
+
+---
+
+<a id="Sornaisten_kisat_01082009"></a>
+### Sörnaisten kisojen 1.8.2009 tuloksia
+
+<p> Timo Aitta j&auml;rjesti yhteisty&ouml;ss&auml; Michelle Vuoren kanssa
+1.8.2009 kisan <a href="http://www.kiinankeskus.com/">KiinaKeskuksessa</a>,
+joka sijaitsee S&ouml;rn&auml;isiss&auml; Helsingiss&auml; osoitteessa Kinaporinkatu 2 D.</p>
+
+<p> Peliajat olivat 25 + 25 min.</p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td bgcolor="#ccffff" width="5%"> # </td>
+<td align="left" bgcolor="#ccffff" width="22%">
+<b>Nimi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>5</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>6</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>7</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>8</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>9</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="8%"> <b>Buchholz</b>
+</td>
+<td bgcolor="#ccffff" width="8%"> <b>Sonneborn-Berger</b>
+</td>
+<td bgcolor="#ccffff" width="12%"> <b>Sijoitus</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>1.</b> </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td bgcolor="silver">&nbsp; </td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+<td>1</td>
+<td>&nbsp; </td>
+<td>1</td>
+<td>5</td>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+<td>1.</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>2.</b> </td>
+<td align="left">孙健 S&umacr;n Ji&agrave;n</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp; </td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>4</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>2.</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>3.</b> </td>
+<td align="left"> Jouni R&auml;m&ouml; </td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>3.</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>4.</b> </td>
+<td align="left"> Timo Aitta </td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>2,5</td>
+<td>14</td>
+<td>&nbsp;</td>
+<td>4.</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>5.</b> </td>
+<td align="left">曹德复C&aacute;o D&eacute;f&ugrave; </td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td bgcolor="silver">1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>2,5</td>
+<td>10,5</td>
+<td>3,25</td>
+<td>5.</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>6.</b> </td>
+<td align="left"> Olavi Stenman </td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>&nbsp;</td>
+<td>1</td>
+<td>0,5</td>
+<td>2,5</td>
+<td>10,5</td>
+<td>2,75</td>
+<td>6.</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>7.</b> </td>
+<td align="left"> Arto Vaara </td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td bgcolor="silver">1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>13,5</td>
+<td>&nbsp;</td>
+<td>7.</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>8.</b> </td>
+<td align="left"> Jukka Tuovinen </td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td bgcolor="silver">&nbsp;</td>
+<td>1</td>
+<td>2</td>
+<td>11</td>
+<td>&nbsp;</td>
+<td>8</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>9.</b> </td>
+<td align="left"> Tuomo Ojala </td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+<td>0</td>
+<td bgcolor="silver">1</td>
+<td>1,5</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>9.</td>
+</tr>
+</tbody>
+</table>
+
+<a id="HM_kisat_2009"></a>
+### Helsingin Mestaruuskisojen 25.1.2009 tuloksia
+
+<p> Mestaruuden voitti maksimituloksella 5/5 Sun Jian (孙健)
+! </p>
+
+<p> Peliajat olivat 30 + 30 minuuttia. </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="left">
+<th colspan="2"> <b> 1. kierros<br/>
+</b></th>
+</tr>
+<tr>
+<td> Sun Jian - Jukka Tuovinen </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Mikko T&ouml;rnqvist- Arto Vaara </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Olavi Stenman-Jouni R&auml;m&ouml; </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Tero Riskula </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 2. kierros<br/>
+</b></th>
+</tr>
+<tr>
+<td> Jouni R&auml;m&ouml;-Sun Jian </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Tero Riskula-Mikko T&ouml;rnqvist </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Arto Vaara Olavi Stenman </td>
+<td> &frac12; - &frac12; </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Jukka Tuovinen </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 3. kierros<br/>
+</b></th>
+</tr>
+<tr>
+<td> Sun Jian - Tero Riskula </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Mikko T&ouml;rnqvist-Jouni R&auml;m&ouml; </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Jukka Tuovinen-Arto Vaara </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Olavi Stenman </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 4. kierros<br/>
+</b></th>
+</tr>
+<tr>
+<td> Arto Vaara-Sun Jian </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Olavi Stenman-Mikko T&ouml;rnqvist </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Tero Riskula-Jukka Tuovinen </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Jouni R&auml;m&ouml; </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 5. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Sun Jian-Mikko T&ouml;rnqvist </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Jouni R&auml;m&ouml;-Tero Riskula </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Jukka Tuovinen-Olavi Stenman </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Arto Vaara </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+</tbody>
+</table>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffff" width="30%">
+<b>Nimi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>5</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>6</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>7</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="8%"> <b>Buchholz</b>
+</td>
+<td bgcolor="#ccffff" width="12%"> <b>Sijoitus</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>1.</b> </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 1 </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 0 </td>
+<td> 4 </td>
+<td>&nbsp; </td>
+<td> 2. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>2.</b> </td>
+<td align="left"> Jouni R&auml;m&ouml; </td>
+<td> 0 </td>
+<td bgcolor="silver"> 1 </td>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 0 </td>
+<td> 3 </td>
+<td>&nbsp; </td>
+<td> 3. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>3.</b> </td>
+<td align="left"> Jukka Tuovinen </td>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+<td bgcolor="silver"> 1 </td>
+<td> 0 </td>
+<td> 0 </td>
+<td> 1 </td>
+<td> 0 </td>
+<td> 2 </td>
+<td>&nbsp; </td>
+<td> 6. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>4.</b> </td>
+<td align="left"> Arto Vaara </td>
+<td> 0 </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td bgcolor="silver"> 1 </td>
+<td> 0,5 </td>
+<td>&nbsp; </td>
+<td> 0 </td>
+<td> 2,5</td>
+<td> 13,5 </td>
+<td> 4. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>5.</b> </td>
+<td align="left"> Olavi Stenman </td>
+<td> 0 </td>
+<td> 0 </td>
+<td> 1 </td>
+<td> 0,5 </td>
+<td bgcolor="silver"> 1 </td>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+<td> 2,5 </td>
+<td> 11,5 </td>
+<td> 5. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>6.</b> </td>
+<td align="left"> Tero Riskula </td>
+<td> 0 </td>
+<td> 0 </td>
+<td> 0 </td>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+<td bgcolor="silver"> 1 </td>
+<td> 0 </td>
+<td> 1 </td>
+<td>&nbsp; </td>
+<td> 7. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>7.</b> </td>
+<td align="left"> SUN Jian </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 5 </td>
+<td>&nbsp; </td>
+<td> 1. </td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" width="15%"> <b>Nimi</b>
+</td>
+<td width="5%"> <b>F-vanha</b> </td>
+<td width="5%"> <b>Pisteet</b> </td>
+<td width="5%"> <b>Taso</b> </td>
+<td width="5%"> <b>Odotus</b> </td>
+<td width="5%"> <b>H</b> </td>
+<td width="5%"> <b>F-uusi</b> </td>
+<td width="5%"> <b>(*ELO)</b> </td>
+<td width="5%"> <b>kerroin</b> </td>
+</tr>
+<tr align="center">
+<td> 1. </td>
+<td align="left"> Sun Jian </td>
+<td>&nbsp; </td>
+<td> 5/5 </td>
+<td> 141 </td>
+<td>&nbsp; </td>
+<td> 91</td>
+<td> 91-1ob </td>
+<td> (2063) </td>
+<td> F1=H </td>
+</tr>
+<tr align="center">
+<td> 2. </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td> 163-29 </td>
+<td> 4 /5 </td>
+<td> 163 </td>
+<td> 2&frac12; </td>
+<td> 133!</td>
+<td> 158-30 </td>
+<td> (1594) </td>
+<td> 5:1 </td>
+</tr>
+<tr align="center">
+<td> 3. </td>
+<td align="left"> Jouni R&auml;m&ouml; </td>
+<td> 141-67 </td>
+<td> 2 /4 </td>
+<td> 147 </td>
+<td> 2&frac12; </td>
+<td> 147</td>
+<td> 142-68 </td>
+<td> (1706) </td>
+<td> 8:1 </td>
+</tr>
+<tr align="center">
+<td> 4. </td>
+<td align="left"> Arto Vaara </td>
+<td> 204-31 </td>
+<td> 1&frac12;/4 </td>
+<td> 163 </td>
+<td> &frac12; </td>
+<td> 175!</td>
+<td> 200-32 </td>
+<td> (1300)</td>
+<td> 7:1 </td>
+</tr>
+<tr align="center">
+<td> 5. </td>
+<td align="left"> Olavi Stenman </td>
+<td> 174-42 </td>
+<td> 1&frac12;/4 </td>
+<td> 154 </td>
+<td> 1 </td>
+<td> 167</td>
+<td> 173-43 </td>
+<td> (1489) </td>
+<td> 8:1 </td>
+</tr>
+<tr align="center">
+<td> 6. </td>
+<td align="left"> Jukka Tuovinen </td>
+<td> 168-39 </td>
+<td> 1 /4 </td>
+<td> 171 </td>
+<td> 2 </td>
+<td> 196</td>
+<td> 171-40 </td>
+<td> (1503)</td>
+<td> 8:1 </td>
+</tr>
+<tr align="center">
+<td> 6. </td>
+<td align="left"> Tero Riskula </td>
+<td> 260-41 </td>
+<td> 0 /4 </td>
+<td> 210 </td>
+<td> 0 </td>
+<td> 260</td>
+<td> 260-42 </td>
+<td> (880)</td>
+<td> 8:1 </td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="2008"></a>
+## Vuoden 2008 tuloksia
+
+<a id="SM_kisat_2008"></a>
+### Pekingin älypelikisojen 3.10.-18.10.2008 tuloksia
+
+<p> Pekingiss&auml; pelattiin 1. <a href="http://en.wikipedia.org/wiki/International_Mind_Sports_Association">IMSA:n</a>
+j&auml;rjest&auml;m&auml;t &auml;lypelikisat. </p>
+
+<p> Kiinalaiset ja vietnamilaiset tarjosivat t&auml;ll&auml;kin
+kertaa ylivoimaisen vastuksen, mutta Suomen joukkue p&auml;rj&auml;si melko hyvin
+eurooppalaisia vastaan. </p>
+
+<p> Oli my&ouml;s ilahduttavaa havaita, ett&auml; uusia
+ei-kiinalaisten pelaajien maita oli saatu mukaan : mm. Ven&auml;j&auml;, Ukraina
+sek&auml; Etel&auml;-Korea. </p>
+
+<table>
+<tbody>
+<tr valign="top">
+<td>
+<table border="3" cellpadding="1" cellspacing="1" style="border: medium none ;">
+<tbody>
+<tr>
+<th colspan="4"> Miesten yksil&ouml;kisat</th>
+</tr>
+<tr>
+<td colspan="4"> Peliaika : 60 min + 30
+s/siirto <br/>
+Pelit 7.-11.10.2009 </td>
+</tr>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Xu&nbsp;Yinchuan</td>
+<td>CHN</td>
+<td>17</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Hong&nbsp;Zhi</td>
+<td>CHN</td>
+<td>16</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Look&nbsp;Kongdwa</td>
+<td>MAS</td>
+<td>13</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Nguyen&nbsp;Thanh&nbsp;Bao</td>
+<td>VIE</td>
+<td>13</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Lei&nbsp;Kamfum</td>
+<td>MAC</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Chong&nbsp;Heungming</td>
+<td>PHI</td>
+<td>12</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Wong&nbsp;Hok&nbsp;Him</td>
+<td>HKG</td>
+<td>12</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Nguyen&nbsp;Hoang&nbsp;Lam</td>
+<td>VIE</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Yang&nbsp;Dhung&nbsp;Yu</td>
+<td>TPE</td>
+<td>12</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Setiawan</td>
+<td>INA</td>
+<td>11</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Chou&nbsp;Sai&nbsp;Kit</td>
+<td>HKG</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Tou&nbsp;Kongvai</td>
+<td>MAC</td>
+<td>11</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Zheng,Ximing</td>
+<td>CAN</td>
+<td>11</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Chiang&nbsp;Chung&nbsp;Hao</td>
+<td>TPE</td>
+<td>11</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Ye&nbsp;Rongguang</td>
+<td>NED</td>
+<td>10</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Pu&nbsp;Fangyao</td>
+<td>GER</td>
+<td>10</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Chan&nbsp;Heanwei</td>
+<td>MAS</td>
+<td>10</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Shen&nbsp;Gary&nbsp;Hao</td>
+<td>USA</td>
+<td>10</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Tse&nbsp;Richard</td>
+<td>USA</td>
+<td>10</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Bunyamin</td>
+<td>INA</td>
+<td>10</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Yong&nbsp;Kiat&nbsp;Choo</td>
+<td>SIN</td>
+<td>10</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Dang&nbsp;Nicolas</td>
+<td>FRA</td>
+<td>10</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Phung&nbsp;Kim&nbsp;Dang</td>
+<td>FRA</td>
+<td>10</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Heng&nbsp;Chamnan</td>
+<td>CAM</td>
+<td>9</td>
+</tr>
+<tr>
+<td>25</td>
+<td>He&nbsp;Zhimin</td>
+<td>ITA</td>
+<td>9</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Vithaya&nbsp;J.</td>
+<td>THA</td>
+<td>9</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Lu&nbsp;Liangcheng</td>
+<td>ARG</td>
+<td>9</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Chen&nbsp;Fazuo</td>
+<td>GBR</td>
+<td>9</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Yan&nbsp;Chaofeng</td>
+<td>ROU</td>
+<td>9</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Loo&nbsp;Swee&nbsp;Tian</td>
+<td>SIN</td>
+<td>8</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Lee&nbsp;Fahban</td>
+<td>BRU</td>
+<td>8</td>
+</tr>
+<tr>
+<td>32</td>
+<td>T.&nbsp;Hattori</td>
+<td>JPN</td>
+<td>8</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Hsu&nbsp;Wei&nbsp;Kuo</td>
+<td>NED</td>
+<td>8</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Rui&nbsp;Guo</td>
+<td>AUS</td>
+<td>8</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Gladishev&nbsp;Dmitriy</td>
+<td>RUS</td>
+<td>8</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Volodymyr&nbsp;Korsak</td>
+<td>UKR</td>
+<td>8</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Gu&nbsp;Yi&nbsp;Qing</td>
+<td>CAN</td>
+<td>7</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Yi&nbsp;Kam&nbsp;Siu</td>
+<td>HON</td>
+<td>7</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Si&nbsp;Li</td>
+<td>AUS</td>
+<td>7</td>
+</tr>
+<tr bgcolor="yellow">
+<td>40</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>FIN</td>
+<td>7</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Joern&nbsp;Tessen</td>
+<td>GER</td>
+<td>7</td>
+</tr>
+<tr>
+<td>42</td>
+<td>P.Luckboonyoung</td>
+<td>GBR</td>
+<td>6</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Demin&nbsp;Aleksandr</td>
+<td>RUS</td>
+<td>6</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Sone&nbsp;Toshihiko</td>
+<td>JPN</td>
+<td>6</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Viktor&nbsp;Shevchuk</td>
+<td>UKR</td>
+<td>6</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Jung&nbsp;Won&nbsp;Seok</td>
+<td>KOR</td>
+<td>6</td>
+</tr>
+<tr bgcolor="yellow">
+<td>47</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>FIN</td>
+<td>5</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Kim&nbsp;Baro</td>
+<td>KOR</td>
+<td>4</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Aqil&nbsp;Abdul&nbsp;Qader</td>
+<td>UAE</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table border="3" cellpadding="1" cellspacing="1" style="border: medium none ;">
+<tbody>
+<tr>
+<th colspan="6"> Miesten joukkuekisa </th>
+</tr>
+<tr>
+<td colspan="6"> Peliaika : 60 min + 30
+s/siirto <br/>
+Pelit 13.-17.10.2009 </td>
+</tr>
+<tr>
+<td>Sijoitus</td>
+<td>Maa</td>
+<td>Pelaaja 1</td>
+<td>Pelaaja 2</td>
+<td>Pelaaja 3</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1</td>
+<td>CHN</td>
+<td>Lv Qin</td>
+<td>Zhao Guorong</td>
+<td>Sun Yongzheng</td>
+<td>17</td>
+</tr>
+<tr>
+<td>2</td>
+<td>VIE</td>
+<td>Nguyen Hoang Lam</td>
+<td>Nguyen Thanh Bao</td>
+<td>Trenh A Sang</td>
+<td>16</td>
+</tr>
+<tr>
+<td>3</td>
+<td>HKG</td>
+<td>Chiu Yu Kuen</td>
+<td>Chou Sai Kit</td>
+<td> </td>
+<td>12</td>
+</tr>
+<tr>
+<td>4</td>
+<td>USA</td>
+<td>Mou Hai Qin</td>
+<td>Cai Yi Lu</td>
+<td>Ji Zhung Gi</td>
+<td>12</td>
+</tr>
+<tr>
+<td>5</td>
+<td>SIN</td>
+<td>Ng Jun Ming</td>
+<td>Tsung Han Woo</td>
+<td> </td>
+<td>10</td>
+</tr>
+<tr>
+<td>6</td>
+<td>GBR</td>
+<td>Chen Fazuo</td>
+<td>ChunLong Huang</td>
+<td> </td>
+<td>10</td>
+</tr>
+<tr>
+<td>7</td>
+<td>INA</td>
+<td>Bunyamin</td>
+<td>Setiawan</td>
+<td> </td>
+<td>9</td>
+</tr>
+<tr>
+<td>8</td>
+<td>TPE</td>
+<td>Chen Ching Wen</td>
+<td>Zhao I Fan</td>
+<td>Juan Ming Chao</td>
+<td>9</td>
+</tr>
+<tr>
+<td>9</td>
+<td>NED</td>
+<td>Ye Rongguang</td>
+<td>Wang Huichuan</td>
+<td>Hsu Wei Kuo</td>
+<td>9</td>
+</tr>
+<tr>
+<td>10</td>
+<td>CAN</td>
+<td>Fong William L.</td>
+<td>Kei Cheong Leo</td>
+<td>Tak Yau P.Sung</td>
+<td>9</td>
+</tr>
+<tr>
+<td>11</td>
+<td>FRA</td>
+<td>Dang Nicolas</td>
+<td>Phung Kim Dang</td>
+<td>VUIBERT J&eacute;rome</td>
+<td>8</td>
+</tr>
+<tr>
+<td>12</td>
+<td>MAC</td>
+<td>Chan Iekchon</td>
+<td>Wong Sekchio</td>
+<td>Lei Hanghong</td>
+<td>8</td>
+</tr>
+<tr>
+<td>13</td>
+<td>GER</td>
+<td>Joern Tessen</td>
+<td>Pu Fangyao</td>
+<td>Andreas Klein</td>
+<td>8</td>
+</tr>
+<tr>
+<td>14</td>
+<td>JPN</td>
+<td>Shoshi Kazuharu</td>
+<td>Matsuno Yoichiro</td>
+<td>Tanaka Atsushi</td>
+<td>8</td>
+</tr>
+<tr>
+<td>15</td>
+<td>AUS</td>
+<td>Haifeng Pan</td>
+<td>Gaoyang Zhang</td>
+<td> </td>
+<td>8</td>
+</tr>
+<tr bgcolor="yellow">
+<td>16</td>
+<td>FIN</td>
+<td>Jouni Ramo</td>
+<td>Mikko Tornqvist</td>
+<td> </td>
+<td>5</td>
+</tr>
+<tr>
+<td>17</td>
+<td>RUS</td>
+<td>Galochkin Sergey</td>
+<td>Zorin Daniil</td>
+<td>Gladishev Dmitriy</td>
+<td>4</td>
+</tr>
+<tr>
+<td>18</td>
+<td>UKR</td>
+<td>Viktor Shevchuk</td>
+<td>Oleksandr Pylypchuk</td>
+<td>Volodymyr Korsak</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<table border="3" cellpadding="1" cellspacing="1" style="border: medium none ;">
+<tbody>
+<tr>
+<th colspan="4"> Miesten pikapelit </th>
+</tr>
+<tr>
+<td colspan="4"> Peliaika : 10 min + 10
+s/siirto <br/>
+Pelit 4.-6.10.2009 </td>
+</tr>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>Maa</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Wang Yang</td>
+<td>CHN</td>
+<td>17</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jiang Chuan</td>
+<td>CHN</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Chiu Yu Kuen</td>
+<td>HKG</td>
+<td>13</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Kng Ter Yong</td>
+<td>SIN</td>
+<td>12</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Mou,Hai Qin</td>
+<td>USA</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Chiang,Chung-Hao</td>
+<td>TPE</td>
+<td>12</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Chen,Li-Feng</td>
+<td>TPE</td>
+<td>11</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Lu,Liangcheng</td>
+<td>ARG</td>
+<td>11</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Wong Hok Him</td>
+<td>HKG</td>
+<td>11</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Nguyen Thanh Bao</td>
+<td>VIE</td>
+<td>11</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Nguyen Vu Quan</td>
+<td>VIE</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Gaoyang Zhang</td>
+<td>AUS</td>
+<td>10</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Phung Kim Dang</td>
+<td>FRA</td>
+<td>10</td>
+</tr>
+<tr>
+<td>14</td>
+<td>He Zhimin</td>
+<td>ITA</td>
+<td>10</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Pu Fangyao</td>
+<td>GER</td>
+<td>10</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Ye Rongguang</td>
+<td>NED</td>
+<td>10</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Ji,Jia Qing</td>
+<td>USA</td>
+<td>10</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Dang Nicolas</td>
+<td>FRA</td>
+<td>9</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Ho Shing Kin</td>
+<td>CAN</td>
+<td>9</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Choi Houwa</td>
+<td>MAC</td>
+<td>9</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Chan Chioweng</td>
+<td>MAC</td>
+<td>9</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Lin Junwei</td>
+<td>CAN</td>
+<td>9</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Chen Fazuo</td>
+<td>GBR</td>
+<td>9</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Yang Chounmyint</td>
+<td>MYA</td>
+<td>8</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Hsu Wei Kuo</td>
+<td>NED</td>
+<td>8</td>
+</tr>
+<tr bgcolor="yellow">
+<td>26</td>
+<td>Jouni Ramo</td>
+<td>FIN</td>
+<td>8</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Yin Xianyun</td>
+<td>MYA</td>
+<td>7</td>
+</tr>
+<tr bgcolor="yellow">
+<td>28</td>
+<td>Mikko Tornqvist</td>
+<td>FIN</td>
+<td>7</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Yi Kam Siu</td>
+<td>HON</td>
+<td>7</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Galochkin Sergey</td>
+<td>RUS</td>
+<td>7</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Shijie Zhu</td>
+<td>AUS</td>
+<td>7</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Yamanaka Joji</td>
+<td>JPN</td>
+<td>7</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Andreas Klein</td>
+<td>GER</td>
+<td>6</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Kumano Kazunobu</td>
+<td>JPN</td>
+<td>6</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Zorin Daniil</td>
+<td>RUS</td>
+<td>5</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Viktor Shevchuk</td>
+<td>UKR</td>
+<td>5</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Volodymyr Korsak</td>
+<td>UKR</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="Otaniemi_Open_2008"></a>
+### Otaniemi Open-turnauksen (6.-7.9.2008) tuloksia
+
+<p> T&auml;m&auml;nvuotinen Otaniemi Open turnaus pelattiin kahtena
+eri turnauksena sill&auml; osanottajam&auml;&auml;r&auml; uhkasi taas j&auml;&auml;d&auml; pieneksi ja
+kaikille ei sopinut kaksip&auml;iv&auml;inen kisa. Kumpanakin p&auml;iv&auml;n&auml; pelattiin
+erillinen nelj&auml;n pelaajan t&auml;ysi turnaus. </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="left">
+<th colspan="2">
+
+<a id="lauantai-6-9-2008"></a>
+#### Lauantai 6.9.2008
+
+</th>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 1. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Timo Aitta - Jouni R&auml;m&ouml; </td>
+<td> &frac12; - &frac12; </td>
+</tr>
+<tr>
+<td> Mikko T&ouml;rnqvist - Tero Riskula </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 2. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Mikko T&ouml;rnqvist - Timo Aitta </td>
+<td> &frac12; - &frac12; </td>
+</tr>
+<tr>
+<td> Tero Riskula - Jouni R&auml;m&ouml; </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 3. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Jouni R&auml;m&ouml; - Mikko T&ouml;rnqvist </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Timo Aitta - Tero Riskula </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2">
+
+<a id="sunnuntai-7-9-2008"></a>
+#### Sunnuntai 7.9.2008
+
+</th>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 1. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Jouni R&auml;m&ouml; - Jukka Tuovinen </td>
+<td> &frac12; - &frac12; </td>
+</tr>
+<tr>
+<td> Arto Vaara - Mikko T&ouml;rnqvist </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 2. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Jouni R&auml;m&ouml; - Arto Vaara </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Jukka Tuovinen - Mikko T&ouml;rnqvist </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 3. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Mikko T&ouml;rnqvist - Jouni R&auml;m&ouml; </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Arto Vaara - Jukka Tuovinen </td>
+<td> 0 - 1 </td>
+</tr>
+</tbody>
+</table>
+
+<a id="lauantain-6-9-2008-tulokset"></a>
+#### Lauantain 6.9.2008 tulokset
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffff" width="30%">
+<b>Nimi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="12%"> <b>Sijoitus</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>1.</b> </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 0,5 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 2,5 </td>
+<td> 1. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>2.</b> </td>
+<td align="left"> Timo Aitta </td>
+<td> 0,5 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 0,5 </td>
+<td> 1 </td>
+<td> 2 </td>
+<td> 2. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>3.</b> </td>
+<td align="left"> Jouni R&auml;m&ouml; </td>
+<td> 0 </td>
+<td> 0,5 </td>
+<td bgcolor="silver">&nbsp;</td>
+<td> 1 </td>
+<td> 1,5 </td>
+<td> 3. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>4.</b> </td>
+<td align="left"> Tero Riskula </td>
+<td> 0 </td>
+<td> 0 </td>
+<td> 0 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 0 </td>
+<td> 4. </td>
+</tr>
+</tbody>
+</table>
+
+<a id="sunnuntain-7-9-2008-tulokset"></a>
+#### Sunnuntain 7.9.2008 tulokset
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffff" width="30%">
+<b>Nimi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="12%"> <b>Sijoitus</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>1.</b> </td>
+<td align="left"> Jouni R&auml;m&ouml; </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 0,5 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 2,5 </td>
+<td> 1.-2. (jaettu) </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>2.</b> </td>
+<td align="left"> Jukka Tuovinen </td>
+<td> 0,5 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 2,5 </td>
+<td> 1.-2. (jaettu) </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>3.</b> </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td> 0 </td>
+<td> 0 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 3. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>4.</b> </td>
+<td align="left"> Arto Vaara </td>
+<td> 0 </td>
+<td> 0 </td>
+<td> 0 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 0 </td>
+<td> 4. </td>
+</tr>
+</tbody>
+</table>
+
+<a id="lasketut-ingo-luokitukset-tuloksista"></a>
+#### Lasketut INGO-luokitukset tuloksista :
+
+<h4> Lauantain kisan j&auml;lkeen: </h4>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" width="15%"> <b>Nimi</b>
+</td>
+<td width="5%"> <b>F-vanha</b> </td>
+<td width="5%"> <b>Pisteet</b> </td>
+<td width="5%"> <b>Taso</b> </td>
+<td width="5%"> <b>Odotus</b> </td>
+<td width="5%"> <b>H</b> </td>
+<td width="5%"> <b>F-uusi</b> </td>
+<td width="5%"> <b>(*ELO)</b> </td>
+<td width="5%"> <b>kerroin</b> </td>
+</tr>
+<tr align="center">
+<td> 1. </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td> 162-25 </td>
+<td> 2&frac12;/3 </td>
+<td> 174 </td>
+<td> 2 </td>
+<td> 141</td>
+<td> 160-26 </td>
+<td> (1580)</td>
+<td> 10:1 </td>
+</tr>
+<tr align="center">
+<td> 2. </td>
+<td align="left"> Timo Aitta </td>
+<td> 169-28 </td>
+<td> 2 /3 </td>
+<td> 174 </td>
+<td> 1&frac12; </td>
+<td> 158</td>
+<td> 168-29 </td>
+<td> (1524) </td>
+<td> 10:1 </td>
+</tr>
+<tr align="center">
+<td> 3. </td>
+<td align="left"> Jouni R&auml;m&ouml; </td>
+<td> 142-63 </td>
+<td> 1&frac12; /3 </td>
+<td> 174 </td>
+<td> 2&frac12; </td>
+<td> 174</td>
+<td> 145-64 </td>
+<td> (1685) </td>
+<td> 10:1 </td>
+</tr>
+<tr align="center">
+<td> 4. </td>
+<td align="left"> Tero Riskula </td>
+<td> 260-40 </td>
+<td> 0 /3 </td>
+<td> 210 </td>
+<td> 0 </td>
+<td> 260</td>
+<td> 260-41 </td>
+<td> ( 880) </td>
+<td> 10:1 </td>
+</tr>
+</tbody>
+</table>
+
+<h4> Sunnuntain kisan j&auml;lkeen: </h4>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" width="15%"> <b>Nimi</b>
+</td>
+<td width="5%"> <b>F-vanha</b> </td>
+<td width="5%"> <b>Pisteet</b> </td>
+<td width="5%"> <b>Taso</b> </td>
+<td width="5%"> <b>Odotus</b> </td>
+<td width="5%"> <b>H</b> </td>
+<td width="5%"> <b>F-uusi</b> </td>
+<td width="5%"> <b>(*ELO)</b> </td>
+<td width="5%"> <b>kerroin</b> </td>
+</tr>
+<tr align="center">
+<td> 1. </td>
+<td align="left"> Jouni R&auml;m&ouml; </td>
+<td> 145-64 </td>
+<td> 2&frac12;/3 </td>
+<td> 164 </td>
+<td> 2 </td>
+<td> 130</td>
+<td> 144-65 </td>
+<td> (1692)</td>
+<td> 10:1 </td>
+</tr>
+<tr align="center">
+<td> 2. </td>
+<td align="left"> Jukka Tuovinen </td>
+<td> 172-38 </td>
+<td> 2&frac12; /3 </td>
+<td> 170 </td>
+<td> 1&frac12; </td>
+<td> 136!</td>
+<td> 168-39 </td>
+<td> (1524) </td>
+<td> 9:1 </td>
+</tr>
+<tr align="center">
+<td> 3. </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td> 160-26 </td>
+<td> 1/3 </td>
+<td> 162 </td>
+<td> 1&frac12; </td>
+<td> 178</td>
+<td> 162-27 </td>
+<td> (1566) </td>
+<td> 10:1 </td>
+</tr>
+<tr align="center">
+<td> 4. </td>
+<td align="left"> Arto Vaara </td>
+<td> 204-30 </td>
+<td> 0 /3 </td>
+<td> 156 </td>
+<td> 0 </td>
+<td> 206</td>
+<td> 204-31 </td>
+<td> (1272) </td>
+<td> 10:1 </td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="pikapelit_2008.08.16"></a>
+### Järvenpään pikapeliturnauksen 16.08.2008 tuloksia
+
+<p> Peliajat olivat 5 + 5 minuuttia. </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffff" width="30%">
+<b>Nimi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="12%"> <b>Sijoitus</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>1.</b> </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 3 </td>
+<td> 1. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>2.</b> </td>
+<td align="left"> Timo Aitta </td>
+<td> 0 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 0 </td>
+<td> 0,5 </td>
+<td> 0,5 </td>
+<td> 3. (jaettu) </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>3.</b> </td>
+<td align="left"> Arto Vaara </td>
+<td> 0 </td>
+<td> 1 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 1 </td>
+<td> 2 </td>
+<td> 2. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>4.</b> </td>
+<td align="left"> Raimo Lindroos </td>
+<td> 0 </td>
+<td> 0,5 </td>
+<td> 0 </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 0,5 </td>
+<td> 3. (jaettu)</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="SM_kisat_2008-2"></a>
+### SM-kisat 14.-15.6.2008 tuloksia
+
+<p> Peliajat : <br/>
+45 min + 45 s/siirto 40. siirtoon asti, jonka j&auml;lkeen 15 min lis&auml;ttiin
+pelaajien aikaan sek&auml; pelattiin loppupeli giljotiinimoodissa. </p>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr align="left">
+<th colspan="2"> <b> 1. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Tolonen - Stenman </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Vaara - Aitta </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> T&ouml;rnqvist - Zhang </td>
+<td> 1 - 0 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Riskula </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 2. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Aitta - T&ouml;rnqvist </td>
+<td> &frac12; - &frac12; </td>
+</tr>
+<tr>
+<td> Stenman - Riskula </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Vaara - Tolonen </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Zhang </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 3. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Stenman - Aitta </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Zhang - Tolonen </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Riskula - T&ouml;rnqvist </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Vaara </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 4. kierros </b>
+</th>
+</tr>
+<tr>
+<td> T&ouml;rnqvist - Stenman </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Tolonen - Riskula </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Zhang - Vaara </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Aitta </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+<tr align="left">
+<th colspan="2"> <b> 5. kierros </b>
+</th>
+</tr>
+<tr>
+<td> Tolonen - T&ouml;rnqvist </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Aitta - Zhang </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Riskula - Vaara </td>
+<td> 0 - 1 </td>
+</tr>
+<tr align="left">
+<td colspan="2"> Lepovuorossa: Stenman </td>
+</tr>
+<tr>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+</tr>
+</tbody>
+</table>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" bgcolor="#ccffff" width="30%">
+<b>Nimi</b> </td>
+<td bgcolor="#ccffff" width="5%"> <b>1</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>2</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>3</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>4</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>5</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>6</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>7</b>
+</td>
+<td bgcolor="#ccffff" width="5%"> <b>Pisteet</b>
+</td>
+<td bgcolor="#ccffff" width="8%"> <b>Buchholz</b>
+</td>
+<td bgcolor="#ccffff" width="12%"> <b>Sijoitus</b>
+</td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>1.</b> </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 1 </td>
+<td> 0,5 </td>
+<td> 1 </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 4,5 </td>
+<td>&nbsp; </td>
+<td> 1. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>2.</b> </td>
+<td align="left"> Olavi Stenman </td>
+<td> 0 </td>
+<td bgcolor="silver"> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td>&nbsp; </td>
+<td> 4 </td>
+<td>&nbsp; </td>
+<td> 2. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>3.</b> </td>
+<td align="left"> Timo Aitta </td>
+<td> 0,5 </td>
+<td> 0 </td>
+<td bgcolor="silver"> 1 </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td> 3,5 </td>
+<td>&nbsp; </td>
+<td> 3. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>4.</b> </td>
+<td align="left"> Jouni Tolonen </td>
+<td> 0 </td>
+<td> 0 </td>
+<td>&nbsp; </td>
+<td bgcolor="silver">&nbsp; </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 3</td>
+<td> 13,5 </td>
+<td> 4. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>5.</b> </td>
+<td align="left"> Arto Vaara </td>
+<td>&nbsp; </td>
+<td>&nbsp; </td>
+<td> 0 </td>
+<td> 0 </td>
+<td bgcolor="silver"> 1 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 3 </td>
+<td> 11,5 </td>
+<td> 5. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>6.</b> </td>
+<td align="left"> Tero Riskula </td>
+<td> 0 </td>
+<td> 0 </td>
+<td>&nbsp; </td>
+<td> 0 </td>
+<td> 0 </td>
+<td bgcolor="silver"> 1 </td>
+<td>&nbsp; </td>
+<td> 1 </td>
+<td> 15,5 </td>
+<td> 6. </td>
+</tr>
+<tr align="center">
+<td bgcolor="#ccffff"> <b>7.</b> </td>
+<td align="left"> ZHANG Lei </td>
+<td> 0 </td>
+<td>&nbsp; </td>
+<td> 0 </td>
+<td> 0 </td>
+<td> 0 </td>
+<td>&nbsp; </td>
+<td bgcolor="silver"> 1 </td>
+<td> 1 </td>
+<td> 15 </td>
+<td> 7. </td>
+</tr>
+</tbody>
+</table>
+
+<p> Lasketut INGO-luokitukset tuloksista : </p>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr align="center">
+<td style="border-style: none;" width="5%">&nbsp;
+</td>
+<td align="left" width="15%"> <b>Nimi</b>
+</td>
+<td width="5%"> <b>F-vanha</b> </td>
+<td width="5%"> <b>Pisteet</b> </td>
+<td width="5%"> <b>Taso</b> </td>
+<td width="5%"> <b>Odotus</b> </td>
+<td width="5%"> <b>H</b> </td>
+<td width="5%"> <b>F-uusi</b> </td>
+<td width="5%"> <b>(*ELO)</b> </td>
+<td width="5%"> <b>kerroin</b> </td>
+</tr>
+<tr align="center">
+<td> 1. </td>
+<td align="left"> Mikko T&ouml;rnqvist </td>
+<td> 180-24 </td>
+<td> 4&frac12;/5 </td>
+<td> 185 </td>
+<td> 3 </td>
+<td> 145!</td>
+<td> 162-25 </td>
+<td> (1566) </td>
+<td> spec. </td>
+</tr>
+<tr align="center">
+<td> 2. </td>
+<td align="left"> Olavi Stenman </td>
+<td> 181-41 </td>
+<td> 3 /4 </td>
+<td> 173 </td>
+<td> 1&frac12; </td>
+<td> 148!</td>
+<td> 174-42 </td>
+<td> (1482) </td>
+<td> 4:1 </td>
+</tr>
+<tr align="center">
+<td> 3. </td>
+<td align="left"> Timo Aitta </td>
+<td> 170-27 </td>
+<td> 2&frac12; /4 </td>
+<td> 179 </td>
+<td> 2&frac12; </td>
+<td> 167</td>
+<td> 169-28 </td>
+<td> (1517) </td>
+<td> 4:1 </td>
+</tr>
+<tr align="center">
+<td> 4. </td>
+<td align="left"> Jouni Tolonen </td>
+<td> 147-38 </td>
+<td> 3 /5 </td>
+<td> 177 </td>
+<td> 4 </td>
+<td> 167</td>
+<td> 152-39 </td>
+<td> (1636) </td>
+<td> 3:1 </td>
+</tr>
+<tr align="center">
+<td> 5. </td>
+<td align="left"> Arto Vaara </td>
+<td> 203-29 </td>
+<td> 2 /4 </td>
+<td> 207 </td>
+<td> 2 </td>
+<td> 207</td>
+<td> 204-30 </td>
+<td> (1272)</td>
+<td> 4:1 </td>
+</tr>
+<tr align="center">
+<td> 6. </td>
+<td align="left"> Tero Riskula </td>
+<td> 260-39 </td>
+<td> 0 /4 </td>
+<td> 210 </td>
+<td> 0 </td>
+<td> 260</td>
+<td> 260-40 </td>
+<td> (880)</td>
+<td> 4:1 </td>
+</tr>
+<tr align="center">
+<td> 7. </td>
+<td align="left"> ZHANG Lei </td>
+<td> ---- </td>
+<td> 0 /4 </td>
+<td> 203 </td>
+<td> 0 </td>
+<td> 253</td>
+<td> 253-1os </td>
+<td> ( 929)</td>
+<td> F1=H </td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="helsingin-mestaruusturnaus-27-1-08"></a>
+### Helsingin mestaruusturnaus 27.1.08
+
+<p> Peliajat : 30 min + 30 min </p>
+
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border: medium solid ; border-collapse: collapse;">
+<tbody>
+<tr style="">
+<td style="padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">Sija</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Nimi</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">Palkintosija</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">BU</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">SB</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">Progr</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">Ratingiin</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Jouni Tolonen</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">5/5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">5/5</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">2</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Jukka Tuovinen</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">3/5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">14</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">6</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">1-0-1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">3/5</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">3</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Timo Aitta</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">3/5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">14</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">6</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">1-0-0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">3/5</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">4</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Zhou Boya</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">3/5<span style="">&nbsp;
+</span>*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">13</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">2/4</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Jouni R&auml;m&ouml;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">3/5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">11</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">3/5</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">6</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Olavi Stenman</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">2/5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">14</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">2/5</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">7</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Mikko T&ouml;rnqvist</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">2/5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">12</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">2/5</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">8</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Tero Riskula</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">1/5<span style="">&nbsp;
+</span>*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">10</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">0/4</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 29.5pt;" valign="top" width="39">
+<p class="MsoNormal">9</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 115.65pt;" valign="top" width="154">
+<p class="MsoNormal">Arto Vaara</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 49.25pt;" valign="top" width="66">
+<p class="MsoNormal">1/3<span style="">&nbsp;
+</span>* **<br/>
+</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">&nbsp; 6</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 54pt;" valign="top" width="72">
+<p class="MsoNormal">0/2</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<ul style="margin-top: 0cm;" type="disc">
+<li class="MsoNormal" style=""><span lang="EN-GB" style=""><small>*&nbsp;
+1
+piste vapaakierrokselta,&nbsp;&nbsp; ** Vaara joutui
+keskeytt&auml;m&auml;&auml;n toisen kierroksen j&auml;lkeen flunssan
+takia</small><o:p></o:p></span></li>
+</ul>
+
+---
+
+<a id="2007"></a>
+## Vuoden 2007 tuloksia
+
+<a id="macaon-maailmanmestaruuskisojen-2007-tuloksia"></a>
+### Macaon maailmanmestaruuskisojen 2007 tuloksia
+
+Suomalaisten sijoitukset saksalaisen sivuston mukaan:
+
+:
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>48. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>55. </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>62. </td>
+<td>Arto Vaara</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>64. </td>
+<td>Olavi Stenman</td>
+<td>2</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+
+Pelaajia kaikkiaan 66.
+
+Joukkuekisassa joutui Suomen joukkue Jouni ja Arto tyytymään 22. eli viimeiseen sijaan sijoitusluvulla 110.
+
+Ei-kiinalais- tai -vietnamilaissyntyisten sarjassa Jouni oli 5. - eli palkintosijalla.
+
+Mainittakoon, että tässä sarjassa oli 19 pelaajaa, joista 16 miehittivät kaikkien pelaajien sarjassa 16 viimeistä sijaa!
+
+<span style="font-weight: bold;">Suomalaistilanteet
+kierroksittain Macaon
+MM:st&auml;: </span>
+
+- 1. kierroksella kaikki suomalaiset hävisivät
+
+*****Suomalaisten pistetilanne: kaikilla 0 pistettä
+
+- 2. kierroksella Mikko voitti Olavin, muut hävisivät
+
+*****Suomalaisten pistetilanne: Mikko 1, muut 0
+
+- 3. kierroksella Arto ja Jouni voittivat, muut hävisivät
+
+***** Suomalaisten pistetilanne: Mikko, Arto ja Jouni 1, Olavi 0
+
+- 4. kierroksella Jouni voitti Mikon, Olavi tasapeli, Arto hävisi
+
+***** Suomalaisten pistetilanne: Jouni 2, Mikko ja Arto 1, Olavi 0,5
+
+- 5. kierroksella Mikko voitti, Jouni tasapeli, Arto ja Olavi hävisivät
+
+***** Suomalaisten pistetilanne: Jouni 2,5, Mikko 2, Arto 1, Olavi 0,5
+
+- 6. kierroksella Arto ja Olavi voittivat, muut hävisivät
+
+***** Suomalaisten pistetilanne: Jouni 2,5, Mikko ja Arto 2, Olavi 1,5
+
+- 7. kierroksella Arto, Jouni ja Mikko pelasivat tasan, Olavi hävisi
+
+***** Suomalaisten pistetilanne: Jouni 3, Mikko ja Arto 2,5, Olavi 1,5
+
+- 8. kierroksella Jouni voitti, Olavi pelasi tasan, Arto ja Mikko hävisivät
+
+***** Suomalaisten pistetilanne: Jouni 4, Mikko ja Arto 2,5, Olavi 2
+
+- 9. kierroksella Mikko voitti, muut hävisivät
+
+*****
+
+<span style="color: rgb(0, 153, 0); font-weight: bold;">Suomalaisten
+lopullinen pistetilanne: Jouni 4/9, Mikko 3,5, Arto 2,5 ja Olavi 2</span>
+
+Kisojen tuloksia voi katsoa ainakin saksalaissivulta:
+
+<font face="Arial" size="2"><a href="http://www.xiangqi-braunschweig.de/wm-ergebnisse/">http://www.xiangqi-braunschweig.de/wm-ergebnisse/</a></font>
+
+---
+
+<a id="oulun-alypelifestivaalit-2007"></a>
+### Oulun älypelifestivaalit 2007
+
+Su 2.9.07 kiinalainen shakki
+
+15 min + 15 sek/siirto
+
+:
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Zhou Jiehan</td>
+<td>4/4</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Shan Jingdong</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Tero Riskula</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jaakko Alakopsa</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jarkko Haimakainen</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="jarvenpaan-heina-07-turnauksen-7-7-07-tulokset-ja-rating-30min-30min"></a>
+### Järvenpään Heinä-07 turnauksen 7.7.07 tulokset ja Rating. 30min+30min.
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Player</td>
+<td>F-old</td>
+<td>Pts.</td>
+<td>lev.</td>
+<td>Exp.</td>
+<td>H</td>
+<td>F-new</td>
+<td>(*ELO)</td>
+<td>coeff.</td>
+</tr>
+<tr>
+<td>1 </td>
+<td>Liu Jin</td>
+<td>171-02</td>
+<td>3&frac12;/5</td>
+<td>177</td>
+<td>&nbsp;3</td>
+<td>157</td>
+<td>166-03</td>
+<td>1558</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Timo Aitta</td>
+<td>175-25</td>
+<td>3&frac12;/5</td>
+<td>176</td>
+<td>2&frac12;</td>
+<td>156</td>
+<td>172-26</td>
+<td>1496</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Raimo Lindroos</td>
+<td>186-59</td>
+<td>3/5</td>
+<td>174</td>
+<td>2</td>
+<td>164</td>
+<td>183-60</td>
+<td>1419</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>Jukka Tuovinen</td>
+<td>171-36</td>
+<td>2/5</td>
+<td>177</td>
+<td>3</td>
+<td>187</td>
+<td>173-37</td>
+<td>1489</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>184-21</td>
+<td>2/5</td>
+<td>175</td>
+<td>&nbsp;2</td>
+<td>185</td>
+<td>184-22</td>
+<td>1412</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>6 </td>
+<td>Olavi Stenman</td>
+<td>170-38</td>
+<td>1/5</td>
+<td>177</td>
+<td>3</td>
+<td>207</td>
+<td>175-39</td>
+<td>1475</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="otaniemen-kevatturnauksen-1-3-6-2007-tulokset"></a>
+### Otaniemen kevätturnauksen 1-3.6.2007 tulokset
+
+<p class="MsoNormal" style="margin-left: 0pt;"><span style="font-family: Arial;">Otaniemen t&auml;m&auml;nkev&auml;inen
+turnaus oli pelaajam&auml;&auml;r&auml;lt&auml;&auml;n
+pettymys! Vain 5 pelaajaa oli mukana. Macaon kisaehdokkaista vain Mikko
+T&ouml;rnqvist ja Arto Vaara olivat mukana. Jouni
+R&auml;m&ouml;ll&auml; oli ty&ouml;vuoro. Jorma Rossi
+ja P&auml;ivi Walta eiv&auml;t vastanneet kilpailukutsuun.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-left: 0pt;"><span style="font-family: Arial;">Koska pelaajia oli niin v&auml;h&auml;n,
+saimme pelatuksi l&auml;hes
+t&auml;yden turnauksen. Tero Riskula ei p&auml;&auml;ssyt lauantaina
+tulemaan joten h&auml;nelt&auml;
+j&auml;i yksi peli pelaamatta. Arto Vaara halusi sunnuntaina
+lev&auml;t&auml; pelattuaan kolme
+pitk&auml;&auml; peli&auml;. Artolle ja Terolle merkittiin
+keskin&auml;isen pelin sijaan &frac12; pistett&auml;
+lepovuorosta. Muut pelit pelattiin.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-left: 0pt;"><span style="font-family: Arial;">Miettimisaikana oli ensin 30
+siirtoa / 1
+tunti. Sen
+j&auml;lkeen lis&auml;ttiin 30 minuuttia loppupeliin. T&auml;ll&ouml;in
+yksi kierros kesti
+korkeintaan 3 tuntia. Pariisin MM-kisoissa 2005 ensimm&auml;inen vaihe
+oli 25
+siirtoa / 1 tunti. K&auml;ytetty aika tuntui j&auml;rkev&auml;lt&auml;
+ja toivottavasti se toimi
+my&ouml;s hyvin tulevien MM-kisojen harjoituksena</span></p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width: 237pt; margin-left: 4.8pt; border-collapse: collapse;" width="316">
+<tbody>
+<tr style="height: 13.8pt;">
+<td nowrap="nowrap" style="padding: 0cm 5.4pt; width: 14pt; height: 13.8pt;" valign="bottom" width="19">
+
+</td>
+<td nowrap="nowrap" style="border-style: solid none none solid; border-color: windowtext -moz-use-text-color -moz-use-text-color windowtext; border-width: 1pt medium medium 1pt; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 88pt; height: 13.8pt;" valign="bottom" width="117">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">Nimi<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid none; border-color: windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid none none; border-color: windowtext windowtext -moz-use-text-color -moz-use-text-color; border-width: 1pt 1pt medium medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">2<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid none none; border-color: windowtext windowtext -moz-use-text-color -moz-use-text-color; border-width: 1pt 1pt medium medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">3<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid none none; border-color: windowtext windowtext -moz-use-text-color -moz-use-text-color; border-width: 1pt 1pt medium medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">4<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid none none; border-color: windowtext windowtext -moz-use-text-color -moz-use-text-color; border-width: 1pt 1pt medium medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">5<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 23pt; height: 13.8pt;" valign="bottom" width="31">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">Pist.<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 37pt; height: 13.8pt;" valign="bottom" width="49">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">Sij.<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="height: 13.8pt;">
+<td nowrap="nowrap" style="border-style: solid none solid solid; border-color: windowtext -moz-use-text-color windowtext windowtext; border-width: 1pt medium 1pt 1pt; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 14pt; height: 13.8pt;" valign="bottom" width="19">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid none solid solid; border-color: windowtext -moz-use-text-color windowtext windowtext; border-width: 1pt medium 1pt 1pt; padding: 0cm 5.4pt; width: 88pt; height: 13.8pt;" valign="bottom" width="117">
+<p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial;">Timo Aitta<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border: 1pt solid windowtext; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+
+</td>
+<td nowrap="nowrap" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23pt; height: 13.8pt;" valign="bottom" width="31">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">4<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37pt; height: 13.8pt;" valign="bottom" width="49">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">1.<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="height: 13.8pt;">
+<td nowrap="nowrap" style="border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; border-width: medium medium 1pt 1pt; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 14pt; height: 13.8pt;" valign="bottom" width="19">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">2<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; border-width: medium medium 1pt 1pt; padding: 0cm 5.4pt; width: 88pt; height: 13.8pt;" valign="bottom" width="117">
+<p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial;">Olavi Stenman<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23pt; height: 13.8pt;" valign="bottom" width="31">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">3<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37pt; height: 13.8pt;" valign="bottom" width="49">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">2.<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="height: 13.8pt;">
+<td nowrap="nowrap" style="border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; border-width: medium medium 1pt 1pt; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 14pt; height: 13.8pt;" valign="bottom" width="19">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">3<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; border-width: medium medium 1pt 1pt; padding: 0cm 5.4pt; width: 88pt; height: 13.8pt;" valign="bottom" width="117">
+<p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial;">Mikko T&ouml;rnqvist<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt; font-family: Arial;">1<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23pt; height: 13.8pt;" valign="bottom" width="31">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">2<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37pt; height: 13.8pt;" valign="bottom" width="49">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">3.<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="height: 13.8pt;">
+<td nowrap="nowrap" style="border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; border-width: medium medium 1pt 1pt; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 14pt; height: 13.8pt;" valign="bottom" width="19">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span style="font-size: 10pt; font-family: Arial;">4<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; border-width: medium medium 1pt 1pt; padding: 0cm 5.4pt; width: 88pt; height: 13.8pt;" valign="bottom" width="117">
+<p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial;">A</span><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">rto
+Vaara<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">&frac12;<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">-<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23pt; height: 13.8pt;" valign="bottom" width="31">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">&frac12;<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37pt; height: 13.8pt;" valign="bottom" width="49">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">4-5.<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="height: 13.8pt;">
+<td nowrap="nowrap" style="border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; border-width: medium medium 1pt 1pt; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 14pt; height: 13.8pt;" valign="bottom" width="19">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">5<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none none solid solid; border-color: -moz-use-text-color -moz-use-text-color windowtext windowtext; border-width: medium medium 1pt 1pt; padding: 0cm 5.4pt; width: 88pt; height: 13.8pt;" valign="bottom" width="117">
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">Tero
+Riskula<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">0<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">-<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; background: silver none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; width: 15pt; height: 13.8pt;" valign="bottom" width="20">
+<p align="center" class="MsoNormal" style="text-align: center;"><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">&frac12;<o:p></o:p></span></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23pt; height: 13.8pt;" valign="bottom" width="31">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">&frac12;<o:p></o:p></span></b></p>
+</td>
+<td nowrap="nowrap" style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 37pt; height: 13.8pt;" valign="bottom" width="49">
+<p align="center" class="MsoNormal" style="text-align: center;"><b><span lang="EN-US" style="font-size: 10pt; font-family: Arial;">4-5.<o:p></o:p></span></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<b style=""><span style="font-size: 16pt; font-family: Arial;">Otaniemen
+kev&auml;tturnaus 1-3.6. Ranking-pisteet!<br/>
+<br/>
+</span></b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Player</td>
+<td>F-old</td>
+<td>Pts.</td>
+<td>lev.</td>
+<td>Exp.</td>
+<td>H</td>
+<td>F-new</td>
+<td>(*ELO)</td>
+<td>coeff.</td>
+</tr>
+<tr>
+<td>1 </td>
+<td>Timo Aitta</td>
+<td>179-24</td>
+<td>4/4</td>
+<td>197</td>
+<td>&nbsp;2&frac12;</td>
+<td>147!</td>
+<td>175-25</td>
+<td>1475</td>
+<td>7:1</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Olavi Stenman</td>
+<td>171-37</td>
+<td>3/4</td>
+<td>189</td>
+<td>2&frac12;</td>
+<td>164</td>
+<td>170-38</td>
+<td>1510</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>183-20</td>
+<td>2/4</td>
+<td>189</td>
+<td>2</td>
+<td>189</td>
+<td>184-21</td>
+<td>1412</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>Arto Vaara</td>
+<td>205-26</td>
+<td>0/3</td>
+<td>170</td>
+<td>&frac12;</td>
+<td>220</td>
+<td>206-27</td>
+<td>1258</td>
+<td>10:1</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Tero Riskula</td>
+<td>260-37</td>
+<td>0/3</td>
+<td>210</td>
+<td>&nbsp;0</td>
+<td>260</td>
+<td>260-38</td>
+<td>880</td>
+<td>10:1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="helsingin-mestaruusturnaus-27-1-2007"></a>
+### Helsingin mestaruusturnaus 27.1.2007
+
+half rated (quickplay 30min)
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Player</td>
+<td>F-old</td>
+<td>Pts.</td>
+<td>lev.</td>
+<td>Exp.</td>
+<td>H</td>
+<td>F-new</td>
+<td>(*ELO)</td>
+<td>coeff.</td>
+</tr>
+<tr>
+<td>1 </td>
+<td>Jukka Tuovinen</td>
+<td>172-35</td>
+<td>4/5</td>
+<td>196</td>
+<td>&nbsp;3&frac12;</td>
+<td>166</td>
+<td>171-36</td>
+<td>1503</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Arto Vaara</td>
+<td>211-25</td>
+<td>4/5</td>
+<td>205</td>
+<td>2</td>
+<td>175!</td>
+<td>205-26</td>
+<td>1265</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>182-19</td>
+<td>3/5</td>
+<td>198</td>
+<td>3&frac12;</td>
+<td>188</td>
+<td>183-20</td>
+<td>1419</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>Timo Aitta</td>
+<td>178-23</td>
+<td>3/5</td>
+<td>197</td>
+<td>3&frac12;</td>
+<td>187</td>
+<td>179-24</td>
+<td>1447</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Teemu Matjeveff</td>
+<td>233-5</td>
+<td>1/5</td>
+<td>198</td>
+<td>&nbsp;1</td>
+<td>228</td>
+<td>232-6</td>
+<td>1076</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>6 </td>
+<td>Tero Riskula</td>
+<td>259-36</td>
+<td>0/5</td>
+<td>214</td>
+<td>0</td>
+<td>264</td>
+<td>260-37</td>
+<td>880</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+
+Kiitos Terolle ja Timolle järjestelyistä!
+
+---
+
+<a id="2006"></a>
+## Vuoden 2006 tuloksia
+
+<a id="harjoituskisat-26-11-2006-tuloksia"></a>
+### Harjoituskisat 26.11.2006 tuloksia
+
+Väkeä tuli tas valitettavan vähän. Pelasimme täyden turnauksen ennalta ilmoitetuilla ajoilla (20min+10sek/s). Osanottajia oli vain 5 kpl. Tämä oli siis viimeinen kerta kun saimme "nauttia" Yu Lei'n taidoista. Hän palaa Kiinaan ensi maanantaina. Toivottavasti näemme hänet vielä joskus. Ainakin hän kertoi viihtyneensä Suomessa. Kotijoukot koostuivat taas tutuista kasvoista. Mikko ja Olavi olivat (tietenkin) taas paikalla ja ilokseni myös Päivi ehti mukaan. Ilmeisesti hänen kiireensä alkavat helpottaa.
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>Pisteet</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Yu Lei</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4,0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>2,5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Aitta, Timo</td>
+<td>0</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>2,0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stenman, Olavi</td>
+<td>0</td>
+<td>0</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1.5</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Walta,P&auml;ivi</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,0</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="kiinalaisen-shakin-suomen-mestaruus-2006"></a>
+### Kiinalaisen shakin Suomen mestaruus 2006
+
+<h4> J&auml;rjestetty Otaniemess&auml; Espoossa 11.-12.11.2006 </h4>
+
+<span style="color: rgb(255, 0, 0);">Kiinalaisen
+shakin Suomen
+Mestaruuden 2006 voitti Yu Lei
+maksimituloksella</span>
+
+.
+
+Kiisys onnittelee!
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Yu Lei</td>
+<td>5/5</td>
+<td>!!!</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>4</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Jukka Tuovinen</td>
+<td>3</td>
+<td>17<br/>
+</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Olavi Stenman</td>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>2,5</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Arto Tengvall</td>
+<td>2,5</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Timo Aitta<span></span></td>
+<td>2</td>
+<td>16<br/>
+</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Han Shike</td>
+<td>2</td>
+<td>11,5</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Tero Riskula</td>
+<td>1</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p class="MsoNormal" style="margin-right: -22.1pt;"><st1:city><st1:place><span lang="EN-GB" style="">Helsinki</span></st1:place></st1:city><span lang="EN-GB" style=""> + </span><st1:place><st1:city><span lang="EN-GB" style="">Otaniemi</span></st1:city><span lang="EN-GB" style="">, </span><st1:country-region><span lang="EN-GB" style="">Finland</span></st1:country-region></st1:place><span lang="EN-GB" style=""> 11.11.-12.11.2006<span style="">&nbsp; </span>Thinking
+time 30min+30sec/move until 60 moves
+and then 15min<span style="">&nbsp; </span>XQ-tournament.
+of <span style="">&nbsp;</span>Finnish
+Championship Leader Tero Riskula.<o:p></o:p></span></p>
+
+<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border: medium none ; border-collapse: collapse;">
+<tbody>
+<tr style="">
+<td style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Name</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">Result</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">Rate</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">Buh</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal">Plc</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal"><span style="font-size: 9pt;">LY<o:p></o:p></span></p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal"><span style="font-size: 10pt;">MT<o:p></o:p></span></p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">JT</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal"><span style="font-size: 9pt;">OS<o:p></o:p></span></p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">JR</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">AT</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">TA</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">SH</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">TR</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Lei Yu</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>5/5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;</span>5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>I</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal"><b style="">F<o:p></o:p></b></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Mikko T&ouml;rnqvist </p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>4</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">4</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>II</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal"><b style="">I<o:p></o:p></b></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Jukka Tuovinen</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>3</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">3</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;</span>17</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal">III</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal"><b style="">N<o:p></o:p></b></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Olavi Stenman </p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>3*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">2</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;</span>10</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>4</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal"><b style="">N<o:p></o:p></b></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Jouni R&auml;m&ouml;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="font-size: 11pt;"><span style="">&nbsp;
+</span>2 &frac12;*<o:p></o:p></span></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">1&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;
+</span><span style="font-size: 10pt;">12&frac12;<o:p></o:p></span></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal"><span style="">&nbsp;</span><b style="">I<o:p></o:p></b></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Arto Tengvall&nbsp; </p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>2&frac12;*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">1&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;
+</span>8&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>6</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal"><b style="">S<o:p></o:p></b></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Timo Aitta&nbsp;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>2</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">2</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;
+</span>16</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>7</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal"><b style="">H<o:p></o:p></b></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Shike Han&nbsp;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>2*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>11</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>8</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal"><span style="">&nbsp;</span><b style=""><span style="font-size: 10pt;">XQ<o:p></o:p></span></b></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Tero Riskula&nbsp;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>1*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;&nbsp;
+</span>-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>9</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal"><b style="">SM<o:p></o:p></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p class="MsoNormal"><span lang="EN-GB" style="">*
+free
+round =1 point, not for rating<br/>
+</span></p>
+
+<p class="MsoNormal">============================================================================<br/>
+<span lang="EN-GB" style=""><o:p></o:p></span></p>
+
+<p class="MsoNormal"><o:p>&nbsp;Finnish
+Championship, Helsinki
+&amp; Otaniemi, 11/2006<br/>
+--------------------------------------------------------------------------<br/>
+half rated (due to quickplay games)<br/>
+<br/>
+</o:p>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Player</td>
+<td>F-old</td>
+<td>Pts.</td>
+<td>lev.</td>
+<td>Exp.</td>
+<td>H</td>
+<td>F-new</td>
+<td>(*ELO)</td>
+<td>coeff.</td>
+</tr>
+<tr>
+<td>1 </td>
+<td>Lei Yu</td>
+<td>----</td>
+<td>5/5</td>
+<td>137</td>
+<td>&nbsp;</td>
+<td>87</td>
+<td>87-1ob</td>
+<td>2091</td>
+<td>FI=H</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>194-18</td>
+<td>4/5</td>
+<td>177</td>
+<td>1&frac12;</td>
+<td>147!</td>
+<td>182-19</td>
+<td>1426</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Jukka Tuovinen</td>
+<td>177-34</td>
+<td>3/5</td>
+<td>157</td>
+<td>1&frac12;</td>
+<td>147!</td>
+<td>172-35</td>
+<td>1496</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>Olavi Stenman</td>
+<td>171-36</td>
+<td>2/4</td>
+<td>174</td>
+<td>2</td>
+<td>174</td>
+<td>171-37</td>
+<td>1503</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>137-60</td>
+<td>1&frac12;/4</td>
+<td>150</td>
+<td>&nbsp;2&frac12;</td>
+<td>163</td>
+<td>140-61</td>
+<td>1720</td>
+<td>8:1</td>
+</tr>
+<tr>
+<td>6 </td>
+<td>Arto Tengvall</td>
+<td>203-6</td>
+<td>1&frac12;/4</td>
+<td>185</td>
+<td>1&frac12;</td>
+<td>197</td>
+<td>202-7</td>
+<td>1286</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>7 <br/>
+</td>
+<td>Timo Aitta</td>
+<td>179-22</td>
+<td>2/5</td>
+<td>159</td>
+<td>1&frac12;</td>
+<td>169</td>
+<td>178-23</td>
+<td>1454</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>8 <br/>
+</td>
+<td>Shike Han</td>
+<td>180-1</td>
+<td>1/4</td>
+<td>178</td>
+<td>&nbsp;2</td>
+<td>203</td>
+<td>185-2</td>
+<td>1405</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>9 </td>
+<td>Tero Riskula</td>
+<td>259-35</td>
+<td>0/4</td>
+<td>209</td>
+<td>0</td>
+<td>259</td>
+<td>259-36</td>
+<td>887</td>
+<td>8:1</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+</p>
+
+---
+
+<a id="harjoituskisat-5-11-2006-tuloksia"></a>
+### Harjoituskisat 5.11.2006 tuloksia
+
+Meillä oli sunnuntaina 5.11.06 taas xiangqi harjoitukset. Osanottajamäärä ei ihan vastannut odotuksia mutta saimme pelatuksi ottelun ulkomaalaisia vastaan.
+
+Miettimisaikana oli 20 min + 10 sek/siirto (DGT-kellon asetus no 22) joten pelit eivät liene laskentaan kelpaavia.
+
+Nguyen Long on vietnamilainen mutta muut vastustajat olivat kiinalaisia (myös Michelle!). Heidän sukunimensä on mainittu ensin tuloksissa.
+
+<span style='color: rgb(0, 0, 0); font-family: "Times New Roman"; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;'>1.
+kierros: (suomalaiset punaisilla)</span>
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td> Stenman Olavi - Yu Lei </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> T&ouml;rnqvist Mikko - Zhao Hanbo </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> Walta P&auml;ivi - Nguyem Long </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> Riskula Tero - Vuori Michelle </td>
+<td> 0 - 1</td>
+</tr>
+</tbody>
+</table>
+
+<span style='color: rgb(0, 0, 0); font-family: "Times New Roman"; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;'><br/>
+1.
+kierroksen j&auml;lkeen Tero ja Michelle l&auml;htiv&auml;t mutta muut jatkoivat ja
+pelasivat t&auml;yden ottelun. Jokainen pelasi kaikkia vastustajia vastaan.</span>
+
+2. kierros: (suomalaiset mustilla)
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td> Nguyem Long - Stenman </td>
+<td> 0 - 1 </td>
+</tr>
+<tr>
+<td> T&ouml;rnqvist - Yu Lei </td>
+<td> &frac12; - &frac12; </td>
+</tr>
+<tr>
+<td> Walta - Zhao Hanbo </td>
+<td> 0 - 1 </td>
+</tr>
+</tbody>
+</table>
+
+3. kierros: (vuorovärein)
+
+<table border="0" style="" width="50%">
+<tbody>
+<tr>
+<td> Zhao Hanbo - Stenman </td>
+<td> 1 - 0 </td>
+</tr>
+<tr>
+<td> T&ouml;rnqvist - Nguyem Long </td>
+<td> &frac12; - &frac12; </td>
+</tr>
+<tr>
+<td> Yu Lei - Walta </td>
+<td> 1 - 0 </td>
+</tr>
+</tbody>
+</table>
+
+Lopputuloksena siis tappio 7 - 3.
+
+Mikko Törnqvist (2/3) ja Yu Lei (2½/3) siis pelasivat häviöttömän ottelun!
+
+Yu Lei on tällä hetkellä töissä VTT:llä mutta hän palaa kiinaan jo joulukuussa joten meidän on syytä olla reippaita jos haluamme ehtiä vielä harjoittelemaan hänen kanssaan.
+
+-Timo Aitta
+
+---
+
+<a id="oulun-alypelifestivaalit-kiinalainen-shakki"></a>
+### Oulun älypelifestivaalit / Kiinalainen shakki
+
+22.10.2006
+
+Oulu
+
+15 + 15 minuuttia (+15 sek/siirto)
+
+Järjestäjä: Jouni Tolonen
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Shang Jingdong</td>
+<td>4,5/5</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Chang Jun</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Xhou Jiehan</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jouni Tolonen</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Ilmari Juutilainen</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Jang Bo</td>
+<td>0
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="otaniemen-avoimet-29-9-1-10-2006-tuloksia"></a>
+### Otaniemen avoimet 29.9.-1.10.2006 tuloksia
+
+One hour +
+
+<span style=""> 1 min/move&nbsp; </span>
+
+XQ-tournament. Leader: Timo Aitta.
+
+<table border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border: medium none ; border-collapse: collapse;">
+<tbody>
+<tr style="">
+<td style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Name</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">Result</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">Rate</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">Buh</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal">Plc</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">JR</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">OS</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">TA</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">JT</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">SH</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">AV</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">MT</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">SW</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">TM</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">TR</p>
+</td>
+<td style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal"><span style="font-size: 8pt;">Free<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Jouni R&auml;m&ouml;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>4/5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;</span>4</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>4</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>I</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">O</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Olavi Stenman</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>4*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">3&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>II</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal"><span style="">&nbsp;</span>T</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Timo Aitta</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>3*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">2&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;&nbsp;
+</span>-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal">III</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">A</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">&frac12;*</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Jukka Tuovinen</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>2&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">2&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">13&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>4</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">N</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Shike Han&nbsp;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="font-size: 11pt;"><span style="">&nbsp;
+</span>2 &frac12;*a<o:p></o:p></span></p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;</span>1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>11</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal"><span style="">&nbsp;</span>I</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1a</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Arto Vaara&nbsp;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>2*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">1&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>10</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>6</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">E</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Mikko T&ouml;rnqvist</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>2*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal">1&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;
+</span>9&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>7</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">M</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Shunyong Wang&nbsp;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal">1&frac12;/4*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;</span>1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;&nbsp;
+</span>-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>8</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">0a</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal"><span style="">&nbsp;</span>I</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Teemu Matvejeff</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>1*</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;</span>&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;&nbsp;
+</span>8</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal"><span style="">&nbsp;</span>9</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">&frac12;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">FI</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+<tr style="">
+<td style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 95.4pt;" valign="top" width="127">
+<p class="MsoNormal">Tero Riskula&nbsp;</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 45pt;" valign="top" width="60">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;
+</span>1/3</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;</span>1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 36pt;" valign="top" width="48">
+<p class="MsoNormal"><span style="">&nbsp;&nbsp;&nbsp;
+</span>5</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 33.3pt;" valign="top" width="44">
+<p class="MsoNormal">10</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 23.5pt;" valign="top" width="31">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.8pt;" valign="top" width="36">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 22.8pt;" valign="top" width="30">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.15pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">-</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">0</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 28.8pt;" valign="top" width="38">
+<p class="MsoNormal">1</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">N</p>
+</td>
+<td style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 26.15pt;" valign="top" width="35">
+<p class="MsoNormal">-</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p class="MsoNormal"><span lang="EN-GB" style="">*
+free Friday
+or free round =&frac12; points, not for rating, a = adjourned =1-0
+points, not for
+rating<br/>
+</span></p>
+
+<p class="MsoNormal">-----------------------------------------------<br/>
+<span lang="EN-GB" style=""><o:p></o:p></span></p>
+
+<span lang="EN-GB" style='font-size: 12pt; font-family: "Times New Roman";'>Otaniemi Tournament 29.9.-1.10.2006<br/>
+---------------------------------------<br/>
+Ingo ja niist&auml; lasketut Elo pisteet:<br/>
+(Siegfried Huber)<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Player</td>
+<td>F-old</td>
+<td>Pts.</td>
+<td>lev.</td>
+<td>Exp.</td>
+<td>H</td>
+<td>F-new</td>
+<td>(*ELO)</td>
+<td>coeff.</td>
+</tr>
+<tr>
+<td>1 <br/>
+</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>135-59</td>
+<td>4/5</td>
+<td>174</td>
+<td>4&frac12;</td>
+<td>144</td>
+<td>137-60</td>
+<td>1741</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>2 <br/>
+</td>
+<td>Olavi Stenman</td>
+<td>176-35</td>
+<td>3&frac12;/4</td>
+<td>186</td>
+<td>2&frac12;</td>
+<td>149!</td>
+<td>171-36</td>
+<td>1503</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>3 <br/>
+</td>
+<td>Timo Aitta</td>
+<td>179-21</td>
+<td>2&frac12;/4</td>
+<td>189</td>
+<td>&nbsp;2&frac12;</td>
+<td>177</td>
+<td>179-22</td>
+<td>1447</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>4 <br/>
+</td>
+<td>Jukka Tuovinen</td>
+<td>177-33</td>
+<td>2&frac12;/5</td>
+<td>177</td>
+<td>2&frac12;</td>
+<td>177</td>
+<td>177-34</td>
+<td>1461</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>5 <br/>
+</td>
+<td>Shike Han</td>
+<td>----</td>
+<td>1/3</td>
+<td>164</td>
+<td>&nbsp;</td>
+<td>180</td>
+<td>180-1</td>
+<td>1440</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>6 <br/>
+</td>
+<td>Arto Vaara</td>
+<td>213-24</td>
+<td>1&frac12;/4</td>
+<td>191</td>
+<td>1</td>
+<td>203</td>
+<td>211-25</td>
+<td>1223</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>7 <br/>
+</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>192-17</td>
+<td>1&frac12;/4</td>
+<td>190</td>
+<td>2</td>
+<td>203</td>
+<td>194-18</td>
+<td>1342</td>
+<td>4:1</td>
+</tr>
+<tr>
+<td>8 <br/>
+</td>
+<td>Shunyong Wang</td>
+<td>----</td>
+<td>1/2</td>
+<td>220</td>
+<td>&nbsp;</td>
+<td>220</td>
+<td>220(2)</td>
+<td>----</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>9 <br/>
+</td>
+<td>Teemu Matvejeff</td>
+<td>228-4</td>
+<td>&frac12;/4</td>
+<td>205</td>
+<td>1</td>
+<td>243</td>
+<td>233-5</td>
+<td>1475</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>10 <br/>
+</td>
+<td>Tero Riskula</td>
+<td>264-34</td>
+<td>1/3</td>
+<td>221</td>
+<td>0</td>
+<td>237!</td>
+<td>259-35</td>
+<td>887</td>
+<td>5:1</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="25-em-kisojen-17-9-2006-tuloksia"></a>
+### 25. EM-kisojen 17.9.2006 tuloksia
+
+<p class="MsoNormal"><span style="font-size: 14pt;">JOUNI
+R&Auml;M&Ouml; EUROOPAN PARAS
+EI-AASIALAISSYNTYINEN HAARLEMISSA HOLLANNISSA J&Auml;RJESTETYISS&Auml;
+KIINALAISEN SHAKIN
+EUROOPAN MESTARUUSKILPAILUISSA!<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size: 14pt;"><o:p>&nbsp;</o:p></span>Saamieni
+tietojen mukaan J&auml;rvenp&auml;&auml;l&auml;inen Jouni
+R&auml;m&ouml; (Kiisys
+ja J&auml;rkis) saavutti ainoana ei-aasialaissyntyisen&auml; pelaajana
+tuloksen 4/7 voittaen n&auml;in kyseisen ryhm&auml;n Euroopan
+mestaruuden. Timo
+Aitan j&auml;rjest&auml;m&auml;t
+valmennustilaisuudet eiv&auml;t ole menneet hukkaan! Aikaisemmin
+Suomeen on tullut hopeaa
+vastaavassa ryhm&auml;ss&auml;.<br/>
+</p>
+<p class="MsoNormal"><o:p><br/>
+&nbsp;</o:p><span style="font-size: 14pt;">ONNITTELUT
+JOUNI
+R&Auml;M&Ouml;LLE!<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size: 14pt;"><o:p>&nbsp;</o:p></span>Kilpailuissa
+oli mukana kaikkiaan 40 pelaajaa &ndash;
+aasialaissyntyiset mukaan luettuina. Kaikki pelasivat yhdess&auml;
+ryhm&auml;ss&auml;. T&auml;ss&auml; ryhm&auml;ss&auml; Jouni
+R&auml;m&ouml; oli 14.
+N&auml;in h&auml;nenn kokonaistuloksensa on erinomainen.</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p>Raimo
+Lindroos, 17.9.2006</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p><span style="font-size: 14pt;">SUOMELTA ON KYSYTTY HALUKKUUTTA
+J&Auml;RJEST&Auml;&Auml; EUROOPAN JOUKKUEMESTARUUSKILPAILUT<span style="">&nbsp;
+</span>KIINALAISESSA SHAKISSA VUONNA 2008.<o:p></o:p></span></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p>Olen
+Kiisysin
+puheenjohtajana ilmoittanut Euroopan
+kiinalaisen shakin liitolle EXF:lle suhtautuvani my&ouml;nteisesti
+asiaan.
+Pelipaikkakuntana olisi joko Helsinki tai J&auml;rvenp&auml;&auml;.</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p>Meid&auml;n
+on annettava
+varma vastaus Macaon MM-kilpailuihin
+2007 menness&auml;. Silloin on ilmoitettava my&ouml;s sponsorit. Kaikki
+sponsori-halukkuudet
+ja -vinkit ovat nyt tervetulleita!</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p>Raimo
+Lindroos, Ahokuja 2,
+04430 J&auml;rvenp&auml;&auml;, 050-3235025, <span ;="" style="color: red;">
+Etunimi.Sukunimi@kolumbus.fi </span></p>
+<br/>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="jarkiksen-heinaturnaus-1-7-2006-tuloksia"></a>
+### Järkiksen heinäturnaus 1.7.2006 tuloksia
+
+<h4>JOUNI R&Auml;M&Ouml; VOITTI J&Auml;RKIKSEN HEIN&Auml;TURNAUKSEN 1.7.2006.</h4>
+<p class="MsoNormal"><o:p>&nbsp;</o:p>J&auml;rvenp&auml;&auml;n
+Jampan nuorisotilassa pelattiin kiinalaista
+shakkia Hein&auml;turnauksen merkeiss&auml; lauantaina. Huolimatta
+jalkapallon
+MM-kisoista, Puistobluesista ja muutamasta hein&auml;nuhasta saatiin
+viidelt&auml;
+paikkakunnalta koolle runsas ja edustava pelaajajoukko &ndash; mm. kolme
+Suomenmestaruuden voittanutta.</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p>Koska
+kyseess&auml; oli
+yhden p&auml;iv&auml;n turnaus, niin pelattiin
+viisi kierrosta ns. nopeata peli&auml; eli puolen tunnin
+miettimisajoin. Turnauksen
+j&auml;rjest&auml;j&auml;n&auml; toimi torstai-iltaisin samassa tilassa
+kokoontuva kiinalaisen
+shakin (Xiangqi) paikallinen kerho: J&auml;rvenp&auml;&auml;n
+kiinalainen shakki ry (J&auml;rkis).
+</p>
+Tulokset<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Asuinpaikka</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>4,5/5</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>Espoo</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Arto Tengvall</td>
+<td>Vantaa</td>
+<td>2,5*</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jukka Tuovinen</td>
+<td>Helsinki</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>Lapinj&auml;rvi</td>
+<td>2*</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Raimo Lindroos</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>2*</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Olavi Stenman</td>
+<td>Helsinki</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Arto Vaara</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>2*</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Jorma Rossi/td&gt;
+</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>0,5*</td>
+</tr>
+</tbody>
+</table>
+<p>*-merkityill&auml; &frac12; pistett&auml; vapaakierroksesta.</p>
+<p>Tasapistetapauksissa sijoitus on ratkaistu
+vastustajavertailulla.</p>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="otaniemi-xq-turnaus-26-28-5-2006"></a>
+### Otaniemi XQ turnaus 26.-28.5.2006
+
+miettimisajat 60 min &ndash; 60 min (+ 1 min/siirto)<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>Pisteet</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Aitta, Timo</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&frac12;</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4,0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>R&auml;m&ouml;, Jouni</td>
+<td>&frac12;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3,5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stenman, Olavi</td>
+<td>&frac12;</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>*</td>
+<td>1</td>
+<td>3,0</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>T&ouml;rnqvist, Mikko</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>3,0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Vaara, Arto</td>
+<td>0</td>
+<td>0</td>
+<td>*</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1.5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Riskula, Tero</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0,0</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+<br/>
+* T&auml;t&auml; peli&auml; ei pelattu (26.5), molemmat pelaajat saivat &frac12; pistett&auml;.<br/>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="2005"></a>
+## Vuoden 2005 tuloksia
+
+
+
+<a id="avoin-sm-kilpailu-5-6-11-2005"></a>
+### Avoin SM-kilpailu 5.-6.11.2005
+
+Shakkikoti<br/>
+Helsinki<br/>
+45 minuuttia + 30 sekuntia lis&auml;aikaa/siirto
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>2</td>
+<td>3 </td>
+<td>4 </td>
+<td>5 </td>
+<td>6 </td>
+<td>7 </td>
+<td>Pist.</td>
+<td>Vert.</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">Stenman Olavi</td>
+<td style="font-weight: bold;">x </td>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">- </td>
+<td style="font-weight: bold;">= </td>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">4,5</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>R&auml;m&ouml; Jouni</td>
+<td>0 </td>
+<td>x </td>
+<td>1 </td>
+<td>1 </td>
+<td>1 </td>
+<td>1 </td>
+<td>- </td>
+<td>4</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Tengvall Arto</td>
+<td>0 </td>
+<td>0 </td>
+<td>x </td>
+<td>1 </td>
+<td>0 </td>
+<td>1 </td>
+<td>- </td>
+<td>2 </td>
+<td>(3) </td>
+</tr>
+<tr>
+<td>4 </td>
+<td>R&ouml;nkk&ouml; Seppo</td>
+<td>- </td>
+<td>0 </td>
+<td>0 </td>
+<td>x </td>
+<td>1 </td>
+<td>1 </td>
+<td>- </td>
+<td>2 </td>
+<td>(2,5)</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Tuovinen Jukka</td>
+<td>= </td>
+<td>0 </td>
+<td>1 </td>
+<td>0 </td>
+<td>x </td>
+<td>0 </td>
+<td>- </td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>6 </td>
+<td>Vaara Arto</td>
+<td>0 </td>
+<td>0 </td>
+<td>0 </td>
+<td>0 </td>
+<td>1 </td>
+<td>x </td>
+<td>- </td>
+<td>1</td>
+</tr>
+<tr>
+<td>7 </td>
+<td>Riskula Tero</td>
+<td>0 </td>
+<td>- </td>
+<td>- </td>
+<td>- </td>
+<td>- </td>
+<td>- </td>
+<td>x </td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: bold;">Olavi
+Stenman</span> voitti
+ensimm&auml;isen Suomen mestaruutensa!</p>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="nopean-xiangqin-avoin-suomenmestaruusturnaus-16-10-2005"></a>
+### Nopean xiangqin avoin suomenmestaruusturnaus 16.10.2005
+
+16.10.2005&nbsp;<br/>
+Oulun &Auml;lypelifestivaali<br/>
+Kansainv&auml;linen toimintakeskus Toppelius<br/>
+15 minuuttia + 15 sekuntia lis&auml;aikaa/siirto
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>2 </td>
+<td>3 </td>
+<td>4 </td>
+<td>5 </td>
+<td>Pist.</td>
+<td>KB</td>
+<td>Voitot</td>
+<td>Berger</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">Shan Jingdong </td>
+<td style="font-weight: bold;">CHN </td>
+<td style="font-weight: bold;">+7 </td>
+<td style="font-weight: bold;">+6 </td>
+<td style="font-weight: bold;">+5 </td>
+<td style="font-weight: bold;">=2 </td>
+<td style="font-weight: bold;">+3 </td>
+<td style="font-weight: bold;">4,5</td>
+<td style="font-weight: bold;">8</td>
+<td style="font-weight: bold;">4</td>
+<td style="font-weight: bold;">12,25</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Zhou Jiehan </td>
+<td>CHN </td>
+<td>+9 </td>
+<td>+3 </td>
+<td>+6 </td>
+<td>=1 </td>
+<td>+4 </td>
+<td>4,5</td>
+<td>8</td>
+<td>4</td>
+<td>11,25</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Tolonen Jouni </td>
+<td>FIN </td>
+<td>+4 </td>
+<td>-2 </td>
+<td>+8 </td>
+<td>+9 </td>
+<td>-1 </td>
+<td>3</td>
+<td>9,5</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>Feng Xu </td>
+<td>CHN </td>
+<td>-3 </td>
+<td>+10 </td>
+<td>+9 </td>
+<td>+5 </td>
+<td>-2 </td>
+<td>3</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Zhao Zuomin </td>
+<td>CHN </td>
+<td>+10 </td>
+<td>+7 </td>
+<td>-1 </td>
+<td>-4 </td>
+<td>+9 </td>
+<td>3</td>
+<td>6</td>
+</tr>
+<tr>
+<td>6 </td>
+<td>Huovinen Sauli </td>
+<td>FIN </td>
+<td>+8 </td>
+<td>-1 </td>
+<td>-2 </td>
+<td>-7 </td>
+<td>+10 </td>
+<td>2</td>
+</tr>
+<tr>
+<td>7 </td>
+<td>Shi Yue </td>
+<td>CHN </td>
+<td>-1 </td>
+<td>-5 </td>
+<td>+10 </td>
+<td>+6 </td>
+<td>-8 </td>
+<td>2</td>
+</tr>
+<tr>
+<td>8 </td>
+<td>Brendel Matthias </td>
+<td>HUN </td>
+<td>-6 </td>
+<td>-9 </td>
+<td>-3 </td>
+<td>+10 </td>
+<td>+7 </td>
+<td>2</td>
+</tr>
+<tr>
+<td>9 </td>
+<td>Fei Renhai </td>
+<td>CHN </td>
+<td>-2 </td>
+<td>+8 </td>
+<td>-4 </td>
+<td>-3 </td>
+<td>-5 </td>
+<td>1</td>
+</tr>
+<tr>
+<td>10 </td>
+<td>Riskula Tero </td>
+<td>FIN </td>
+<td>-5 </td>
+<td>-4 </td>
+<td>-7 </td>
+<td>-8 </td>
+<td>-6 </td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<p>Vertailut: Keski-Buchholz (KB),Voitot,Berger <br/>
+<br/>
+Jingdong Shan voitti vertailulla nopean xiangqin suomenmestaruuden.</p>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="maailmanmestaruuskisat-31-7-6-8-2005"></a>
+### Maailmanmestaruuskisat 31.7.-6.8.2005
+
+Pariisi, Ranska
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">L&uuml; Qin </td>
+<td style="font-weight: bold;">China </td>
+<td style="font-weight: bold;">9</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Lei Kam Fun </td>
+<td>Macau </td>
+<td>8&frac12;</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Nguyen Vu Quan </td>
+<td>Vietnam </td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+<p>Samassa ryhm&auml;ss&auml; ratkaistiin miesten (42
+pelaajaa)&nbsp;mestaruus ja ei-kiinalaisten/ ei-vietnamilaisten (28
+pelaajaa) mestaruus.&nbsp;</p>
+<p>Ei-kiinalaisten/ ei-vietnamilaisten sarjassa&nbsp;12
+parasta
+palkittiin, joten&nbsp; <span style="font-weight: bold;">Jouni
+R&auml;m&ouml; sijoittui j&auml;lleen palkinnoille!!</span></p>
+<table border="1" cellpadding="2" cellspacing="2" style="height: 412px;">
+<tbody>
+<tr>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>Pist.</td>
+<td>Vert.</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">KON Island </td>
+<td style="font-weight: bold;">Hong Kong </td>
+<td style="font-weight: bold;">6.0&nbsp; </td>
+<td style="font-weight: bold;">66.5</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Michael&nbsp;N&Auml;GLER </td>
+<td>Germany </td>
+<td>5.5 </td>
+<td>58.0</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Alain&nbsp;DEKKER </td>
+<td>UK </td>
+<td>5.5 </td>
+<td>54.5</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>SHOSHI&nbsp;Kazuharu </td>
+<td>Japan </td>
+<td>5.0 </td>
+<td>65.0</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Joachim&nbsp;SCHMIDT-BRAUNS </td>
+<td>Germany </td>
+<td>5.0 </td>
+<td>58.5</td>
+</tr>
+<tr>
+<td>6 </td>
+<td>J&ouml;rn TESSEN </td>
+<td>Germany </td>
+<td>5.0 </td>
+<td>55.0</td>
+</tr>
+<tr>
+<td>7 </td>
+<td>Annuar BIN BAKRI </td>
+<td>Malaysia (West) </td>
+<td>5.0 </td>
+<td>54.0</td>
+</tr>
+<tr>
+<td>8 </td>
+<td>Reinhard&nbsp;KNAB </td>
+<td>Germany </td>
+<td>5.0 </td>
+<td>53.5</td>
+</tr>
+<tr>
+<td>9 </td>
+<td>YOKOYAMA&nbsp;Eiichi </td>
+<td>Japan </td>
+<td>5.0 </td>
+<td>50.0</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">10 </td>
+<td style="font-weight: bold;">Jouni&nbsp;R&Auml;M&Ouml;
+</td>
+<td style="font-weight: bold;">Finland </td>
+<td style="font-weight: bold;">5.0 </td>
+<td style="font-weight: bold;">49.5</td>
+</tr>
+<tr>
+<td>11 </td>
+<td>Gert&nbsp;GREEUW </td>
+<td>Netherlands </td>
+<td>4.5 </td>
+<td>60.0</td>
+</tr>
+<tr>
+<td>12 </td>
+<td>Bastian&nbsp;GOLLMAR </td>
+<td>Germany </td>
+<td>4.5 </td>
+<td>46.5</td>
+</tr>
+<tr>
+<td>13 </td>
+<td>Jouni&nbsp;TOLONEN </td>
+<td>Finland </td>
+<td>4.5 </td>
+<td>46.0</td>
+</tr>
+<tr>
+<td><span style="font-weight: bold;">...</span></td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>24 </td>
+<td>Arto&nbsp;VAARA </td>
+<td>Finland </td>
+<td>3.5 </td>
+<td>48.0</td>
+</tr>
+</tbody>
+</table>
+<br/>
+Kisassa pelattiin digitaalikelloilla, jotka n&auml;yttiv&auml;t ajan
+minuutin tarkkuudella. Niiss&auml; ei my&ouml;sk&auml;&auml;n ollut
+&nbsp;"lippua" eli ajan p&auml;&auml;ttymist&auml; osoittavaa
+mekanismia. Kun viel&auml; k&auml;ytetiin erikoista aikakontrollia
+(pelit aloitettiin 2:1 kellossa) p&auml;&auml;ttyi moni peli
+yll&auml;tt&auml;v&auml;&auml;n ajan loppumiseen.<br/>
+<p><span style="font-weight: normal;"></span><span style="font-weight: bold;">Suomalaisten&nbsp;tulokset
+peleitt&auml;in:</span></p>
+<span style="font-weight: bold;">10./48. Jouni
+R&auml;m&ouml;&nbsp;5/11</span><br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>7. </td>
+<td>Trenh A Sang </td>
+<td>Vietnam </td>
+<td>(7,5)&nbsp; </td>
+<td>0</td>
+</tr>
+<tr>
+<td>33. </td>
+<td>Low Boon Ngee </td>
+<td>Malaysia West </td>
+<td>(5,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>65. </td>
+<td>Atlan Olivier </td>
+<td>France </td>
+<td>(3,5) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>36. </td>
+<td>Chen Fa Zuo </td>
+<td>United Kingdom </td>
+<td>(5,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>59. </td>
+<td>Wood Peter </td>
+<td>United Kingdom </td>
+<td>(4) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>62. </td>
+<td>Trombettoni Andrea </td>
+<td>Italy </td>
+<td>(3,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>58. </td>
+<td>Guberti Agostino </td>
+<td>Italy </td>
+<td>(4) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>67. </td>
+<td>Geremy Xavier </td>
+<td>France </td>
+<td>(3) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>60. </td>
+<td>Gregus Laslo </td>
+<td>Hungary </td>
+<td>(4) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>42. </td>
+<td>Schmidt Brauns J </td>
+<td>Germany </td>
+<td>(5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>56. </td>
+<td>La Khan Hoa </td>
+<td>United Kingdom </td>
+<td>(4) </td>
+<td>1</td>
+</tr>
+<tr>
+<td><br/>
+</td>
+<td><span style="font-weight: bold;">Yhteens&auml;:</span>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td style="font-weight: bold;">5&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<br style="font-weight: bold;"/>
+<span style="font-weight: bold;">13./54. Jouni
+Tolonen 4,5/11</span><br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>67. </td>
+<td>Geremy Xavier </td>
+<td>France </td>
+<td>(3) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>42. </td>
+<td>Schmidt-Brauns J </td>
+<td>Germany </td>
+<td>(5) </td>
+<td>0 </td>
+</tr>
+<tr>
+<td>35. </td>
+<td>Fung Stephen </td>
+<td>Canada East</td>
+<td>(5,5)&nbsp; </td>
+<td>0 </td>
+</tr>
+<tr>
+<td>50. </td>
+<td>Lin Sen Rong </td>
+<td>Austria </td>
+<td>(5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>23. </td>
+<td>Woo Wei Cheung </td>
+<td>France </td>
+<td>(6,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>59. </td>
+<td>Wood Peter </td>
+<td>United Kingdom </td>
+<td>(4) </td>
+<td>= </td>
+</tr>
+<tr>
+<td>39. </td>
+<td>Dekker Alain </td>
+<td>United Kingdom </td>
+<td>(5,5) </td>
+<td>0 </td>
+</tr>
+<tr>
+<td>68. </td>
+<td>Escoffier Luc </td>
+<td>France </td>
+<td>(3) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>53. </td>
+<td>Gollmar Bastian </td>
+<td>Germany </td>
+<td>(4,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>70. </td>
+<td>Sirci Gian Luca </td>
+<td>Italy </td>
+<td>(0,5) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>65. </td>
+<td>Atlan Olivier </td>
+<td>France </td>
+<td>(3,5) </td>
+<td>1</td>
+</tr>
+<tr>
+<td><br/>
+</td>
+<td><span style="font-weight: bold;">Yhteens&auml;:</span>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td style="font-weight: bold;">4,5</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<br style="font-weight: bold;"/>
+<span style="font-weight: bold;">24./66. Arto Vaara
+3,5/11<br/>
+</span>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>60. </td>
+<td>Gregus Laslo </td>
+<td>Hungary </td>
+<td>(4) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>31. </td>
+<td>Gok U Long </td>
+<td>Macau </td>
+<td>(5,5)&nbsp; </td>
+<td>0</td>
+</tr>
+<tr>
+<td>41. </td>
+<td>Yang Choun Myint </td>
+<td>Myanmar </td>
+<td>(5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>33. </td>
+<td>Low Boon Ngee </td>
+<td>Malaysia West </td>
+<td>(5,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>58. </td>
+<td>GubertiAgostino </td>
+<td>Italy </td>
+<td>(4) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>42. </td>
+<td>Schmidt-Brauns J </td>
+<td>Germany </td>
+<td>(5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>68. </td>
+<td>Escoffier Luc </td>
+<td>France </td>
+<td>(3) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>22. </td>
+<td>Lau Kei Cheong </td>
+<td>Canada West </td>
+<td>(6,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>49. </td>
+<td>Ng Yip Shing </td>
+<td>Canada Central </td>
+<td>(5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>57. </td>
+<td>De Leeuw Arnout </td>
+<td>Netherlands </td>
+<td>(4) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>70. </td>
+<td>Sirci Gian Luca </td>
+<td>Italy </td>
+<td>(0,5) </td>
+<td>=</td>
+</tr>
+<tr>
+<td><br/>
+</td>
+<td><span style="font-weight: bold;">Yhteens&auml;:</span></td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><span style="font-weight: bold;">3,5</span></td>
+</tr>
+</tbody>
+</table>
+<br/>
+<br/>
+<span style="font-weight: bold;">Joukkuekilpailu<br/>
+<br/>
+</span>Kahden vahvuusluvuiltaan parhaan pelaajan tulokset
+maittain laskettiin yhteen joukkuekilpailussa. Suomi ei ollut viimeinen!<span style="font-weight: bold;"><br/>
+<br/>
+</span>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">China </td>
+<td style="font-weight: bold;">5 </td>
+<td style="font-weight: bold;">(1+4)</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Vietnam </td>
+<td>10 </td>
+<td>(3+7)</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Taipei </td>
+<td>16 </td>
+<td>(5+11)</td>
+</tr>
+<tr>
+<td><span style="font-weight: bold;">...</span></td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>19 </td>
+<td>UK </td>
+<td>92 </td>
+<td>(36+56)</td>
+</tr>
+<tr>
+<td>20 </td>
+<td>Canada&nbsp;Central</td>
+<td>101 </td>
+<td>(49+52)</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">21 </td>
+<td style="font-weight: bold;">Finland </td>
+<td style="font-weight: bold;">102 </td>
+<td style="font-weight: bold;">(48+54)</td>
+</tr>
+<tr>
+<td>22 </td>
+<td>Japan </td>
+<td>103&nbsp; </td>
+<td>(40+63)&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<span style="font-weight: bold;"><br/>
+</span><br/>
+<span style="font-weight: bold;">Naisten sarja<br/>
+<br/>
+</span>Ensimm&auml;ist&auml; kertaa Suomella oli naisten sarjassa
+edustaja. P&auml;ivi Walta pelasi hienosti sijoittuen yhdenneksitoista
+nelj&auml;ntoista pelaajan joukossa! Valitettavasti naisilla ei
+viel&auml; ollut ei-kiinalaisten/ ei-vietnamilaisten sarjaa.<span style="font-weight: bold;"><br/>
+<br/>
+</span>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">Guo Li Ping </td>
+<td style="font-weight: bold;">China </td>
+<td style="font-weight: bold;">6/7 </td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Gao&nbsp;Yi Ping </td>
+<td>Taipei </td>
+<td>5&frac12;</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Huang Yu Ying </td>
+<td>Canada East </td>
+<td>5 </td>
+</tr>
+<tr>
+<td><span style="font-weight: bold;">...</span></td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">11 </td>
+<td style="font-weight: bold;">Walta&nbsp;P&auml;ivi
+</td>
+<td style="font-weight: bold;">Finland </td>
+<td style="font-weight: bold;">2&frac12;</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<br/>
+Tulokset peleitt&auml;in:<br/>
+<br/>
+<span style="font-weight: bold;">11.&nbsp;P&auml;ivi
+Walta 2,5/7<br/>
+</span>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>8. </td>
+<td>Soh Ying Ying </td>
+<td>Singapore </td>
+<td>(3,5)&nbsp; </td>
+<td>0</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Yin&nbsp;Anna </td>
+<td>USA West </td>
+<td>(4) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>14. </td>
+<td>Schmidt&nbsp;Lea </td>
+<td>Germany </td>
+<td>(0,5) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Wu&nbsp;Cai Fang </td>
+<td>United Kingdom </td>
+<td>(3,5) </td>
+<td>=</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Ngo&nbsp;Lan Huong </td>
+<td>Vietnam </td>
+<td>(4,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td>13. </td>
+<td>Mata&nbsp;Nicoleta&nbsp;Laura </td>
+<td>Italy </td>
+<td>(1) </td>
+<td>1</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Chang&nbsp;Diana&nbsp;Hong </td>
+<td>Australia </td>
+<td>(4,5) </td>
+<td>0</td>
+</tr>
+<tr>
+<td><br/>
+</td>
+<td><span style="font-weight: bold;">Yhteens&auml;:</span></td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><span style="font-weight: bold;">2,5</span></td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="helsingin-avoin-mestaruus-29-1-2005"></a>
+### Helsingin avoin mestaruus 29.1.2005
+
+Helsinki<br/>
+30+30 minuuttia<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1 </td>
+<td>2 </td>
+<td>3 </td>
+<td>4 </td>
+<td>5 </td>
+<td>Pist. </td>
+<td>Buchholz</td>
+<td>S-B</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">Jukka Tuovinen </td>
+<td style="font-weight: bold;">FIN </td>
+<td style="font-weight: bold;">+6 </td>
+<td style="font-weight: bold;">+4 </td>
+<td style="font-weight: bold;">+3 </td>
+<td style="font-weight: bold;">-2 </td>
+<td style="font-weight: bold;">+7 </td>
+<td style="font-weight: bold;">4 </td>
+<td style="font-weight: bold;">15</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Jouni R&auml;m&ouml; </td>
+<td>FIN </td>
+<td>+8 </td>
+<td>-3 </td>
+<td>+7 </td>
+<td>+1 </td>
+<td>+4 </td>
+<td>4 </td>
+<td>14</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Timo Aitta </td>
+<td>FIN </td>
+<td>+7 </td>
+<td>+2 </td>
+<td>-1 </td>
+<td>+5 </td>
+<td>-6 </td>
+<td>3 </td>
+<td>16</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Chen Xuefeng </td>
+<td>CHN </td>
+<td>+5 </td>
+<td>-1 </td>
+<td>+9 </td>
+<td>+8 </td>
+<td>-2 </td>
+<td>3 </td>
+<td>14</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Mikko T&ouml;rnqvist </td>
+<td>FIN </td>
+<td>-4 </td>
+<td>+8 </td>
+<td>+6 </td>
+<td>-3 </td>
+<td>+X </td>
+<td>3 </td>
+<td>11 </td>
+<td>5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Pu Yan </td>
+<td>CHN </td>
+<td>-1 </td>
+<td>+9 </td>
+<td>-5 </td>
+<td>+X </td>
+<td>+3 </td>
+<td>3 </td>
+<td>11 </td>
+<td>4</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Tero Riskula </td>
+<td>FIN </td>
+<td>-3 </td>
+<td>+X </td>
+<td>-2 </td>
+<td>+9 </td>
+<td>-1 </td>
+<td>2 </td>
+<td>12</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Olavi Stenman </td>
+<td>FIN </td>
+<td>-2 </td>
+<td>-5 </td>
+<td>+X </td>
+<td>-4 </td>
+<td>+9 </td>
+<td>2 </td>
+<td>11</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Chen Charles </td>
+<td>CHN </td>
+<td>+X </td>
+<td>-6 </td>
+<td>-4 </td>
+<td>-7 </td>
+<td>-8 </td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="2004"></a>
+## Vuoden 2004 tuloksia
+
+
+
+<a id="ensimmainen-joukkue-sm-20-11-2004"></a>
+### Ensimmäinen joukkue-SM 20.11.2004
+
+20.11.2004<br/>
+Shakkikoti, Helsinki<br/>
+30+30 minuuttia <br/>
+<br/>
+Joukkueet p&ouml;yt&auml;j&auml;rjestyksess&auml;:<br/>
+<br/>
+1. Teknillinen korkeakoulu (TKK)<br/>
+Hou, Genfu<br/>
+Chan, Xuefeng<br/>
+Pu, Yan<br/>
+<br/>
+2. &nbsp;Shakki-77 , Oulu<br/>
+Shan, Jingdong<br/>
+Zhou, Jiehan<br/>
+Tolonen, Jouni<br/>
+<br/>
+3. J&auml;rvenp&auml;&auml;<br/>
+R&auml;m&ouml;, Jouni<br/>
+Lindroos, Raimo<br/>
+Vaara, Arto<br/>
+<br/>
+4. Sino-Finn Cultural Expedition &nbsp;Association (SFCEA)<br/>
+Xia, Xueliang<br/>
+Yang, Dialing<br/>
+Yang, Jinghui<br/>
+<br/>
+5. Helsinki<br/>
+Aitta, Timo<br/>
+Stenman, Olavi<br/>
+Tuovinen, Jukka<br/>
+<br/>
+<br/>
+Tulokset: <br/>
+1. p&ouml;yd&auml;n tulos ensimm&auml;isen&auml; <br/>
+p=joukkueella punaiset 1. ja 3. p&ouml;yd&auml;ll&auml; <br/>
+JP=joukkuepisteet<br/>
+PP=pelipisteet<span style="font-weight: bold;"><br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>JP</td>
+<td>PP</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">TKK </td>
+<td style="font-weight: bold;">&nbsp;xxx </td>
+<td style="font-weight: bold;">p110 </td>
+<td style="font-weight: bold;">&nbsp;111 </td>
+<td style="font-weight: bold;">&nbsp;011 </td>
+<td style="font-weight: bold;">p101 </td>
+<td style="font-weight: bold;">p111 </td>
+<td style="font-weight: bold;">10 </td>
+<td style="font-weight: bold;">12</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Shakki-77 </td>
+<td>&nbsp;001 </td>
+<td>&nbsp; xxx </td>
+<td>&nbsp;1=1 </td>
+<td>p011 </td>
+<td>p11= </td>
+<td>p101 </td>
+<td>8 </td>
+<td>10</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>J&auml;rvenp&auml;&auml; </td>
+<td>p000 </td>
+<td>p0=0 </td>
+<td>&nbsp; xxx </td>
+<td>&nbsp;110 </td>
+<td>&nbsp;101 </td>
+<td>&nbsp;111 </td>
+<td>6 </td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>SFCEA </td>
+<td>p100 </td>
+<td>&nbsp;100 </td>
+<td>p001 </td>
+<td>&nbsp; xxx </td>
+<td>&nbsp;111 </td>
+<td>p111 </td>
+<td>4 </td>
+<td>9</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>HelsinkiXQ </td>
+<td>&nbsp;010 </td>
+<td>&nbsp;00= </td>
+<td>p010 </td>
+<td>p000 </td>
+<td>&nbsp;&nbsp;xxx </td>
+<td>&nbsp;1=1 </td>
+<td>2 </td>
+<td>5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Lapinj&auml;rvi </td>
+<td>&nbsp;000 </td>
+<td>&nbsp;010 </td>
+<td>p000 </td>
+<td>&nbsp;000 </td>
+<td>p0=0 </td>
+<td>&nbsp; xxx </td>
+<td>0 </td>
+<td>1,5</td>
+</tr>
+</tbody>
+</table>
+</span><br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="nopean-pelin-avoin-sm"></a>
+### Nopean pelin avoin SM
+
+Oulun &auml;lypelifestivaali, Kansainv&auml;linen toimintakeskus Toppelius, Oulu<br/>
+30.10.2004<br/>
+15 min+ 15 sek/siirto<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija</td>
+<td>Pelaaja</td>
+<td>Maa</td>
+<td>1 </td>
+<td>2 </td>
+<td>3 </td>
+<td>4 </td>
+<td>5 </td>
+<td>Pist. </td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Shan Jingdong</td>
+<td>CHN </td>
+<td>+6 </td>
+<td>+5 </td>
+<td>+4 </td>
+<td>=2 </td>
+<td>=3 </td>
+<td>4 </td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Tolonen, Jouni </td>
+<td>FIN </td>
+<td>+8 </td>
+<td>-4 </td>
+<td>+6 </td>
+<td>=1 </td>
+<td>+7 </td>
+<td>3,5 </td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Qu, Yongxin </td>
+<td>CHN</td>
+<td>-4</td>
+<td>+10 </td>
+<td>+5 </td>
+<td>+9 </td>
+<td>=1 </td>
+<td>3,5 </td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Zhou Jiehang </td>
+<td>CHN </td>
+<td>+3 </td>
+<td>+2 </td>
+<td>-1 </td>
+<td>+7 </td>
+<td>-6 </td>
+<td>3 </td>
+</tr>
+<tr>
+<td>5. </td>
+<td>R&auml;m&ouml;, Jouni </td>
+<td>FIN </td>
+<td>+9 </td>
+<td>-1 </td>
+<td>-3 </td>
+<td>+10 </td>
+<td>+8 </td>
+<td>3 </td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Huovinen, Sauli </td>
+<td>FIN </td>
+<td>-1 </td>
+<td>+7 </td>
+<td>-2 </td>
+<td>-8 </td>
+<td>+4 </td>
+<td>2 </td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Zhang Haining </td>
+<td>CHN </td>
+<td>-10 </td>
+<td>-6 </td>
+<td>+9 </td>
+<td>-4 </td>
+<td>-2 </td>
+<td>2 </td>
+</tr>
+<tr>
+<td>8.-9. </td>
+<td>Lu Wenbo </td>
+<td>CHN </td>
+<td>-2 </td>
+<td>-9 </td>
+<td>+10 </td>
+<td>+6 </td>
+<td>-5 </td>
+<td>2 </td>
+</tr>
+<tr>
+<td>8.-9. </td>
+<td>Ivanov, Sergei </td>
+<td>RUS </td>
+<td>-5 </td>
+<td>+8 </td>
+<td>-7 </td>
+<td>-3 </td>
+<td>+w.o. </td>
+<td>2</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Brendel, Matthias </td>
+<td>HUN </td>
+<td>-7 </td>
+<td>-3 </td>
+<td>-8 </td>
+<td>-5 </td>
+<td>-w.o. </td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="otaniemen-turnaus"></a>
+### Otaniemen turnaus
+
+1.8.2004<br/>
+Otaniemi, Espoo<br/>
+28+28 minuuttia<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>&nbsp;1</td>
+<td>&nbsp;2</td>
+<td>&nbsp;3</td>
+<td>&nbsp;4</td>
+<td>&nbsp;5</td>
+<td>&nbsp;6</td>
+<td>&nbsp;7</td>
+<td>&nbsp;8</td>
+<td>&nbsp;9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>Pisteet</td>
+<td>Vertailu</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>5/5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Yuan Wenzhang</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>1</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td></td>
+<td>1</td>
+<td><br/>
+</td>
+<td>1<br/>
+</td>
+<td><br/>
+</td>
+<td>4</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Olavi Stenman</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td>&frac12;</td>
+<td>1</td>
+<td>1</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>3,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>Liu Xian</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>1</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>3</td>
+<td>7</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Wu Jianbo</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>1</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td></td>
+<td>&nbsp;</td>
+<td>3*</td>
+<td>6</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Timo Aitta</td>
+<td>0</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>1</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>&nbsp;1</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>&frac12;</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td></td>
+<td>1<br/>
+</td>
+<td>2,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>8.-12. </td>
+<td>Teemu Matjeveff</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td><br/>
+</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>4.5</td>
+</tr>
+<tr>
+<td>8.-12. </td>
+<td>Arto Tengwall</td>
+<td>0</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td>1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>1</td>
+<td><br/>
+</td>
+<td>&nbsp;</td>
+<td>2</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>8.-12. </td>
+<td>Jukka Tuovinen</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>2*</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8.-12. </td>
+<td>Juhani Kataja</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>&nbsp;</td>
+<td>2*</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8.-12. </td>
+<td>Henri Nordlund</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td></td>
+<td></td>
+<td>0</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;1</td>
+<td>2*</td>
+<td>1</td>
+</tr>
+<tr>
+<td>13. </td>
+<td>Tero Riskula</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1*</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+* sis&auml;lt&auml;&auml; lepopisteen<br/>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+<hr/><br/>
+
+<a id="avoin-suomen-mestaruus-5-6-2004"></a>
+### Avoin Suomen mestaruus 5.-6.2004
+
+<p> 5. Donghai Cup</p>
+<p> Ajat 90+90 min</p>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>Pelit</td>
+<td>Pisteet</td>
+<td>Buchholz</td>
+<td>Sijoitus</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td><br/>
+</td>
+<td>1</td>
+<td><br/>
+</td>
+<td>&nbsp;1</td>
+<td>4</td>
+<td>4,0</td>
+<td><br/>
+</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jouni Tolonen</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>&nbsp;</td>
+<td>&nbsp;1</td>
+<td>5</td>
+<td>3,0</td>
+<td>5,0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Olavi Stenman</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;1</td>
+<td>1</td>
+<td><br/>
+</td>
+<td>&nbsp;1</td>
+<td>5</td>
+<td>3,0</td>
+<td>4,5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Arto Vaara</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>&nbsp;0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>&nbsp;0</td>
+<td>&frac12;<br/>
+</td>
+<td>1</td>
+<td>5</td>
+<td>2,5</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>&nbsp;1</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>&nbsp;1</td>
+<td>5</td>
+<td>2</td>
+<td><br/>
+</td>
+<td>5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Raimo Lindroos</td>
+<td><br/>
+</td>
+<td>&nbsp;</td>
+<td><br/>
+</td>
+<td>&frac12;</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td><br/>
+</td>
+<td>5</td>
+<td>0,5</td>
+<td><br/>
+</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Tero Riskula</td>
+<td>&nbsp;</td>
+<td>&nbsp;0</td>
+<td>&nbsp;0</td>
+<td><br/>
+</td>
+<td>0</td>
+<td><br/>
+</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>3</td>
+<td>0,0</td>
+<td><br/>
+</td>
+<td>7</td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="Oulun-turnaus-toukokuu-2004"></a>
+### Oulun turnaus
+
+<p> Kansainv&auml;linen toimintakeskus Toppelius, Oulu<br/>
+16.5.2004<br/>
+45 min + 15 sek/siirto</p>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sijoitus</td>
+<td>Nimi</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1-</td>
+<td>Shan Jingdong</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2.-4.</td>
+<td>Zhao Zuomin</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2.-4.</td>
+<td>Huovinen, Sauli</td>
+<td>0</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2.-4.</td>
+<td>Tolonen, Jouni</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td class="grey_bkg">&nbsp;</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<br/>
+
+&nbsp; 
+<br/>
+
+
+<a id="avoin-helsingin-mestaruus"></a>
+### Avoin Helsingin mestaruus
+
+21.2.2004<br/>
+Annantalo, Helsinki<br/>
+30+30 minuuttia<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Jouni Tolonen</td>
+<td>5/5</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Arto Vaara</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Olavi Stenman</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Tero Riskula</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="2003"></a>
+## Vuoden 2003 tuloksia
+
+
+
+<a id="helsingin-mestaruuskisat-2-2003"></a>
+### Helsingin mestaruuskisat 2/2003
+
+half rated due to quickplay<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>#</td>
+<td>Player</td>
+<td>F-old</td>
+<td>Pts.</td>
+<td>Niv.</td>
+<td>Exp.</td>
+<td>H</td>
+<td>F-new</td>
+<td>(*ELO)</td>
+<td>Wght.</td>
+</tr>
+<tr>
+<td>1 <br/>
+</td>
+<td>Timo Aitta</td>
+<td>192-11</td>
+<td>5/5</td>
+<td>184</td>
+<td>2</td>
+<td>134!</td>
+<td>182-12</td>
+<td>1426</td>
+<td>5:1.</td>
+</tr>
+<tr>
+<td>2 <br/>
+</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>164-39</td>
+<td>3&frac12;/5</td>
+<td>179</td>
+<td>3</td>
+<td>159</td>
+<td>163-40</td>
+<td>1559</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>3 <br/>
+</td>
+<td>Phan Cuong</td>
+<td>----</td>
+<td>3/5</td>
+<td>195</td>
+<td>&nbsp;</td>
+<td>185</td>
+<td>185-1</td>
+<td>1405</td>
+<td>F1=H.</td>
+</tr>
+<tr>
+<td>4 <br/>
+</td>
+<td>Olavi Stenman</td>
+<td>199-17</td>
+<td>3/5.</td>
+<td>197</td>
+<td>2&frac12;</td>
+<td>187</td>
+<td>197-18</td>
+<td>1321</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>5 <br/>
+</td>
+<td>Nguyen Tan</td>
+<td>----</td>
+<td>2&frac12;/5</td>
+<td>191</td>
+<td>&nbsp;</td>
+<td>191</td>
+<td>191-1</td>
+<td>1363</td>
+<td>F1=H</td>
+</tr>
+<tr>
+<td>6 <br/>
+</td>
+<td>Nguyen Tien Phuong</td>
+<td>151-1</td>
+<td>2/5.</td>
+<td>184</td>
+<td>4</td>
+<td>194</td>
+<td>165-2</td>
+<td>1545</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>7 <br/>
+</td>
+<td>Mikko T&ouml;rnqvist</td>
+<td>253-2</td>
+<td>2/5.</td>
+<td>221</td>
+<td>1</td>
+<td>231</td>
+<td>246-3</td>
+<td>978</td>
+<td>2:1</td>
+</tr>
+<tr>
+<td>8 <br/>
+</td>
+<td>Arto Vaara</td>
+<td>232-10</td>
+<td>2/5</td>
+<td>213</td>
+<td>1&frac12;</td>
+<td>223</td>
+<td>231-11</td>
+<td>1083</td>
+<td>6:1.</td>
+</tr>
+<tr>
+<td>9 <br/>
+</td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>173-17</td>
+<td>1/3</td>
+<td>175</td>
+<td>1&frac12;</td>
+<td>191</td>
+<td>175-18</td>
+<td>1475</td>
+<td>10:1</td>
+</tr>
+<tr>
+<td>10 <br/>
+</td>
+<td>Raimo Lindroos</td>
+<td>184-52</td>
+<td>1/2</td>
+<td>198</td>
+<td>1&frac12;</td>
+<td>198</td>
+<td>185-53</td>
+<td>1405</td>
+<td>12:1</td>
+</tr>
+<tr>
+<td>11&nbsp;</td>
+<td>Tero Riskula</td>
+<td>262-23</td>
+<td>0/5.</td>
+<td>224</td>
+<td>&frac12;.</td>
+<td>274</td>
+<td>264-24</td>
+<td>852</td>
+<td>6:1</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="avoimet-sm-kisat-25-26-10-2003"></a>
+### Avoimet SM-kisat 25.-26.10.2003
+
+<b> (IV DongHai Cup)</b><br/>
+Oulun &Auml;lypelifestivaali&nbsp;&nbsp; Kansainv&auml;linen
+toimintakeskus Toppelius<br/>
+25.-26.10.2003&nbsp;&nbsp;&nbsp;&nbsp; 75 minuuttia +
+30 sekuntia
+lis&auml;aikaa/siirto<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>Pist.</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">Tolonen Jouni </td>
+<td style="font-weight: bold;">FIN </td>
+<td style="font-weight: bold;">+2 </td>
+<td style="font-weight: bold;">+3 </td>
+<td style="font-weight: bold;">+4 </td>
+<td style="font-weight: bold; text-align: right;">3</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>Wang Lichen </td>
+<td>CHN </td>
+<td>-1 </td>
+<td>+4 </td>
+<td>+3 </td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Qu Yongxin </td>
+<td>CHN </td>
+<td>+4 </td>
+<td>-1 </td>
+<td>-2 </td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>Zhang Lei </td>
+<td>CHN </td>
+<td>-3 </td>
+<td>-2 </td>
+<td>-1 </td>
+<td style="text-align: right;">0</td>
+</tr>
+</tbody>
+</table>
+<br/>
+Kiinnitykset DongHai -pokaaliin: Jingdong Shan 2, Jouni Tolonen 2.<br/>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="2002"></a>
+## Vuoden 2002 tuloksia
+
+
+
+<a id="avoimet-sm-kisat-19-20-10-2002"></a>
+### Avoimet SM-kisat 19.-20.10.2002
+
+<b>(III DongHai Cup)</b><br/>
+Oulun &auml;lypelifestivaali<br/>
+60 minuuttia + 30 sekuntia lis&auml;aikaa/siirto<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>Pist.</td>
+<td>Vert.</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1 </td>
+<td style="font-weight: bold;">Shan Jingdong </td>
+<td style="font-weight: bold;">CHN </td>
+<td style="font-weight: bold;">-3 </td>
+<td style="font-weight: bold;">+10 </td>
+<td style="font-weight: bold;">+5 </td>
+<td style="font-weight: bold;">+6 </td>
+<td style="font-weight: bold;">+4</td>
+<td style="font-weight: bold;">4</td>
+<td>12</td>
+</tr>
+<tr>
+<td>2 </td>
+<td>R&auml;m&ouml; Jouni </td>
+<td>FIN </td>
+<td>+10 </td>
+<td>=6 </td>
+<td>+8 </td>
+<td>+4 </td>
+<td>=3</td>
+<td>4</td>
+<td>11</td>
+</tr>
+<tr>
+<td>3 </td>
+<td>Kemppainen Tuomo </td>
+<td>FIN </td>
+<td>+1 </td>
+<td>-4 </td>
+<td>+7 </td>
+<td>+9 </td>
+<td>=2</td>
+<td>3,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>4 </td>
+<td>Cao Defu </td>
+<td>CHN </td>
+<td>+5 </td>
+<td>+3 </td>
+<td>+6 </td>
+<td>-2 </td>
+<td>-1</td>
+<td>3</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>5 </td>
+<td>Juutilainen Ilmari </td>
+<td>FIN </td>
+<td>-44 </td>
+<td>+7 </td>
+<td>-1 </td>
+<td>+8 </td>
+<td>+9</td>
+<td>3</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>6 </td>
+<td>Tolonen Jouni </td>
+<td>FIN </td>
+<td>+9 </td>
+<td>=2 </td>
+<td>-4 </td>
+<td>-1 </td>
+<td>+7</td>
+<td>2,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>7 </td>
+<td>Huovinen Sauli </td>
+<td>FIN </td>
+<td>+8 </td>
+<td>-5 </td>
+<td>-3 </td>
+<td>+10 </td>
+<td>-6</td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>8 </td>
+<td>Zhao Zuomin </td>
+<td>CHN </td>
+<td>-7 </td>
+<td>+9 </td>
+<td>-2-</td>
+<td>-5 </td>
+<td>+10</td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>9 </td>
+<td>Chen Chen </td>
+<td>CHN </td>
+<td>-6 </td>
+<td>-8 </td>
+<td>+10 </td>
+<td>-3 </td>
+<td>-5</td>
+<td>1</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>10 </td>
+<td>Li Ang </td>
+<td>CHN </td>
+<td>-2 </td>
+<td>-1 </td>
+<td>-9 </td>
+<td>-7 </td>
+<td>-8</td>
+<td>0</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+Jingdong Shan voitti suomenmestaruuden ja sai toisen
+kiinnityksens&auml; DongHai-pokaaliin. <br/>
+<br/>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="2001"></a>
+## Vuoden 2001 tuloksia
+
+<p class="MsoNormal"><span style="font-size: 8pt; color: black; font-style: normal;">Tulokset
+vuosilta 1999-2001 Ari Luiron sivulta h&auml;nen luvallaan ja Raimo
+Lindroosin tarkistamina.<br/>
+</span>
+</p>
+
+<a id="vii-niandi-jarvenpaa-28-29-12-2001"></a>
+### VII Niandi Järvenpää 28.-29.12.2001
+
+<p>-- Perjantai 28.12.2001</p>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Asuinpaikka</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I</td>
+<td style="font-weight: bold;">Antti Lehtinen</td>
+<td style="font-weight: bold;">Tampere</td>
+<td style="font-weight: bold;">4/5</td>
+<td style="font-weight: bold;">14</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Nguyen The Nhan</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>4</td>
+<td>11;7<br/>
+</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Raimo Lindroos</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>4</td>
+<td>11;7<br/>
+</td>
+</tr>
+<tr>
+<td>4.-5.</td>
+<td>Jouni R&auml;m&auml;</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>2,5</td>
+<td>14;4</td>
+</tr>
+<tr>
+<td>4.-5.</td>
+<td>Olavi Stenman</td>
+<td>Helsinki</td>
+<td>2,5</td>
+<td>14;4</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Juan Sanchez</td>
+<td>Helsinki</td>
+<td>1</td>
+<td>14</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Martti Luodonp&auml;&auml;</td>
+<td>Oulu</td>
+<td>1</td>
+<td>11;1, voitti 8:n<br/>
+</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Antti Tahvanainen</td>
+<td>Helsinki</td>
+<td>1</td>
+<td>11;1</td>
+</tr>
+</tbody>
+</table>
+<p>-----------------------------------------------------------</p>
+<p>--- Perjantain pikapeli 5+5 min.</p>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Asuinpaikka</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I</td>
+<td style="font-weight: bold;">Jouni R&auml;m&ouml;</td>
+<td style="font-weight: bold;">J&auml;rvenp&auml;&auml;</td>
+<td style="font-weight: bold;">4/4</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Nguyen The Nhan</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Raimo Lindroos</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Martti Luodonp&auml;&auml;</td>
+<td>Oulu</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Antti Tahvanainen</td>
+<td>Helsinki</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<p>-----------------------------------------------------------</p>
+<p>--- Lauantai 29.12.2001</p>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Asuinpaikka</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I</td>
+<td style="font-weight: bold;">Nguyen The Nhan</td>
+<td style="font-weight: bold;">J&auml;rvenp&auml;&auml;</td>
+<td style="font-weight: bold;">4/5</td>
+<td style="font-weight: bold;">14,5</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Jukka Tuovinen</td>
+<td>Helsinki</td>
+<td>4</td>
+<td>13<br/>
+</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Antti Lehtinen</td>
+<td>Tampere</td>
+<td>3,5</td>
+<td>&nbsp;<br/>
+</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>3</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Raimo Lindroos</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>2,5</td>
+<td>13</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Martti Luodonp&auml;&auml;</td>
+<td>Oulu</td>
+<td>2,5</td>
+<td>10</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Olavi Stenman</td>
+<td>Helsinki</td>
+<td>2</td>
+<td>15<br/>
+</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Aarre Tiilikainen</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>2</td>
+<td>10,5</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Arto Vaara</td>
+<td>J&auml;rvenp&auml;&auml;</td>
+<td>1</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Tero Riskula</td>
+<td>Helsinki</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="oulun-i-alypelifestivaalit-21-10-2001"></a>
+### Oulun I Älypelifestivaalit 21.10.2001
+
+Kiinalaisen shakin turnaus 21.10.2001 <br/>
+Oulu : Mind Sports Festival, October the 21th, 2001 (first time) <br/>
+Peliaika oli 15+15 min ja lis&auml;ksi 15 sekuntia jokaiseen
+siirtoon.&nbsp;
+
+<p class="MsoNormal"><span style="color: black; font-style: normal;"><br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1.-2. </td>
+<td style="font-weight: bold;">Jingdong Shan
+Kiina</td>
+<td style="font-weight: bold;">4,5/5</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1.-2. </td>
+<td style="font-weight: bold;">Weidong Zhang
+Kiina</td>
+<td style="font-weight: bold;">4,5/5</td>
+</tr>
+<tr>
+<td>3.</td>
+<td><span style='color: rgb(0, 0, 0); font-family: "Times New Roman"; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;'>Zuomin
+Zhao Kiina<span>&nbsp;</span></span></td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>4.-6. </td>
+<td>Xiaobin Liang Kiina</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4.-6. </td>
+<td>Defu Cao Kiina</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4.-6. </td>
+<td>Tuomo Kemppainen OSS 3 </td>
+<td>3</td>
+</tr>
+<tr>
+<td>7.-8.</td>
+<td>Sauli Huovinen Sh- 77 </td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>7.-8. </td>
+<td>Ilmari Juutilainen OSS</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>9.-11. </td>
+<td>Janne Viirret Sh-</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9.-11</td>
+<td>Henri Urpilainen Sh- 77</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9.-11 </td>
+<td>Martti Luodonp&auml;&auml; OSS</td>
+<td>2</td>
+</tr>
+<tr>
+<td>12.-13.</td>
+<td>Dietmar Vinke OSS </td>
+<td>1</td>
+</tr>
+<tr>
+<td>12.-13. </td>
+<td>Kapui Lau </td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+</span></p><hr/>
+
+
+<a id="jarvenpaan-ix-avoin-mestaruus-11-12-8-2001"></a>
+### Järvenpään IX avoin mestaruus 11.-12.8.2001
+
+J&auml;rvenp&auml;&auml; Championships 2001<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I</td>
+<td style="font-weight: bold;">Nguyen The Nhan</td>
+<td style="font-weight: bold;">4/5</td>
+<td style="font-weight: bold;">14</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>4</td>
+<td>11<br/>
+</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Timo Aitta </td>
+<td>4</td>
+<td>9<br/>
+</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Jun Liu</td>
+<td>3</td>
+<td>14;8</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Juan Sanchez</td>
+<td>3</td>
+<td>14;7</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Raimo Lindroos</td>
+<td>2</td>
+<td>17</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Jukka Tuovinen</td>
+<td>2</td>
+<td>13<br/>
+</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Arto Vaara</td>
+<td>2</td>
+<td>10</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Aarre Tiilikainen</td>
+<td>1</td>
+<td>10</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+
+<br/>
+<hr/>
+
+
+<a id="ii-avoin-pitkan-pelin-sm-28-29-4-2001"></a>
+### II Avoin pitkän pelin SM 28.-29.4.2001
+
+II Donghai Cup (II Avoin pitk&auml;n pelin SM)
+(Tero Riskula), 28 - 29.4</span>
+
+<span style='color: rgb(0, 0, 0); font-family: "Times New Roman"; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;'>Tero
+Riskula</span>
+
+<span style="color: black; font-style: normal;">.2001&nbsp;
+<p class="MsoNormal"><span style="color: black; font-style: normal;">Pelipaikka
+Helsinki ja peliaika Fischer 45 + 45 minuuttia + 30 sekuntia siirrolle.</span></p>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">Jouni Tolonen</td>
+<td style="font-weight: bold;">4,5/5 (v&auml;ri /
+color)</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Ari Luiro</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>3.-5.</td>
+<td>Jukka Tuovinen</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3.-5.</td>
+<td>Olavi Stenman </td>
+<td>2</td>
+</tr>
+<tr>
+<td>3.-5.</td>
+<td>Arto Vaara</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Timo Aitta</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="kevatturnaus-25-3-2001"></a>
+### Kevätturnaus 25.3.2001
+
+Pelipaikka Myllytie 3 ja peliaika 30 + 30 minuuttia.&nbsp;<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">Ari Luiro</td>
+<td style="font-weight: bold;">4/4</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Raimo Lindroos</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3.-5.</td>
+<td>Aarre Tiilikainen</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3.-5. </td>
+<td>Arto Vaara</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3.-5. </td>
+<td>Olavi Stenman</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="2000"></a>
+## Vuoden 2000 tuloksia
+
+
+
+<a id="vii-vanha-vuosi-eli-niandi-turnaus-28-12-2000"></a>
+### VII Vanha vuosi eli Niandi-turnaus 28.12.2000
+
+Pelipaikka Myllytie 3 ja peliaika 30 + 30 minuuttia.&nbsp;<br/>
+<br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">Lennart
+Alfredsson </td>
+<td style="font-weight: bold;">4/5</td>
+</tr>
+<tr>
+<td>2.-3. </td>
+<td>Antti Tahvanainen</td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>2.-3. </td>
+<td>Juan Sanchez-Murtoinper&auml;</td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jouni R&auml;m&ouml; </td>
+<td>3</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Olavi Stenman</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Per Kristensen</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+<hr/>
+
+
+<a id="jarvenpaan-viii-avoin-mestaruus-19-20-8-2000"></a>
+### Järvenpään VIII avoin mestaruus 19.-20.8.2000
+
+<p class="MsoNormal"><b style=""><span style="color: black; font-style: normal;"> VIII J&auml;rvenp&auml;&auml;
+Open <o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style="color: black; font-style: normal;">Pelipaikka
+Myllytie 3 ja peliaika 1+1 tunti. <o:p></o:p></span></p>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I </td>
+<td style="font-weight: bold;">Jouni R&auml;m&ouml;</td>
+<td style="font-weight: bold;">3,5/5</td>
+<td style="font-weight: bold;">12,5</td>
+</tr>
+<tr>
+<td>II </td>
+<td>Raimo Lindroos</td>
+<td>3,5</td>
+<td>11<br/>
+</td>
+</tr>
+<tr>
+<td>III </td>
+<td>Timo Aitta</td>
+<td>3</td>
+<td>12<br/>
+</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Olavi Stenman</td>
+<td>3</td>
+<td>11,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jukka Tuovinen</td>
+<td>2,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Arto Vaara</td>
+<td>1,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Tero Riskula</td>
+<td>0,5</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="i-donghai-cup-avoimen-pitkan-pelin-sm-15-16-4-2000"></a>
+### I Donghai cup (Avoimen pitkän pelin SM) 15.-16.4.2000
+
+<p class="MsoNormal"><span style="color: black; font-style: normal;">Pelipaikka Oulun
+Lyseo, Kajaaninkatu 3, peliaika 45+45 minuuttia ynn&auml; 30 sekuntia
+siirrosta. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color: black; font-style: normal;">
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I </td>
+<td style="font-weight: bold;">Jingdong Shan</td>
+<td style="font-weight: bold;">4,5/5</td>
+<td style="font-weight: bold;"></td>
+</tr>
+<tr>
+<td>II </td>
+<td>Ari Luiro</td>
+<td>3.5</td>
+<td>16,5<br/>
+</td>
+</tr>
+<tr>
+<td>III </td>
+<td>Jouni Tolonen</td>
+<td>3,5</td>
+<td>12,5<br/>
+</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>L&uuml; Xiangdong</td>
+<td>3</td>
+<td>11,0</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>3</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Raimo Lindroos</td>
+<td>2,5</td>
+<td>9,0</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Ta Hoang Tin<span></span></td>
+<td>2,5</td>
+<td>8,0<br/>
+</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Nguyen The Nhan</td>
+<td>1,5</td>
+<td>13,0</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Haifeng Wang</td>
+<td>1,5</td>
+<td>12,0</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Miika Kuha</td>
+<td>1,5</td>
+<td>11,5</td>
+</tr>
+<tr>
+<td>11. </td>
+<td>Tero Riskula</td>
+<td>0,5</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+</span></p><hr/>
+
+
+<a id="3d-nappuloitten-turnaus-19-3-2000"></a>
+### 3D-nappuloitten turnaus 19.3.2000
+
+<p class="MsoNormal"><b style=""><span style="color: black; font-style: normal;"> Tournament with
+3D-pieces <br/>
+</span></b><span style="color: black; font-style: normal;">Pelipaikka
+Myllytie 3,
+J&auml;rvenp&auml;&auml; klo 12-17, peliaika 30+30 minuuttia. <br style=""/>
+<o:p></o:p></span><br/>
+<b><span lang="EN-GB" style="color: black; font-style: normal;"></span></b><span lang="EN-GB" style="color: black; font-style: normal;">
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I </td>
+<td style="font-weight: bold;">Nguyen The Nhan</td>
+<td style="font-weight: bold;">5/5</td>
+<td style="font-weight: bold;"></td>
+</tr>
+<tr>
+<td>II </td>
+<td>Ari Luiro</td>
+<td>4</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>III </td>
+<td>Raimo Lindroos</td>
+<td>2,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>2</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Olavi Stenman</td>
+<td>2</td>
+<td>11,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Arto Tengvall</td>
+<td>1,5</td>
+<td>11</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Arto Vaara</td>
+<td>0,5</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+
+&nbsp; 
+<br/>
+</span></p><hr/>
+
+
+<a id="suomen-mestaruus-nopea-peli-30-1-2000"></a>
+### Suomen mestaruus (nopea peli) 30.1.2000
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">VIII Finnish
+Championship in
+2000 <o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">5<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">6<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">Yhteens&auml;<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1. <b>Ari
+Luiro</b><o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">5<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2. Nguyen The Nhan<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">&frac12;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3,5<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3. Jouni Tolonen<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4. Raimo Lindroos<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">5. Seppo R&ouml;nkk&ouml;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">&frac12;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1,5<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">6. Jouni R&auml;m&ouml;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="color: black; font-style: normal;">Peliaika 30 + 30
+minuuttia, pelipaikka kahvila Annelund, kirkonkyl&auml;,
+Lapinj&auml;rvi.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color: black; font-style: normal;"><br/>
+
+&nbsp; 
+<br/>
+</span></p><hr/>
+
+
+<a id="v-helsingin-mestaruus-29-1-2000"></a>
+### V Helsingin mestaruus 29.1.2000
+
+<p class="MsoNormal"><span style="color: black; font-style: normal;">Peliaika 30+30
+minuuttia, pelipaikka Tulppatie 12, Six Oy, Helsinki. I =
+vapaakierrospiste.<o:p></o:p></span></p>
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">V Helsinki Ch. in
+2000 <o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">5<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">6<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">7<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">8<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">9<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">10<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">11<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">Yhteens&auml;<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1. <b>Ari
+Luiro</b><o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">5 / 5<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2. Nguyen The Nhan<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3. Jouni Tolonen<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3 (15)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4. Raimo Lindroos<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3 (14)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">5. Olavi Stenman<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2 + I (13)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">6. Arto Tengvall<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3 (12)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">7. Timo Aitta<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2 (15)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">8. Jukka Tuovinen<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1 + I (12)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">9. Jouni R&auml;m&ouml;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1 + I (11)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">10. Tero Riskula<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1 + I (10)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">11. Lasse Holmstr&ouml;m<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0 + I<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><br/>
+<span style="color: black; font-style: normal;"><br/>
+
+&nbsp; 
+<br/>
+</span></p><hr/>
+
+
+<a id="1999"></a>
+## Vuoden 1999 tuloksia
+
+
+
+<a id="vi-vanha-vuosi-eli-niandi-turnaus-28-12-1999"></a>
+### VI Vanha vuosi eli Niandi-turnaus 28.12.1999
+
+VI NIANDI tournament 28.12.1999<br/>
+Myllytie 3, J&auml;rvenp&auml;&auml;</span>
+
+<p class="MsoNormal"><span style="color: black; font-style: normal;"><br/>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I </td>
+<td style="font-weight: bold;">Nguyen The Nhan</td>
+<td style="font-weight: bold;">4,5/5</td>
+<td style="font-weight: bold;"></td>
+</tr>
+<tr>
+<td>II </td>
+<td>Yan An Qing</td>
+<td>3,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>III </td>
+<td>Jukka Tuovinen</td>
+<td>3</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Raimo Lindroos</td>
+<td>2,5</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Olavi Stenman</td>
+<td>2</td>
+<td>11,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Arto Tengvall</td>
+<td>2</td>
+<td>11</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Antti Tahvanainen</td>
+<td>2</td>
+<td>10</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+<b style=""><br/>
+
+&nbsp; 
+<br/>
+</b>
+</span></p>
+
+---
+
+<a id="vii-jarvenpaan-mestaruus-14-15-8-1999"></a>
+### VII Järvenpään mestaruus 14.-15.8.1999
+
+<table border="1" cellpadding="0" class="MsoNormalTable" style="width: 98%;" width="98%">
+<tbody>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">VII J&auml;rvenp&auml;&auml;
+Ch. in 1999 <o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">5<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">6<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">7<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">8<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">9<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">10<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">Yhteens&auml;<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1. <b>Ari
+Luiro</b><o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">&frac12;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4&frac12; / 5<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2. Jouni Tolonen<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">&frac12;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">&frac12;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3. Jukka Tuovinen<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">&frac12;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3&frac12;<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">4. Nguyen The Nhan<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3 (15,5)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">5. Raimo Lindroos<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">3 (13,5)<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">6. Jouni R&auml;m&ouml;<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">7. Ismo Kaarne<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1 w<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">8. Olavi Stenman<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1 w<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">2<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">9. Antti
+Tahvanainen<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1 w<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">1<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="">
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">10. Tero Riskula<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">-<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0 w<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0 w<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0 w<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">X<o:p></o:p></span></p>
+</td>
+<td style="padding: 0.75pt;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;">0<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="vii-avoin-sm-turnaus-31-1-1999"></a>
+### VII Avoin SM-turnaus 31.1.1999
+
+<p><b style=""> Kello 11-18, 30+30 <br/>
+VII Finnish Championship in 1999</b></p>
+
+<p><b style="">Pelipaikka
+Lapinj&auml;rven Kimonkyl&auml;n Taidekoti (550 taulua 280
+taiteilijalta!)</b></p>
+
+<p class="MsoNormal"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><b style=""><br/>
+</b>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">I </td>
+<td style="font-weight: bold;">Nguyen The Nhan</td>
+<td style="font-weight: bold;">5/5</td>
+</tr>
+<tr>
+<td>II </td>
+<td>Raimo Lindroos</td>
+<td>3</td>
+</tr>
+<tr>
+<td>III </td>
+<td>Ari Luiro</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jouni Tolonen</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jukka Tuovinen</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<b style=""><b style=""><br/>
+
+&nbsp; 
+<br/>
+</b>
+</b>
+</span></span></p>
+
+---
+
+<a id="1998"></a>
+## Vuoden 1998 tuloksia
+
+<a id="jarvenpaan-v-vanha-vuosi-nian-di-turnaus-1998"></a>
+### Järvenpään V 'Vanha vuosi' (Nian Di)-turnaus 1998
+
+<b style=""><b style="">28.12.1998<br/>
+J&auml;rvenp&auml;&auml;<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Nguyen The Nhan</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Timo Aitta</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Raimo Lindroos</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Doang Tron An</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="jarvenpaan-vi-avoin-xiangqi-turnaus-1998"></a>
+### Järvenpään VI avoin xiangqi-turnaus 1998
+
+<b style=""><b style="">8.-9.1998<br/>
+J&auml;rvenp&auml;&auml;<br/>
+30+30 minuuttia<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Chen Wei Chi</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Nguyen The Nhan</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Yan Qin An</td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Norbert Sch&auml;fer</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Tapio Heilala</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Raimo Lindroos</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Ari Luiro</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Lu Zheng</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<b style=""><b style=""><br/>
+Sunnuntai 9.9.
+</b></b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Norbert Sch&auml;fer</td>
+<td>3,5</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Nguyen The Nhan</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Raimo Lindroos</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Timo Aitta</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Ari Luiro</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="iv-avoin-helsinki-turnaus-1998"></a>
+### IV Avoin Helsinki-turnaus 1998
+
+<b style=""><b style="">25.1.1998<br/>
+Helsinki<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">Nguyen The Nhan</td>
+<td style="font-weight: bold;">4,5</td>
+<td style="font-weight: bold;">14</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Jouni Tolonen</td>
+<td>4,5 </td>
+<td>11,5</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Raimo Lindroos </td>
+<td>3</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Chen Jian Fei</td>
+<td>2,5</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Tapio Heilala</td>
+<td>2,5</td>
+<td>9,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>2</td>
+<td>14</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Timo Aitta</td>
+<td>2</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Ari Luiro</td>
+<td>2</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Tero Riskula</td>
+<td>2</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="vi-avoimet-sm-kisat-1998"></a>
+### VI Avoimet SM-kisat 1998
+
+<b style=""><b style="">24.1.1998<br/>
+Lapinj&auml;rvi<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">Raimo Lindroos </td>
+<td style="font-weight: bold;">4 </td>
+<td style="font-weight: bold;">15</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Yan Wan Fu </td>
+<td>4 </td>
+<td>14,5</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Matias Roto </td>
+<td>3,5</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Nguyen The Nhan</td>
+<td>3</td>
+<td>15</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jukka Tuovinen</td>
+<td>3</td>
+<td>11</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>2,5</td>
+<td>12.5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Tomi Mickos</td>
+<td>2,5</td>
+<td>9,5</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Ari Luiro</td>
+<td>2</td>
+<td>15,5</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>2</td>
+<td>10,5</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Tero Riskula </td>
+<td>1,5</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>11. </td>
+<td>Tony Danielsbacka</td>
+<td>1</td>
+<td>10</td>
+</tr>
+<tr>
+<td>12. </td>
+<td>Miika Forsstr&ouml;m </td>
+<td>1</td>
+<td>9,5</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="1997"></a>
+## Vuoden 1997 tuloksia
+
+<a id="1996"></a>
+## Vuoden 1996 tuloksia
+
+<a id="jarvenpaan-iii-vanha-vuosi-nian-di-turnaus"></a>
+### Järvenpään III 'Vanha vuosi' (Nian di)-turnaus
+
+<b style=""><b style="">28.12.1996<br/>
+J&auml;rvenp&auml;&auml;<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Nguyen The Nhan</td>
+<td>5/5 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Raimo Lindroos</td>
+<td>4 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Nguyen Ai</td>
+<td>2,5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Doan Trong An</td>
+<td>2,5</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Tero Riskula</span></span></span></span></span></span></span></span></span></span></span></td>
+<td>1,5</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Kalevi Roos</td>
+<td>1.5</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>0,5</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="jarvenpaan-iv-avoin-xiangqi-turnaus"></a>
+### Järvenpään IV avoin xiangqi-turnaus
+
+<b style=""><b style="">J&auml;rvenp&auml;&auml;<br/>
+30+30 minuuttia<br/>
+<br/>
+Yhteistulokset 10.-11.8.1996<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Raimo Lindroos</td>
+<td>9/9 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Harri Muurim&auml;ki</td>
+<td>5 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Li Guo Xuan</td>
+<td>4</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jukka Tuovinen</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Tero Riskula</td>
+<td>1</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Jaakko Anhava</td>
+<td>0</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<b style=""><b style=""><br/>
+Sunnuntain 11.8.1996 tulokset<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Raimo Lindroos</td>
+<td>5/5 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Li Guo Xuan</span></span></span></span></span></span></span></span></span></span></span></td>
+<td>4 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Harri Muurim&auml;ki</span></span></span></span></span></span></span></span></span></span></span></td>
+<td>3</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>4. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Jouni R&auml;m&ouml;</span></span></span></span></span></span></span></span></span></span></span></td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>5. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Tero Riskula</span></span></span></span></span></span></span></span></span></span></span></td>
+<td>1</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Jaakko Anhava</td>
+<td>0</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<b style=""><b style=""><br/>
+Lauantain 10.8.1996 tulokset<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Raimo Lindroos</td>
+<td>4/4 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Jukka Tuovinen</td>
+<td>3 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Harri Muurim&auml;ki</td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>1</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Tero Riskula</td>
+<td>0</td>
+<td><br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="avoimet-sm-kisat-1996"></a>
+### Avoimet SM-kisat 1996
+
+<b style=""><b style="">21.1.1996<br/>
+Lapinj&auml;rvi,&nbsp;kotiseututalo Kycklings<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="3" cellspacing="2">
+<tbody>
+<tr>
+<td><br/>
+</td>
+<td><br/>
+</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>Pist</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">Jouni Tolonen </td>
+<td style="font-weight: bold;">+7 </td>
+<td style="font-weight: bold;">+6 </td>
+<td style="font-weight: bold;">+5 </td>
+<td style="font-weight: bold;">+3 </td>
+<td style="font-weight: bold;">-2 </td>
+<td style="font-weight: bold;">4 </td>
+<td style="font-weight: bold;">17</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Seppo R&ouml;nkk&ouml; </td>
+<td>+8 </td>
+<td>+14 </td>
+<td>-3 </td>
+<td>+5 </td>
+<td>+1 </td>
+<td>4 </td>
+<td>15</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Nguyen The Nhan </td>
+<td>+15 </td>
+<td>+9 </td>
+<td>+2 </td>
+<td>-1 </td>
+<td>+6 </td>
+<td>4</td>
+<td>14</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Raimo Lindroos </td>
+<td>+10 </td>
+<td>-5 </td>
+<td>+8 </td>
+<td>+7 </td>
+<td>+9 </td>
+<td>4</td>
+<td>13</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jouni R&auml;m&ouml; </td>
+<td>+12 </td>
+<td>+4 </td>
+<td>-1 </td>
+<td>-2 </td>
+<td>+10 </td>
+<td>3</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Jukka Tuovinen </td>
+<td>+13 </td>
+<td>-1 </td>
+<td>+10 </td>
+<td>+9 </td>
+<td>-3 </td>
+<td>3</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Henri Roos </td>
+<td>-1 </td>
+<td>+13 </td>
+<td>+14 </td>
+<td>-4 </td>
+<td>+11 </td>
+<td>3</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Hannu Oikarinen </td>
+<td>-2 </td>
+<td>+11 </td>
+<td>-4 </td>
+<td>+12 </td>
+<td>+15 </td>
+<td>3</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Ville Tiilikainen </td>
+<td>+11 </td>
+<td>-3 </td>
+<td>+12 </td>
+<td>-6 </td>
+<td>-4 </td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Tero Riskula </td>
+<td>-4 </td>
+<td>+15 </td>
+<td>-6 </td>
+<td>+14 </td>
+<td>-5 </td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>11. </td>
+<td>J&ouml;rgen Illman </td>
+<td>-9 </td>
+<td>-8 </td>
+<td>+X </td>
+<td>+13 </td>
+<td>-7 </td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>12. </td>
+<td>Miika Forsstr&ouml;m </td>
+<td>-5 </td>
+<td>+X </td>
+<td>-9 </td>
+<td>-8 </td>
+<td>+14 </td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>13. </td>
+<td>Kalevi Roos </td>
+<td>-6 </td>
+<td>-7 </td>
+<td>+15 </td>
+<td>-11 </td>
+<td>+X </td>
+<td>2</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>14. </td>
+<td>Tuomas Salo </td>
+<td>+X </td>
+<td>-2 </td>
+<td>-7 </td>
+<td>-10 </td>
+<td>-12 </td>
+<td>1</td>
+<td><br/>
+</td>
+</tr>
+<tr>
+<td>15. </td>
+<td>Marita Forsstr&ouml;m </td>
+<td>-3 </td>
+<td>-10 </td>
+<td>-13 </td>
+<td>+X </td>
+<td>-8 </td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="ii-helsinki-turnaus"></a>
+### II Helsinki-turnaus
+
+<b style=""><b style="">20.1.1996<br/>
+Helsinki<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Jouni Tolonen</td>
+<td>5/5 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>3 </td>
+<td>&nbsp;14</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Henri Roos</td>
+<td>3</td>
+<td>12</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Kalevi Roos</td>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Paavo J&auml;&auml;skel&auml;inen</td>
+<td>2</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Tero Riskula</td>
+<td>2</td>
+<td>13/3</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Hannu Oikarinen</td>
+<td>2</td>
+<td>13/2</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="1995"></a>
+## Vuoden 1995 tuloksia
+
+<a id="2-valsu-turnaus"></a>
+### 2. Valsu-turnaus
+
+<b style=""><b style="">15.10.1995<br/>
+J&auml;rvenp&auml;&auml;<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Gu Yuan Jie</td>
+<td>4,5/5 </td>
+<td>&nbsp;16</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Nguyen The Nhan</td>
+<td>4 </td>
+<td>15</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Sheng Huahong</td>
+<td>4</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Xu Jinquan</td>
+<td>4</td>
+<td>13</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Hu Fanglong</td>
+<td>4</td>
+<td>11</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Guan Xieming</td>
+<td>3</td>
+<td>16,5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Jouni Tolonen</td>
+<td>3</td>
+<td>16</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Li Qinfa</td>
+<td>3</td>
+<td>15</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Raimo Lindroos</td>
+<td>3</td>
+<td>14/7,5</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Ville Tiilikainen</td>
+<td>3</td>
+<td>14/7</td>
+</tr>
+<tr>
+<td>11. </td>
+<td>Li Bin</td>
+<td>3</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>12. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>3</td>
+<td>12</td>
+</tr>
+<tr>
+<td>13. </td>
+<td>Sheng Honzhi</td>
+<td>3</td>
+<td>11</td>
+</tr>
+<tr>
+<td>14. </td>
+<td>Jukka Tuovinen</td>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>15. </td>
+<td>Sheng Yiming</td>
+<td>2,5</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>16. </td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>2,5</td>
+<td>13</td>
+</tr>
+<tr>
+<td>17. </td>
+<td>Henri Roos</td>
+<td>2</td>
+<td>16</td>
+</tr>
+<tr>
+<td>18. </td>
+<td>Wang Zheng</td>
+<td>2</td>
+<td>13</td>
+</tr>
+<tr>
+<td>19. </td>
+<td>Sheng Jingshian</td>
+<td>2</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>20. </td>
+<td>Zhong Xiaodong</td>
+<td>2</td>
+<td>11.5</td>
+</tr>
+<tr>
+<td>21. </td>
+<td>Zhou Yijun</td>
+<td>2</td>
+<td>10</td>
+</tr>
+<tr>
+<td>22. </td>
+<td>Jiang Weidong</td>
+<td>2</td>
+<td>8</td>
+</tr>
+<tr>
+<td>23. </td>
+<td>Tomi Mickos</td>
+<td>2</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>24. </td>
+<td>Tero Riskula</td>
+<td>1</td>
+<td>12</td>
+</tr>
+<tr>
+<td>25. </td>
+<td>Jonne Rantala</td>
+<td>1</td>
+<td>11</td>
+</tr>
+<tr>
+<td>26. </td>
+<td>Paavo J&auml;&auml;skel&auml;inen</td>
+<td>1</td>
+<td>10</td>
+</tr>
+<tr>
+<td>27. </td>
+<td>Kalevi Roos</td>
+<td>1</td>
+<td>9/2</td>
+</tr>
+<tr>
+<td>28. </td>
+<td>Miika Forsstr&ouml;m</td>
+<td>1</td>
+<td>9/1</td>
+</tr>
+<tr>
+<td>29. </td>
+<td>Wu Bin</td>
+<td>0</td>
+<td>7</td>
+</tr>
+<tr>
+<td>30. </td>
+<td>Kauko Elom&auml;ki</td>
+<td>0</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="jarvenpaan-iii-avoin-xiangqi-turnaus"></a>
+### Järvenpään III avoin xiangqi-turnaus
+
+<b style=""><b style="">12-13.6.1995<br/>
+J&auml;rvenp&auml;&auml;<br/>
+60+60 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Stefan Scholz</td>
+<td>4,5/5</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2-3. </td>
+<td>Nguyen The Nhan</td>
+<td>4 </td>
+<td>13,5/9</td>
+</tr>
+<tr>
+<td>2-3. </td>
+<td>Teemu Laasanen</td>
+<td>4</td>
+<td>13,5/9</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Jouni Tolonen</td>
+<td>3</td>
+<td>13</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Ville Laasanen</td>
+<td>3,5</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Jouni Rakennuskoski</td>
+<td>3</td>
+<td>16</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Jukka Tuovinen</td>
+<td>3</td>
+<td>13/1</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Henri Roos</td>
+<td>3</td>
+<td>11</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Raimo Lindroos</td>
+<td>2</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>11. </td>
+<td>Kauko Elom&auml;ki</td>
+<td>2</td>
+<td>12</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Paavo J&auml;&auml;skel&auml;inen</td>
+<td>2</td>
+<td>10</td>
+</tr>
+<tr>
+<td>13. </td>
+<td>Harri Muurim&auml;ki</td>
+<td>1</td>
+<td>15</td>
+</tr>
+<tr>
+<td>14. </td>
+<td>Hannu Oikarinen</td>
+<td>1</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>15. </td>
+<td>Kalevi Roos</td>
+<td>1</td>
+<td>9</td>
+</tr>
+<tr>
+<td>16. </td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>1/3</td>
+<td>6</td>
+</tr>
+<tr>
+<td>17 </td>
+<td>Tero Riskula</td>
+<td>1</td>
+<td>6</td>
+</tr>
+<tr>
+<td>18. </td>
+<td>Minna Mickos</td>
+<td>0/3</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="hiittisten-turnaus"></a>
+### Hiittisten turnaus
+
+<b style=""><b style="">17.6.1995<br/>
+Hiittinen<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Gu Juan Jie</td>
+<td>5/5 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Wu Bing</td>
+<td>4 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Matias Roto</td>
+<td>3</td>
+<td>13/8</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Gu Yi Xin</td>
+<td>3</td>
+<td>13/5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Raimo Lindroos</td>
+<td>3</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Xie Xu Dong</td>
+<td>2</td>
+<td>15</td>
+</tr>
+<tr>
+<td>7-8. </td>
+<td>Lu Ling</td>
+<td>2</td>
+<td>11/1</td>
+</tr>
+<tr>
+<td>7-8. </td>
+<td>Ville Tiilikainen</td>
+<td>2</td>
+<td>11/1</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Kauko Elom&auml;ki</td>
+<td>1</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Paavo J&auml;&auml;skel&auml;inen</td>
+<td>0</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="valsu-turnaus"></a>
+### Valsu-turnaus
+
+<b style=""><b style="">21.5.1995<br/>
+J&auml;rvenp&auml;&auml;<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Gu Yuan Jie</td>
+<td>4,5/5 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Ma Ming Fa</td>
+<td>4 </td>
+<td>18</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Song Shi Qiang</td>
+<td>4</td>
+<td>16</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Cai Jin Bao</td>
+<td>4</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Yang Tan Hong</td>
+<td>3,5</td>
+<td>15,5</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Yu Hao</td>
+<td>3,5</td>
+<td>10,5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Zhang Xiao Feng</td>
+<td>3</td>
+<td>15,5</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Wu Bin</td>
+<td>3</td>
+<td>14</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Shi Gao Fei</td>
+<td>3</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Nguyen The Nhan</td>
+<td>3</td>
+<td>13</td>
+</tr>
+<tr>
+<td>11. </td>
+<td>Gu Yi Xin</td>
+<td>3</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12. </td>
+<td>Mao Jia Hua</td>
+<td>3</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>13. </td>
+<td>Xie Yu Dong</td>
+<td>2,5</td>
+<td>11</td>
+</tr>
+<tr>
+<td>14. </td>
+<td>Lu Ling</td>
+<td>2,5</td>
+<td>8</td>
+</tr>
+<tr>
+<td>15. </td>
+<td>Xu Jing Quan</td>
+<td>2</td>
+<td>16</td>
+</tr>
+<tr>
+<td>16. </td>
+<td>Jiang Wen Jie</td>
+<td>2</td>
+<td>14,5</td>
+</tr>
+<tr>
+<td>17. </td>
+<td>Li Guo Xuan</td>
+<td>2</td>
+<td>12</td>
+</tr>
+<tr>
+<td>18. </td>
+<td>Kauko Elom&auml;ki</td>
+<td>2</td>
+<td>11,5/2</td>
+</tr>
+<tr>
+<td>19. </td>
+<td>Raimo Lindroos</td>
+<td>2</td>
+<td>11,5/2</td>
+</tr>
+<tr>
+<td>20. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>1,5</td>
+<td>9</td>
+</tr>
+<tr>
+<td>21. </td>
+<td>Yan Hong</td>
+<td>1,5</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>22. </td>
+<td>Ville Tiilikainen</td>
+<td>1</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>23. </td>
+<td>Harri Muurim&auml;ki</td>
+<td>1</td>
+<td>9,5</td>
+</tr>
+<tr>
+<td>24. </td>
+<td>Zhang Zheng Gang</td>
+<td>1</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td>25. </td>
+<td>Paavo J&auml;&auml;skel&auml;inen</td>
+<td>0,5</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="shakki-77-open-championship"></a>
+### Shakki-77 Open Championship
+
+21.2.-23.5.1995
+
+Oulu
+
+30+30 minuuttia
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Jouni Tolonen</td>
+<td>7,5/8 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Teemu Laasanen</td>
+<td>5,5/7 </td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Jouni Rakennuskoski</td>
+<td>5/7</td>
+<td>13</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Pasi Ter&auml;sti</td>
+<td>5/8</td>
+<td>10,5</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Janne Tyni</td>
+<td>5/8</td>
+<td>10</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Vesa Juntunen</td>
+<td>2/6</td>
+<td>3</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Janne Viirret</td>
+<td>2/8</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Ismo Kaarne</td>
+<td>1</td>
+<td>8</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Hannu Oikarinen</td>
+<td>0</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="iii-avoimet-sm-kisat-1995"></a>
+### III Avoimet SM-kisat 1995
+
+<b style=""><b style="">22.1.1995<br/>
+Lapinj&auml;rvi<br/>
+30+30 minuuttia<br/>
+<br/>
+</b>
+</b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+<td>Vert</td>
+</tr>
+<tr>
+<td style="font-weight: bold;">1. </td>
+<td style="font-weight: bold;">Nguyen The Nhan</td>
+<td style="font-weight: bold;">4 </td>
+<td style="font-weight: bold;">16</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Jouni Tolonen</td>
+<td>4 </td>
+<td>15/11</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>4</td>
+<td>15/11</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Raimo Lindroos</td>
+<td>4</td>
+<td>11</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Li Guo Xuan</td>
+<td>3</td>
+<td>16</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Jouni R&auml;m&ouml;</td>
+<td>3</td>
+<td>15</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Jukka Tuovinen</td>
+<td>3</td>
+<td>14</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Ville Tiilikainen</td>
+<td>3</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Marita Forsstr&ouml;m</td>
+<td>3</td>
+<td>9,5</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Kauko Elom&auml;ki</td>
+<td>2</td>
+<td>15</td>
+</tr>
+<tr>
+<td>11. </td>
+<td>Lasse Tyrv&auml;inen</td>
+<td>2</td>
+<td>14</td>
+</tr>
+<tr>
+<td>12. </td>
+<td>Miika Forsstr&ouml;m </td>
+<td>2</td>
+<td>12,5</td>
+</tr>
+<tr>
+<td>13. </td>
+<td>Paavo J&auml;&auml;skel&auml;inen</td>
+<td>2</td>
+<td>11</td>
+</tr>
+<tr>
+<td>142. </td>
+<td>Henri Roos</td>
+<td>2</td>
+<td>9,5</td>
+</tr>
+<tr>
+<td>15. </td>
+<td>J&ouml;rgen Illman</td>
+<td>2</td>
+<td>9,5</td>
+</tr>
+<tr>
+<td>16. </td>
+<td>Kalevi Roos</td>
+<td>1</td>
+<td>12</td>
+</tr>
+<tr>
+<td>17. </td>
+<td>Tony Danielsbacka</td>
+<td>1</td>
+<td>10,5</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="kutsuturnaus"></a>
+### Kutsuturnaus
+
+<b style=""><b style="">11.1.1995<br/>
+Helsinki<br/>
+30+30 minuuttia</b></b>
+
+<p class="MsoNormal"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><b style=""><b style="">
+</b></b>
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Qing Yan An</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Raimo Lindroos</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Liu Da Lin</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Matias Roto</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+<b style=""><b style=""><br/>
+
+&nbsp; 
+<br/>
+</b>
+</b>
+</span></span></p>
+
+---
+
+<a id="1994"></a>
+## Vuoden 1994 tuloksia
+
+<a id="1993"></a>
+## Vuoden 1993 tuloksia
+
+<a id="chinese-chess-week-exmouth-quickplay"></a>
+### Chinese Chess Week Exmouth, Quickplay
+
+<b style=""><b style="">9/1993<br/>
+Exmouth</b></b>
+
+<span style="color: black; font-style: normal;">
+<p class="MsoNormal"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><b style=""><b style="">Tietokonetta
+vastaan k&auml;ytyj&auml; pelej&auml; ei ole otettu huomioon sijoitusta
+m&auml;&auml;ritelt&auml;ess&auml;.</b></b></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class="MsoNormal"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Patrick Donovan</span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>3/3</td>
+</tr>
+<tr>
+<td>2. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Hajo Siewert</span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>3/5</td>
+</tr>
+<tr>
+<td>3. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span =""="">Xu
+Jue Min</span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>2/3</td>
+</tr>
+<tr>
+<td>4. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">C.K. Lai</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>1/2</td>
+</tr>
+<tr>
+<td>5. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Mike Pennell</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>1/2</td>
+</tr>
+<tr>
+<td>6. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Jouni Tolonen</span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">1&frac12;/3</span></span></span></span></span></span></span></span></span></span></span></span></td>
+</tr>
+<tr>
+<td>7. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">Allan Brown</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>1/2</td>
+</tr>
+<tr>
+<td>8. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span =""="">Uwe
+Frischmuth</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>&frac12;/2</td>
+</tr>
+<tr>
+<td>9. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span =""="">Raimo
+Lindroos</span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>0/1</td>
+</tr>
+<tr>
+<td>10. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span =""="">Malcolm
+Horne</span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>0/1</td>
+</tr>
+<tr>
+<td>11. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span =""="">Veronesi
+Carlo</span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td>0/1</td>
+</tr>
+<tr>
+<td>12. </td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span =""="">Ian
+Richardsson</span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+<td><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;"><span style="color: black; font-style: normal;">0/1</span></span></span></span></span></span></span></span></span></span></span></span></td>
+</tr>
+</tbody>
+</table>
+<b style=""><b style=""><br/>
+
+&nbsp; 
+<br/>
+</b>
+</b>
+</span></span></p><hr/>
+
+<a id="chinese-chess-week-exmouth-main-tournament"></a>
+### Chinese Chess Week Exmouth, Main tournament
+
+<b style=""><b style="">9/1993<br/>
+Exmouth<br/>
+Tietokonetta vastaan k&auml;ytyj&auml; pelej&auml; ei ole otettu huomioon sijoitusta
+m&auml;&auml;ritelt&auml;ess&auml;.<br/>
+</b>
+</b>
+<p class="MsoNormal"><span =""="">
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Xu Jue Min</td>
+<td>5&frac12;/6</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Patrick Donovan</td>
+<td>4&frac12;/6</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Uwe Frischmuth</td>
+<td>3&frac12;/5</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Hajo Siewert</td>
+<td>3&frac12;/6</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Jouni Tolonen</td>
+<td>3/6</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>C.K. Lai</td>
+<td>2/5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Malcolm Horne</td>
+<td>3/5</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Raimo Lindroos</td>
+<td>2&frac12;/5</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Allan Brown</td>
+<td>3/6</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Veronesi Carlo</td>
+<td>2&frac12;/6</td>
+</tr>
+<tr>
+<td>12. </td>
+<td>Peter Wood</td>
+<td>2/6</td>
+</tr>
+<tr>
+<td>13. </td>
+<td>Mike Pennell</td>
+<td>0/5</td>
+</tr>
+<tr>
+<td>14. </td>
+<td>Ian Richardsson</td>
+<td>1/5</td>
+</tr>
+</tbody>
+</table>
+<b style=""><b style=""><b style=""><br/>
+
+&nbsp; 
+<br/>
+</b>
+</b></b>
+</span></p><hr/></span>
+
+<a id="jarvenpaan-i-avoin-xiangqi-turnaus"></a>
+### Järvenpään I avoin xiangqi-turnaus
+
+<b style=""><b style=""><b style="">8/1993<br/>
+J&auml;rvenp&auml;&auml;<br/>
+<br/>
+</b>
+</b></b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Wei Tang</td>
+<td>5/5</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Juhani Lehti</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Jouni Tolonen</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Klaus Jaukkeri</td>
+<td>3</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Raimo Lindroos</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Tony Danielsbacke</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>Jiang Qun Zhang</td>
+<td>1/2</td>
+</tr>
+<tr>
+<td>9. </td>
+<td>Wei Quo</td>
+<td>1/2</td>
+</tr>
+<tr>
+<td>10. </td>
+<td>Miike Forsstr&ouml;m</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<a id="i-avoimet-sm-kisat"></a>
+### I Avoimet SM-kisat
+
+<b style=""><b style=""><b style="">1/1993<br/>
+Lapinj&auml;rvi<br/>
+<br/>
+</b>
+</b></b>
+
+<table border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>Sija </td>
+<td>Nimi</td>
+<td>Pisteet</td>
+</tr>
+<tr>
+<td>1. </td>
+<td>Matias Roto</td>
+<td>5/5</td>
+</tr>
+<tr>
+<td>2. </td>
+<td>Seppo R&ouml;nkk&ouml;</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3. </td>
+<td>Jouni Tolonen</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4. </td>
+<td>Raimo Lindroos</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5. </td>
+<td>Klaus Jaukkeri</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6. </td>
+<td>Miike Forsstr&ouml;m</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>7. </td>
+<td>Tony Danielsbacke</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8. </td>
+<td>J&ouml;rgen Illman</td>
+<td>0.5</td>
+</tr>
+</tbody>
+</table>
+
+---
