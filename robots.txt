@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://kiisys-ry.github.io/xiangqi.fi/sitemap.xml
+Sitemap: https://kiisys-fi.github.io/xiangqi.fi/sitemap.xml
