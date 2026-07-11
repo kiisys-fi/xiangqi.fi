@@ -1,4 +1,4 @@
-base_url = "https://lucaferranti.com/xiangqi.fi/"
+base_url = "https://kiisys-ry.github.io/xiangqi.fi/"
 
 default_language = "en"
 compile_sass = true
