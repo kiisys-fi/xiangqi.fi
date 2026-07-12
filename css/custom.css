@@ -25,6 +25,28 @@
   background-color: rgba(0, 0, 0, 0.025);
 }
 
+.content table.champions-table {
+  display: table;
+  width: 100%;
+}
+
+.content td.gold_bkg {
+  background-color: gold;
+}
+
+.content td.silver_bkg {
+  background-color: silver;
+}
+
+.content td.bronze_bkg {
+  background-color: #cd7f32;
+  color: #fff;
+}
+
+.content td.grey_bkg {
+  background-color: rgb(165, 165, 165);
+}
+
 .content h4 {
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
