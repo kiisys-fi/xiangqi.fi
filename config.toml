@@ -33,7 +33,8 @@ links = [
   {title = 'Xiangqi Suomessa', url = 'xiangqi_suomessa'},
   {title = 'Tapahtumat', items = [
     {title = 'Kalenteri', url = 'kalenteri'},
-    {title = 'Tulokset', url = 'tulokset'}
+    {title = 'Tulokset', url = 'tulokset'},
+    {title = 'Suomen mestarit', url = 'suomen_mestarit'}
   ]},
   {title = 'Opi', items = [
     {title = 'Säännöt', url = 'pelisaannot'},
