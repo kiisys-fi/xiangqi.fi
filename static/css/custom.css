@@ -1,0 +1,31 @@
+.content table {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin: 1rem 0 1.5rem;
+  overflow-x: auto;
+  border-collapse: collapse;
+  border: 1px solid var(--bs-border-color, #dee2e6);
+}
+
+.content th,
+.content td {
+  padding: 0.35rem 0.55rem;
+  border: 1px solid var(--bs-border-color, #dee2e6);
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.content th {
+  font-weight: 600;
+  background-color: var(--bs-tertiary-bg, rgba(0, 0, 0, 0.04));
+}
+
+.content tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.025);
+}
+
+.content h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}

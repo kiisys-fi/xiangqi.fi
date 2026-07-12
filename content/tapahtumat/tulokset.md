@@ -10,6 +10,103 @@ path: 'tulokset'
 ---
 
 <a id="2025"></a>
+## Vuoden 2026 tuloksia
+
+### SM-kisat 2026
+
+Peliaika on 45 minuuttia per pelaaja ja 10 sekuntia per siirto.
+
+Kisapaikka: Hiomotie 10, Helsinki (Shakkiareena)
+
+| # | Nimi | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | Pisteet | Buchholz | Sonneborn‑Berger |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Manh Hiệp Ðào |  | 1,0 | 1,0 | 1,0 | 1,0 |  |  | 1,0 |  |  |  |  |  |  |  |  | 5,0 | 16,5 | 16,50 |
+| 2 | Jiang Ming | 0,0 |  |  | 1,0 | 1,0 |  |  |  | 1,0 |  |  |  |  |  | 1,0 |  | 4,0 | 14,5 | 9,50 |
+| 3 | Jouni Rämö | 0,0 |  |  |  |  | 1,0 |  |  |  | 1,0 | 1,0 |  | 1,0 |  |  |  | 4,0 | 13,5 | 8,50 |
+| 4 | Petri Haikola | 0,0 | 0,0 |  |  |  |  | 1,0 |  | 1,0 |  |  | 1,0 |  |  |  |  | 3,0 | 16,0 | 7,00 |
+| 5 | Mikko Törnqvist | 0,0 | 0,0 |  |  |  | 1,0 |  |  |  |  |  | 1,0 | 1,0 |  |  |  | 3,0 | 15,5 | 6,50 |
+| 6 | Gia Duy Duong |  |  | 0,0 |  | 0,0 |  | 1,0 | 1,0 |  |  |  |  |  | 1,0 |  |  | 3,0 | 14,0 | 7,00 |
+| 7 | Iiro Kumpulainen |  |  |  | 0,0 |  | 0,0 |  |  |  |  | 1,0 |  | 1,0 | 1,0 |  |  | 3,0 | 11,0 | 5,00 |
+| 8 | Minh Tuấn Nguyen | 0,0 |  |  |  |  | 0,0 |  |  |  | 1,0 | 1,0 |  |  | 0,5 |  |  | 2,5 | 13,5 | 4,75 |
+| 9 | Olavi Stenman |  | 0,0 |  | 0,0 |  |  |  |  |  | 1,0 | 0,0 |  |  | 1,0 |  |  | 2,0 | 12,5 | 3,50 |
+| 10 | Tien Tung Nguyen |  |  | 0,0 |  |  |  |  | 0,0 | 0,0 |  |  | 1,0 |  |  | 1,0 |  | 2,0 | 12,0 | 3,50 |
+| 11 | Trung Ta |  |  | 0,0 |  |  |  | 0,0 | 0,0 | 1,0 |  |  |  |  |  |  | 1,0 | 2,0 | 11,5 | 2,00 |
+| 12 | Van Minh Do |  |  |  | 0,0 | 0,0 |  |  |  |  | 0,0 |  |  |  |  | 1,0 | 1,0 | 2,0 | 9,5 | 1,50 |
+| 13 | Khoa Lai |  |  | 0,0 |  | 0,0 |  | 0,0 |  |  |  |  |  |  |  | 0,5 | 1,0 | 1,5 | 11,5 | 0,75 |
+| 14 | Quy Cuong Li |  |  |  |  |  | 0,0 | 0,0 | 0,5 | 0,0 |  |  |  |  |  |  | 1,0 | 1,5 | 10,5 | 1,25 |
+| 15 | Anh Nguyen |  | 0,0 |  |  |  |  |  |  |  | 0,0 |  | 0,0 | 0,5 |  |  | 1,0 | 1,5 | 9,5 | 0,75 |
+| 16 | Jukka Tuovinen |  |  |  |  |  |  |  |  |  |  | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |  | 0,0 | 8,5 | 0,00 |
+
+Tulokset kierroksittain:
+
+#### 1. kierros
+
+| Pelaaja | Pelaaja | Tulos |
+| --- | --- | --- |
+| Anh Nguyen | Jiang Ming | 0-1 |
+| Mikko Törnqvist | Manh Hiệp Ðào | 0-1 |
+| Van Minh Do | Petri Haikola | 0-1 |
+| Jouni Rämö | Khoa Lai | 1-0 |
+| Minh Tuấn Nguyen | Gia Duy Duong | 0-1 |
+| Olavi Stenman | Tien Tung Nguyen | 1-0 |
+| Quy Cuong Li | Iiro Kumpulainen | 0-1 |
+| Jukka Tuovinen | Trung Ta | 0-1 |
+
+#### 2. kierros
+
+| Pelaaja | Pelaaja | Tulos |
+| --- | --- | --- |
+| Jiang Ming | Olavi Stenman | 1-0 |
+| Petri Haikola | Manh Hiệp Ðào | 0-1 |
+| Trung Ta | Jouni Rämö | 0-1 |
+| Gia Duy Duong | Iiro Kumpulainen | 1-0 |
+| Van Minh Do | Mikko Törnqvist | 0-1 |
+| Quy Cuong Li | Minh Tuấn Nguyen | ½-½ |
+| Khoa Lai | Jukka Tuovinen | 1-0 |
+| Tien Tung Nguyen | Anh Nguyen | 1-0 |
+
+#### 3. kierros
+
+| Pelaaja | Pelaaja | Tulos |
+| --- | --- | --- |
+| Manh Hiệp Ðào | Jiang Ming | 1-0 |
+| Jouni Rämö | Gia Duy Duong | 1-0 |
+| Mikko Törnqvist | Khoa Lai | 1-0 |
+| Iiro Kumpulainen | Petri Haikola | 0-1 |
+| Olavi Stenman | Trung Ta | 0-1 |
+| Minh Tuấn Nguyen | Tien Tung Nguyen | 1-0 |
+| Jukka Tuovinen | Quy Cuong Li | 0-1 |
+| Anh Nguyen | Van Minh Do | 0-1 |
+
+#### 4. kierros
+
+| Pelaaja | Pelaaja | Tulos |
+| --- | --- | --- |
+| Manh Hiệp Ðào | Jouni Rämö | 1-0 |
+| Petri Haikola | Jiang Ming | 0-1 |
+| Gia Duy Duong | Mikko Törnqvist | 0-1 |
+| Trung Ta | Minh Tuấn Nguyen | 0-1 |
+| Quy Cuong Li | Olavi Stenman | 0-1 |
+| Tien Tung Nguyen | Van Minh Do | 1-0 |
+| Khoa Lai | Iiro Kumpulainen | 0-1 |
+| Anh Nguyen | Jukka Tuovinen | 1-0 |
+
+#### 5. kierros
+
+| Pelaaja | Pelaaja | Tulos |
+| --- | --- | --- |
+| Minh Tuấn Nguyen | Manh Hiệp Ðào | 0-1 |
+| Jiang Ming | Mikko Törnqvist | 1-0 |
+| Jouni Rämö | Tien Tung Nguyen | 1-0 |
+| Olavi Stenman | Petri Haikola | 0-1 |
+| Iiro Kumpulainen | Trung Ta | 1-0 |
+| Quy Cuong Li | Gia Duy Duong | 0-1 |
+| Van Minh Do | Jukka Tuovinen | 1-0 |
+| Khoa Lai | Anh Nguyen | ½-½ |
+
+
+
+<a id="2025"></a>
 ## Vuoden 2025 tuloksia
 
 <a id="tampereen-turnaus-2025"></a>
