@@ -13,6 +13,34 @@ Tässä on lyhyt kuvaus pelisäännöistä suomeksi. Viralliset WXF:n säännöt
 
 Alkuasema on seuraavassa kuvassa. Pelilaudan jakaa kahteen puoliskoon viidennen ja kuudennen rivin välissä kulkeva joki, jonka vain sotilaat, hevoset, tykit ja vaunut pystyvät ylittämään. Molempien pelaajien tärkein nappula, kenraali, sijaitsee koko pelin ajan palatsissa. Punaisen palatsi on pisteiden d1-d3-f3-f1 rajaama alue.
 
+Seuraavalla interaktiivisella laudalla voit harjoitella nappuloiden liikuttamista
+
+<link rel="stylesheet" href="https://cdn.elephantchess.io/dist/0.1.1/board.min.css">
+<script defer src="https://cdn.elephantchess.io/dist/0.1.1/xiangqi.min.js"></script>
+<script defer src="https://cdn.elephantchess.io/dist/0.1.1/board-gui.min.js"></script>
+
+<style>
+  .xiangqi-board {
+    max-width: 640px;
+    margin: 1.5rem auto;
+  }
+
+  .xiangqi-board .board-container {
+    box-sizing: content-box;
+  }
+</style>
+
+<div class="xiangqi-board">
+  <div id="board-container" class="board-container" role="region" aria-label="Kiinalaisen shakin alkuasema"></div>
+</div>
+
+<script>
+  window.addEventListener('load', () => {
+    const boardGui = new BoardGui({ elementId: 'board-container' });
+    boardGui.loadFen(DEFAULT_START_FEN);
+  });
+</script>
+
 ### Kuinka nappulat liikkuvat?
 
 #### Kenrali

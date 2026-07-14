@@ -1,4 +1,4 @@
-base_url = "https://kiisys-fi.github.io/xiangqi.fi/"
+base_url = "https://xiangqi.fi/"
 
 default_language = "en"
 compile_sass = true
@@ -39,8 +39,6 @@ links = [
   {title = 'Opi', items = [
     {title = 'Säännöt', url = 'pelisaannot'},
     {title = 'Notaatio', url = 'notaatio'},
-    {title = 'Avaukset', url = 'avaukset'},
-    {title = 'Kirjallisuus', url = 'kirjallisuus'},
     {title = 'Resurssit', url = 'resurssit'}
   ]},
   {title = 'Vahvuusluvut', url = 'ratings'},
