@@ -1,51 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/</loc>
+        <loc>https://xiangqi.fi/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/asiakirjat/</loc>
+        <loc>https://xiangqi.fi/asiakirjat/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/authors/</loc>
+        <loc>https://xiangqi.fi/authors/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/hallitus/</loc>
+        <loc>https://xiangqi.fi/hallitus/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/kalenteri/</loc>
+        <loc>https://xiangqi.fi/kalenteri/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/news/mmkisat2026/</loc>
+        <loc>https://xiangqi.fi/news/mmkisat2026/</loc>
         <lastmod>2026-06-06</lastmod>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/news/smkisat2026/</loc>
+        <loc>https://xiangqi.fi/news/smkisat2026/</loc>
         <lastmod>2026-07-06</lastmod>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/notaatio/</loc>
+        <loc>https://xiangqi.fi/notaatio/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/pelisaannot/</loc>
+        <loc>https://xiangqi.fi/pelisaannot/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/ratings/</loc>
+        <loc>https://xiangqi.fi/ratings/</loc>
         <lastmod>2025-07-12</lastmod>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/saannot/</loc>
+        <loc>https://xiangqi.fi/resurssit/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/suomen_mestarit/</loc>
+        <loc>https://xiangqi.fi/saannot/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/tags/</loc>
+        <loc>https://xiangqi.fi/suomen_mestarit/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/tulokset/</loc>
+        <loc>https://xiangqi.fi/tags/</loc>
     </url>
     <url>
-        <loc>https://kiisys-fi.github.io/xiangqi.fi/xiangqi_suomessa/</loc>
+        <loc>https://xiangqi.fi/tulokset/</loc>
+    </url>
+    <url>
+        <loc>https://xiangqi.fi/xiangqi_suomessa/</loc>
     </url>
 </urlset>
