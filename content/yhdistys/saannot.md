@@ -5,6 +5,10 @@ path: saannot
 
 _Säännnöt hyväksytty perustavassa kokouksessa 17.9.92_
 
+## Yhdistyksen perustiedot
+
+*Kiinalaisen shakin ystävät Suomessa ry* on voittoa tavoittelematon rekisteröity yhdistys (Y-tunnus: 2836262-8) jonka tarkoitus on herättää ja ylläpitää kiinalaisen shakin harrastusta Suomessa. Yhdistyksen lisätiedot löytyvät [patentti- ja reksiterivirastosta](https://yhdistysrekisteri.prh.fi/basicinformation?businessId=2836262-8&timeZone=Europe/Helsinki#fromAdvancedSearch).
+
 ## Kiinalaisen shakin  ystävät  Suomessa ry.:n  säännöt
 
 ### 1§	Nimi ja Kotipaikka
