@@ -17,6 +17,7 @@ build_search_index = true
 [extra]
 short_title = "Kiisys ry"
 banner = "img/banner.png"
+social_image = "img/kiisys_sinetti.png"
 date_format = '%d/%m/%Y'
 
 theme = 'simplex'

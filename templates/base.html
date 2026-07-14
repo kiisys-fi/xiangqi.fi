@@ -6,6 +6,38 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page %}
+      {% set social_title = page.title %}
+      {% set social_url = page.permalink %}
+      {% set social_description = page.description | default(value=config.description) %}
+    {% elif section %}
+      {% set social_title = section.title | default(value=config.title) %}
+      {% set social_url = section.permalink %}
+      {% set social_description = section.description | default(value=config.description) %}
+    {% else %}
+      {% set social_title = config.title %}
+      {% set social_url = config.base_url %}
+      {% set social_description = config.description %}
+    {% endif %}
+    {% set social_image = get_url(path=config.extra.social_image) %}
+    <meta name="description" content="{{social_description}}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="fi_FI">
+    <meta property="og:site_name" content="{{config.title}}">
+    <meta property="og:title" content="{{social_title}}">
+    <meta property="og:description" content="{{social_description}}">
+    <meta property="og:url" content="{{social_url}}">
+    <meta property="og:image" content="{{social_image}}">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="283">
+    <meta property="og:image:height" content="235">
+    <meta property="og:image:alt" content="Kiinalaisen Shakin Ystävät Suomessa ry:n sinetti">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{social_title}}">
+    <meta name="twitter:description" content="{{social_description}}">
+    <meta name="twitter:image" content="{{social_image}}">
+    <meta name="twitter:image:alt" content="Kiinalaisen Shakin Ystävät Suomessa ry:n sinetti">
+    <link rel="icon" type="image/png" href="{{social_image}}">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     {% if config.extra.themes %}
       {% for theme in config.extra.data_themes %}
