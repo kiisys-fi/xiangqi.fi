@@ -1,0 +1,22 @@
+name: Papukaijatykki
+section: Keskustykkiavaukset
+notation: uci
+next:
+  - uci: h2e2
+    next:
+      - uci: h9g7
+        next:
+          - uci: h0g2
+            next:
+              - uci: i9i8
+                next:
+                  - uci: i0h0
+                    next:
+                      - uci: h7h8
+                        next:
+                          - uci: b0a2
+                            next:
+                              - uci: c9e7
+                          - uci: b0c2
+                            next:
+                              - uci: c6c5

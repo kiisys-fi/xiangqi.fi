@@ -1,0 +1,50 @@
+name: Elefanttiavaus
+section: Muut avaukset
+notation: uci
+next:
+  - uci: g0e2
+    next:
+      - uci: g6g5
+        next:
+          - uci: b0a2
+          - uci: c3c4
+      - uci: h7e7
+        next:
+          - uci: h0g2
+            next:
+              - uci: h9g7
+                next:
+                  - uci: i0h0
+                    next:
+                      - uci: i9h9
+                        next:
+                          - uci: b0c2
+                            next:
+                              - uci: b9a7
+                              - uci: h9h3
+                              - uci: g6g5
+      - uci: h7d7
+        next:
+          - uci: h0g2
+            next:
+              - uci: h9g7
+                next:
+                  - uci: i0h0
+                    next:
+                      - uci: b9a7
+                      - uci: g6g5
+      - uci: b7d7
+        next:
+          - uci: a0a1
+            next:
+              - uci: b9c7
+                next:
+                  - uci: a1d1
+                    next:
+                      - uci: h9g7
+                        next:
+                          - uci: b0a2
+                            next:
+                              - uci: a9b9
+                                next:
+                                  - uci: a3a4

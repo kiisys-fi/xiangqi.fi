@@ -1,0 +1,155 @@
+name: Samansuuntainen tykki
+section: Keskustykkiavaukset
+notation: uci
+next:
+  - uci: h2e2
+    next:
+      - uci: h7e7
+        next:
+          - uci: h0g2
+            next:
+              - uci: h9g7
+                next:
+                  - uci: g3g4
+                    next:
+                      - uci: i9h9
+                      - uci: i9i8
+                  - uci: i0i1
+                    next:
+                      - uci: i9h9
+                        next:
+                          - uci: i1d1
+                            next:
+                              - uci: h9h5
+                                next:
+                                  - uci: b0c2
+                                    next:
+                                      - uci: b9c7
+                                      - uci: f9e8
+                  - uci: i0h0
+                    next:
+                      - uci: g6g5
+                        next:
+                          - uci: b0c2
+                            next:
+                              - uci: b9c7
+                                next:
+                                  - uci: c3c4
+                                    next:
+                                      - uci: a9a8
+                          - uci: c3c4
+                            next:
+                              - uci: b7b3
+                                next:
+                                  - uci: b0c2
+                                    next:
+                                      - uci: b9c7
+                                      - uci: i9i8
+                              - uci: i9i8
+                                next:
+                                  - uci: b0c2
+                                    next:
+                                      - uci: i8d8
+                                        next:
+                                          - uci: h0h4
+                                            next:
+                                              - uci: b9c7
+                                                next:
+                                                  - uci: g3g4
+                      - uci: i9i8
+                        next:
+                          - uci: h0h6
+                            next:
+                              - uci: c6c5
+                                next:
+                                  - uci: h6g6
+                                    next:
+                                      - uci: b9c7
+                                  - uci: b2c2
+                                    next:
+                                      - uci: b9c7
+                                        next:
+                                          - uci: c3c4
+                                            next:
+                                              - uci: c7d5
+                          - uci: b2d2
+                            next:
+                              - uci: b9c7
+                                next:
+                                  - uci: b0c2
+                                    next:
+                                      - uci: a9b9
+                                        next:
+                                          - uci: a0b0
+                                            next:
+                                              - uci: b7b3
+                                                next:
+                                                  - uci: d2d7
+                                                    next:
+                                                      - uci: i8g8
+                                                        next:
+                                                          - uci: h0h6
+                                                            next:
+                                                              - uci: g7i8
+                              - uci: i8d8
+                                next:
+                                  - uci: f0e1
+                                    next:
+                                      - uci: b9a7
+                                        next:
+                                          - uci: b0c2
+                                            next:
+                                              - uci: a9b9
+                                                next:
+                                                  - uci: a0b0
+                                                    next:
+                                                      - uci: d8d3
+                                                        next:
+                                                          - uci: h0h6
+                                                            next:
+                                                              - uci: e7c7
+                          - uci: b0c2
+                            next:
+                              - uci: b9c7
+                                next:
+                                  - uci: c3c4
+                                    next:
+                                      - uci: a9a8
+                                        next:
+                                          - uci: g3g4
+                                          - uci: b2b3
+                              - uci: i8d8
+                                next:
+                                  - uci: c3c4
+                                    next:
+                                      - uci: b9a7
+                                      - uci: b9c7
+                                      - uci: d8d3
+                                  - uci: g3g4
+                                    next:
+                                      - uci: d8d4
+                                        next:
+                                          - uci: e2f2
+                                          - uci: g0i2
+                                      - uci: c6c5
+                                        next:
+                                          - uci: h0h5
+                                            next:
+                                              - uci: c9a7
+                                                next:
+                                                  - uci: b2a2
+                                      - uci: b9a7
+                                        next:
+                                          - uci: g2f4
+                                      - uci: b9c7
+                                        name: Double head snake
+                                        next:
+                                          - uci: c3c4
+                                            next:
+                                              - uci: a9a8
+                                                next:
+                                                  - uci: d0e1
+                                                    next:
+                                                      - uci: d8d3
+                                                        next:
+                                                          - uci: c0a2

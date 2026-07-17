@@ -1,0 +1,63 @@
+name: Sotilasavaus
+section: Muut avaukset
+notation: uci
+next:
+  - uci: c3c4
+    next:
+      - uci: g6g5
+        next:
+          - uci: h2g2
+            next:
+              - uci: h7e7
+          - uci: b0c2
+            next:
+              - uci: h9g7
+                next:
+                  - uci: a0a1
+                  - uci: b2a2
+      - uci: h9g7
+        next:
+          - uci: g3g4
+            next:
+              - uci: b7c7
+              - uci: h7i7
+              - uci: i9i8
+      - uci: b7c7
+        next:
+          - uci: h2e2
+            next:
+              - uci: c9e7
+                next:
+                  - uci: d0e1
+                    next:
+                      - uci: g6g5
+                      - uci: h9g7
+                  - uci: b0a2
+                    next:
+                      - uci: i9i8
+                      - uci: h9g7
+                  - uci: h0g2
+                    next:
+                      - uci: i9i8
+                        next:
+                          - uci: i0h0
+                            next:
+                              - uci: i8b8
+                                next:
+                                  - uci: b0c2
+                                    next:
+                                      - uci: b9d8
+                                        next:
+                                          - uci: b2a2
+                                            next:
+                                              - uci: h9i7
+                                                next:
+                                                  - uci: c2d4
+                      - uci: c6c5
+                        name: Gambiitti muunnelma
+                        next:
+                          - uci: i0h0
+                            next:
+                              - uci: c5c4
+                                next:
+                                  - uci: b0a2

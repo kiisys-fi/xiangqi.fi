@@ -1,0 +1,21 @@
+name: Kolmen askeleen tiikeri (Oikea)
+section: Keskustykkiavaukset
+notation: uci
+next:
+  - uci: h2e2
+    next:
+      - uci: b9c7
+        next:
+          - uci: h0g2
+            next:
+              - uci: b7a7
+                next:
+                  - uci: b0c2
+                    next:
+                      - uci: a9b9
+                        next:
+                          - uci: a0b0
+                            next:
+                              - uci: b9b3
+                                next:
+                                  - uci: b2a2

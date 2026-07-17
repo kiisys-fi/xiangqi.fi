@@ -40,7 +40,8 @@ links = [
   {title = 'Opi', items = [
     {title = 'Säännöt', url = 'pelisaannot'},
     {title = 'Notaatio', url = 'notaatio'},
-    {title = 'Resurssit', url = 'resurssit'}
+    {title = 'Resurssit', url = 'resurssit'},
+    {title = 'Avauksia', url = 'avaukset'}
   ]},
   {title = 'Vahvuusluvut', url = 'ratings'},
   {title = 'Yhdistys', items = [

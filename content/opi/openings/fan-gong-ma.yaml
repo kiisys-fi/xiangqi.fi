@@ -1,0 +1,67 @@
+name: Fan Gong Ma
+section: Keskustykkiavaukset
+notation: uci
+next:
+  - uci: h2e2
+    next:
+      - uci: b9c7
+        next:
+          - uci: h0g2
+            next:
+              - uci: h7f7
+                next:
+                  - uci: i0i1
+                    next:
+                      - uci: h9g7
+                        next:
+                          - uci: i1f1
+                            next:
+                              - uci: i9h9
+                                next:
+                                  - uci: b0c2
+                                    next:
+                                      - uci: d9e8
+                                        next:
+                                          - uci: e3e4
+                                          - uci: a0a1
+                  - uci: i0h0
+                    next:
+                      - uci: h9g7
+                        next:
+                          - uci: b2d2
+                            next:
+                              - uci: a9b9
+                                next:
+                                  - uci: b0c2
+                                    next:
+                                      - uci: b7a7
+                                        next:
+                                          - uci: c3c4
+                                            next:
+                                              - uci: g6g5
+                                                next:
+                                                  - uci: c2d4
+                                                    next:
+                                                      - uci: f9e8
+                          - uci: c3c4
+                            next:
+                              - uci: g6g5
+                                next:
+                                  - uci: h0h6
+                                    next:
+                                      - uci: i9i7
+                                      - uci: d9e8
+                          - uci: g3g4
+                            next:
+                              - uci: c6c5
+                                next:
+                                  - uci: b0a2
+                                    next:
+                                      - uci: c9e7
+                                        next:
+                                          - uci: b2d2
+                                          - uci: b2c2
+                                      - uci: g9e7
+                                        next:
+                                          - uci: b2d2
+                                          - uci: b2c2

@@ -1,0 +1,26 @@
+name: Palatsin kulmalle siirtyvä tykki
+section: Muut avaukset
+notation: uci
+next:
+  - uci: h2f2
+    next:
+      - uci: b7e7
+        next:
+          - uci: b0c2
+            next:
+              - uci: b9c7
+                next:
+                  - uci: h0g2
+                    next:
+                      - uci: h9i7
+                        next:
+                          - uci: i0h0
+                            next:
+                              - uci: i9h9
+                                next:
+                                  - uci: a0b0
+                                    next:
+                                      - uci: a9b9
+                                        next:
+                                          - uci: f2f7
+                                          - uci: b2b6

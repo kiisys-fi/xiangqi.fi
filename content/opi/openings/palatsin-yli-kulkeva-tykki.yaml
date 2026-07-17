@@ -1,0 +1,23 @@
+name: Palatsin yli kulkeva tykki
+section: Muut avaukset
+notation: uci
+next:
+  - uci: h2d2
+    next:
+      - uci: h7e7
+        next:
+          - uci: h0g2
+            next:
+              - uci: h9g7
+                next:
+                  - uci: i0h0
+                    next:
+                      - uci: i9i8
+                        next:
+                          - uci: h0h6
+                            next:
+                              - uci: i8d8
+                                next:
+                                  - uci: f0e1
+                                    next:
+                                      - uci: b9c7

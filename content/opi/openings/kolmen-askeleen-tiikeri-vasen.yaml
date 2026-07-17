@@ -1,0 +1,35 @@
+name: Kolmen askeleen tiikeri (Vasen)
+section: Keskustykkiavaukset
+notation: uci
+next:
+  - uci: h2e2
+    next:
+      - uci: h9g7
+        next:
+          - uci: h0g2
+            next:
+              - uci: i9h9
+                next:
+                  - uci: c3c4
+                    next:
+                      - uci: h7i7
+                        next:
+                          - uci: b0c2
+                            next:
+                              - uci: b7e7
+                                next:
+                                  - uci: a0b0
+                                    next:
+                                      - uci: b9c7
+                                        next:
+                                          - uci: g3g4
+                                          - uci: i0i1
+                              - uci: g6g5
+                                next:
+                                  - uci: i0i1
+                                  - uci: b2b4
+                                  - uci: c2d4
+                              - uci: h9h4
+                                next:
+                                  - uci: e3e4
+                                  - uci: c0a2

@@ -1,0 +1,54 @@
+{% set opening = load_data(path=path) %}
+{% set instance_id = "opening-browser-" ~ nth %}
+{% if nth == 1 %}
+<link rel="stylesheet" href="https://cdn.elephantchess.io/dist/0.1.1/board.min.css">
+<link rel="stylesheet" href="{{ get_url(path="css/opening-browser.css") }}">
+<script defer src="https://cdn.elephantchess.io/dist/0.1.1/xiangqi.min.js"></script>
+<script defer src="https://cdn.elephantchess.io/dist/0.1.1/board-gui.min.js"></script>
+<script defer src="{{ get_url(path="js/opening-browser.js") }}"></script>
+{% endif %}
+<div id="{{ instance_id }}" class="opening-browser" data-opening-browser aria-busy="true">
+  <div class="opening-browser__board-column">
+    <div
+      id="{{ instance_id }}-board"
+      class="board-container opening-browser__board"
+      data-role="board"
+      role="region"
+      aria-label="Kiinalaisen shakin avauslauta"
+      tabindex="0"
+    ></div>
+    <div class="opening-browser__navigation" aria-label="Pelin selaus">
+      <button
+        class="btn btn-secondary"
+        data-action="previous"
+        type="button"
+        aria-label="Edellinen siirto"
+        title="Edellinen siirto"
+        disabled
+      >
+        <i class="fas fa-arrow-left" aria-hidden="true"></i>
+      </button>
+      <span class="opening-browser__status" data-role="status" aria-live="polite"></span>
+      <button
+        class="btn btn-secondary"
+        data-action="next"
+        type="button"
+        aria-label="Seuraava siirto"
+        title="Seuraava siirto"
+        disabled
+      >
+        <i class="fas fa-arrow-right" aria-hidden="true"></i>
+      </button>
+    </div>
+    <small class="opening-browser__credit">powered by <a href="https://elephantchess.io">elephantchess.io</a></small>
+  </div>
+  <div class="opening-browser__moves" aria-label="Siirrot">
+    <div class="opening-browser__moves-header">
+      <p class="opening-browser__moves-title"><strong>Siirrot</strong></p>
+      <span class="opening-browser__line-summary" data-role="line-summary"></span>
+    </div>
+    <div class="opening-browser__move-list" data-role="moves"></div>
+  </div>
+  <p class="opening-browser__error" data-role="error" role="alert"></p>
+  <script type="application/json" data-role="definition">{{ opening | json_encode() | safe }}</script>
+</div>

@@ -1,0 +1,21 @@
+name: Yuan Yang tykit
+section: Keskustykkiavaukset
+notation: uci
+next:
+  - uci: h2e2
+    next:
+      - uci: b9c7
+        next:
+          - uci: h0g2
+            next:
+              - uci: g6g5
+                next:
+                  - uci: i0h0
+                    next:
+                      - uci: i9i7
+                        next:
+                          - uci: b0c2
+                            next:
+                              - uci: b7b8
+                                next:
+                                  - uci: h0h6

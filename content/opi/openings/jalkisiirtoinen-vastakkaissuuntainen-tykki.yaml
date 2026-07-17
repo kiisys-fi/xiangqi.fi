@@ -1,0 +1,75 @@
+name: Jälkisiirtoinen vastakkaissuuntainen Tykki
+section: Keskustykkiavaukset
+notation: uci
+next:
+  - uci: h2e2
+    next:
+      - uci: h9g7
+        next:
+          - uci: h0g2
+            next:
+              - uci: i9h9
+                next:
+                  - uci: i0h0
+                    next:
+                      - uci: b7e7
+                        next:
+                          - uci: h0h6
+                          - uci: b0c2
+                      - uci: h7h3
+                        name: Moderni muunnelma
+                        next:
+                          - uci: g3g4
+                            next:
+                              - uci: b7e7
+                                next:
+                                  - uci: b2b7
+                                    next:
+                                      - uci: b9c7
+                                  - uci: b0c2
+                                    next:
+                                      - uci: a9a8
+                                        next:
+                                          - uci: a0b0
+                                            next:
+                                              - uci: a8h8
+                                                next:
+                                                  - uci: g2f4
+                                                  - uci: c3c4
+                                      - uci: b9c7
+                                        next:
+                                          - uci: c3c4
+                                            next:
+                                              - uci: a9b9
+                                                next:
+                                                  - uci: a0b0
+                                                    next:
+                                                      - uci: b9b3
+                                                        next:
+                                                          - uci: c2d4
+                                                          - uci: b2a2
+                                                      - uci: b9b5
+                                                        next:
+                                                          - uci: b2a2
+                                                            next:
+                                                              - uci: b5h5
+                                                                next:
+                                                                  - uci: b0b6
+                                                                    next:
+                                                                      - uci: g6g5
+                                                                      - uci: h3g3
+                                                                      - uci: e7f7
+                                          - uci: a0b0
+                                            next:
+                                              - uci: c6c5
+                                                next:
+                                                  - uci: g2f4
+                                                    next:
+                                                      - uci: h3h2
+                                                      - uci: a9b9
+                                                      - uci: a9a8
+                                                  - uci: b2b6
+                                                    next:
+                                                      - uci: h3g3
+                                                        next:
+                                                          - uci: b6c6

@@ -1,0 +1,12 @@
+next:
+  - uci: h2e2
+    next:
+      - uci: h9g7
+        next:
+          - uci: b2b6
+          - uci: h0g2
+            name: Hevosmuunnelma
+      - uci: b9c7
+        name: Vaihtoehtoinen puolustus
+        next:
+          - uci: b2b6

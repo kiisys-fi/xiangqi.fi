@@ -1,0 +1,12 @@
+next:
+  - uci: b2e2
+    next:
+      - uci: b9c7
+        next:
+          - uci: h0g2
+          - uci: h2h6
+            name: Tykkimuunnelma
+      - uci: h9g7
+        name: Vaihtoehtoinen puolustus
+        next:
+          - uci: h0g2
