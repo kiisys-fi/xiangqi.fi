@@ -3,7 +3,7 @@ base_url = "https://xiangqi.fi/"
 default_language = "en"
 compile_sass = true
 title = "Kiinalaisen Shakin Ystävät Suomessa"
-description = "Suomalainen xiangqi yhydistys"
+description = "Suomalainen xiangqi yhdistys"
 generate_feeds = false
 output_dir = "docs"
 
