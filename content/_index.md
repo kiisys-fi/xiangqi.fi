@@ -14,8 +14,6 @@ extra:
 
 **Tervetuloa kiinalaisen shakin ystävien kotisivulle**
 
-**HUOM!** Yhdistyksen nettisivuja uusitaan ja tästä tullee uusi version. Toistaiseksi se on vain prototyyppi ja yhdistyksen virallinen nettisivu on edelleen <https://shakki.info>
-
 Kiinalainen shakki on vanha kahden hengen lautapeli. Pelin alkuperästä ei ole varmuutta, mutta sen oletetaan kehittyneen samoista alkulähteistä kuin länsimaisen shakin.
 
 Kiinalaisen shakin arvioidaan olevan maailman pelatuin lautapeli, jolla on eri lähteiden mukaan 100–500 miljoonaa harrastajaa. Euroopassa aktiivista xiangqi-toimintaa on mm. Suomessa, Saksassa, Italiassa, Ranskassa, Englannissa, Hollannissa, Venäjällä ja Valko-Venäjällä.
